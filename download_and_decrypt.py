@@ -131,7 +131,7 @@ def dict_to_csv(
         return
     class_content = class_contents[table_name]
     fo = open(csv_output_path, "w")
-    fo.write(",".join(class_content) + "\n")
+    fo.write(",".join(class_content) + "\r\n")
     for key, content in unpacked_dict.items():
         values: list[str] = []
         for field_name, value in content.items():
@@ -139,10 +139,10 @@ def dict_to_csv(
             value_str = value_str.replace("\r\n", "<ret>")
             value_str = value_str.replace("\n", "<ret>")
             value_str = value_str.replace(",", "|")
-            if re.search(r"^$\s*", value_str):
+            if re.search(r"^\s*$", value_str):
                 value_str = "(empty)"
             values.append(value_str)
-        fo.write(",".join(values) + "\n")
+        fo.write(",".join(values) + "\r\n")
     fo.close()
 
 
