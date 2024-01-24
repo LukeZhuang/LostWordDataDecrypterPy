@@ -1,0 +1,122 @@
+id,characteristic_name,characteristic_description,characteristic_type,characteristic_effect_type,characteristic_effect_subtype,characteristic_rate,characteristic_effect_value,characteristic_icon_filename
+1001011,妖怪退治的专家,被攻击时，受到来自<color=#CCAA00>妖怪</color>的伤害<color=#0066FF>下降</color>30% [发生率100%],3,14,5,100,30,characteristic_icon_56
+1002011,不服输,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率40%],4,1,1,40,1,characteristic_icon_1
+1002012,毅力,体力在25%以下遭到攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>100% [发生率35%],3,11,5,35,100,characteristic_icon_39
+1002013,魔法道具工匠,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.50  [发生率30%],2,5,0,30,10,characteristic_icon_31
+1002211,不服输,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率60%],4,1,1,60,1,characteristic_icon_1
+1002213,魔法道具工匠,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.50  [发生率45%],2,5,0,45,10,characteristic_icon_31
+1003011,威严,战斗开始时，敌方单体<color=#CCAA00>阴防</color><color=#0066FF>下降</color>1等级 (3回合) [发生率50%],1,2,4,50,1,characteristic_icon_16
+1003012,高贵血统,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率70%],4,1,3,70,1,characteristic_icon_3
+1003013,吸血鬼体质,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.75  [发生率30%],2,5,0,30,15,characteristic_icon_31
+1004011,破坏冲动,战斗开始时，敌方单体<color=#CCAA00>会心防御</color><color=#0066FF>下降</color>1等级 (3回合) [发生率70%],1,2,9,70,1,characteristic_icon_21
+1004012,恶魔之妹,被攻击后，自身<color=#CCAA00>会心攻击</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,8,50,1,characteristic_icon_8
+1004013,魔法少女体质,被攻击后，自身<color=#CCAA00>会心命中</color><color=#FF6600>上升</color>1等级 (3回合) [发生率40%],4,1,10,40,1,characteristic_icon_10
+1005011,女仆学习术,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率55%],4,1,5,55,1,characteristic_icon_5
+1005012,工作准备,战斗开始时，敌方单体<color=#CCAA00>命中</color><color=#0066FF>下降</color>1等级 (3回合) [发生率50%],1,2,6,50,1,characteristic_icon_18
+1005013,快速休息,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.35  [发生率50%],2,5,0,50,7,characteristic_icon_31
+1005211,女仆学习术,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率65%],4,1,5,65,1,characteristic_icon_5
+1005311,女仆学习术,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,5,75,1,characteristic_icon_5
+1006011,反应魔法[耐魔],被攻击后，自身<color=#CCAA00>阴防</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,4,50,1,characteristic_icon_4
+1006012,反应魔法[抗魔],被攻击时，受到来自<color=#CCAA00>魔法使</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,3,100,35,characteristic_icon_56
+1006013,永续魔法[解咒],回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率60%],2,10,0,60,1,characteristic_icon_33
+1008011,大图书馆的管理员,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,5,75,1,characteristic_icon_5
+1008012,魔界之风,战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>黑暗</color>」  (3回合) [发生率75%],1,6,5,75,1,characteristic_icon_29
+1008013,魔界闪电,战斗开始时，敌方单体<color=#CCAA00>阴防</color><color=#0066FF>下降</color>1等级 (3回合) [发生率75%],1,2,4,75,1,characteristic_icon_16
+1010011,亡灵体质,被攻击时，受到来自<color=#CCAA00>体术弹</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,12,3,100,35,characteristic_icon_40
+1010012,冥界管理员,被攻击时，受到来自<color=#CCAA00>灵体类型</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,8,100,35,characteristic_icon_56
+1010013,生与死的境界,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,1,50,1,characteristic_icon_1
+1011011,剑士的直觉,被攻击时，受到来自<color=#CCAA00>斩击</color>的伤害<color=#0066FF>下降</color>25% [发生率100%],3,12,4,100,25,characteristic_icon_40
+1011012,白楼剑之气,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率40%],4,1,1,40,1,characteristic_icon_1
+1011013,楼观剑之气,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率40%],4,1,3,40,1,characteristic_icon_3
+1011211,剑士的直觉,被攻击时，收到来自<color=#CCAA00>斩击</color>的伤害<color=#0066FF>下降</color>30% [发生率100%],3,12,4,100,30,characteristic_icon_40
+1012011,暖气屏障,被攻击时，受到来自<color=#CCAA00>冷气</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,83,100,35,characteristic_icon_56
+1012012,情绪解放,回合开始时，自身<color=#CCAA00>结界异常</color><color=#00CC66>回复</color>1枚  [发生率80%],2,9,0,80,1,characteristic_icon_34
+1012013,溢出的生命,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>15% [发生率40%],2,3,0,40,15,characteristic_icon_30
+1013011,九字护身法,被攻击时，受到来自<color=#CCAA00>妖怪</color>的伤害<color=#0066FF>下降</color>30% [发生率100%],3,14,5,100,30,characteristic_icon_56
+1013012,贤者的式神,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,1,75,1,characteristic_icon_1
+1013013,妖狐直觉,被攻击后，自身<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,6,50,1,characteristic_icon_6
+1014011,怪猫引擎,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率80%],4,1,5,80,1,characteristic_icon_5
+1014012,高速泼沙,战斗开始时，敌方单体<color=#CCAA00>速度</color><color=#0066FF>下降</color>1等级 (3回合) [发生率80%],1,2,5,80,1,characteristic_icon_17
+1014013,拾取[P]道具,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.75  [发生率30%],2,5,0,30,15,characteristic_icon_31
+1015011,感应干扰,战斗开始时，敌方单体<color=#CCAA00>回避</color><color=#0066FF>下降</color>1等级 (3回合) [发生率50%],1,2,7,50,1,characteristic_icon_19
+1015012,认知迷彩,被攻击后，自身<color=#CCAA00>仇恨值</color><color=#0066FF>下降</color>1等级 (3回合) [发生率80%],4,2,12,80,1,characteristic_icon_24
+1015013,知觉干扰,战斗开始时，敌方单体<color=#CCAA00>命中</color><color=#0066FF>下降</color>1等级 (3回合) [发生率50%],1,2,6,50,1,characteristic_icon_18
+1018011,万能药师,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率60%],2,10,0,60,1,characteristic_icon_33
+1018211,万能药师,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率70%],2,10,0,70,1,characteristic_icon_33
+1018311,万能药师,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率80%],2,10,0,80,1,characteristic_icon_33
+1018411,万能药师,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率90%],2,10,0,90,1,characteristic_icon_33
+1018511,万能药师,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率100%],2,10,0,100,1,characteristic_icon_33
+1019011,月之常备药,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>30% [发生率30%],2,3,0,30,30,characteristic_icon_30
+1019012,直观的回廊,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.25  [发生率70%],2,5,0,70,5,characteristic_icon_31
+1019013,伦理的回廊,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率90%],4,1,1,90,1,characteristic_icon_1
+1020011,复仇者,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,1,75,1,characteristic_icon_1
+1020012,无意的火势蔓延,战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>燃烧</color>」  (3回合) [发生率75%],1,6,1,75,1,characteristic_icon_25
+1020013,不死鸟体质,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>15% [发生率40%],2,3,0,40,15,characteristic_icon_30
+1020213,不死鸟体质,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>15% [发生率60%],2,3,0,60,15,characteristic_icon_30
+1020313,不死鸟体质,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>15% [发生率80%],2,3,0,80,15,characteristic_icon_30
+1020413,不死鸟体质,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>15% [发生率100%],2,3,0,100,15,characteristic_icon_30
+1021011,危险感知,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,5,75,1,characteristic_icon_5
+1021012,二式发烟筒,战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>黑暗</color>」  (3回合) [发生率50%],1,6,5,50,1,characteristic_icon_29
+1021013,四式扰乱幕,战斗开始时，敌方单体<color=#CCAA00>会心攻击</color><color=#0066FF>下降</color>1等级 (3回合) [发生率75%],1,2,8,75,1,characteristic_icon_20
+1023011,月之防卫术,被攻击时，受到来自<color=#CCAA00>妖怪</color>的伤害<color=#0066FF>下降</color>25% [发生率100%],3,14,5,100,25,characteristic_icon_56
+1023012,训练的结果,被攻击时，受到来自<color=#CCAA00>通常弹</color>的伤害<color=#0066FF>下降</color>25% [发生率100%],3,12,1,100,25,characteristic_icon_40
+1025012,存思法,被攻击后，自身<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (3回合) [发生率80%],4,1,6,80,1,characteristic_icon_6
+1025013,茨华仙的威压,战斗开始时，敌方单体<color=#CCAA00>回避</color><color=#0066FF>下降</color>1等级 (3回合) [发生率80%],1,2,7,80,1,characteristic_icon_19
+1030011,急速冻结,战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>冻结</color>」  (3回合) [发生率50%],1,6,2,50,1,characteristic_icon_26
+1030012,急速霜冻,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,3,50,1,characteristic_icon_3
+1030013,冰冷的热血,被攻击后，自身<color=#CCAA00>会心攻击</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,8,50,1,characteristic_icon_8
+1031011,恶作剧高手,被攻击时，受到来自<color=#CCAA00>人类</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,1,100,35,characteristic_icon_56
+1031012,轻快身体,被攻击时，受到来自<color=#CCAA00>尖头弹</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,12,10,100,35,characteristic_icon_40
+1031013,隐花,被攻击后，自身<color=#CCAA00>仇恨值</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],4,2,12,100,1,characteristic_icon_24
+1032011,诱饵人偶,被攻击时，受到来自<color=#CCAA00>妖精</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,7,100,35,characteristic_icon_56
+1032012,干扰人偶,被攻击后，自身<color=#CCAA00>仇恨值</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],4,2,12,100,1,characteristic_icon_24
+1037011,除秽大师,回合开始时，自身<color=#CCAA00>结界异常</color><color=#00CC66>回复</color>1枚  [发生率70%],2,9,0,70,1,characteristic_icon_34
+1037012,除厄大师,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率50%],2,10,0,50,1,characteristic_icon_33
+1037013,二柱的加护,回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率30%],2,4,0,30,1,characteristic_icon_32
+1038012,蛙狩神事,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>20% [发生率50%],2,3,0,50,20,characteristic_icon_30
+1038013,角力神话,体力在25%以下遭到攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>100% [发生率30%],3,11,5,30,100,characteristic_icon_39
+1042011,跑路大师,被攻击时，受到来自<color=#CCAA00>人类</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,1,100,35,characteristic_icon_56
+1042012,伪装者,被攻击后，自身<color=#CCAA00>阴防</color><color=#FF6600>上升</color>1等级 (3回合) [发生率70%],4,1,4,70,1,characteristic_icon_4
+1042013,高草郡之主,回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>15% [发生率70%],2,3,0,70,15,characteristic_icon_30
+1044011,天狗太鼓,被攻击时，受到来自<color=#CCAA00>追踪弹</color>的伤害<color=#0066FF>下降</color>45% [发生率100%],3,12,11,100,45,characteristic_icon_40
+1044012,天狗的震撼,战斗开始时，敌方单体<color=#CCAA00>命中</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],1,2,6,100,1,characteristic_icon_18
+1044013,天狗火,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,1,50,1,characteristic_icon_1
+1046011,狼之眼,战斗开始时，敌方单体<color=#CCAA00>阴攻</color><color=#0066FF>下降</color>1等级 (3回合) [发生率80%],1,2,3,80,1,characteristic_icon_15
+1046012,嚎叫,被攻击后，自身<color=#CCAA00>阴防</color><color=#FF6600>上升</color>1等级 (3回合) [发生率80%],4,1,4,80,1,characteristic_icon_4
+1046013,全方位警戒状态,回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率50%],2,4,0,50,1,characteristic_icon_32
+1047011,回礼,被攻击时，受到来自<color=#CCAA00>御符弹</color>的伤害<color=#0066FF>下降</color>100% [发生率35%],3,12,8,35,100,characteristic_icon_40
+1047012,山之灵气,回合开始时，自身<color=#CCAA00>结界异常</color><color=#00CC66>回复</color>1枚  [发生率75%],2,9,0,75,1,characteristic_icon_34
+1047013,耐心的追踪者,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率85%],4,1,3,85,1,characteristic_icon_3
+1051011,条件反射,被攻击后，自身<color=#CCAA00>会心攻击</color><color=#FF6600>上升</color>1等级 (3回合) [发生率70%],4,1,8,70,1,characteristic_icon_8
+1051012,心头灭却,被攻击时，受到来自<color=#CCAA00>日属性</color>的伤害<color=#0066FF>下降</color>25% [发生率100%],3,13,1,100,25,characteristic_icon_48
+1051013,情绪高涨,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>1.00  [发生率25%],2,5,0,25,20,characteristic_icon_31
+1054011,偷懒大师,被攻击后，自身<color=#CCAA00>仇恨值</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],4,2,12,100,1,characteristic_icon_24
+1054012,三途之渡,被攻击时，受到来自<color=#CCAA00>灵体类型</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,8,100,35,characteristic_icon_56
+1054013,腰好酸啊,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率100%],4,1,3,100,1,characteristic_icon_3
+1057011,还原,被攻击时，受到来自<color=#CCAA00>阴性</color>的伤害<color=#0066FF>下降</color>100% [发生率35%],3,11,3,35,100,characteristic_icon_37
+1057012,真空崩坏,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.50  [发生率50%],2,5,0,50,10,characteristic_icon_31
+1057013,狂气增幅器,被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率100%],4,1,1,100,1,characteristic_icon_1
+1057211,还原,被攻击时，受到来自<color=#CCAA00>阴性</color>的伤害<color=#0066FF>下降</color>100% [发生率50%],3,11,3,50,100,characteristic_icon_37
+1057212,真空崩坏,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.75  [发生率50%],2,5,0,50,15,characteristic_icon_31
+1058011,地狱的生命力,被攻击时，受到来自<color=#CCAA00>月之民</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,14,13,100,35,characteristic_icon_56
+1058012,不服输,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,3,75,1,characteristic_icon_3
+1058013,小小丑角,战斗开始时，敌方单体<color=#CCAA00>会心回避</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],1,2,11,100,1,characteristic_icon_23
+1059011,栃树干,被攻击时，受到来自<color=#CCAA00>尖头弹</color>的伤害<color=#0066FF>下降</color>35% [发生率100%],3,12,10,100,35,characteristic_icon_40
+1059012,茑漆树液,战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>毒雾</color>」  (3回合) [发生率50%],1,6,4,50,1,characteristic_icon_28
+1059013,鸡爪槭的树叶,被攻击后，自身<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (3回合) [发生率50%],4,1,6,50,1,characteristic_icon_6
+1059212,茑漆树液,战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>毒雾</color>」  (3回合) [发生率100%],1,6,4,100,1,characteristic_icon_28
+1061011,灾害收藏家,战斗开始时，敌方单体<color=#CCAA00>命中</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],1,2,6,100,1,characteristic_icon_18
+1061012,溢出的厄,战斗开始时，敌方单体<color=#CCAA00>回避</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],1,2,7,100,1,characteristic_icon_19
+1061013,牺牲,被攻击时，受到来自<color=#CCAA00>阴性</color>的伤害<color=#0066FF>下降</color>100% [发生率50%],3,11,3,50,100,characteristic_icon_37
+1087011,囃子舞动,被攻击后，自身<color=#CCAA00>回避</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,7,75,1,characteristic_icon_7
+1087012,祈祷,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.25  [发生率75%],2,5,0,75,5,characteristic_icon_31
+1087013,一同囃子舞动,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,3,75,1,characteristic_icon_3
+2002011,凶星之祸,被攻击时，受到来自<color=#CCAA00>解决异变有缘者</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,14,54,100,50,characteristic_icon_56
+2002012,宿星的加护,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.30  [发生率100%],2,5,0,100,6,characteristic_icon_31
+2002013,咏星,被攻击后，自身<color=#CCAA00>会心命中</color><color=#FF6600>上升</color>1等级 (3回合) [发生率100%],4,1,10,100,1,characteristic_icon_10
+2010011,花怪,被攻击时，受到来自<color=#CCAA00>妖怪</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,14,5,100,50,characteristic_icon_56
+2010012,灵魂增幅器,被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (1回合) [发生率100%],4,1,5,100,1,characteristic_icon_5
+2010013,灵魂收藏家,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.35  [发生率100%],2,5,0,100,7,characteristic_icon_31
+2011011,保镖,被攻击时，受到来自<color=#CCAA00>斩击</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,12,4,100,50,characteristic_icon_40
+2011012,冥界流浪人,被攻击时，受到来自<color=#CCAA00>灵体类型</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,14,8,100,50,characteristic_icon_56
+2011013,气魄,体力在25%以下遭到攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>100% [发生率50%],3,11,5,50,100,characteristic_icon_39

@@ -1,0 +1,7 @@
+id,pop_type,main_category_type,sub_category_master_id,type,name,description,purchase_orb_value,free_orb_value,available_count,monthly_available_count,daily_available_count,price_id,open_shop_id,banner_image,display_order,start_at,end_at
+10,0,0,0,1,神结晶,神结晶24个,24,0,0,0,0,10,0,pay_shop_orb_24.png,1,2019-05-07 08:00:00,2025-05-20 10:00:00
+20,1,0,0,1,神结晶,神结晶122个<ret>附赠（无偿）12个,122,12,0,0,0,20,0,pay_shop_orb_134.png,2,2019-05-07 08:00:00,2025-05-20 10:00:00
+30,2,0,0,1,神结晶,神结晶244个<ret>附赠（无偿）60个,244,60,0,0,0,30,0,pay_shop_orb_304.png,3,2019-05-07 08:00:00,2025-05-20 10:00:00
+40,3,0,0,1,神结晶,神结晶488个<ret>附赠（无偿）144个,488,144,0,0,0,40,0,pay_shop_orb_632.png,4,2019-05-07 08:00:00,2025-05-20 10:00:00
+50,0,0,0,1,神结晶,神结晶980个<ret>附赠（无偿）352个,980,352,0,0,0,50,0,pay_shop_orb_1332.png,5,2019-05-07 08:00:00,2025-05-20 10:00:00
+60,0,0,0,1,神结晶,神结晶2000个<ret>附赠（无偿）1000个。,2000,1000,0,0,0,60,0,pay_shop_orb_3000.png,6,2019-05-07 08:00:00,2025-05-20 10:00:00

@@ -1,0 +1,6 @@
+id,level_limitbreak,consume_strong_censer,max_value
+1,0,0,20
+2,1,10,40
+3,2,20,60
+4,3,30,80
+5,4,40,100

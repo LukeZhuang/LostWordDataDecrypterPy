@@ -1,0 +1,227 @@
+{"id": 111, "name": "攻击指南书[一]", "description": "对攻击类技能效果很好的书本型道具。教给灵魂温暖。", "rare": 1, "type": 1, "effect_type": 0, "display_order": 3101}
+{"id": 112, "name": "攻击指南书[二]", "description": "对攻击类技能效果很好的书本型道具。教给灵魂热情。", "rare": 2, "type": 1, "effect_type": 0, "display_order": 2101}
+{"id": 113, "name": "攻击指南书[三]", "description": "对攻击类技能效果很好的书本型道具。教给灵魂热血。", "rare": 3, "type": 1, "effect_type": 0, "display_order": 1101}
+{"id": 114, "name": "攻击指南书[一改]", "description": "对攻击类技能效果很好的书本型道具。教给灵魂炽热。", "rare": 1, "type": 1, "effect_type": 0, "display_order": 3102}
+{"id": 115, "name": "攻击指南书[二改]", "description": "对攻击类技能效果很好的书本型道具。教给灵魂激情。", "rare": 2, "type": 1, "effect_type": 0, "display_order": 2102}
+{"id": 116, "name": "攻击指南书[三改]", "description": "对攻击类技能效果很好的书本型道具。教给灵魂友情。", "rare": 3, "type": 1, "effect_type": 0, "display_order": 1102}
+{"id": 121, "name": "防御指南书[一]", "description": "对防御类技能效果拔群的书本型道具。教给灵魂冷静。", "rare": 1, "type": 1, "effect_type": 0, "display_order": 3103}
+{"id": 122, "name": "防御指南书[二]", "description": "对防御类技能效果很好的书本型道具。教给灵魂忍耐。", "rare": 2, "type": 1, "effect_type": 0, "display_order": 2103}
+{"id": 123, "name": "防御指南书[三]", "description": "对防御类技能效果很好的书本型道具。教给灵魂慈悲。", "rare": 3, "type": 1, "effect_type": 0, "display_order": 1103}
+{"id": 124, "name": "防御指南书[一改]", "description": "对防御类技能效果很好的书本型道具。教给灵魂沉着。", "rare": 1, "type": 1, "effect_type": 0, "display_order": 3104}
+{"id": 125, "name": "防御指南书[二改]", "description": "对防御类技能效果很好的书本型道具。教给灵魂忍受。", "rare": 2, "type": 1, "effect_type": 0, "display_order": 2104}
+{"id": 126, "name": "防御指南书[三改]", "description": "对防御类技能效果很好的书本型道具。教给灵魂慈爱。", "rare": 3, "type": 1, "effect_type": 0, "display_order": 1104}
+{"id": 131, "name": "辅助指南书[一]", "description": "对辅助类技能效果很好的书本型道具。教给灵魂安宁。", "rare": 1, "type": 1, "effect_type": 0, "display_order": 3105}
+{"id": 132, "name": "辅助指南书[二]", "description": "对辅助类技能效果很好的书本型道具。教给灵魂平稳。", "rare": 2, "type": 1, "effect_type": 0, "display_order": 2105}
+{"id": 133, "name": "辅助指南书[三]", "description": "对辅助类技能效果很好的书本型道具。教给灵魂平和。", "rare": 3, "type": 1, "effect_type": 0, "display_order": 1105}
+{"id": 134, "name": "辅助指南书[一改]", "description": "对辅助类技能效果很好的书本型道具。教给灵魂宽容。", "rare": 1, "type": 1, "effect_type": 0, "display_order": 3106}
+{"id": 135, "name": "辅助指南书[二改]", "description": "对辅助类技能效果很好的书本型道具。教给灵魂柔和。", "rare": 2, "type": 1, "effect_type": 0, "display_order": 2106}
+{"id": 136, "name": "辅助指南书[三改]", "description": "对辅助类技能效果很好的书本型道具。教给灵魂温柔。", "rare": 3, "type": 1, "effect_type": 0, "display_order": 1106}
+{"id": 211, "name": "梅之华片[一]", "description": "用来强化梅类绘卷的瓷片型道具。雕刻着隐约的梅纹。", "rare": 1, "type": 2, "effect_type": 1, "display_order": 3201}
+{"id": 212, "name": "梅之华片[二]", "description": "用来强化梅类绘卷的瓷片型道具。雕刻着清晰的梅纹。", "rare": 2, "type": 2, "effect_type": 1, "display_order": 2201}
+{"id": 213, "name": "梅之华片[三]", "description": "用来强化梅类绘卷的瓷片型道具。雕刻着豪华的梅纹。", "rare": 3, "type": 2, "effect_type": 1, "display_order": 1201}
+{"id": 214, "name": "梅之药液[一]", "description": "梅类型绘卷强化用药品型道具。使绘卷清晰地浮现出来。", "rare": 1, "type": 10, "effect_type": 1, "display_order": 3205}
+{"id": 215, "name": "梅之药液[二]", "description": "梅类型绘卷强化用药品型道具。使绘卷更加清晰地浮现出来。", "rare": 2, "type": 10, "effect_type": 1, "display_order": 2205}
+{"id": 216, "name": "梅之药液[三]", "description": "梅类型绘卷强化用药品型道具。使绘卷极其清晰地浮现出来。", "rare": 3, "type": 10, "effect_type": 1, "display_order": 1205}
+{"id": 221, "name": "兰之华片[一]", "description": "用来强化兰类绘卷的瓷片型道具。隐约地雕刻着兰纹。", "rare": 1, "type": 2, "effect_type": 2, "display_order": 3202}
+{"id": 222, "name": "兰之华片[二]", "description": "用来强化兰类绘卷的瓷片型道具。雕刻着清晰的兰纹。", "rare": 2, "type": 2, "effect_type": 2, "display_order": 2202}
+{"id": 223, "name": "兰之华片[三]", "description": "用来强化兰类绘卷的瓷片型道具。雕刻着豪华的兰纹。", "rare": 3, "type": 2, "effect_type": 2, "display_order": 1202}
+{"id": 224, "name": "兰之药液[一]", "description": "兰类型绘卷强化用药品型道具。使绘卷清晰地浮现出来。", "rare": 1, "type": 10, "effect_type": 2, "display_order": 3206}
+{"id": 225, "name": "兰之药液[二]", "description": "兰类型绘卷强化用药品型道具。使绘卷更加清晰地浮现出来。", "rare": 2, "type": 10, "effect_type": 2, "display_order": 2206}
+{"id": 226, "name": "兰之药液[三]", "description": "兰类型绘卷强化用药品型道具。使绘卷极其清晰地浮现出来。", "rare": 3, "type": 10, "effect_type": 2, "display_order": 1206}
+{"id": 231, "name": "菊之华片[一]", "description": "用来强化菊类绘卷的瓷片型道具。雕刻着隐约的菊纹。", "rare": 1, "type": 2, "effect_type": 3, "display_order": 3203}
+{"id": 232, "name": "菊之华片[二]", "description": "用来强化菊类绘卷的瓷片型道具。雕刻着清晰的菊纹。", "rare": 2, "type": 2, "effect_type": 3, "display_order": 2203}
+{"id": 233, "name": "菊之华片[三]", "description": "用来强化菊类绘卷的瓷片型道具。雕刻着豪华的菊纹。", "rare": 3, "type": 2, "effect_type": 3, "display_order": 1203}
+{"id": 234, "name": "菊之药液[一]", "description": "菊类型绘卷强化用药品型道具。使绘卷清晰地浮现出来。", "rare": 1, "type": 10, "effect_type": 3, "display_order": 3207}
+{"id": 235, "name": "菊之药液[二]", "description": "菊类型绘卷强化用药品型道具。使绘卷更加清晰地浮现出来。", "rare": 2, "type": 10, "effect_type": 3, "display_order": 2207}
+{"id": 236, "name": "菊之药液[三]", "description": "菊类型绘卷强化用药品型道具。使绘卷极其清晰地浮现出来。", "rare": 3, "type": 10, "effect_type": 3, "display_order": 1207}
+{"id": 241, "name": "竹之华片[一]", "description": "用来强化竹类绘卷的瓷片型道具。雕刻着隐约的竹纹。", "rare": 1, "type": 2, "effect_type": 4, "display_order": 3204}
+{"id": 242, "name": "竹之华片[二]", "description": "用来强化竹类绘卷的瓷片型道具。雕刻着清晰的竹纹。", "rare": 2, "type": 2, "effect_type": 4, "display_order": 2204}
+{"id": 243, "name": "竹之华片[三]", "description": "用来强化竹类绘卷的瓷片型道具。雕刻着豪华的竹纹。", "rare": 3, "type": 2, "effect_type": 4, "display_order": 1204}
+{"id": 244, "name": "竹之药液[一]", "description": "竹类型绘卷强化用药品型道具。使绘卷清晰地浮现出来。", "rare": 1, "type": 10, "effect_type": 4, "display_order": 3208}
+{"id": 245, "name": "竹之药液[二]", "description": "竹类型绘卷强化用药品型道具。使绘卷更加清晰地浮现出来。", "rare": 2, "type": 10, "effect_type": 4, "display_order": 2208}
+{"id": 246, "name": "竹之药液[三]", "description": "竹类型绘卷强化用药品型道具。使绘卷极其清晰地浮现出来。", "rare": 3, "type": 10, "effect_type": 4, "display_order": 1208}
+{"id": 311, "name": "天之卷轴[一]", "description": "用于升格防御型伙伴的卷轴型道具。描绘着小小的苍天图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3301}
+{"id": 312, "name": "天之卷轴[二]", "description": "用于升格防御型伙伴的卷轴型道具。描绘着显眼的苍天图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2301}
+{"id": 313, "name": "天之卷轴[三]", "description": "用于升格防御型伙伴的卷轴型道具。描绘着气派的苍天图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1301}
+{"id": 321, "name": "地之卷轴[一]", "description": "用于升格支援型伙伴的卷轴型道具。描绘着小小的大地图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3302}
+{"id": 322, "name": "地之卷轴[二]", "description": "用于升格支援型伙伴的卷轴型道具。描绘着醒目的大地图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2302}
+{"id": 323, "name": "地之卷轴[三]", "description": "用于升格支援型伙伴的卷轴型道具。描绘着气派的大地图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1302}
+{"id": 331, "name": "风之卷轴[一]", "description": "用于升格回复型伙伴的卷轴型道具。描绘着小小的疾风图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3303}
+{"id": 332, "name": "风之卷轴[二]", "description": "用于升格回复型伙伴的卷轴型道具。描绘着醒目的疾风图样", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2303}
+{"id": 333, "name": "风之卷轴[三]", "description": "用于升格回复型伙伴的卷轴型道具。描绘着气派的疾风图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1303}
+{"id": 341, "name": "云之卷轴[一]", "description": "用于升格干扰型伙伴的卷轴型道具。描绘着小小的彩云图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3304}
+{"id": 342, "name": "云之卷轴[二]", "description": "用于升格干扰型伙伴的卷轴型道具。描绘着醒目的彩云图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2304}
+{"id": 343, "name": "云之卷轴[三]", "description": "用于升格干扰型伙伴的卷轴型道具。描绘着气派的彩云图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1304}
+{"id": 351, "name": "龙之卷轴[一]", "description": "用于升格攻击型伙伴的卷轴型道具。描绘着小小的翔龙图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3305}
+{"id": 352, "name": "龙之卷轴[二]", "description": "用于升格攻击型伙伴的卷轴型道具。描绘着醒目的翔龙图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2305}
+{"id": 353, "name": "龙之卷轴[三]", "description": "用于升格攻击型伙伴的卷轴型道具。描绘着气派的翔龙图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1305}
+{"id": 361, "name": "虎之卷轴[一]", "description": "用于升格技巧型伙伴的卷轴型道具。描绘着小小的猛虎图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3306}
+{"id": 362, "name": "虎之卷轴[二]", "description": "用于升格技巧型伙伴的卷轴型道具。描绘着醒目的猛虎图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2306}
+{"id": 363, "name": "虎之卷轴[三]", "description": "用于升格技巧型伙伴的卷轴型道具。描绘着气派的猛虎图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1306}
+{"id": 371, "name": "鸟之卷轴[一]", "description": "用于升格速攻型伙伴的卷轴型道具。描绘着小小的凤凰图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3307}
+{"id": 372, "name": "鸟之卷轴[二]", "description": "用于升格速攻型伙伴的卷轴型道具。描绘着醒目的凤凰图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2307}
+{"id": 373, "name": "鸟之卷轴[三]", "description": "用于升格速攻型伙伴的卷轴型道具。描绘着气派的凤凰图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1307}
+{"id": 381, "name": "蛇之卷轴[一]", "description": "用于升格破坏型伙伴的卷轴型道具。描绘着小小的玄蛇图样。", "rare": 1, "type": 3, "effect_type": 0, "display_order": 3308}
+{"id": 382, "name": "蛇之卷轴[二]", "description": "用于升格破坏型伙伴的卷轴型道具。描绘着醒目的玄蛇图样。", "rare": 2, "type": 3, "effect_type": 0, "display_order": 2308}
+{"id": 383, "name": "蛇之卷轴[三]", "description": "用于升格破坏型伙伴的卷轴型道具。描绘着气派的玄蛇图样。", "rare": 3, "type": 3, "effect_type": 0, "display_order": 1308}
+{"id": 401, "name": "伽罗", "description": "异国出产的贵重香木。用醇厚的香味提升伙伴的体力。", "rare": 1, "type": 4, "effect_type": 1, "display_order": 3401}
+{"id": 402, "name": "罗国", "description": "异国出产的贵重香木。用甜香味提升伙伴的阳气攻击力。", "rare": 1, "type": 4, "effect_type": 2, "display_order": 3402}
+{"id": 403, "name": "真那伽", "description": "异国出产的贵重香木。用无味的香气提升伙伴的阳气防御力。", "rare": 1, "type": 4, "effect_type": 3, "display_order": 3403}
+{"id": 404, "name": "真南蛮", "description": "异国出产的贵重香木。用酸香味提升伙伴的阴气攻击力。", "rare": 1, "type": 4, "effect_type": 4, "display_order": 3404}
+{"id": 405, "name": "寸门多罗", "description": "异国出产的贵重香木。用苦涩的香味提升伙伴的阴气防御力。", "rare": 1, "type": 4, "effect_type": 5, "display_order": 3405}
+{"id": 406, "name": "佐曾罗", "description": "异国出产的贵重香木。用咸香味来提升伙伴的速度。", "rare": 1, "type": 4, "effect_type": 6, "display_order": 3406}
+{"id": 410, "name": "上香炉", "description": "烧檀优质香木的香炉。相当珍贵的古董。", "rare": 3, "type": 9, "effect_type": 0, "display_order": 1400}
+{"id": 411, "name": "上伽罗", "description": "异国出产的贵重优质香木。用醇厚的香味提升伙伴的体力。", "rare": 3, "type": 9, "effect_type": 1, "display_order": 1401}
+{"id": 412, "name": "上罗国", "description": "异国出产的贵重优质香木。用甜香味提升伙伴的阳气攻击力。", "rare": 3, "type": 9, "effect_type": 2, "display_order": 1402}
+{"id": 413, "name": "上真那伽", "description": "异国出产的贵重优质香木。用无味的香气提升伙伴的阳气防御力。", "rare": 3, "type": 9, "effect_type": 3, "display_order": 1403}
+{"id": 414, "name": "上真南蛮", "description": "异国出产的贵重优质香木。用酸香味提升伙伴的阴气攻击力。", "rare": 3, "type": 9, "effect_type": 4, "display_order": 1404}
+{"id": 415, "name": "上寸门多罗", "description": "异国出产的贵重优质香木。用苦涩的香味提升伙伴的阴气防御力。", "rare": 3, "type": 9, "effect_type": 5, "display_order": 1405}
+{"id": 416, "name": "上佐曾罗", "description": "异国出产的贵重优质香木。用咸香味来提升伙伴的速度。", "rare": 3, "type": 9, "effect_type": 6, "display_order": 1406}
+{"id": 501, "name": "人之替身", "description": "即用型替代道具。可在伙伴突破界限时使用。", "rare": 3, "type": 5, "effect_type": 0, "display_order": 1005}
+{"id": 502, "name": "天之替身", "description": "特殊的即用型替代道具。可在某些伙伴突破界限时使用。", "rare": 5, "type": 5, "effect_type": 0, "display_order": 65}
+{"id": 503, "name": "巫之替身", "description": "稀少的即用型替代道具。可在某些伙伴突破界限时使用。", "rare": 5, "type": 5, "effect_type": 0, "display_order": 55}
+{"id": 504, "name": "灵之替身", "description": "奇妙的即用型替代道具。可在某些伙伴突破界限时使用。", "rare": 5, "type": 5, "effect_type": 0, "display_order": 60}
+{"id": 601, "name": "玉露", "description": "人们是这样称呼品质最佳的煎茶的。这是某人最钟爱的类型。", "rare": 2, "type": 6, "effect_type": 0, "display_order": 2601}
+{"id": 602, "name": "香味红茶", "description": "使用香柑来增香的香茶。用的茶叶是大吉岭。", "rare": 2, "type": 6, "effect_type": 0, "display_order": 2602}
+{"id": 603, "name": "瓶装汽水", "description": "封存于特殊的瓶子里，里头的饮品则跟苏打水一样。词源是“柠檬汽水”。", "rare": 2, "type": 6, "effect_type": 0, "display_order": 2603}
+{"id": 604, "name": "高级日式点心", "description": "假装成京都传统美味点心，其实它的发源并不古老。", "rare": 2, "type": 6, "effect_type": 0, "display_order": 2604}
+{"id": 605, "name": "谨制羊羹", "description": "原本是中国的羊肉汤，到了日本经过改良用红豆代替了肉。", "rare": 3, "type": 6, "effect_type": 0, "display_order": 1351}
+{"id": 606, "name": "八目鳗", "description": "八目鳗不是鳗鱼。甚至说是它鱼类也有点诡异……", "rare": 3, "type": 6, "effect_type": 0, "display_order": 1352}
+{"id": 701, "name": "伙伴确定祝词", "description": "可进行特别祈愿的祝词。必定能获得伙伴。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1000}
+{"id": 702, "name": "绘卷祝词", "description": "可进行特别祈愿的祝词。必定出☆4以上绘卷。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1001}
+{"id": 703, "name": "特別祝詞(期間限定)", "description": "2022年8月15日 13:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1002}
+{"id": 705, "name": "特別祝詞(期間限定)", "description": "2023年6月14日 23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1005}
+{"id": 706, "name": "3.5周年特別祝詞", "description": "2023年12月31日 23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1006}
+{"id": 708, "name": "异变的道具", "description": "不明异变产生的未知道具。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 10000}
+{"id": 780, "name": "泳装特殊祝词-紫", "description": "有效期至2022年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1080}
+{"id": 781, "name": "泳装特殊祝词-赫卡提亚", "description": "有效期至2022年11月22日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1081}
+{"id": 782, "name": "叙事诗特别祝词-博丽灵梦", "description": "有效期至2022年12月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1082}
+{"id": 783, "name": "史诗祈愿特别祝词-古明地恋", "description": "有效期至2023年03月21日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1083}
+{"id": 784, "name": "泳装特殊祝词-雾雨魔理沙", "description": "有效期至2023年04月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1084}
+{"id": 785, "name": "泳装特殊祝词-博丽灵梦", "description": "有效期至2023年04月29日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1085}
+{"id": 786, "name": "泳装特殊祝词-奥野田美宵", "description": "有效期至2023年06月20日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1086}
+{"id": 787, "name": "泳装特殊祝词-古明地觉", "description": "有效期至2023年08月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1087}
+{"id": 788, "name": "泳装特殊祝词-古明地恋", "description": "有效期至2023年08月29日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1088}
+{"id": 789, "name": "泳装特殊祝词-蕾米莉亚", "description": "有效期至2023年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1089}
+{"id": 790, "name": "泳装特殊祝词-芙兰朵露", "description": "有效期至2023年10月29日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1090}
+{"id": 791, "name": "史诗祈愿特别祝词-东风谷早苗", "description": "有效期至2023年11月21日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1091}
+{"id": 792, "name": "伙伴特别祝词", "description": "有效期至2024年01月02日 01:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1092}
+{"id": 793, "name": "伙伴精选特别祝词", "description": "有效期至2024年01月02日 01:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1093}
+{"id": 794, "name": "泳装特殊祝词-多多良小伞", "description": "有效期至2024年01月09日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1094}
+{"id": 801, "name": "缘环", "description": "连接着少女们拥有的多样可能性，并选取其中之一的道具。", "rare": 5, "type": 8, "effect_type": 1, "display_order": 50}
+{"id": 900, "name": "无名转生镜", "description": "无主的转生镜。可以作为已记名转生镜使用。", "rare": 5, "type": 8, "effect_type": 0, "display_order": 5901}
+{"id": 1001, "name": "转生镜", "description": "[博丽神社的巫女小姐]博丽灵梦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6001}
+{"id": 1002, "name": "转生镜", "description": "[普通的魔法使]雾雨魔理沙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6002}
+{"id": 1003, "name": "转生镜", "description": "[永远鲜红的幼月]蕾米莉亚·斯卡雷特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6010}
+{"id": 1004, "name": "转生镜", "description": "[恶魔之妹]芙兰朵露·斯卡雷特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6011}
+{"id": 1005, "name": "转生镜", "description": "[红魔馆的女仆]十六夜咲夜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6009}
+{"id": 1006, "name": "转生镜", "description": "[知识与避世的少女]帕秋莉·诺蕾姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6008}
+{"id": 1007, "name": "转生镜", "description": "[华人小姑娘]红美铃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6006}
+{"id": 1008, "name": "转生镜", "description": "[无名的小恶魔]小恶魔(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6007}
+{"id": 1009, "name": "转生镜", "description": "[潜藏于境界内的妖怪]八云紫(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6022}
+{"id": 1010, "name": "转生镜", "description": "[幽冥楼阁的亡灵少女]西行寺幽幽子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6020}
+{"id": 1011, "name": "转生镜", "description": "[半人半灵]魂魄妖梦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6019}
+{"id": 1012, "name": "转生镜", "description": "[运送春天的妖精]莉莉怀特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6015}
+{"id": 1013, "name": "转生镜", "description": "[间隙妖怪的式神]八云蓝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6021}
+{"id": 1014, "name": "转生镜", "description": "[间隙妖怪的式神的式神]橙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6013}
+{"id": 1015, "name": "转生镜", "description": "[狂气的月兔]铃仙·优昙华院·因幡(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6028}
+{"id": 1016, "name": "转生镜", "description": "[连接海与山的月之公主]绵月丰姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6706}
+{"id": 1017, "name": "转生镜", "description": "[神灵附体的月之公主]绵月依姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6707}
+{"id": 1018, "name": "转生镜", "description": "[月之头脑]八意永琳(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6029}
+{"id": 1019, "name": "转生镜", "description": "[永远与须臾的罪人]蓬莱山辉夜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6030}
+{"id": 1020, "name": "转生镜", "description": "[蓬莱的人之形]藤原妹红(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6031}
+{"id": 1021, "name": "转生镜", "description": "[浅葱色的天鹰神兔]清兰(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6080}
+{"id": 1022, "name": "转生镜", "description": "[橘色的天鹰神兔]铃瑚(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6081}
+{"id": 1023, "name": "转生镜", "description": "[普通的月兔]铃仙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6708}
+{"id": 1024, "name": "转生镜", "description": "[被封印的大魔法使]圣白莲(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6060}
+{"id": 1025, "name": "转生镜", "description": "[独臂有角的仙人]茨木华扇(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6709}
+{"id": 1026, "name": "转生镜", "description": "[识文解意的爱书人]本居小铃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6710}
+{"id": 1029, "name": "转生镜", "description": "[幻想乡的记忆]稗田阿求(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6705}
+{"id": 1030, "name": "转生镜", "description": "[湖上的冰精]琪露诺(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6005}
+{"id": 1031, "name": "转生镜", "description": "[无名的大只妖精]大妖精(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6004}
+{"id": 1032, "name": "转生镜", "description": "[七色的人偶师]爱丽丝·玛格特罗伊德(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6014}
+{"id": 1033, "name": "转生镜", "description": "[闪耀的日之光]桑尼米尔克(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6702}
+{"id": 1034, "name": "转生镜", "description": "[静谧的月之光]露娜切露德(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6703}
+{"id": 1035, "name": "转生镜", "description": "[倾泻而下的星之光]斯塔萨菲雅(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6704}
+{"id": 1036, "name": "转生镜", "description": "[小小的甜蜜毒药]梅蒂欣·梅兰可莉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6033}
+{"id": 1037, "name": "转生镜", "description": "[被祭祀的风之人]东风谷早苗(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6042}
+{"id": 1038, "name": "转生镜", "description": "[山坂与湖水的化身]八坂神奈子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6043}
+{"id": 1039, "name": "转生镜", "description": "[土著神的顶点]洩矢诹访子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6044}
+{"id": 1040, "name": "转生镜", "description": "[超妖怪弹头]河城荷取(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6040}
+{"id": 1042, "name": "转生镜", "description": "[地上兔]因幡帝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6027}
+{"id": 1043, "name": "转生镜", "description": "[秘封俱乐部 初代会长]宇佐见堇子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6079}
+{"id": 1044, "name": "转生镜", "description": "[传统的幻想记者]射命丸文(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6032}
+{"id": 1045, "name": "转生镜", "description": "[当代的念写记者]姬海棠果(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6062}
+{"id": 1046, "name": "转生镜", "description": "[下端哨戒天狗]犬走椛(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6041}
+{"id": 1047, "name": "转生镜", "description": "[跨越浮世门关的山姥]坂田合欢(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6090}
+{"id": 1048, "name": "转生镜", "description": "[萃集的梦、虚幻、随后百鬼夜行]伊吹萃香(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6023}
+{"id": 1049, "name": "转生镜", "description": "[人所谈论的怪力乱神]星熊勇仪(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6050}
+{"id": 1050, "name": "转生镜", "description": "[怨灵也为之惧怯的少女]古明地觉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6051}
+{"id": 1051, "name": "转生镜", "description": "[紧闭的恋之瞳]古明地恋(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6054}
+{"id": 1054, "name": "转生镜", "description": "[三途河的引航人]小野塚小町(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6035}
+{"id": 1055, "name": "转生镜", "description": "[乐园的最高审判长]四季映姬·夜摩仙那度(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6036}
+{"id": 1056, "name": "转生镜", "description": "[地狱的女神]赫卡提亚·拉碧斯拉祖利(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6086}
+{"id": 1057, "name": "转生镜", "description": "纯狐(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6085}
+{"id": 1058, "name": "转生镜", "description": "[地狱的妖精]克劳恩皮丝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6084}
+{"id": 1059, "name": "转生镜", "description": "[寂寞与终焉的象征]秋静叶(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6037}
+{"id": 1060, "name": "转生镜", "description": "[丰裕与收成的象征]秋穰子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6038}
+{"id": 1061, "name": "转生镜", "description": "[秘神流雏]键山雏(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6039}
+{"id": 1062, "name": "转生镜", "description": "[喧闹灵小提琴手]露娜萨·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6016}
+{"id": 1063, "name": "转生镜", "description": "[喧闹灵小号手]梅露兰·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6017}
+{"id": 1064, "name": "转生镜", "description": "[喧闹灵键盘手]莉莉卡·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6018}
+{"id": 1065, "name": "转生镜", "description": "[最凶最恶双子之妹]依神女苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6087}
+{"id": 1066, "name": "转生镜", "description": "[最凶最恶双子之姐]依神紫苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6088}
+{"id": 1067, "name": "转生镜", "description": "[古旧琵琶的附丧神]九十九弁弁(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6074}
+{"id": 1068, "name": "转生镜", "description": "[古旧的琴的附丧神]九十九八桥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6075}
+{"id": 1069, "name": "转生镜", "description": "[究极的绝对秘神]摩多罗隐岐奈(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6095}
+{"id": 1070, "name": "转生镜", "description": "[过于危险的背景舞者]尔子田里乃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6093}
+{"id": 1071, "name": "转生镜", "description": "[过于危险的背景舞者]丁礼田舞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6094}
+{"id": 1072, "name": "转生镜", "description": "[知识与历史的半兽 ]上白泽慧音(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6026}
+{"id": 1073, "name": "转生镜", "description": "[宵暗的妖怪]露米娅(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6003}
+{"id": 1074, "name": "转生镜", "description": "[毘沙门天的弟子 ]寅丸星(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6059}
+{"id": 1075, "name": "转生镜", "description": "[水难事故的念缚灵 ]村纱水蜜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6058}
+{"id": 1076, "name": "转生镜", "description": "[愉快的遗忘之伞 ]多多良小伞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6056}
+{"id": 1080, "name": "转生镜", "description": "[梦之支配者 ]哆来咪·苏伊特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6082}
+{"id": 1081, "name": "转生镜", "description": "[招来口舌之祸的女神]稀神探女(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6083}
+{"id": 1082, "name": "转生镜", "description": "[狸猫怪 十变化]二岩猯藏(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6069}
+{"id": 1083, "name": "转生镜", "description": "[醉心神佛的守护神兽]高丽野阿吽(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6091}
+{"id": 1085, "name": "转生镜", "description": "[穿墙的邪仙]霍青娥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6065}
+{"id": 1086, "name": "转生镜", "description": "[忠实的尸体]宫古芳香(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6064}
+{"id": 1087, "name": "转生镜", "description": "[表情丰富的扑克脸]秦心(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6070}
+{"id": 1088, "name": "转生镜", "description": "[冬天的遗忘之物 ]蕾蒂·霍瓦特洛克(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6012}
+{"id": 1091, "name": "转生镜", "description": "[圣德道士]丰聪耳神子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6068}
+{"id": 1092, "name": "转生镜", "description": "[古代日本的尸解仙]物部布都(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6067}
+{"id": 1093, "name": "转生镜", "description": "[神明后裔的亡灵]苏我屠自古(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6066}
+{"id": 1096, "name": "转生镜", "description": "[诵经的山彦]幽谷响子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6063}
+{"id": 1097, "name": "转生镜", "description": "[夜雀妖怪]米斯蒂娅·萝蕾拉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6025}
+{"id": 1098, "name": "转生镜", "description": "[暗中蠢动的光之虫]莉格露·奈特巴格(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6024}
+{"id": 1102, "name": "转生镜", "description": "[探宝的小小大将]娜兹玲(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6055}
+{"id": 1103, "name": "转生镜", "description": "[守护与被守护的大轮]云居一轮(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6057}
+{"id": 1104, "name": "转生镜", "description": "[未确认幻想飞行少女]封兽鵺(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6061}
+{"id": 1105, "name": "转生镜", "description": "[梦幻的打击乐手]堀川雷鼓(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6078}
+{"id": 1110, "name": "转生镜", "description": "[劲牙组组长]骊驹早鬼(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6102}
+{"id": 1111, "name": "转生镜", "description": "[鬼杰组组长]吉吊八千慧(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6099}
+{"id": 1112, "name": "转生镜", "description": "[地狱口岸的守护神]庭渡久侘歌(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6098}
+{"id": 2002, "name": "转生镜", "description": "[红梦的魔女]雾雨魔理沙(Z1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7002}
+{"id": 2003, "name": "转生镜", "description": "[小小的恶魔千金]蕾米莉亚·斯卡雷特(E9)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7010}
+{"id": 2005, "name": "转生镜", "description": "[传说中的吸血鬼猎人]十六夜咲夜(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7009}
+{"id": 2007, "name": "转生镜", "description": "[坚如磐石的恶魔之门]红美铃(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7006}
+{"id": 2008, "name": "转生镜", "description": "[高等魔法的集大成者]小恶魔(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7007}
+{"id": 2010, "name": "转生镜", "description": "[小小的亡灵楼主]西行寺幽幽子(R2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7020}
+{"id": 2011, "name": "转生镜", "description": "[幽玄的剑圣]魂魄妖梦(R8)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7019}
+{"id": 2016, "name": "转生镜", "description": "[丰富与平等的润泽院]绵月丰姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7706}
+{"id": 2017, "name": "转生镜", "description": "[温和与虔诚的平和院]绵月依姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7707}
+{"id": 2019, "name": "转生镜", "description": "[善意与良心的慈爱院]蓬莱山辉夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7030}
+{"id": 2081, "name": "转生镜", "description": "[正统与清廉的真理院]稀神探女(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7083}
+{"id": 3001, "name": "转生镜", "description": "[月战型萨满]博丽灵梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8001}
+{"id": 3002, "name": "转生镜", "description": "[月战型魔术师]雾雨魔理沙(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8002}
+{"id": 3004, "name": "转生镜", "description": "[狩猎猎人的吸血鬼]芙兰朵露·斯卡雷特(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8011}
+{"id": 3005, "name": "转生镜", "description": "[月战型从者]十六夜咲夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8009}
+{"id": 3006, "name": "转生镜", "description": "[千金陪伴的元素魔法使]帕秋莉·诺蕾姬(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8008}
+{"id": 3011, "name": "转生镜", "description": "[月战型园丁]魂魄妖梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8019}
+{"id": 3015, "name": "转生镜", "description": "[月战型士兵]铃仙·优昙华院·因幡(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8028}
+{"id": 3037, "name": "转生镜", "description": "[月战型祭司]东风谷早苗(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8042}
+{"id": 100001, "name": "初始祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 100}
+{"id": 100003, "name": "超FES祭绘马", "description": "有效期至2023年11月30日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 101}
+{"id": 100004, "name": "Aシリーズ祭絵馬", "description": "2023年12月20日 23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 102}
+{"id": 100005, "name": "3.5周年カムバック 超フェス祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 103}

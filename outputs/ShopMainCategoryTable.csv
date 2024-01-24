@@ -1,0 +1,10 @@
+id,shop_type,main_category_type,display_name,display_order,daily_gift_flag,delivery_flag
+1,1,0,期间限定,1,1,0
+2,1,1,初心者<ret>应援,2,0,0
+3,2,0,服装,3,0,0
+4,1,2,卷轴,4,0,0
+5,1,3,华片,5,0,0
+6,1,4,指南书,6,0,0
+7,1,5,其他,7,0,0
+8,6,0,神结晶<ret>购入,8,0,1
+20,0,0,杂货屋,20,0,0

@@ -1,0 +1,7 @@
+id,event_id,reward_group_id,fix_reward_days,receive_period,unit_position_id,speech_param
+200101,2410,200101,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
+210822,2990,210822,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
+220115,4110,220115,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
+220727,5220,220727,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
+221223,6440,221223,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
+231001,6441,231001,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}

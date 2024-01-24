@@ -1,0 +1,6 @@
+id,unit_count,exp_rate,consume_time,consume_food
+1,1,100,15,5
+2,2,90,15,9
+3,3,80,15,12
+4,4,70,15,14
+5,5,64,15,16

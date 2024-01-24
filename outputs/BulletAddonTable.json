@@ -1,0 +1,17 @@
+{"id": 1, "name": "必中", "description": "攻击必定命中。"}
+{"id": 2, "name": "穿甲", "description": "能贯穿敌人的防御。"}
+{"id": 3, "name": "镜面", "description": "对目标阴气防御力攻击。/ 对目标阳气防御力攻击。"}
+{"id": 4, "name": "硬质", "description": "自身防御力越高伤害越高。"}
+{"id": 5, "name": "斩裂", "description": "自身速度越高伤害越高。"}
+{"id": 6, "name": "速射", "description": "无视特性。"}
+{"id": 7, "name": "爆破", "description": "目标防御力上升时会心更容易出现。"}
+{"id": 8, "name": "弹性", "description": "目标攻击力上升时会心更容易出现。"}
+{"id": 9, "name": "精准", "description": "目标速度上升时会心更容易出现。"}
+{"id": 10, "name": "反冲", "description": "每次攻击都会消耗体力。"}
+{"id": 11, "name": "吸收", "description": "命中敌人会恢复体力。"}
+{"id": 12, "name": "焚灭", "description": "破坏目标燃烧状态的结界。"}
+{"id": 13, "name": "融冰", "description": "破坏目标冻结状态的结界。"}
+{"id": 14, "name": "放电", "description": "破坏目标感电状态的结界。"}
+{"id": 15, "name": "猛毒", "description": "破坏目标毒雾状态的结界。"}
+{"id": 16, "name": "闪光", "description": "破坏目标黑暗状态的结界。"}
+{"id": 18, "name": "擦弹贯穿", "description": "贯穿敌方的擦弹，并造成伤害。"}

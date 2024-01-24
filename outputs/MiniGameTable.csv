@@ -1,0 +1,2 @@
+id,category_name,category,jacket_path,first_clear_reward,display_order
+1,灵梦的祓除大作战,1,MiniGame_001.png,{ "object_type" : 10| "object_id" : 386| "object_value" : 1| "custom_parameter" :  "{\"potential_limitbreak\" : 4}" },1

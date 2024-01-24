@@ -1,0 +1,6 @@
+id,rare,consume_piece,spellcard_level,growth_rate
+1,1,0,1,0.0
+2,2,10,2,3.0
+3,3,30,3,7.0
+4,4,60,4,12.5
+5,5,100,5,20.0

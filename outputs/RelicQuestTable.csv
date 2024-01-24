@@ -1,0 +1,10 @@
+id,relic_chapter_id,title,normal_battle_id,hard_battle_id,lunatic_battle_id,comic_filepath
+302001,302001,「白银之风」,30200101,0,0,RelicQuest/302001/Episode1.asset
+303201,303201,「斑驳木春菊」,30320101,0,0,RelicQuest/303201/Episode1.asset
+303801,303801,「道别淡染天青」,30380101,0,0,RelicQuest/303801/Episode1.asset
+405001,405001,「NAЯAKA」,40500101,0,0,RelicQuest/405001/Episode1.asset
+500301,500301,「暖热的指尖」,50030101,0,0,RelicQuest/500301/Episode1.asset
+500401,500401,「I'm Alright!」,50040101,0,0,RelicQuest/500401/Episode1.asset
+501101,501101,「Disillusion」,50110101,0,0,RelicQuest/501101/Episode1.asset
+600501,600501,「月与十六夜」,60050101,0,0,RelicQuest/600501/Episode1.asset
+800201,800201,「划破夜空的光」,80020101,0,0,RelicQuest/800201/Episode1.asset

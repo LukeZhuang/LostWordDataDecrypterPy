@@ -1,0 +1,6 @@
+id,unit_id,unit_reincarnation_release_master_id,step_num,target_shot,target_magazine_index,release_bullet_master_id,slot1_object_type,slot1_object_id,slot1_object_value,slot2_object_type,slot2_object_id,slot2_object_value,slot3_object_type,slot3_object_id,slot3_object_value,slot4_object_type,slot4_object_id,slot4_object_value
+1,1001,128,0,1,0,100000001,12,1001,50,12,313,20,12,212,80,12,401,2500
+2,1001,129,0,2,0,100000007,12,1001,50,12,313,20,12,212,80,12,402,500
+3,1024,163,0,1,0,100000691,12,1024,50,12,313,20,12,212,80,12,404,500
+4,1009,623,0,1,0,100000241,12,1009,50,12,313,20,12,212,80,12,401,2500
+5,1009,624,0,2,0,100000247,12,1009,50,12,313,20,12,212,80,12,402,500

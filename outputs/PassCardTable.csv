@@ -1,0 +1,81 @@
+id,level,free_reward_goods,vip_reward_goods
+1,1,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 9| "id": 4020| "value": 1}|{"type": 12| "id": 401| "value": 10}]}
+2,2,{"free_data":[{"type": 12| "id": 111| "value": 5}]},{"pay_data":[{"type": 12| "id": 211| "value": 5}|{"type": 12| "id": 402| "value": 5}]}
+3,3,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 111| "value": 5}|{"type": 12| "id": 403| "value": 5}]}
+4,4,{"free_data":[{"type": 12| "id": 121| "value": 5}]},{"pay_data":[{"type": 12| "id": 221| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+5,5,{"free_data":[{"type": 101| "id": 0| "value": 10}]},{"pay_data":[{"type": 12| "id": 121| "value": 5}|{"type": 12| "id": 404| "value": 5}]}
+6,6,{"free_data":[{"type": 12| "id": 131| "value": 5}]},{"pay_data":[{"type": 12| "id": 231| "value": 5}|{"type": 12| "id": 405| "value": 5}]}
+7,7,{"free_data":[{"type": 12| "id": 211| "value": 5}]},{"pay_data":[{"type": 12| "id": 131| "value": 5}|{"type": 12| "id": 406| "value": 5}]}
+8,8,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 241| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+9,9,{"free_data":[{"type": 12| "id": 221| "value": 5}]},{"pay_data":[{"type": 3| "id": 0| "value": 2000}|{"type": 12| "id": 311| "value": 5}]}
+10,10,{"free_data":[{"type": 6| "id": 0| "value": 5}]},{"pay_data":[{"type": 4| "id": 0| "value": 500}|{"type": 12| "id": 401| "value": 10}]}
+11,11,{"free_data":[{"type": 12| "id": 231| "value": 5}]},{"pay_data":[{"type": 12| "id": 111| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+12,12,{"free_data":[{"type": 101| "id": 0| "value": 10}]},{"pay_data":[{"type": 12| "id": 212| "value": 5}|{"type": 12| "id": 321| "value": 5}]}
+13,13,{"free_data":[{"type": 12| "id": 241| "value": 5}]},{"pay_data":[{"type": 12| "id": 121| "value": 5}|{"type": 12| "id": 402| "value": 5}]}
+14,14,{"free_data":[{"type": 12| "id": 112| "value": 3}]},{"pay_data":[{"type": 12| "id": 222| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+15,15,{"free_data":[{"type": 12| "id": 211| "value": 5}]},{"pay_data":[{"type": 12| "id": 131| "value": 5}|{"type": 12| "id": 331| "value": 5}]}
+16,16,{"free_data":[{"type": 12| "id": 122| "value": 3}]},{"pay_data":[{"type": 12| "id": 232| "value": 5}|{"type": 12| "id": 403| "value": 5}]}
+17,17,{"free_data":[{"type": 12| "id": 221| "value": 5}]},{"pay_data":[{"type": 3| "id": 0| "value": 2000}|{"type": 12| "id": 601| "value": 5}]}
+18,18,{"free_data":[{"type": 12| "id": 132| "value": 3}]},{"pay_data":[{"type": 12| "id": 242| "value": 5}|{"type": 12| "id": 341| "value": 5}]}
+19,19,{"free_data":[{"type": 12| "id": 231| "value": 5}]},{"pay_data":[{"type": 6| "id": 0| "value": 5}|{"type": 12| "id": 404| "value": 5}]}
+20,20,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 12| "id": 702| "value": 3}|{"type": 12| "id": 601| "value": 5}]}
+21,21,{"free_data":[{"type": 12| "id": 241| "value": 5}]},{"pay_data":[{"type": 12| "id": 112| "value": 3}|{"type": 12| "id": 351| "value": 5}]}
+22,22,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 312| "value": 5}|{"type": 12| "id": 405| "value": 5}]}
+23,23,{"free_data":[{"type": 12| "id": 311| "value": 5}]},{"pay_data":[{"type": 12| "id": 122| "value": 3}|{"type": 12| "id": 601| "value": 5}]}
+24,24,{"free_data":[{"type": 12| "id": 211| "value": 5}]},{"pay_data":[{"type": 12| "id": 322| "value": 5}|{"type": 12| "id": 361| "value": 5}]}
+25,25,{"free_data":[{"type": 12| "id": 321| "value": 5}]},{"pay_data":[{"type": 12| "id": 132| "value": 3}|{"type": 12| "id": 406| "value": 5}]}
+26,26,{"free_data":[{"type": 12| "id": 221| "value": 5}]},{"pay_data":[{"type": 12| "id": 332| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+27,27,{"free_data":[{"type": 12| "id": 331| "value": 5}]},{"pay_data":[{"type": 3| "id": 0| "value": 2000}|{"type": 12| "id": 371| "value": 5}]}
+28,28,{"free_data":[{"type": 12| "id": 231| "value": 5}]},{"pay_data":[{"type": 12| "id": 342| "value": 5}|{"type": 101| "id": 0| "value": 10}]}
+29,29,{"free_data":[{"type": 12| "id": 341| "value": 5}]},{"pay_data":[{"type": 12| "id": 212| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+30,30,{"free_data":[{"type": 12| "id": 241| "value": 5}]},{"pay_data":[{"type": 12| "id": 113| "value": 1}|{"type": 12| "id": 381| "value": 5}]}
+31,31,{"free_data":[{"type": 6| "id": 0| "value": 5}]},{"pay_data":[{"type": 12| "id": 352| "value": 5}|{"type": 12| "id": 401| "value": 10}]}
+32,32,{"free_data":[{"type": 12| "id": 351| "value": 5}]},{"pay_data":[{"type": 12| "id": 222| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
+33,33,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 362| "value": 5}|{"type": 12| "id": 402| "value": 5}]}
+34,34,{"free_data":[{"type": 12| "id": 361| "value": 5}]},{"pay_data":[{"type": 12| "id": 232| "value": 5}|{"type": 12| "id": 311| "value": 5}]}
+35,35,{"free_data":[{"type": 101| "id": 0| "value": 10}]},{"pay_data":[{"type": 12| "id": 372| "value": 5}|{"type": 12| "id": 602| "value": 5}]}
+36,36,{"free_data":[{"type": 12| "id": 371| "value": 5}]},{"pay_data":[{"type": 12| "id": 242| "value": 5}|{"type": 12| "id": 403| "value": 5}]}
+37,37,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 382| "value": 5}|{"type": 12| "id": 321| "value": 5}]}
+38,38,{"free_data":[{"type": 12| "id": 381| "value": 5}]},{"pay_data":[{"type": 3| "id": 0| "value": 2000}|{"type": 12| "id": 602| "value": 5}]}
+39,39,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 312| "value": 5}|{"type": 12| "id": 404| "value": 5}]}
+40,40,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 12| "id": 701| "value": 2}|{"type": 12| "id": 331| "value": 5}]}
+41,41,{},{"pay_data":[{"type": 12| "id": 322| "value": 5}|{"type": 12| "id": 602| "value": 5}]}
+42,42,{},{"pay_data":[{"type": 6| "id": 0| "value": 5}|{"type": 12| "id": 405| "value": 5}]}
+43,43,{},{"pay_data":[{"type": 12| "id": 332| "value": 5}|{"type": 12| "id": 341| "value": 5}]}
+44,44,{},{"pay_data":[{"type": 12| "id": 112| "value": 3}|{"type": 12| "id": 602| "value": 5}]}
+45,45,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 342| "value": 5}|{"type": 12| "id": 406| "value": 5}]}
+46,46,{},{"pay_data":[{"type": 12| "id": 122| "value": 3}|{"type": 12| "id": 351| "value": 5}]}
+47,47,{},{"pay_data":[{"type": 12| "id": 352| "value": 5}|{"type": 12| "id": 602| "value": 5}]}
+48,48,{},{"pay_data":[{"type": 12| "id": 132| "value": 3}|{"type": 12| "id": 211| "value": 5}]}
+49,49,{},{"pay_data":[{"type": 12| "id": 362| "value": 5}|{"type": 12| "id": 371| "value": 5}]}
+50,50,{"free_data":[{"type": 6| "id": 0| "value": 5}]},{"pay_data":[{"type": 12| "id": 123| "value": 1}|{"type": 12| "id": 602| "value": 5}]}
+51,51,{},{"pay_data":[{"type": 12| "id": 372| "value": 5}|{"type": 12| "id": 221| "value": 5}]}
+52,52,{},{"pay_data":[{"type": 6| "id": 0| "value": 5}|{"type": 12| "id": 361| "value": 5}]}
+53,53,{},{"pay_data":[{"type": 12| "id": 382| "value": 5}|{"type": 101| "id": 0| "value": 10}]}
+54,54,{},{"pay_data":[{"type": 12| "id": 213| "value": 1}|{"type": 12| "id": 231| "value": 5}]}
+55,55,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 313| "value": 1}|{"type": 12| "id": 381| "value": 5}]}
+56,56,{},{"pay_data":[{"type": 12| "id": 112| "value": 3}|{"type": 12| "id": 603| "value": 5}]}
+57,57,{},{"pay_data":[{"type": 12| "id": 212| "value": 5}|{"type": 12| "id": 241| "value": 5}]}
+58,58,{},{"pay_data":[{"type": 12| "id": 323| "value": 1}|{"type": 12| "id": 311| "value": 5}]}
+59,59,{},{"pay_data":[{"type": 12| "id": 223| "value": 1}|{"type": 12| "id": 401| "value": 10}]}
+60,60,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 19| "id": 0| "value": 50}|{"type": 12| "id": 603| "value": 5}]}
+61,61,{},{"pay_data":[{"type": 12| "id": 333| "value": 1}|{"type": 12| "id": 321| "value": 5}]}
+62,62,{},{"pay_data":[{"type": 12| "id": 222| "value": 5}|{"type": 12| "id": 402| "value": 5}]}
+63,63,{},{"pay_data":[{"type": 6| "id": 0| "value": 5}|{"type": 12| "id": 603| "value": 5}]}
+64,64,{},{"pay_data":[{"type": 12| "id": 232| "value": 5}|{"type": 12| "id": 331| "value": 5}]}
+65,65,{},{"pay_data":[{"type": 12| "id": 122| "value": 3}|{"type": 12| "id": 403| "value": 5}]}
+66,66,{},{"pay_data":[{"type": 12| "id": 343| "value": 1}|{"type": 12| "id": 603| "value": 5}]}
+67,67,{},{"pay_data":[{"type": 3| "id": 0| "value": 2000}|{"type": 12| "id": 341| "value": 5}]}
+68,68,{},{"pay_data":[{"type": 12| "id": 233| "value": 1}|{"type": 12| "id": 404| "value": 5}]}
+69,69,{},{"pay_data":[{"type": 12| "id": 353| "value": 1}|{"type": 12| "id": 604| "value": 2}]}
+70,70,{"free_data":[{"type": 6| "id": 0| "value": 5}]},{"pay_data":[{"type": 12| "id": 133| "value": 1}|{"type": 12| "id": 405| "value": 5}]}
+71,71,{},{"pay_data":[{"type": 12| "id": 242| "value": 5}|{"type": 12| "id": 351| "value": 5}]}
+72,72,{},{"pay_data":[{"type": 12| "id": 363| "value": 1}|{"type": 12| "id": 604| "value": 2}]}
+73,73,{},{"pay_data":[{"type": 6| "id": 0| "value": 5}|{"type": 12| "id": 406| "value": 5}]}
+74,74,{},{"pay_data":[{"type": 3| "id": 0| "value": 2000}|{"type": 12| "id": 361| "value": 5}]}
+75,75,{},{"pay_data":[{"type": 12| "id": 373| "value": 1}|{"type": 12| "id": 604| "value": 2}]}
+76,76,{},{"pay_data":[{"type": 12| "id": 243| "value": 1}|{"type": 12| "id": 381| "value": 5}]}
+77,77,{},{"pay_data":[{"type": 6| "id": 0| "value": 5}|{"type": 101| "id": 0| "value": 10}]}
+78,78,{},{"pay_data":[{"type": 12| "id": 132| "value": 3}|{"type": 12| "id": 604| "value": 2}]}
+79,79,{},{"pay_data":[{"type": 12| "id": 383| "value": 1}|{"type": 12| "id": 371| "value": 5}]}
+80,80,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 4| "id": 0| "value": 1500}|{"type": 12| "id": 604| "value": 2}]}

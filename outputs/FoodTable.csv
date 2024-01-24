@@ -1,0 +1,7 @@
+id,item_id,value,consume_phantasm_point,consume_orb,add_effect_up_rate,add_effect_time
+1,601,1000,10,0,0,0
+2,602,2000,20,0,0,0
+3,603,3000,30,0,0,0
+4,604,5000,50,0,5,60
+5,605,10000,0,10,10,180
+6,606,20000,0,20,20,360

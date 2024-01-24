@@ -1,0 +1,6 @@
+id,type,appear_limit,open_dispatch_group_id,open_complete_count,open_start_hour,open_end_hour,close_complete_count,display_order,description
+1,0,0,0,0,0,0,10,100,每日优先(可以完成10次)
+2,0,0,1,10,0,0,0,100,每日(完成10次每日优先之后)
+3,0,1,0,0,0,0,0,10,每日长时间
+4,1,3,0,0,0,0,0,10,紧急
+5,1,3,0,0,-5,0,0,10,紧急夜间
