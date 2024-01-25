@@ -74,5 +74,10 @@ for class_name, line_num in record_line_nums.items():
         class_fields = sorted(class_fields)
     fo.write("|".join(class_fields) + "\n")
 
+hardcoded_tables = open("hardcoded_class_fields.txt")
+for line in hardcoded_tables:
+    fo.write(line)
+hardcoded_tables.close()
+
 fo.close()
 f.close()
