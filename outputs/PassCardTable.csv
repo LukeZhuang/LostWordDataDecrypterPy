@@ -1,5 +1,5 @@
 id,level,free_reward_goods,vip_reward_goods
-1,1,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 9| "id": 4020| "value": 1}|{"type": 12| "id": 401| "value": 10}]}
+1,1,{"free_data":[{"type": 998| "id": 0| "value": 20}]},{"pay_data":[{"type": 9| "id": 2014| "value": 1}|{"type": 12| "id": 401| "value": 10}]}
 2,2,{"free_data":[{"type": 12| "id": 111| "value": 5}]},{"pay_data":[{"type": 12| "id": 211| "value": 5}|{"type": 12| "id": 402| "value": 5}]}
 3,3,{"free_data":[{"type": 3| "id": 0| "value": 1000}]},{"pay_data":[{"type": 12| "id": 111| "value": 5}|{"type": 12| "id": 403| "value": 5}]}
 4,4,{"free_data":[{"type": 12| "id": 121| "value": 5}]},{"pay_data":[{"type": 12| "id": 221| "value": 5}|{"type": 12| "id": 601| "value": 5}]}
