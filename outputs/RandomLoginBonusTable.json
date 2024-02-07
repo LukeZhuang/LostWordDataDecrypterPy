@@ -4,3 +4,4 @@
 {"id": 220727, "event_id": 5220, "reward_group_id": 220727, "fix_reward_days": 0, "receive_period": 10, "unit_position_id": 10410101, "speech_param": "{\n  \"start_group_id\": 1000\n}"}
 {"id": 221223, "event_id": 6440, "reward_group_id": 221223, "fix_reward_days": 0, "receive_period": 10, "unit_position_id": 10410101, "speech_param": "{\n  \"start_group_id\": 1000\n}"}
 {"id": 231001, "event_id": 6441, "reward_group_id": 231001, "fix_reward_days": 0, "receive_period": 10, "unit_position_id": 10410101, "speech_param": "{\n  \"start_group_id\": 1000\n}"}
+{"id": 240210, "event_id": 6442, "reward_group_id": 240210, "fix_reward_days": 0, "receive_period": 10, "unit_position_id": 10410101, "speech_param": "{\n  \"start_group_id\": 1000\n}"}

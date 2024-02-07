@@ -5,3 +5,4 @@ id,event_id,reward_group_id,fix_reward_days,receive_period,unit_position_id,spee
 220727,5220,220727,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
 221223,6440,221223,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
 231001,6441,231001,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}
+240210,6442,240210,0,10,10410101,{<ret>  "start_group_id": 1000<ret>}

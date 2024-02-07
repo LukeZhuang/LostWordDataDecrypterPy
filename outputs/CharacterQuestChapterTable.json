@@ -55,11 +55,17 @@
 {"id": 108801, "target_name": "蕾蒂·霍瓦特洛克", "target_unit_id": 1088, "priority": 61, "costume_id": 108801, "unit_speech_group_id": 574}
 {"id": 110501, "target_name": "堀川雷鼓", "target_unit_id": 1105, "priority": 55, "costume_id": 110501, "unit_speech_group_id": 523}
 {"id": 200201, "target_name": "雾雨魔理沙", "target_unit_id": 2002, "priority": 62, "costume_id": 200201, "unit_speech_group_id": 621}
+{"id": 200301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 2003, "priority": 99, "costume_id": 200301, "unit_speech_group_id": 972}
+{"id": 200501, "target_name": "十六夜咲夜", "target_unit_id": 2005, "priority": 97, "costume_id": 200501, "unit_speech_group_id": 971}
+{"id": 200701, "target_name": "红美铃", "target_unit_id": 2007, "priority": 94, "costume_id": 200701, "unit_speech_group_id": 975}
+{"id": 200801, "target_name": "小恶魔", "target_unit_id": 2008, "priority": 95, "costume_id": 200801, "unit_speech_group_id": 976}
 {"id": 201001, "target_name": "西行寺幽幽子", "target_unit_id": 2010, "priority": 64, "costume_id": 201001, "unit_speech_group_id": 623}
 {"id": 201101, "target_name": "魂魄妖梦", "target_unit_id": 2011, "priority": 63, "costume_id": 201101, "unit_speech_group_id": 622}
 {"id": 300101, "target_name": "博丽灵梦", "target_unit_id": 3001, "priority": 79, "costume_id": 300101, "unit_speech_group_id": 821}
 {"id": 300201, "target_name": "雾雨魔理沙", "target_unit_id": 3002, "priority": 80, "costume_id": 300201, "unit_speech_group_id": 822}
+{"id": 300401, "target_name": "芙兰朵露·斯卡雷特", "target_unit_id": 3004, "priority": 98, "costume_id": 300401, "unit_speech_group_id": 973}
 {"id": 300501, "target_name": "十六夜咲夜", "target_unit_id": 3005, "priority": 81, "costume_id": 300501, "unit_speech_group_id": 823}
+{"id": 300601, "target_name": "帕秋莉·诺蕾姬", "target_unit_id": 3006, "priority": 96, "costume_id": 300601, "unit_speech_group_id": 974}
 {"id": 301101, "target_name": "魂魄妖梦", "target_unit_id": 3011, "priority": 82, "costume_id": 301101, "unit_speech_group_id": 824}
 {"id": 301501, "target_name": "铃仙·优昙华院·因幡", "target_unit_id": 3015, "priority": 83, "costume_id": 301501, "unit_speech_group_id": 825}
 {"id": 303701, "target_name": "东风谷早苗", "target_unit_id": 3037, "priority": 84, "costume_id": 303701, "unit_speech_group_id": 826}
