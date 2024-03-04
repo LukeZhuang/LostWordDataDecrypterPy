@@ -175,6 +175,8 @@
 {"id": 2082001, "chapter_id": 2082, "mode": 1, "title": "特殊章节 启蛰的秘神游戏", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 0}
 {"id": 2084000, "chapter_id": 2084, "mode": 0, "title": "三途河中发现了传说中的魔克拉姆边贝！！", "sub_title": "", "number": 1, "costume_id": 100701, "unit_speech_group_id": 764, "open_type": 0}
 {"id": 2084001, "chapter_id": 2084, "mode": 1, "title": "特殊章节 三途河中发现了传说中的魔克拉姆边贝！！", "sub_title": "", "number": 1, "costume_id": 100704, "unit_speech_group_id": 765, "open_type": 0}
+{"id": 2086000, "chapter_id": 2086, "mode": 0, "title": "博丽神社学院冒险谭 蕾米定向越野赛", "sub_title": "", "number": 1, "costume_id": 101107, "unit_speech_group_id": 814, "open_type": 0}
+{"id": 2086001, "chapter_id": 2086, "mode": 1, "title": "特殊章节 博丽神社学院冒险谭 蕾米定向越野赛", "sub_title": "", "number": 1, "costume_id": 100507, "unit_speech_group_id": 815, "open_type": 1}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

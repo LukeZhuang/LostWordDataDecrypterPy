@@ -423,7 +423,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 5873,5870,4,累计点数,Event_bg_5870_3,(empty),11
 5874,5874,2,登录奖励,Event_LoginBonus_bg_3190,(empty),3
 5920,5920,2,ログインボーナス,Event_LoginBonus_bg_3310,(empty),24
-5940,5940,2,ログインボーナス,Event_LoginBonus_bg_3601,(empty),25
+5940,5940,2,登录奖励,Event_LoginBonus_bg_3601,(empty),25
 5980,5980,101,キャンペーン,Event_2HalfAnv_campaign_bg,Event_2HalfAnv_campaign_titile,1
 6000,6000,2,登录奖励,Event_LoginBonus_bg_3121,(empty),26
 6050,6050,1,イベント,Event_bg_6050_1,(empty),2
@@ -504,7 +504,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 6803,6800,4,累計ポイント,Event_bg_6800_3,(empty),5
 6830,6830,8,おとぎ草子,Event_Manga_bg_3540,(empty),12
 6840,6840,2,登录奖励,Event_LoginBonus_bg_tower,(empty),3
-6850,6850,2,ログインボーナス,Event_LoginBonus_bg_6850,(empty),23
+6850,6850,2,登录奖励,Event_LoginBonus_bg_6850,(empty),23
 6880,6880,1,剧情活动,Event_bg_6880_1,(empty),2
 6881,6881,2,登录奖励,Event_LoginBonus_bg_6881,(empty),3
 6882,6880,3,幸运抽奖,Event_bg_6880_2,(empty),10
@@ -520,13 +520,14 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 7040,7040,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7041,7041,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7042,7042,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
+7043,7043,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7050,7050,2,ログインボーナス,Event_LoginBonus_bg_3050,(empty),21
 7060,7060,2,登录签到,Event_LoginBonus_bg_4200,(empty),11
-7080,7080,1,イベント,Event_bg_7080_1,(empty),2
-7081,7081,2,ログインボーナス,Event_LoginBonus_bg_7081,(empty),3
-7082,7080,3,ふくびき,Event_bg_7080_2,(empty),10
-7083,7080,4,累計ポイント,Event_bg_7080_3,(empty),11
-7084,7084,2,ログインボーナス,Event_LoginBonus_bg_7084,(empty),3
+7080,7080,1,剧情活动,Event_bg_7080_1,(empty),2
+7081,7081,2,登录奖励,Event_LoginBonus_bg_7081,(empty),3
+7082,7080,3,幸运抽奖,Event_bg_7080_2,(empty),10
+7083,7080,4,累计点数,Event_bg_7080_3,(empty),11
+7084,7084,2,登录奖励,Event_LoginBonus_bg_7084,(empty),3
 7150,7150,2,登录奖励,Event_LoginBonus_bg_7150,(empty),22
 7160,7160,2,ログインボーナス,Event_LoginBonus_bg_7160,(empty),18
 7170,7170,2,登录奖励,Event_LoginBonus_bg_7170,(empty),29

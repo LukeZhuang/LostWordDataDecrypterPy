@@ -48,6 +48,8 @@
 {"id": 106201, "target_name": "露娜萨·普莉兹姆利巴", "target_unit_id": 1062, "priority": 39, "costume_id": 106201, "unit_speech_group_id": 352}
 {"id": 106301, "target_name": "梅露兰·普莉兹姆利巴", "target_unit_id": 1063, "priority": 40, "costume_id": 106301, "unit_speech_group_id": 353}
 {"id": 106401, "target_name": "莉莉卡·普莉兹姆利巴", "target_unit_id": 1064, "priority": 41, "costume_id": 106401, "unit_speech_group_id": 354}
+{"id": 106701, "target_name": "九十九弁弁", "target_unit_id": 1067, "priority": 53, "costume_id": 106701, "unit_speech_group_id": 521}
+{"id": 106801, "target_name": "九十九八桥", "target_unit_id": 1068, "priority": 54, "costume_id": 106801, "unit_speech_group_id": 522}
 {"id": 107301, "target_name": "露米娅", "target_unit_id": 1073, "priority": 45, "costume_id": 107301, "unit_speech_group_id": 372}
 {"id": 108001, "target_name": "哆来咪·苏伊特", "target_unit_id": 1080, "priority": 37, "costume_id": 108001, "unit_speech_group_id": 338}
 {"id": 108101, "target_name": "稀神探女", "target_unit_id": 1081, "priority": 36, "costume_id": 108101, "unit_speech_group_id": 337}
