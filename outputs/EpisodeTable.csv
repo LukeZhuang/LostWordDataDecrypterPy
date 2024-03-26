@@ -2008,6 +2008,33 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 208200103,2082,2082001,看清真实吧,后夜祭·其二,3,0,208238,208241,208244,Event34/Extra/Episode2.asset,1,(empty),0
 208200104,2082,2082001,在走廊上奔跑吧！,后夜祭·其三,4,0,208239,208242,208245,Event34/Extra/Episode3.asset,1,(empty),0
 208200105,2082,2082001,然后，直到再见那一天,闭幕,5,1,0,0,0,Event34/Extra/Episode4.asset,1,(empty),0
+208300001,2083,2083000,苦恼与邂逅,序幕,1,1,0,0,0,Event23/Episode0.asset,0,(empty),1
+208300002,2083,2083000,剑客招来,第一击,2,1,0,0,0,Event23/Episode1.asset,1,(empty),1
+208300003,2083,2083000,剑·拳·破？,第二击,3,0,208301,208319,208337,Event23/Episode2.asset,1,(empty),1
+208300004,2083,2083000,演舞其1,自由战斗,4,0,208302,208320,208338,Event23/FreeBattle1.asset,1,(empty),1
+208300005,2083,2083000,少女啊争锋吧,第三击,5,0,208303,208321,208339,Event23/Episode3.asset,1,(empty),1
+208300006,2083,2083000,演舞其2,自由战斗,6,0,208304,208322,208340,Event23/FreeBattle2.asset,1,(empty),1
+208300007,2083,2083000,大危机！拯救师傅,第四击,7,0,208305,208323,208341,Event23/Episode4.asset,2,{"start_at":"2024-03-27 00:00:00"},1
+208300008,2083,2083000,现在，向白玉楼前进,第五击,8,0,208306,208324,208342,Event23/Episode5.asset,1,(empty),1
+208300009,2083,2083000,威胁！幽灵乐团出现,第六击,9,0,208307,208325,208343,Event23/Episode6.asset,1,(empty),1
+208300010,2083,2083000,冲击！女仆剑术,第七击,10,0,208308,208326,208344,Event23/Episode7.asset,1,(empty),1
+208300011,2083,2083000,胜负！白天的吸血鬼,第八击,11,0,208309,208327,208345,Event23/Episode8.asset,1,(empty),1
+208300012,2083,2083000,突击！迷之假面乐团,第九击,12,0,208310,208328,208346,Event23/Episode9.asset,2,{"start_at":"2024-03-28 00:00:00"},1
+208300013,2083,2083000,刺客！阻挡去路的神剑,第十击,13,0,208311,208329,208347,Event23/Episode10.asset,1,(empty),1
+208300014,2083,2083000,鬼哭啾啾所为！？,第十一击,14,0,208312,208330,208348,Event23/Episode11.asset,1,(empty),1
+208300015,2083,2083000,急袭！金刚不坏的绯想剑,第十二击,15,0,208313,208331,208349,Event23/Episode12.asset,1,(empty),1
+208300016,2083,2083000,站起来妖梦！献给师傅的必杀剑,第十三击,16,0,208314,208332,208350,Event23/Episode13.asset,1,(empty),1
+208300017,2083,2083000,决战！亡灵大小姐的活人剑,第十四击,17,0,208315,208333,208351,Event23/Episode14.asset,2,{"start_at":"2024-03-29 00:00:00"},1
+208300018,2083,2083000,拯救师傅！向本营前进,第十五击,18,1,0,0,0,Event23/Episode15.asset,1,(empty),1
+208300019,2083,2083000,师徒决战！剑的护法,第十六击,19,0,208316,208334,208352,Event23/Episode16.asset,1,(empty),1
+208300020,2083,2083000,至理名言！以礼法作为事物的根本,第十七击,20,0,208317,208335,208353,Event23/Episode17.asset,1,(empty),1
+208300021,2083,2083000,偶像大师！上场,第十八击,21,0,208318,208336,208354,Event23/Episode18.asset,1,(empty),1
+208300022,2083,2083000,完全胜利！为了变强,终幕,22,1,0,0,0,Event23/Episode19.asset,1,(empty),1
+208300101,2083,2083001,余兴伴随着赠礼一起,序幕,1,1,0,0,0,Event23/Extra/Episode0.asset,0,(empty),0
+208300102,2083,2083001,空旷的共鸣,再训练1,2,0,208355,208358,208361,Event23/Extra/Episode1.asset,1,(empty),0
+208300103,2083,2083001,不着边际的搜寻之物,再训练2,3,0,208356,208359,208362,Event23/Extra/Episode2.asset,1,(empty),0
+208300104,2083,2083001,线索切断,再训练3,4,0,208357,208360,208363,Event23/Extra/Episode3.asset,1,(empty),0
+208300105,2083,2083001,剑即是心,终幕,5,1,0,0,0,Event23/Extra/Episode4.asset,1,(empty),0
 208400001,2084,2084000,传说中的生物是实际存在的！！,序幕！！,1,1,0,0,0,Event35/Episode0.asset,0,(empty),1
 208400002,2084,2084000,为了应对红魔馆的危机，门卫踏上旅程！！,第1回！！,2,0,208401,208412,208423,Event35/Episode1.asset,1,(empty),1
 208400003,2084,2084000,见到了村庄中流行的神秘白色物体！！,第2回！！,3,1,0,0,0,Event35/Episode2.asset,1,(empty),1
@@ -2064,6 +2091,32 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 208600103,2086,2086001,在教室大乱斗！！,额外 历程2,3,0,208659,208662,208665,Event36/Extra/Episode2.asset,1,(empty),0
 208600104,2086,2086001,在校园尽情玩耍！！,额外 历程3,4,0,208660,208663,208666,Event36/Extra/Episode3.asset,1,(empty),0
 208600105,2086,2086001,之后，宴会依然继续,祝贺！,5,1,0,0,0,Event36/Extra/Episode4.asset,1,(empty),0
+208900001,2089,2089000,野兽们的集会,序幕,1,1,0,0,0,Event37/Episode0.asset,0,(empty),1
+208900002,2089,2089000,梦想成为明星而来到了这里！,第一杯,2,0,208901,208916,208931,Event37/Episode1.asset,1,(empty),1
+208900003,2089,2089000,最初的测试开始！,第二杯,3,0,208902,208917,208932,Event37/Episode2.asset,1,(empty),1
+208900004,2089,2089000,测试用麻烦的客人,梦幻1,4,0,208903,208918,208933,Event37/FreeBattle1.asset,1,(empty),1
+208900005,2089,2089000,野兽梦幻沙龙出动,第三杯,5,0,208904,208919,208934,Event37/Episode3.asset,1,(empty),1
+208900006,2089,2089000,消失的锅与流行的游戏,第四杯,6,1,0,0,0,Event37/Episode4.asset,2,{"start_at":"2024-04-10 00:00:00"},1
+208900007,2089,2089000,决斗！通宵陀螺！！,第五杯,7,0,208905,208920,208935,Event37/Episode5.asset,1,(empty),1
+208900008,2089,2089000,热衷！通宵陀螺！！,梦幻2,8,0,208906,208921,208936,Event37/FreeBattle2.asset,1,(empty),1
+208900009,2089,2089000,摄影要有计划得进行,第六杯,9,0,208907,208922,208937,Event37/Episode6.asset,1,(empty),1
+208900010,2089,2089000,最美的交易,第七杯,10,0,208908,208923,208938,Event37/Episode7.asset,1,(empty),1
+208900011,2089,2089000,烦恼与食材都吃进肚中,第八杯,11,0,208909,208924,208939,Event37/Episode8.asset,2,{"start_at":"2024-04-11 00:00:00"},1
+208900012,2089,2089000,希望能稍微分我一些呢,梦幻3,12,0,208910,208925,208940,Event37/FreeBattle3.asset,1,(empty),1
+208900013,2089,2089000,回响山间的咆哮,第九杯,13,0,208911,208926,208941,Event37/Episode9.asset,1,(empty),1
+208900014,2089,2089000,刚欲vs山姥,第十杯,14,0,208912,208927,208942,Event37/Episode10.asset,1,(empty),1
+208900015,2089,2089000,让她们站在舞台之上吧,第十一杯,15,1,0,0,0,Event37/Episode11.asset,1,(empty),1
+208900016,2089,2089000,焦急、跌倒、烦恼,第十二杯,16,0,208913,208928,208943,Event37/Episode12.asset,2,{"start_at":"2024-04-12 00:00:00"},1
+208900017,2089,2089000,向明星许愿,第十三杯,17,0,208914,208929,208944,Event37/Episode13.asset,1,(empty),1
+208900018,2089,2089000,野兽马戏团,第十四杯,18,0,208915,208930,208945,Event37/Episode14.asset,1,(empty),1
+208900019,2089,2089000,某野兽成功的故事,第十五杯,19,1,0,0,0,Event37/Episode15.asset,1,(empty),1
+208900020,2089,2089000,为了某一天的约定,终幕,20,1,0,0,0,Event37/Episode16.asset,1,(empty),1
+208900101,2089,2089001,野兽们的集会、再次,序幕,1,1,0,0,0,Event37/Extra/Episode0.asset,0,(empty),0
+208900102,2089,2089001,你是厉害的家伙吗？,再来一碗１,2,0,208946,208949,208952,Event37/Extra/Episode1.asset,1,(empty),0
+208900103,2089,2089001,您有智慧吗？,再来一碗２,3,0,208947,208950,208953,Event37/Extra/Episode2.asset,1,(empty),0
+208900104,2089,2089001,让我见识一下你无底洞的欲望,再来一碗３,4,0,208948,208951,208954,Event37/Extra/Episode3.asset,1,(empty),0
+208900105,2089,2089001,从这里开始的兽道,终幕,5,1,0,0,0,Event37/Extra/Episode4.asset,1,(empty),0
+210600001,2106,2106000,宇佐见莲子体验探索,体验探索,1,0,210564,0,0,Daily/Wave1.asset,0,(empty),0
 300100101,3001,3001001,一个人的茶会？ 第1话,记号B3·第1节,1,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode1.asset,0,(empty),1
 300100102,3001,3001001,一个人的茶会？ 第2话,记号B3·第1节,2,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode2.asset,1,(empty),1
 300100103,3001,3001001,一个人的茶会？ 第3话,记号B3·第1节,3,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode3.asset,1,(empty),1
@@ -2126,6 +2179,19 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 300201101,3002,3002011,不为人知的受邀者,记号E9·第11节,1,0,300207,300215,300223,Another/St0010_SecretSealing_SymbolE9/Section11/Episode1.asset,1,(empty),1
 300201201,3002,3002012,幻想念想,记号E9·第12节,1,0,300208,300216,300224,Another/St0010_SecretSealing_SymbolE9/Section12/Episode1.asset,1,(empty),1
 300201301,3002,3002013,新世界,记号E9·第13节,1,1,0,0,0,Another/St0010_SecretSealing_SymbolE9/Section13/Episode1.asset,1,(empty),1
+300300101,3003,3003001,Ｒ文书「？？？」复原部位,记号L?·第1节,1,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section01/Episode1.asset,0,(empty),1
+300300102,3003,3003001,Ｍ文书「？？？」复原部位,记号L?·第1节,2,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section01/Episode2.asset,1,(empty),1
+300300103,3003,3003001,Ｒ文书「少？？迹」１,记号L?·第1节,3,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section01/Episode3.asset,1,(empty),1
+300300104,3003,3003001,喝茶时间,记号L?·第1节,4,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section01/Episode4.asset,1,(empty),1
+300300105,3003,3003001,ＣＲ＋ＬＦ,记号L?·第1节,5,0,300301,300304,300307,Another/St0020_SecretSealing_SymbolLquestion/Section01/Episode5.asset,1,(empty),1
+300300201,3003,3003002,Ｍ文书「少女奇迹」Ａ,记号L?·第2节,6,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section02/Episode1.asset,1,(empty),1
+300300202,3003,3003002,Ｒ文书「少女奇迹」２,记号L?·第2节,7,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section02/Episode2.asset,1,(empty),1
+300300203,3003,3003002,Ｍ文书「少女奇迹」Ｂ,记号L?·第2节,8,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section02/Episode3.asset,1,(empty),1
+300300204,3003,3003002,ＣＲ＋ＬＦ,记号L?·第2节,9,0,300302,300305,300308,Daily/Wave3.asset,1,(empty),1
+300300301,3003,3003003,Ｒ文书「少女奇迹」３,记号L?·第3节,10,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section03/Episode1.asset,1,(empty),1
+300300302,3003,3003003,Ｍ文书「少女奇迹」Ｃ,记号L?·第3节,11,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section03/Episode2.asset,1,(empty),1
+300300303,3003,3003003,ＣＲ＋ＬＦ,记号L?·第3节,12,0,300303,300306,300309,Daily/Wave3.asset,1,(empty),1
+300300304,3003,3003003,喝茶时间,记号L?·第3节,13,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section03/Episode4.asset,1,(empty),1
 500300001,5003,5003000,「序」,第1话,1,0,500301,0,0,Special/HalfAnniversary2020/Episode1.asset,0,(empty),1
 500300002,5003,5003000,「破」,第2话,2,0,500302,0,0,Special/HalfAnniversary2020/Episode2.asset,1,(empty),1
 500300003,5003,5003000,「急」,第3话,3,0,500303,0,0,Special/HalfAnniversary2020/Episode3.asset,1,(empty),1

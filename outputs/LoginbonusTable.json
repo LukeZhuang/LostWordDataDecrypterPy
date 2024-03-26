@@ -45,7 +45,7 @@
 {"id": 202401, "year": 2024, "month": 1, "day_count": 31, "reward_group_id": 3102}
 {"id": 202402, "year": 2024, "month": 2, "day_count": 28, "reward_group_id": 2802}
 {"id": 202403, "year": 2024, "month": 3, "day_count": 31, "reward_group_id": 3102}
-{"id": 202404, "year": 2024, "month": 4, "day_count": 30, "reward_group_id": 3002}
+{"id": 202404, "year": 2024, "month": 4, "day_count": 30, "reward_group_id": 20230401}
 {"id": 202405, "year": 2024, "month": 5, "day_count": 31, "reward_group_id": 3002}
 {"id": 202406, "year": 2024, "month": 6, "day_count": 30, "reward_group_id": 3002}
 {"id": 202407, "year": 2024, "month": 7, "day_count": 31, "reward_group_id": 3102}

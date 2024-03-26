@@ -40,6 +40,8 @@
 {"id": 104501, "target_name": "姬海棠果", "target_unit_id": 1045, "priority": 48, "costume_id": 104501, "unit_speech_group_id": 395}
 {"id": 104601, "target_name": "犬走椛", "target_unit_id": 1046, "priority": 49, "costume_id": 104601, "unit_speech_group_id": 396}
 {"id": 104701, "target_name": "坂田合欢", "target_unit_id": 1047, "priority": 58, "costume_id": 104701, "unit_speech_group_id": 571}
+{"id": 104801, "target_name": "伊吹萃香", "target_unit_id": 1048, "priority": 57, "costume_id": 104801, "unit_speech_group_id": 525}
+{"id": 104901, "target_name": "星熊勇仪", "target_unit_id": 1049, "priority": 56, "costume_id": 104901, "unit_speech_group_id": 524}
 {"id": 105001, "target_name": "古明地觉", "target_unit_id": 1050, "priority": 42, "costume_id": 105001, "unit_speech_group_id": 369}
 {"id": 105101, "target_name": "古明地恋", "target_unit_id": 1051, "priority": 43, "costume_id": 105101, "unit_speech_group_id": 370}
 {"id": 105901, "target_name": "秋静叶", "target_unit_id": 1059, "priority": 51, "costume_id": 105901, "unit_speech_group_id": 416}

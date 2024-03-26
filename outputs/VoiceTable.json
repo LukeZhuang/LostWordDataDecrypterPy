@@ -12451,7 +12451,7 @@
 {"id": 400436, "unit_id": 4004, "voice_type_id": 36, "voice_text": "只是你没看到", "emotion": ""}
 {"id": 400437, "unit_id": 4004, "voice_type_id": 37, "voice_text": "你该不会是人类吧？", "emotion": ""}
 {"id": 400438, "unit_id": 4004, "voice_type_id": 38, "voice_text": "你没骗我吧？", "emotion": ""}
-{"id": 400439, "unit_id": 4004, "voice_type_id": 39, "voice_text": "我只看到了饮料", "emotion": ""}
+{"id": 400439, "unit_id": 4004, "voice_type_id": 39, "voice_text": "我只见到过饮料", "emotion": ""}
 {"id": 400440, "unit_id": 4004, "voice_type_id": 40, "voice_text": "你没法续命了！", "emotion": ""}
 {"id": 400441, "unit_id": 4004, "voice_type_id": 41, "voice_text": "坏孩子是指谁啊？", "emotion": ""}
 {"id": 400442, "unit_id": 4004, "voice_type_id": 42, "voice_text": "叫我了吗？", "emotion": ""}
@@ -13434,7 +13434,7 @@
 {"id": 501544, "unit_id": 5015, "voice_type_id": 44, "voice_text": "别想躲开！", "emotion": ""}
 {"id": 501545, "unit_id": 5015, "voice_type_id": 45, "voice_text": "师父大人赐予我的　\n“优昙华院”之名", "emotion": ""}
 {"id": 501546, "unit_id": 5015, "voice_type_id": 46, "voice_text": "现在的我　\n是否　配得上这个名字呢", "emotion": ""}
-{"id": 501547, "unit_id": 5015, "voice_type_id": 47, "voice_text": "「蓬莱若木（Grand Moon）」", "emotion": ""}
+{"id": 501547, "unit_id": 5015, "voice_type_id": 47, "voice_text": "「蓬莱若木（Ground Moon）」", "emotion": ""}
 {"id": 501548, "unit_id": 5015, "voice_type_id": 48, "voice_text": "跨越了大海的　秦始皇的使者？　\n妹红为什么 会知道这种事情？", "emotion": ""}
 {"id": 501549, "unit_id": 5015, "voice_type_id": 49, "voice_text": "这看来 是她的秘密　\n下次见到她的时候　得让她告诉我", "emotion": ""}
 {"id": 501550, "unit_id": 5015, "voice_type_id": 50, "voice_text": "「蓬莱失踪（Missing Number）」", "emotion": ""}
@@ -14719,7 +14719,7 @@
 {"id": 704229, "unit_id": 7042, "voice_type_id": 29, "voice_text": "我问你我问你", "emotion": ""}
 {"id": 704230, "unit_id": 7042, "voice_type_id": 30, "voice_text": "我是不是很可爱？", "emotion": ""}
 {"id": 704231, "unit_id": 7042, "voice_type_id": 31, "voice_text": "跳跳跳～！", "emotion": ""}
-{"id": 704232, "unit_id": 7042, "voice_type_id": 32, "voice_text": "你看你看。这个茶点可好吃了。我好想带回冥界啊。", "emotion": ""}
+{"id": 704232, "unit_id": 7042, "voice_type_id": 32, "voice_text": "你看你看。", "emotion": ""}
 {"id": 704233, "unit_id": 7042, "voice_type_id": 33, "voice_text": "目的地在", "emotion": ""}
 {"id": 704234, "unit_id": 7042, "voice_type_id": 34, "voice_text": "这边哦～！", "emotion": ""}
 {"id": 704235, "unit_id": 7042, "voice_type_id": 35, "voice_text": "我们一起跳舞吧？", "emotion": ""}

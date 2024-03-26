@@ -173,10 +173,15 @@
 {"id": 2080001, "chapter_id": 2080, "mode": 1, "title": "特殊章节「大冲突！消灾大奖赛」", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 47, "open_type": 1}
 {"id": 2082000, "chapter_id": 2082, "mode": 0, "title": "启蛰的秘神游戏", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 714, "open_type": 0}
 {"id": 2082001, "chapter_id": 2082, "mode": 1, "title": "特殊章节 启蛰的秘神游戏", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 0}
+{"id": 2083000, "chapter_id": 2083, "mode": 0, "title": "「烂漫！拜托了 修行锻炼」", "sub_title": "", "number": 1, "costume_id": 101003, "unit_speech_group_id": 289, "open_type": 0}
+{"id": 2083001, "chapter_id": 2083, "mode": 1, "title": "特殊章节 「烂漫！拜托了 修行锻炼」", "sub_title": "", "number": 1, "costume_id": 110801, "unit_speech_group_id": 290, "open_type": 1}
 {"id": 2084000, "chapter_id": 2084, "mode": 0, "title": "三途河中发现了传说中的魔克拉姆边贝！！", "sub_title": "", "number": 1, "costume_id": 100701, "unit_speech_group_id": 764, "open_type": 0}
 {"id": 2084001, "chapter_id": 2084, "mode": 1, "title": "特殊章节 三途河中发现了传说中的魔克拉姆边贝！！", "sub_title": "", "number": 1, "costume_id": 100704, "unit_speech_group_id": 765, "open_type": 0}
 {"id": 2086000, "chapter_id": 2086, "mode": 0, "title": "博丽神社学院冒险谭 蕾米定向越野赛", "sub_title": "", "number": 1, "costume_id": 101107, "unit_speech_group_id": 814, "open_type": 0}
 {"id": 2086001, "chapter_id": 2086, "mode": 1, "title": "特殊章节 博丽神社学院冒险谭 蕾米定向越野赛", "sub_title": "", "number": 1, "costume_id": 100507, "unit_speech_group_id": 815, "open_type": 1}
+{"id": 2089000, "chapter_id": 2089, "mode": 0, "title": "野兽梦幻沙龙 欢迎来到！", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 864, "open_type": 0}
+{"id": 2089001, "chapter_id": 2089, "mode": 1, "title": "特殊章节 野兽梦幻沙龙 欢迎来到！", "sub_title": "", "number": 1, "costume_id": 107203, "unit_speech_group_id": 865, "open_type": 0}
+{"id": 2106000, "chapter_id": 2106, "mode": 0, "title": "宇佐见莲子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
@@ -198,6 +203,9 @@
 {"id": 3002011, "chapter_id": 3002, "mode": 0, "title": "记号E9·第11节　不为人知的受邀者", "sub_title": "无论何时 都不能 来历不明", "number": 11, "costume_id": 0, "unit_speech_group_id": 269, "open_type": 1}
 {"id": 3002012, "chapter_id": 3002, "mode": 0, "title": "记号E9·第12节　幻想念想", "sub_title": "幻想之门将被关闭。一切都是梦的物语。", "number": 12, "costume_id": 0, "unit_speech_group_id": 270, "open_type": 1}
 {"id": 3002013, "chapter_id": 3002, "mode": 0, "title": "记号E9·第13节　新世界", "sub_title": "只有在起床的时候，才能相信自己。", "number": 13, "costume_id": 0, "unit_speech_group_id": 271, "open_type": 1}
+{"id": 3003001, "chapter_id": 3003, "mode": 0, "title": "记号L?·第1节", "sub_title": "迷之地下列车。其前进的目的地是……？", "number": 1, "costume_id": 0, "unit_speech_group_id": 1104, "open_type": 0}
+{"id": 3003002, "chapter_id": 3003, "mode": 0, "title": "记号L?·第2节", "sub_title": "就在刚刚遗忘了，难以忘记的旧友。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1105, "open_type": 0}
+{"id": 3003003, "chapter_id": 3003, "mode": 0, "title": "记号L?·第3节", "sub_title": "在最终区，追寻结界消失事件的真相", "number": 3, "costume_id": 0, "unit_speech_group_id": 1107, "open_type": 0}
 {"id": 5003000, "chapter_id": 5003, "mode": 0, "title": "望乡的红色巨星", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
 {"id": 7001000, "chapter_id": 7001, "mode": 0, "title": "八云的野望", "sub_title": "", "number": 3, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
 {"id": 7001001, "chapter_id": 7001, "mode": 1, "title": "特殊章节 八云的野望", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
