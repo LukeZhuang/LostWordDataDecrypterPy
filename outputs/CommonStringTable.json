@@ -8,7 +8,7 @@
 {"text_key": "2ND_ANNIVERSARY_CRYSTAL_SUBJECT", "japanese_value": "全員もらえるキャンペーン【封結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "2ND_ANNIVERSARY_ORB_MESSAGE", "japanese_value": "おめでとうございます！　「2ndアニバーサリー全員もらえるキャンペーン」の神結賞に当選いたしました。　賞品として「神結晶600個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "2ND_ANNIVERSARY_ORB_SUBJECT", "japanese_value": "全員もらえるキャンペーン【神結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
-{"text_key": "3RD_ANNIVERSARY2_CRYSTAL_MESSAGE", "japanese_value": "「3.5周年感謝全員もらえるキャンペーン」の封結賞として　「封結晶50個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願い「3.5thアニバーサリー全員もらえるキャンペーン」の封結賞として　「封結晶50個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "3RD_ANNIVERSARY2_CRYSTAL_MESSAGE", "japanese_value": "「3.5thアニバーサリー全員もらえるキャンペーン」の封結賞として　「封結晶50個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "3RD_ANNIVERSARY2_CRYSTAL_SUBJECT", "japanese_value": "全員もらえるキャンペーン【封結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "3RD_ANNIVERSARY2_ITEM_MESSAGE", "japanese_value": "「3.5thアニバーサリー全員もらえるキャンペーン」の3.5周年感謝賞として　「はじめての祭絵馬１個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "3RD_ANNIVERSARY2_ITEM_SUBJECT", "japanese_value": "全員もらえるキャンペーン【3.5周年感謝賞】", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -179,7 +179,7 @@
 {"text_key": "APP_FACEBOOK_LOGIN_PERMISSION_ERROR", "japanese_value": "登录后，出现权限错误。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FACILITY_LECTURE_ROOM_CLOSE_MESSAGE", "japanese_value": "「寺子屋」功能在主线 1-4-1 通关后开放使用", "english_value": "APP_FACILITY_LECTURE_ROOM_CLOSE_MESSAGE", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FACILITY_TRAINING_ROOM_CLOSE_MESSAGE", "japanese_value": "「道场」功能在主线 1-3-3 通关后开放使用", "english_value": "APP_FACILITY_TRAINING_ROOM_CLOSE_MESSAGE", "chinese_value": "", "french_value": ""}
-{"text_key": "APP_FE_TITLE_NAME", "japanese_value": "好友", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_FE_TITLE_NAME", "japanese_value": "密友", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FLAVOR", "japanese_value": "解说", "english_value": "APP_FLAVOR", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FORMATION_DEFAULT_TEAM_NAME_FORMAT", "japanese_value": "队伍{0}", "english_value": "APP_FORMATION_DEFAULT_TEAM_NAME_FORMAT {0}", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FORMATION_ERROR_MESSAGE_CHARACTER_QUEST", "japanese_value": "满足条件的角色未编成", "english_value": "APP_FORMATION_ERROR_MESSAGE_CHARACTER_QUEST", "chinese_value": "", "french_value": ""}
@@ -189,7 +189,7 @@
 {"text_key": "APP_FORMATION_QUEST_TITLE_NAME", "japanese_value": "出发队伍", "english_value": "APP_FORMATION_QUEST_TITLE_NAME", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FORMATION_TEAM_NAME_EDIT_TITLE", "japanese_value": "输入队伍名...", "english_value": "APP_FORMATION_TEAM_NAME_EDIT_TITLE", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_FORMATION_TEAM_NAME_PLACEHOLDER", "japanese_value": "输入队伍名...", "english_value": "APP_FORMATION_TEAM_NAME_PLACEHOLDER", "chinese_value": "", "french_value": ""}
-{"text_key": "APP_FRIEND_TITLE_NAME", "japanese_value": "好友", "english_value": "APP_FRIEND_TITLE_NAME", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_FRIEND_TITLE_NAME", "japanese_value": "密友", "english_value": "APP_FRIEND_TITLE_NAME", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_GACHA_EXCHANGE_POINT_EX", "japanese_value": "使用相应交换P\n可以将以下列表中的角色变为伙伴。", "english_value": "APP_GACHA_EXCHANGE_POINT_EX", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_GACHA_EXCHANGE_POINT_FORMAT", "japanese_value": "使用<color=#ff8c00>{0:D}</color>交换P\n可以将以下队列中的一个人变为伙伴。", "english_value": "APP_GACHA_EXCHANGE_POINT_FORMAT {0:D}", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_GACHA_EXCHANGE_SPAN_FORMAT", "japanese_value": "有效期限：{0}为止", "english_value": "APP_GACHA_EXCHANGE_SPAN_FORMAT {0}", "chinese_value": "", "french_value": ""}
@@ -772,7 +772,7 @@
 {"text_key": "EVENT_TITLE", "japanese_value": "活动", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "FORMATION_TITLE", "japanese_value": "编队", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "FORMATION_WEEKLY_ARENA_MULTI_UNIT_ERROR", "japanese_value": "伙伴已在其他擂台出发", "english_value": "", "chinese_value": "", "french_value": ""}
-{"text_key": "FRIEND_TITLE_NAME", "japanese_value": "好友", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "FRIEND_TITLE_NAME", "japanese_value": "密友", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_DIALOG_HEADER_TEXT_1", "japanese_value": "祈愿", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_DIALOG_HEADER_TEXT_N", "japanese_value": "全部祈愿", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_DIALOG_INNER_TEXT_1", "japanese_value": "祈愿1回时消费下列的道具", "english_value": "", "chinese_value": "", "french_value": ""}

@@ -10333,6 +10333,71 @@
 {"id": 207663, "unit_id": 2076, "voice_type_id": 63, "voice_text": "谢谢～！", "emotion": ""}
 {"id": 207664, "unit_id": 2076, "voice_type_id": 64, "voice_text": "我想通过棒球吓大家一跳！ 虽然可能是在绕远吧！", "emotion": ""}
 {"id": 207665, "unit_id": 2076, "voice_type_id": 65, "voice_text": "打棒球之前我在练习沙滩柔道。大家总会感到意外。", "emotion": ""}
+{"id": 207901, "unit_id": 2079, "voice_type_id": 1, "voice_text": "ほら打ってみなよ、小傘ちゃん。今の私は、どんな打法も掻い潜ってみせる……あれ？ ここって、博麗神社の境内？ 水没したって聞いてたけど……まあ浜野球の練習にはぴったりだし、別にいっか。そこの君、野球は好き？ ……うん、うん、よかった、詳しいみたいね。小傘と浜野球で勝負するから、審判役をしてよ。渚のエースこと、赤蛮奇のサインボールをあげるから。……えっ、知らない？ と、トホホ。", "emotion": ""}
+{"id": 207902, "unit_id": 2079, "voice_type_id": 2, "voice_text": "野球をするには、熱い闘魂と、冷徹なほどの技術が必要なのよ。", "emotion": "1"}
+{"id": 207903, "unit_id": 2079, "voice_type_id": 3, "voice_text": "球を飛ばすのも頭を飛ばすのもだいたい同じ。こう、ビョーンって。", "emotion": "3"}
+{"id": 207904, "unit_id": 2079, "voice_type_id": 4, "voice_text": "野球をする子供が増えるように、小傘ちゃ……じゃなくって、小傘と手分けして布教してるのよ。まあ、私は物陰から見てるだけだけど。", "emotion": "9"}
+{"id": 207905, "unit_id": 2079, "voice_type_id": 5, "voice_text": "小傘ちゃ……小傘は明るくて元気だから、子供たちから人気よ。でも私は、日陰者のダークヒーローだからね。おいそれと人前に出るワケにはいかないのよ。実力主義とも言うわ。……フッ！", "emotion": "7"}
+{"id": 207906, "unit_id": 2079, "voice_type_id": 6, "voice_text": "そこらへんの軟派な選手とは違うのよ。『紅蓮の火の玉』こと赤蛮奇は、球威、投法、球種、スペルカード……あらゆる技をストイックに鍛える。すべては、勝利のために。……別に小傘ちゃんが羨ましくなんてないけど！？", "emotion": "4"}
+{"id": 207907, "unit_id": 2079, "voice_type_id": 7, "voice_text": "大異変なんて邪魔なものを解決できれば、きっと大きなスタジアムを作ることもできるね。そこで初めての正式な試合を開いて、私は最初の勝利投手になって、ヒーローインタビューを……はっ！？ いや、これはちがっ……完全試合を達成するために、今から努力するわっ！", "emotion": "5"}
+{"id": 207908, "unit_id": 2079, "voice_type_id": 8, "voice_text": "よーし、ヘッドたち。守備練習はバッチリね。次はランニングよ。", "emotion": ""}
+{"id": 207909, "unit_id": 2079, "voice_type_id": 9, "voice_text": "私自身は投手だけど、ヘッドたちは各々の守備位置を担当することもできるよ。ヘッドによって個性が違うの。……抱っこしてみる？", "emotion": "6"}
+{"id": 207910, "unit_id": 2079, "voice_type_id": 10, "voice_text": "小傘ちゃ……小傘はライバルだけど、なぜか懐かれてて。でも邪険にはできないし（ついでに可愛いし）。今もそこに小傘の笑顔が……まっ眩しいっ！", "emotion": "5"}
+{"id": 207911, "unit_id": 2079, "voice_type_id": 11, "voice_text": "影狼とわかさぎ姫が、がんばれ～って黄色い声援を掛けてくるのよ。まったく、観客席で騒いじゃダメじゃん。嬉しいけど。", "emotion": "7"}
+{"id": 207912, "unit_id": 2079, "voice_type_id": 12, "voice_text": "浜の辺妖怪ネットワークっていうチーム名……かっこいいよね。里の子たちもそう言ってた。グッズもあるんだよ。見ていかない？", "emotion": "3"}
+{"id": 207913, "unit_id": 2079, "voice_type_id": 13, "voice_text": "春は練習にちょうどいい季節ね。私にはちょっと寒いけど……ああ、もうちょっと厚着すればいいんだわ。でも動きづらくなりそう。", "emotion": "6"}
+{"id": 207914, "unit_id": 2079, "voice_type_id": 14, "voice_text": "「夏だ！ 水着だ！ 海遊びだ～！」って、みんな浮かれてるね。もっと大人しくすればいいのに、私みたいにさ。（誰か遊びに誘ってくれないかな。）", "emotion": "7"}
+{"id": 207915, "unit_id": 2079, "voice_type_id": 15, "voice_text": "食べ物がおいしい季節だからって、食べ過ぎは体に毒だよ。……小傘ちゃん、聞いてる？ だから食べ過ぎは……もういいや、私も食べる。", "emotion": "2"}
+{"id": 207916, "unit_id": 2079, "voice_type_id": 16, "voice_text": "かなり寒いけど、内には燃える野球魂があるから。ほら、私なんて何ともない。くしゃみは、たるんでる証拠……へ、へっ、へっくち！", "emotion": "10"}
+{"id": 207917, "unit_id": 2079, "voice_type_id": 17, "voice_text": "課題やってるの？ ふうん。……私が見てあげようか？", "emotion": "6"}
+{"id": 207918, "unit_id": 2079, "voice_type_id": 18, "voice_text": "課題満点だわ。……まだまだって言いたいところだけど、よ、よしよし。", "emotion": "3"}
+{"id": 207919, "unit_id": 2079, "voice_type_id": 19, "voice_text": "ヘッドがエアメールをくわえて来たわ。どこから持ってきたのかしら？", "emotion": "1"}
+{"id": 207920, "unit_id": 2079, "voice_type_id": 20, "voice_text": "ま、まあ、みんなの弾幕もなかなかね！ 私にも隠し玉くらいあるけど！", "emotion": "3"}
+{"id": 207921, "unit_id": 2079, "voice_type_id": 21, "voice_text": "マネージャーが帰ったね。ロジンバッグ、手に入ったかなあ。", "emotion": "9"}
+{"id": 207922, "unit_id": 2079, "voice_type_id": 22, "voice_text": "ヘッドは普段からこうして、撫でてあげてるの。", "emotion": "3"}
+{"id": 207923, "unit_id": 2079, "voice_type_id": 23, "voice_text": "膝の上に乗せて、猫みたいに撫でるのよ。", "emotion": "6"}
+{"id": 207924, "unit_id": 2079, "voice_type_id": 24, "voice_text": "（あれ？ いつの間にか、君の頭が膝に……？）", "emotion": "5"}
+{"id": 207925, "unit_id": 2079, "voice_type_id": 25, "voice_text": "ブルペンにいる。あっためて待ってるから", "emotion": ""}
+{"id": 207926, "unit_id": 2079, "voice_type_id": 26, "voice_text": "投球を見る度にうなされよ！", "emotion": ""}
+{"id": 207927, "unit_id": 2079, "voice_type_id": 27, "voice_text": "ヒーローインタビューは私じゃないかな。……ちらっ、ちらっ", "emotion": ""}
+{"id": 207928, "unit_id": 2079, "voice_type_id": 28, "voice_text": "へ、へえ！ 野球うまいじゃないのよ。次はちょっと本気出そうかな", "emotion": ""}
+{"id": 207929, "unit_id": 2079, "voice_type_id": 29, "voice_text": "一球や二球", "emotion": ""}
+{"id": 207930, "unit_id": 2079, "voice_type_id": 30, "voice_text": "打てたところで", "emotion": ""}
+{"id": 207931, "unit_id": 2079, "voice_type_id": 31, "voice_text": "バビってんじゃないわよ", "emotion": ""}
+{"id": 207932, "unit_id": 2079, "voice_type_id": 32, "voice_text": "ほれほれ", "emotion": ""}
+{"id": 207933, "unit_id": 2079, "voice_type_id": 33, "voice_text": "ツーアウトツーアウト", "emotion": ""}
+{"id": 207934, "unit_id": 2079, "voice_type_id": 34, "voice_text": "それっ、ストライクアウト！", "emotion": ""}
+{"id": 207935, "unit_id": 2079, "voice_type_id": 35, "voice_text": "牽制っ！", "emotion": ""}
+{"id": 207936, "unit_id": 2079, "voice_type_id": 36, "voice_text": "ここで刺す！", "emotion": ""}
+{"id": 207937, "unit_id": 2079, "voice_type_id": 37, "voice_text": "サイン……変化球？", "emotion": ""}
+{"id": 207938, "unit_id": 2079, "voice_type_id": 38, "voice_text": "内野守備のサイン？", "emotion": ""}
+{"id": 207939, "unit_id": 2079, "voice_type_id": 39, "voice_text": "今のサイン、何！？", "emotion": ""}
+{"id": 207940, "unit_id": 2079, "voice_type_id": 40, "voice_text": "これが、私の隠し玉！", "emotion": ""}
+{"id": 207941, "unit_id": 2079, "voice_type_id": 41, "voice_text": "投手交代もやむなしね", "emotion": ""}
+{"id": 207942, "unit_id": 2079, "voice_type_id": 42, "voice_text": "中継ぎでも構わないよ", "emotion": ""}
+{"id": 207943, "unit_id": 2079, "voice_type_id": 43, "voice_text": "水面下からの投球！", "emotion": ""}
+{"id": 207944, "unit_id": 2079, "voice_type_id": 44, "voice_text": "打てるかな？ それっ", "emotion": ""}
+{"id": 207945, "unit_id": 2079, "voice_type_id": 45, "voice_text": "鉄壁の守備は　\n私ひとりで十分よ", "emotion": ""}
+{"id": 207946, "unit_id": 2079, "voice_type_id": 46, "voice_text": "グラウンド全域を守護する　\n孤高のデュラハンナイトだ", "emotion": ""}
+{"id": 207947, "unit_id": 2079, "voice_type_id": 47, "voice_text": "飛頭「抜け首ナイン」", "emotion": ""}
+{"id": 207948, "unit_id": 2079, "voice_type_id": 48, "voice_text": "この球　打ってみなよ　\n打てるものならさ", "emotion": ""}
+{"id": 207949, "unit_id": 2079, "voice_type_id": 49, "voice_text": "概念ギプス　解除！\nくらえ　大魔球·六号！", "emotion": ""}
+{"id": 207950, "unit_id": 2079, "voice_type_id": 50, "voice_text": "飛首「紐付き分身魔球」", "emotion": ""}
+{"id": 207951, "unit_id": 2079, "voice_type_id": 51, "voice_text": "ストライクゾーンに　\n少しでもかすればいい", "emotion": ""}
+{"id": 207952, "unit_id": 2079, "voice_type_id": 52, "voice_text": "さあ　見上げて恐怖しろ　\nこの球種は全然　大人しくない", "emotion": ""}
+{"id": 207953, "unit_id": 2079, "voice_type_id": 53, "voice_text": "「怪奇　超俯角天空フォーク」", "emotion": ""}
+{"id": 207954, "unit_id": 2079, "voice_type_id": 54, "voice_text": "いててっ", "emotion": ""}
+{"id": 207955, "unit_id": 2079, "voice_type_id": 55, "voice_text": "タイム！ タイム～！", "emotion": ""}
+{"id": 207956, "unit_id": 2079, "voice_type_id": 56, "voice_text": "ファールでしょ！", "emotion": ""}
+{"id": 207957, "unit_id": 2079, "voice_type_id": 57, "voice_text": "ほれ、空振り～", "emotion": ""}
+{"id": 207958, "unit_id": 2079, "voice_type_id": 58, "voice_text": "ナイッ、スロー", "emotion": ""}
+{"id": 207959, "unit_id": 2079, "voice_type_id": 59, "voice_text": "ボール？ ……今のが！？ 納得いかない！", "emotion": ""}
+{"id": 207960, "unit_id": 2079, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 207961, "unit_id": 2079, "voice_type_id": 61, "voice_text": "いいよ", "emotion": ""}
+{"id": 207962, "unit_id": 2079, "voice_type_id": 62, "voice_text": "やめるね", "emotion": ""}
+{"id": 207963, "unit_id": 2079, "voice_type_id": 63, "voice_text": "ありがとう", "emotion": ""}
+{"id": 207964, "unit_id": 2079, "voice_type_id": 64, "voice_text": "野球を通して、みんなと仲良く……いや、今のナシ。", "emotion": ""}
+{"id": 207965, "unit_id": 2079, "voice_type_id": 65, "voice_text": "とにかくすごい球を投げて、脅威として恐れられないと。妖怪がスポーツをする以上は、それくらいはやらなきゃね。", "emotion": ""}
 {"id": 208001, "unit_id": 2080, "voice_type_id": 1, "voice_text": "怪兽番号150-03，貘型。哆来咪·苏伊特，变身完毕。博士，请放心。无论是什么样的异世界，只要控制住了“梦”就相当于通关了。不，我应该这么说。我会赌上自己的性命保证您的安眠。就交给我吧。……咦，通讯切断了？ 眼前有一位小小的女孩子。……发生了什么事情？", "emotion": ""}
 {"id": 208002, "unit_id": 2080, "voice_type_id": 2, "voice_text": "咦？ 梦魂遥控器没电了。", "emotion": "9"}
 {"id": 208003, "unit_id": 2080, "voice_type_id": 3, "voice_text": "幸亏你是孩子。怪兽是以孩子的梦想为食物生存的存在。", "emotion": "7"}
@@ -10528,6 +10593,71 @@
 {"id": 208463, "unit_id": 2084, "voice_type_id": 63, "voice_text": "感谢", "emotion": ""}
 {"id": 208464, "unit_id": 2084, "voice_type_id": 64, "voice_text": "是谁管我叫充满智慧的暴力装置。", "emotion": ""}
 {"id": 208465, "unit_id": 2084, "voice_type_id": 65, "voice_text": "在诸位眼里，记忆遗迹和多次元神经网不过是单纯的现象吗。真是耐人寻味。", "emotion": ""}
+{"id": 208901, "unit_id": 2089, "voice_type_id": 1, "voice_text": "ゆけ、乾坤圏！ 私たちがナンバーワンだッ！ ……っとと、ストップストップ！ ふう、乾坤圏が陸海空万能宝貝で助かった。おい紫苑、お前も無事……んん？ 誰だ、お前？ しかもここ、水没したはずの博麗神社！？ うおお、水没を防げなくてごめんな、博麗神社……いや、でも水没してないな。何がどうなってる？ なあ、お前。私は比那名居天子。紫苑っていう貧乏神を知らないか？", "emotion": ""}
+{"id": 208902, "unit_id": 2089, "voice_type_id": 2, "voice_text": "乾坤圏を借りたのがバレたら、さすがに怒られるか？", "emotion": "6"}
+{"id": 208903, "unit_id": 2089, "voice_type_id": 3, "voice_text": "宝貝は天界のアイテムだ。意思を持つものも多いらしいが、乾坤圏もそのひとつだぞ。", "emotion": "7"}
+{"id": 208904, "unit_id": 2089, "voice_type_id": 4, "voice_text": "どうやら乗り物系の宝貝は、異界渡りの能力を持っていることがあるみたいだな。そういうのは事前に知りたいんだが……。", "emotion": "10"}
+{"id": 208905, "unit_id": 2089, "voice_type_id": 5, "voice_text": "そもそもあの天人、宝貝をたくさん持ってるんだよなあ。だから、たまにひとつくらい借りても問題なかろう。私に使われて、宝貝の方も嬉しいはずだしな。", "emotion": "1"}
+{"id": 208906, "unit_id": 2089, "voice_type_id": 6, "voice_text": "宝貝も所詮は道具だから、あくまで私の魔力で動いている。だが、どうも乾坤圏には頭が上がらな……ゲフンゲフン！ 乾坤圏を使いこなす私は、やはり最強の超天人だな！ ハッハッハ！", "emotion": "3"}
+{"id": 208907, "unit_id": 2089, "voice_type_id": 7, "voice_text": "まあ正直なところ、乾坤圏をもっと使いこなせるようになりたいんだ。こんな宝貝をたくさん、しかも十全に扱えるあいつは……いや、私だって敗けてないよな。お前だって、他の誰もが使いこなせないその謎のアイテムを、上手く扱ってるもんな。うむ、私もやれそうな気がするぞ。", "emotion": "2"}
+{"id": 208908, "unit_id": 2089, "voice_type_id": 8, "voice_text": "「リミッターを解除しておきました」だって！？ そういうのは事前に言え、乾坤圏！", "emotion": ""}
+{"id": 208909, "unit_id": 2089, "voice_type_id": 9, "voice_text": "海上レースを制するのは、私と乾坤圏で決まりだ。……『また』レースか、って？ なんだよ、またって。似たようなのが他にあるのか？", "emotion": "7"}
+{"id": 208910, "unit_id": 2089, "voice_type_id": 10, "voice_text": "乾坤圏は最強の宝貝だ。風火二輪とどっちを借りようか迷ったけど、手に馴染んだからこっちにした。どこか性格が……衣玖みたいなんだよなあ。", "emotion": "9"}
+{"id": 208911, "unit_id": 2089, "voice_type_id": 11, "voice_text": "紫苑にも別の宝貝を貸し与えたんだが、あいつの不運と宝貝の能力、どっちが勝つんだろうな。面白そうだから、陰から見守っている。", "emotion": "3"}
+{"id": 208912, "unit_id": 2089, "voice_type_id": 12, "voice_text": "針妙丸を見かけなかったか？ あいつも水着ではしゃぎまくってるぞ。蟹やワカメとの勝負で忙しそうだ。あの宝貝、針妙丸のほうが合ってたかもなあ。", "emotion": "1"}
+{"id": 208913, "unit_id": 2089, "voice_type_id": 13, "voice_text": "「春は嵐や雷が起きることがありますので、ご注意下さい」だって？ 乾坤圏、お前本当に衣玖みたいだな。中に衣玖が入ってるだろ？", "emotion": "4"}
+{"id": 208914, "unit_id": 2089, "voice_type_id": 14, "voice_text": "夏だ！ 水着だ！ 海遊びだ～！ それじゃあ、乾坤圏で月へ行こう。月は天界のお隣さんというか、ほぼ同じ場所だけど。水浸しだから、第二宇宙速度ほども出さずに済むし。", "emotion": "3"}
+{"id": 208915, "unit_id": 2089, "voice_type_id": 15, "voice_text": "「秋は食べ過ぎ注意報ですよ」だって？ 乾坤圏、お前は地上の卑しい食べ物に興味があるのか？ 海の家のラーメンやカレーの良さがお前に分かるか～？", "emotion": "10"}
+{"id": 208916, "unit_id": 2089, "voice_type_id": 16, "voice_text": "「除雪機能はないので、自力で押して下さい」だと！？ おい乾坤圏、お前は最強の宝貝だろうが！？ 私は天人だから寒さなどへっちゃらだが……ちょっと人目がッ！", "emotion": "5"}
+{"id": 208917, "unit_id": 2089, "voice_type_id": 17, "voice_text": "課題なんて忘れて、遊びに行くぞ。紫苑も呼んでおいた！", "emotion": "1"}
+{"id": 208918, "unit_id": 2089, "voice_type_id": 18, "voice_text": "お前、遊びながらでも課題やれるのか。正直すごいな。よしよし。", "emotion": "3"}
+{"id": 208919, "unit_id": 2089, "voice_type_id": 19, "voice_text": "エアメールが来ているな。これ、絶対に異界渡って来てるだろ。", "emotion": "10"}
+{"id": 208920, "unit_id": 2089, "voice_type_id": 20, "voice_text": "「天子様はもっと回避を練習して下さい」だと！？ お前が避けろよ、乾坤圏！", "emotion": "5"}
+{"id": 208921, "unit_id": 2089, "voice_type_id": 21, "voice_text": "「まもなく使者が帰還します」だって？ よく分かったな、乾坤圏。", "emotion": "9"}
+{"id": 208922, "unit_id": 2089, "voice_type_id": 22, "voice_text": "ほら、乾坤圏の後ろに乗せてやるよ。", "emotion": "7"}
+{"id": 208923, "unit_id": 2089, "voice_type_id": 23, "voice_text": "背中がじんわり温かいと思ったら……お前、寝てるのか。", "emotion": "9"}
+{"id": 208924, "unit_id": 2089, "voice_type_id": 24, "voice_text": "乾坤圏、徐行運転で頼む。こいつが私の背中から落ちないようにな。", "emotion": "6"}
+{"id": 208925, "unit_id": 2089, "voice_type_id": 25, "voice_text": "最強宝貝を装備した私は、超天人に近づいたも同然だ！", "emotion": ""}
+{"id": 208926, "unit_id": 2089, "voice_type_id": 26, "voice_text": "天人を超えた天人。その伝説、私にこそ相応しい！", "emotion": ""}
+{"id": 208927, "unit_id": 2089, "voice_type_id": 27, "voice_text": "「勝利したので休眠モードに入ります」だと！？ 帰りはどうするんだ、乾坤圏！", "emotion": ""}
+{"id": 208928, "unit_id": 2089, "voice_type_id": 28, "voice_text": "「敗北したので天子様の反省点をまとめました」だと！？ あ、ありがとう、乾坤圏。", "emotion": ""}
+{"id": 208929, "unit_id": 2089, "voice_type_id": 29, "voice_text": "ここで！", "emotion": ""}
+{"id": 208930, "unit_id": 2089, "voice_type_id": 30, "voice_text": "決める！", "emotion": ""}
+{"id": 208931, "unit_id": 2089, "voice_type_id": 31, "voice_text": "ゆけ、乾坤圏！", "emotion": ""}
+{"id": 208932, "unit_id": 2089, "voice_type_id": 32, "voice_text": "私が！", "emotion": ""}
+{"id": 208933, "unit_id": 2089, "voice_type_id": 33, "voice_text": "守る！", "emotion": ""}
+{"id": 208934, "unit_id": 2089, "voice_type_id": 34, "voice_text": "乾坤圏に触れるな！", "emotion": ""}
+{"id": 208935, "unit_id": 2089, "voice_type_id": 35, "voice_text": "これ、何の機能？", "emotion": ""}
+{"id": 208936, "unit_id": 2089, "voice_type_id": 36, "voice_text": "このボタンは？", "emotion": ""}
+{"id": 208937, "unit_id": 2089, "voice_type_id": 37, "voice_text": "今なんて？", "emotion": ""}
+{"id": 208938, "unit_id": 2089, "voice_type_id": 38, "voice_text": "よく聞こえん！", "emotion": ""}
+{"id": 208939, "unit_id": 2089, "voice_type_id": 39, "voice_text": "少しうるさいぞ乾坤圏！", "emotion": ""}
+{"id": 208940, "unit_id": 2089, "voice_type_id": 40, "voice_text": "フルパワーだ、乾坤圏！", "emotion": ""}
+{"id": 208941, "unit_id": 2089, "voice_type_id": 41, "voice_text": "ここは頼む！", "emotion": ""}
+{"id": 208942, "unit_id": 2089, "voice_type_id": 42, "voice_text": "さあ任せろ！", "emotion": ""}
+{"id": 208943, "unit_id": 2089, "voice_type_id": 43, "voice_text": "これが宝貝の力だ！", "emotion": ""}
+{"id": 208944, "unit_id": 2089, "voice_type_id": 44, "voice_text": "ほーれ、遊べ遊べ！", "emotion": ""}
+{"id": 208945, "unit_id": 2089, "voice_type_id": 45, "voice_text": "我らが命運は　天道是非　\n自ら切り拓いてこその生涯だ", "emotion": ""}
+{"id": 208946, "unit_id": 2089, "voice_type_id": 46, "voice_text": "ゆくぞ　乾坤圏　\nちょっとは調子を合わせろ！", "emotion": ""}
+{"id": 208947, "unit_id": 2089, "voice_type_id": 47, "voice_text": "天符「天道是非ドライブ」", "emotion": ""}
+{"id": 208948, "unit_id": 2089, "voice_type_id": 48, "voice_text": "なあ　乾坤圏　\n私に使われるほうが幸せだろう？", "emotion": ""}
+{"id": 208949, "unit_id": 2089, "voice_type_id": 49, "voice_text": "『それは微妙です』だと！？　\nちょっとは空気読め！", "emotion": ""}
+{"id": 208950, "unit_id": 2089, "voice_type_id": 50, "voice_text": "宝貝「新乾坤波浪砲」", "emotion": ""}
+{"id": 208951, "unit_id": 2089, "voice_type_id": 51, "voice_text": "さあ　ここで乾坤一擲だ　\n平伏せ　地上の衆生ども", "emotion": ""}
+{"id": 208952, "unit_id": 2089, "voice_type_id": 52, "voice_text": "我こそが　いずれ全土を支配する　\n超天人になる者である！", "emotion": ""}
+{"id": 208953, "unit_id": 2089, "voice_type_id": 53, "voice_text": "「天地を洗う大乾坤圏」", "emotion": ""}
+{"id": 208954, "unit_id": 2089, "voice_type_id": 54, "voice_text": "うっ", "emotion": ""}
+{"id": 208955, "unit_id": 2089, "voice_type_id": 55, "voice_text": "ボディに傷がっ", "emotion": ""}
+{"id": 208956, "unit_id": 2089, "voice_type_id": 56, "voice_text": "まだだ、まだ耐えられる", "emotion": ""}
+{"id": 208957, "unit_id": 2089, "voice_type_id": 57, "voice_text": "そらよ、っと！", "emotion": ""}
+{"id": 208958, "unit_id": 2089, "voice_type_id": 58, "voice_text": "おお、すまんな！", "emotion": ""}
+{"id": 208959, "unit_id": 2089, "voice_type_id": 59, "voice_text": "おい乾坤圏。なぜ今、お前だけ避けた？", "emotion": ""}
+{"id": 208960, "unit_id": 2089, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 208961, "unit_id": 2089, "voice_type_id": 61, "voice_text": "いいぞ", "emotion": ""}
+{"id": 208962, "unit_id": 2089, "voice_type_id": 62, "voice_text": "やめるぞ", "emotion": ""}
+{"id": 208963, "unit_id": 2089, "voice_type_id": 63, "voice_text": "ありがとう！", "emotion": ""}
+{"id": 208964, "unit_id": 2089, "voice_type_id": 64, "voice_text": "素直な宝貝は実在しないのか？", "emotion": ""}
+{"id": 208965, "unit_id": 2089, "voice_type_id": 65, "voice_text": "性格に難がある宝貝だが、まあ最高の相棒だ。", "emotion": ""}
 {"id": 209101, "unit_id": 2091, "voice_type_id": 1, "voice_text": "这里是地上吗？你是……原来如此，我听了你的欲望。看来发生了奇妙的事情呢。我是丰聪耳神子。是为了拯救无佛世界而复活的圣人，人称圣德王。但是……果然在这个世界佛道也没有没落呢。是我判断失误了。看来我需要多学习学习。我会从你身上也好好吸收各种知识。", "emotion": ""}
 {"id": 209102, "unit_id": 2091, "voice_type_id": 2, "voice_text": "佛道的时代比我预想中的要长久呢。真是令人惊讶。", "emotion": "5"}
 {"id": 209103, "unit_id": 2091, "voice_type_id": 3, "voice_text": "佛道是人类救济自己的道路。很适合授予人民。", "emotion": "1"}
@@ -12608,6 +12738,71 @@
 {"id": 400963, "unit_id": 4009, "voice_type_id": 63, "voice_text": "我很高兴", "emotion": ""}
 {"id": 400964, "unit_id": 4009, "voice_type_id": 64, "voice_text": "欢呼吧！永远的暑假开始了！", "emotion": ""}
 {"id": 400965, "unit_id": 4009, "voice_type_id": 65, "voice_text": "一个两个......你以为夏日回忆，只会有这么点吗？", "emotion": ""}
+{"id": 401001, "unit_id": 4010, "voice_type_id": 1, "voice_text": "私の剣術は非剣、つまり死んでいます。青楼剣は白楼剣と違い、未練を引き起こす。楼中剣は楼観剣と異なり、幽霊を一匹たりとも死なせない。そんな不可斬刀だからこそ、死と再生の季節を再び繋ぎ合わせ、私、西行寺幽々子はここまで帰って参りました。……えっ？ 木刀とはいえ刀を帯びながら、どうして『非剣』なのかって？ だって、剣術指南役は半人前だし、私もまともに修めていないもの～。", "emotion": ""}
+{"id": 401002, "unit_id": 4010, "voice_type_id": 2, "voice_text": "大異変のあらましは分かったわ。然るべき相手に、この事実を知らせないと。", "emotion": "10"}
+{"id": 401003, "unit_id": 4010, "voice_type_id": 3, "voice_text": "既に死んだ身として、大異変によって消された体験は、ただただ驚きだったわ。", "emotion": "5"}
+{"id": 401004, "unit_id": 4010, "voice_type_id": 4, "voice_text": "貴方が想像するよりもずっと、生と死の境界は深度を持っているわ。早く紫や閻魔様と話したいところだわ。あと騒霊三姉妹ともね。", "emotion": "7"}
+{"id": 401005, "unit_id": 4010, "voice_type_id": 5, "voice_text": "霊魂の通り道は、外の世界から幻想郷、彼岸、地獄、冥界、そして転生の輪へと繋がっている。これは単純な円環構造ではないのよ。まさか西行妖が、そのヒントになってくれるなんてねえ。", "emotion": "3"}
+{"id": 401006, "unit_id": 4010, "voice_type_id": 6, "voice_text": "相変わらず生前のことは思い出せないけれど、それは、もういいの。生きていた頃の私はきっと、たくさんの大切な縁に囲まれていた。覚えていなくても、それは今もここにあるのね。", "emotion": "1"}
+{"id": 401007, "unit_id": 4010, "voice_type_id": 7, "voice_text": "私が見てきた場所のいずれかが貴方の故郷……いえ、そうではない可能性も残されているわね。その場合……最後の手がかりを持っているのは、大異変の黒幕たちということになるわ。追い詰めて、聞き出すしかないわね。そのためにも、妖夢を見つけて先を切り拓きましょう。", "emotion": "1"}
+{"id": 401008, "unit_id": 4010, "voice_type_id": 8, "voice_text": "青楼剣と楼中剣が、一段と斬れなくなったわ。うん、これでいいのよ。", "emotion": ""}
+{"id": 401009, "unit_id": 4010, "voice_type_id": 9, "voice_text": "西行妖が落としてくれた二本の枝、それが変化したのが不可斬刀。つまり青楼剣と楼中剣なの。斬れるものなど何もないのよ。", "emotion": "7"}
+{"id": 401010, "unit_id": 4010, "voice_type_id": 10, "voice_text": "失ったものを取り戻していけば、生前の記憶や富士見の娘さんのことも分かると思ってたんだけど。それは別の話だったみたい。", "emotion": "2"}
+{"id": 401011, "unit_id": 4010, "voice_type_id": 11, "voice_text": "私の能力があれば、剣術を使う機会なんてないと思っていたのよね。でも……むしろこの剣のお陰で、私は再びこの能力を操れるようになった。", "emotion": "6"}
+{"id": 401012, "unit_id": 4010, "voice_type_id": 12, "voice_text": "冥界を訪れた数多の剣豪の霊、そして刀剣たちの霊が、この剣に宿っている気がするわ。西行妖の枝で出来ていることと、何か関係があるのかしら。", "emotion": "5"}
+{"id": 401013, "unit_id": 4010, "voice_type_id": 13, "voice_text": "西行妖の満開を拝める日は、いつか来るのかしらね。妖夢に枝を剪定させたら、元気を取り戻して咲くかもしれないわね。", "emotion": "1"}
+{"id": 401014, "unit_id": 4010, "voice_type_id": 14, "voice_text": "そうそう、お盆の冥界は忙しくなるのよね。妖夢がよく見回りをしてくれたものだったわ。そしてなぜか……お腹がすいてきちゃった。", "emotion": "6"}
+{"id": 401015, "unit_id": 4010, "voice_type_id": 15, "voice_text": "あら、綺麗なま～んまるのお月見団子。貴方が作ったの？ 妖夢もね、綺麗に丸めるのが上手だったわ～。さて、一緒に食べましょう。", "emotion": "3"}
+{"id": 401016, "unit_id": 4010, "voice_type_id": 16, "voice_text": "月から持ち帰ったお宝を、紫と一緒に楽しんだのが懐かしいわ。そういえば、紫はどこにいるの？ 眠っているのかしら。", "emotion": "2"}
+{"id": 401017, "unit_id": 4010, "voice_type_id": 17, "voice_text": "課題を頑張っているのね。なんだか、修行を頑張る妖夢みたい。", "emotion": "7"}
+{"id": 401018, "unit_id": 4010, "voice_type_id": 18, "voice_text": "課題を終えて偉いわ。妖夢みたいにぎゅ～っとしてあげる。ほら、おいで。", "emotion": "3"}
+{"id": 401019, "unit_id": 4010, "voice_type_id": 19, "voice_text": "伝書が来ているわね。私が読んであげましょう。", "emotion": "7"}
+{"id": 401020, "unit_id": 4010, "voice_type_id": 20, "voice_text": "……ふう。落ち着くとつい、妖夢を呼びたくなっちゃうわね。", "emotion": "5"}
+{"id": 401021, "unit_id": 4010, "voice_type_id": 21, "voice_text": "誰かおつかいから帰ったわね。つい妖夢を思い出してしまうわ。", "emotion": "5"}
+{"id": 401022, "unit_id": 4010, "voice_type_id": 22, "voice_text": "眠たいなら、ほら、膝を貸してあげるわ。", "emotion": "6"}
+{"id": 401023, "unit_id": 4010, "voice_type_id": 23, "voice_text": "よしよし……「花朧　君の御影は　まぼろしに――", "emotion": "10"}
+{"id": 401024, "unit_id": 4010, "voice_type_id": 24, "voice_text": "　――風はすさまじ　待ち人は来ず」……と。", "emotion": "7"}
+{"id": 401025, "unit_id": 4010, "voice_type_id": 25, "voice_text": "いざ、狂い咲くとしましょう", "emotion": ""}
+{"id": 401026, "unit_id": 4010, "voice_type_id": 26, "voice_text": "さーて。境界でも、越えちゃおうかしら", "emotion": ""}
+{"id": 401027, "unit_id": 4010, "voice_type_id": 27, "voice_text": "腕に覚えがある者は、擂台へ上がりなさい。さあ、貴方とかどう？", "emotion": ""}
+{"id": 401028, "unit_id": 4010, "voice_type_id": 28, "voice_text": "擂台は郷を食す大皿なのよ。だからこそ『饗し』って書くんだから", "emotion": ""}
+{"id": 401029, "unit_id": 4010, "voice_type_id": 29, "voice_text": "さあさあ", "emotion": ""}
+{"id": 401030, "unit_id": 4010, "voice_type_id": 30, "voice_text": "ご覧なさい", "emotion": ""}
+{"id": 401031, "unit_id": 4010, "voice_type_id": 31, "voice_text": "不可斬刀の斬れ味を", "emotion": ""}
+{"id": 401032, "unit_id": 4010, "voice_type_id": 32, "voice_text": "やれやれ", "emotion": ""}
+{"id": 401033, "unit_id": 4010, "voice_type_id": 33, "voice_text": "しょうがないわね", "emotion": ""}
+{"id": 401034, "unit_id": 4010, "voice_type_id": 34, "voice_text": "非剣をもって剣とします", "emotion": ""}
+{"id": 401035, "unit_id": 4010, "voice_type_id": 35, "voice_text": "雷切の剣霊よ！", "emotion": ""}
+{"id": 401036, "unit_id": 4010, "voice_type_id": 36, "voice_text": "草早の刀魂よ！", "emotion": ""}
+{"id": 401037, "unit_id": 4010, "voice_type_id": 37, "voice_text": "斬りません！", "emotion": ""}
+{"id": 401038, "unit_id": 4010, "voice_type_id": 38, "voice_text": "斬るほどじゃないわ", "emotion": ""}
+{"id": 401039, "unit_id": 4010, "voice_type_id": 39, "voice_text": "斬っちゃダ～メ", "emotion": ""}
+{"id": 401040, "unit_id": 4010, "voice_type_id": 40, "voice_text": "な～んにも斬れない木刀よ～", "emotion": ""}
+{"id": 401041, "unit_id": 4010, "voice_type_id": 41, "voice_text": "ほどほどにね？", "emotion": ""}
+{"id": 401042, "unit_id": 4010, "voice_type_id": 42, "voice_text": "お願いしちゃって～", "emotion": ""}
+{"id": 401043, "unit_id": 4010, "voice_type_id": 43, "voice_text": "斬りません", "emotion": ""}
+{"id": 401044, "unit_id": 4010, "voice_type_id": 44, "voice_text": "断ちません", "emotion": ""}
+{"id": 401045, "unit_id": 4010, "voice_type_id": 45, "voice_text": "ねえ妖忌　覚えてる？　\n騒霊楽団は　今や大人気なのよ", "emotion": ""}
+{"id": 401046, "unit_id": 4010, "voice_type_id": 46, "voice_text": "まるで剣の修業みたいに　\n楽器の演奏を　鍛えた成果ね", "emotion": ""}
+{"id": 401047, "unit_id": 4010, "voice_type_id": 47, "voice_text": "白玉楼「霊人剣士の指南剣舞」", "emotion": ""}
+{"id": 401048, "unit_id": 4010, "voice_type_id": 48, "voice_text": "どちら様かは存じませんが　\n高名な歌人と　お見受けします", "emotion": ""}
+{"id": 401049, "unit_id": 4010, "voice_type_id": 49, "voice_text": "紫なら　貴方のことを　\n知っているかも？", "emotion": ""}
+{"id": 401050, "unit_id": 4010, "voice_type_id": 50, "voice_text": "白玉楼「不知歌聖の富士見歌壇」", "emotion": ""}
+{"id": 401051, "unit_id": 4010, "voice_type_id": 51, "voice_text": "能力さえあれば　戦える　\nそう思ったこともあったわ", "emotion": ""}
+{"id": 401052, "unit_id": 4010, "voice_type_id": 52, "voice_text": "でもね妖夢　今はこう思うの　\n剣術指南ありがとう　って", "emotion": ""}
+{"id": 401053, "unit_id": 4010, "voice_type_id": 53, "voice_text": "「饗宴　西行妖剪定歌舞」", "emotion": ""}
+{"id": 401054, "unit_id": 4010, "voice_type_id": 54, "voice_text": "あうっ", "emotion": ""}
+{"id": 401055, "unit_id": 4010, "voice_type_id": 55, "voice_text": "い、いけないわっ！", "emotion": ""}
+{"id": 401056, "unit_id": 4010, "voice_type_id": 56, "voice_text": "こんな程度なの～？", "emotion": ""}
+{"id": 401057, "unit_id": 4010, "voice_type_id": 57, "voice_text": "それじゃあ当たらないわ～", "emotion": ""}
+{"id": 401058, "unit_id": 4010, "voice_type_id": 58, "voice_text": "助かるわ～", "emotion": ""}
+{"id": 401059, "unit_id": 4010, "voice_type_id": 59, "voice_text": "亡霊はしぶといのよ。さあ、覚悟してね", "emotion": ""}
+{"id": 401060, "unit_id": 4010, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 401061, "unit_id": 4010, "voice_type_id": 61, "voice_text": "分かったわ", "emotion": ""}
+{"id": 401062, "unit_id": 4010, "voice_type_id": 62, "voice_text": "やめちゃうの？", "emotion": ""}
+{"id": 401063, "unit_id": 4010, "voice_type_id": 63, "voice_text": "うふふ、ありがとう", "emotion": ""}
+{"id": 401064, "unit_id": 4010, "voice_type_id": 64, "voice_text": "みょんなことばかりな旅だったわね、うふふ。", "emotion": ""}
+{"id": 401065, "unit_id": 4010, "voice_type_id": 65, "voice_text": "ねえ、妖夢。貴方が半人前で、私にろくな稽古をつけなかったものだから、こうして戻ってこれたのよ。何事にも、意味はあるものなのね。だからほら、泣かないで。", "emotion": ""}
 {"id": 401101, "unit_id": 4011, "voice_type_id": 1, "voice_text": "你是人类？来得正好。把你手上那一点春……怎么回事，这里是现界……？不是应该在失去了春天后， 处于永无止境的冬天中吗？只要再收集一点点春，西行妖就能盛开……大小姐……幽幽子大小姐呢！？什么，季节已经恢复了……？真，真是莫七八喵！能详细和我说说吗！？我是魂魄妖梦，大小姐的护卫。", "emotion": ""}
 {"id": 401102, "unit_id": 4011, "voice_type_id": 2, "voice_text": "幽幽子大小姐真的没事吗……好担心。", "emotion": "9"}
 {"id": 401103, "unit_id": 4011, "voice_type_id": 3, "voice_text": "你是说，异变会长期化，本身就是一件奇怪的事情。……什么意思？", "emotion": "2"}
@@ -13323,6 +13518,71 @@
 {"id": 500463, "unit_id": 5004, "voice_type_id": 63, "voice_text": "谢谢！", "emotion": ""}
 {"id": 500464, "unit_id": 5004, "voice_type_id": 64, "voice_text": "难道说，姐姐大人也能破坏命运？", "emotion": ""}
 {"id": 500465, "unit_id": 5004, "voice_type_id": 65, "voice_text": "我一直在追赶姐姐大人和大家。我现在总算追上了。欢迎回来，我回来了。姐姐大人。", "emotion": ""}
+{"id": 501001, "unit_id": 5010, "voice_type_id": 1, "voice_text": "妖夢、妖夢～？ お、お腹がすいたわ……もう、限、界っ。 ガクッ！ ちらっ。（そこの小さな可愛い女の子。お寿司持ってない？ どうか、シャリのひとかけでも。えっ、いいの！？ ありがとう～！）ｍｇｍｇ。ぱんぱかぱーん！ 西行寺幽々子、完全復活～！ 私を蘇らせた貴方には特別に、白玉楼名物フルーツ寿司をご馳走するわ。どれでもい～っぱい作ってあげる。主に、うちの妖夢が。", "emotion": ""}
+{"id": 501002, "unit_id": 5010, "voice_type_id": 2, "voice_text": "おすすめは椰子寿司だけど、どのフルーツ寿司も美味しいわよ～。", "emotion": "7"}
+{"id": 501003, "unit_id": 5010, "voice_type_id": 3, "voice_text": "食べ物の話をするのは大好きだけど、ちゃんと考えてもいるのよ。", "emotion": "9"}
+{"id": 501004, "unit_id": 5010, "voice_type_id": 4, "voice_text": "香霖堂のご主人が水着を作っているのはただの趣味だけど、今では紫の支援を受けているわね。また何か企んでるんだわ、きっと。", "emotion": "10"}
+{"id": 501005, "unit_id": 5010, "voice_type_id": 5, "voice_text": "私の知る限りでは、他の賢者も何らかの干渉を試みてるみたいね。かの秘神には秘策があって、『常夏ならこの方法が使えるはず』って試行錯誤を重ねてるみたいだけど……一体何が起きるのやら～。", "emotion": "2"}
+{"id": 501006, "unit_id": 5010, "voice_type_id": 6, "voice_text": "どの幻想郷であれ、決闘の本質は遊びだし、遊びの本質は決闘なの。だから大異変の黒幕とやらも、意外と『みんなと遊ぶ』のが目的だったりしてね？ ただ、気をつけないと大怪我をするのもまた、遊びのもつ性質だわ。", "emotion": "1"}
+{"id": 501007, "unit_id": 5010, "voice_type_id": 7, "voice_text": "さて、この世界と私の世界、それぞれの食糧事情は十分に把握できたわ。今まで協力してくれてありがとう。……えっ、遊んでいただけじゃあなかったのかって？ うふふ、遊びのついでだし、ついでの遊びなのよ。紫たちほどじゃあないけど、私にも企みのひとつやふたつ、あるのよね～。", "emotion": "5"}
+{"id": 501008, "unit_id": 5010, "voice_type_id": 8, "voice_text": "ぱくぱくっ！ むむっ！ これ美味しい～っ！！！", "emotion": ""}
+{"id": 501009, "unit_id": 5010, "voice_type_id": 9, "voice_text": "冥界は桜の楽園だったんだけど、夏の気質が強まるとバテちゃって。熱帯の果樹に化けてもらったの。一番大きい桜は、なんとノリノリで椰子の木に！", "emotion": "3"}
+{"id": 501010, "unit_id": 5010, "voice_type_id": 10, "voice_text": "うちのお寿司は幽霊寿司だから、実質食べてないのと同じ。太る心配はないのよ。まあ私は亡霊だから、何を食べてもノーカロリーだけどね。", "emotion": "6"}
+{"id": 501011, "unit_id": 5010, "voice_type_id": 11, "voice_text": "ほら、あそこに夜雀と地獄鴉とニワタリの神が行水をしているわ。雀は小骨が多いし、鴉はクセがあるから、やっぱりここは鶏ね！", "emotion": "3"}
+{"id": 501012, "unit_id": 5010, "voice_type_id": 12, "voice_text": "海辺の食べ物って、風変わりなものが多くて楽しいわ。ねえねえ紫、今度はあの、赤とか青とか蛍光グリーンのとかを食べてみましょうよ。", "emotion": "5"}
+{"id": 501013, "unit_id": 5010, "voice_type_id": 13, "voice_text": "折角だから、ちゃんとしたお花見料理がいいと思って。ほら、味見してくれる？ あ～ん……あら、すっかりなくなっちゃったみたい。", "emotion": "7"}
+{"id": 501014, "unit_id": 5010, "voice_type_id": 14, "voice_text": "夏だ！ 水着だ！ 海遊びだ～！ 月までひと泳ぎして、龍宮料理でももらってくるわ。私なら勝手に入っても、バレないんだもの。", "emotion": "3"}
+{"id": 501015, "unit_id": 5010, "voice_type_id": 15, "voice_text": "ええ、いいでしょう。秋が大地の恵みを謳歌するなら、受けて立ちます。万物、全て食べ尽くす。西行寺幽々子、推して参る！ いただきますッ！", "emotion": "4"}
+{"id": 501016, "unit_id": 5010, "voice_type_id": 16, "voice_text": "冬は全てが凍りついて、食べるものなんて何もない？ それはね、間違いなの。さあ、ワカサギを釣るわよ。……一緒に行くのよ。", "emotion": "9"}
+{"id": 501017, "unit_id": 5010, "voice_type_id": 17, "voice_text": "問題！ 中盛と並盛、どっちが大きいでしょう？", "emotion": "1"}
+{"id": 501018, "unit_id": 5010, "voice_type_id": 18, "voice_text": "ドゥルルルルル……でん！ 正解は、どちらも美味しい。また来週～！", "emotion": "3"}
+{"id": 501019, "unit_id": 5010, "voice_type_id": 19, "voice_text": "あら、エアメール？ 割引クーポンかしら。妖夢、妖夢～！", "emotion": "5"}
+{"id": 501020, "unit_id": 5010, "voice_type_id": 20, "voice_text": "まだ食べてない弾幕……じゃあなくって、まだ食べてないお料理があるの！", "emotion": "4"}
+{"id": 501021, "unit_id": 5010, "voice_type_id": 21, "voice_text": "誰かが帰ってきたわね。これで、妖夢がお寿司を握れるわあ。", "emotion": "1"}
+{"id": 501022, "unit_id": 5010, "voice_type_id": 22, "voice_text": "一緒に食べましょ。はい、お膝に座って。", "emotion": "7"}
+{"id": 501023, "unit_id": 5010, "voice_type_id": 23, "voice_text": "はい、あ～ん。美味しい？ うふふ。", "emotion": "3"}
+{"id": 501024, "unit_id": 5010, "voice_type_id": 24, "voice_text": "あ～ん……あら、食事の途中で寝ちゃったのね。", "emotion": "6"}
+{"id": 501025, "unit_id": 5010, "voice_type_id": 25, "voice_text": "食材に感謝し、いざ尋常に、いただきますッ！", "emotion": ""}
+{"id": 501026, "unit_id": 5010, "voice_type_id": 26, "voice_text": "茶碗が空いているわ。次の料理はまだなの？", "emotion": ""}
+{"id": 501027, "unit_id": 5010, "voice_type_id": 27, "voice_text": "妖夢。まだまだお寿司が足りません。さあ、旅を続けましょう", "emotion": ""}
+{"id": 501028, "unit_id": 5010, "voice_type_id": 28, "voice_text": "遅いですよ、妖夢。もうネタを直接食べます。止めないで。止めないで！", "emotion": ""}
+{"id": 501029, "unit_id": 5010, "voice_type_id": 29, "voice_text": "特盛！", "emotion": ""}
+{"id": 501030, "unit_id": 5010, "voice_type_id": 30, "voice_text": "超大盛！", "emotion": ""}
+{"id": 501031, "unit_id": 5010, "voice_type_id": 31, "voice_text": "漫画おばけ盛り！", "emotion": ""}
+{"id": 501032, "unit_id": 5010, "voice_type_id": 32, "voice_text": "五個入り？", "emotion": ""}
+{"id": 501033, "unit_id": 5010, "voice_type_id": 33, "voice_text": "二個入り？", "emotion": ""}
+{"id": 501034, "unit_id": 5010, "voice_type_id": 34, "voice_text": "ひとつ頂戴！", "emotion": ""}
+{"id": 501035, "unit_id": 5010, "voice_type_id": 35, "voice_text": "シェアしましょ～", "emotion": ""}
+{"id": 501036, "unit_id": 5010, "voice_type_id": 36, "voice_text": "とりかえっこしましょ", "emotion": ""}
+{"id": 501037, "unit_id": 5010, "voice_type_id": 37, "voice_text": "それは私のよ～", "emotion": ""}
+{"id": 501038, "unit_id": 5010, "voice_type_id": 38, "voice_text": "なあに？ ほしいの？", "emotion": ""}
+{"id": 501039, "unit_id": 5010, "voice_type_id": 39, "voice_text": "ジュースはあげません！", "emotion": ""}
+{"id": 501040, "unit_id": 5010, "voice_type_id": 40, "voice_text": "十人前じゃあ足りないわぁ", "emotion": ""}
+{"id": 501041, "unit_id": 5010, "voice_type_id": 41, "voice_text": "妖夢、おかわり～", "emotion": ""}
+{"id": 501042, "unit_id": 5010, "voice_type_id": 42, "voice_text": "いただきま～す", "emotion": ""}
+{"id": 501043, "unit_id": 5010, "voice_type_id": 43, "voice_text": "謹製高級フルーツよ", "emotion": ""}
+{"id": 501044, "unit_id": 5010, "voice_type_id": 44, "voice_text": "はい、元気に！", "emotion": ""}
+{"id": 501045, "unit_id": 5010, "voice_type_id": 45, "voice_text": "『私たちは南から海を渡ってきた』　\nって　本に書いてあったけど", "emotion": ""}
+{"id": 501046, "unit_id": 5010, "voice_type_id": 46, "voice_text": "南国のほうが　理想郷よね　\nだってこんなに　暖かいもの", "emotion": ""}
+{"id": 501047, "unit_id": 5010, "voice_type_id": 47, "voice_text": "亡郷「亡我郷　‐海上の道‐」", "emotion": ""}
+{"id": 501048, "unit_id": 5010, "voice_type_id": 48, "voice_text": "椰子の木の下で　命を落とす？　\nそういう都市伝説？", "emotion": ""}
+{"id": 501049, "unit_id": 5010, "voice_type_id": 49, "voice_text": "それなら　桜と一緒ね　\nいっぱい生えてるところも", "emotion": ""}
+{"id": 501050, "unit_id": 5010, "voice_type_id": 50, "voice_text": "「デスバイココナッツ」", "emotion": ""}
+{"id": 501051, "unit_id": 5010, "voice_type_id": 51, "voice_text": "西行妖は　椰子に化けても　\nすっごくノリノリなのよ", "emotion": ""}
+{"id": 501052, "unit_id": 5010, "voice_type_id": 52, "voice_text": "ただ　どうしても実だけは　\nつけてくれないのよね", "emotion": ""}
+{"id": 501053, "unit_id": 5010, "voice_type_id": 53, "voice_text": "「西行椰子　異郷流離」", "emotion": ""}
+{"id": 501054, "unit_id": 5010, "voice_type_id": 54, "voice_text": "ろこもこっ", "emotion": ""}
+{"id": 501055, "unit_id": 5010, "voice_type_id": 55, "voice_text": "ガーリックシュリンプ～！", "emotion": ""}
+{"id": 501056, "unit_id": 5010, "voice_type_id": 56, "voice_text": "酢豚もいいわね", "emotion": ""}
+{"id": 501057, "unit_id": 5010, "voice_type_id": 57, "voice_text": "食べていいの！？", "emotion": ""}
+{"id": 501058, "unit_id": 5010, "voice_type_id": 58, "voice_text": "わあ、ごちそうさま～", "emotion": ""}
+{"id": 501059, "unit_id": 5010, "voice_type_id": 59, "voice_text": "三秒以内に拾えば、まだ食べられるわ！", "emotion": ""}
+{"id": 501060, "unit_id": 5010, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 501061, "unit_id": 5010, "voice_type_id": 61, "voice_text": "はい", "emotion": ""}
+{"id": 501062, "unit_id": 5010, "voice_type_id": 62, "voice_text": "やめましょう～", "emotion": ""}
+{"id": 501063, "unit_id": 5010, "voice_type_id": 63, "voice_text": "うふふ、ありがとう", "emotion": ""}
+{"id": 501064, "unit_id": 5010, "voice_type_id": 64, "voice_text": "妖夢、いいこと？ こうして食べ歩いているのは、ある種の測量なのよ。", "emotion": ""}
+{"id": 501065, "unit_id": 5010, "voice_type_id": 65, "voice_text": "あら、妖夢！ その珍しいフルーツは……！ なるほど、これが多次元神経網の出した『成果』のひとつ、というワケね。", "emotion": ""}
 {"id": 501101, "unit_id": 5011, "voice_type_id": 1, "voice_text": "光啊，照亮我前进的方向吧……什么！ 这里是……你是……！ 我终于……来到了这里。我是魂魄妖梦。为了寻找宝贵的东西们，我经历了漫长的旅途。这是“待宵人魂灯”。是幽幽子大人留下的，引导我前进的灯火。幽幽子大人一定在这份光芒前方等着我。请和幽灵一起陪伴我前往旅途的终点站吧。", "emotion": ""}
 {"id": 501102, "unit_id": 5011, "voice_type_id": 2, "voice_text": "您没事干的话能陪我修行吗？ 您有什么事吗？", "emotion": "1"}
 {"id": 501103, "unit_id": 5011, "voice_type_id": 3, "voice_text": "我的旅途是从什么都没有的地方开始的。", "emotion": "10"}
@@ -13453,6 +13713,136 @@
 {"id": 501563, "unit_id": 5015, "voice_type_id": 63, "voice_text": "谢谢！", "emotion": ""}
 {"id": 501564, "unit_id": 5015, "voice_type_id": 64, "voice_text": "其实我很擅长使用机器。因为月亮到处都是机器。", "emotion": ""}
 {"id": 501565, "unit_id": 5015, "voice_type_id": 65, "voice_text": "师父大人！ 帝！ ……有种如释重负的感觉呢。我们的战争，总算要结束了。", "emotion": ""}
+{"id": 502501, "unit_id": 5025, "voice_type_id": 1, "voice_text": "ほれ見たことか。「酒呑童子の話は絵空事」だって？ そう抜かした連中は一人残らずブッ潰してきたけど、やっぱり理想の秘境は実在したのよ。吾は茨木童子、酒呑の西を守護する門神にして、吽形の鬼。またの名を華扇。ねえ、そこの弱っちい旧人類の小娘。この地の名は何？ ……『幻想郷』？ 気に入ったわ！ 吾が来たからには、ここは既に新たな大江山よ。", "emotion": ""}
+{"id": 502502, "unit_id": 5025, "voice_type_id": 2, "voice_text": "知らなすぎよ。これだから人間は。", "emotion": "9"}
+{"id": 502503, "unit_id": 5025, "voice_type_id": 3, "voice_text": "ほんっと、旧人類って無知なのね。後でお説教だから覚悟なさい。", "emotion": "10"}
+{"id": 502504, "unit_id": 5025, "voice_type_id": 4, "voice_text": "ここにも書物くらいはあるでしょう。なら、片っ端から読みなさい。鬼に関する記述は、それこそごまんとあるんだから。ほれ、さっさと行ってこい。", "emotion": "1"}
+{"id": 502505, "unit_id": 5025, "voice_type_id": 5, "voice_text": "……え？ 言われたとおりに調べ尽くしてきた？ そ、そう。旧人類にしてはやるじゃない。まだ、小さいのに……。いえ、別に？ 感心なんかしてないわよ。お前がしたのは当然のことなんだからね！", "emotion": "6"}
+{"id": 502506, "unit_id": 5025, "voice_type_id": 6, "voice_text": "荒ぶる神、見えざる力、死霊、まつろわぬ民、賊徒、地獄の獄卒……吾たち鬼の呼ばれ方は、時と所によって変わるわ。それは吾たち鬼が、太古から各地を流れながら生きてきた証拠。安息の地を求めて彷徨った、果てしない旅だったわ。", "emotion": "10"}
+{"id": 502507, "unit_id": 5025, "voice_type_id": 7, "voice_text": "大異変のせいで、幻想郷さえも消えようとしている。それは酒呑の意向にも合わないし、何よりも吾自身が気に食わないわ。恒久平和あっての安息の地だもの。……意外とマトモ？ 失礼ね！ 吾はこれでも、指導が役割よ。これからは一層厳しく行くわ。構わないわね？", "emotion": "4"}
+{"id": 502508, "unit_id": 5025, "voice_type_id": 8, "voice_text": "鬼の術は道の力と同源よ。お前、そんなことも知らなかったの？", "emotion": ""}
+{"id": 502509, "unit_id": 5025, "voice_type_id": 9, "voice_text": "さて、金棒に内蔵されている百薬枡の手入れをするわ。いい？ お前は、虎の監兵を世話するの。大人しい子だから、大丈夫よ。", "emotion": "7"}
+{"id": 502510, "unit_id": 5025, "voice_type_id": 10, "voice_text": "仙人？ ……ああ、別の道を辿った吾のこと？ その吾の名誉のために言っておくけど、世の中には妖怪が仙人になったり、人間が鬼になった例もあるのよ。", "emotion": "1"}
+{"id": 502511, "unit_id": 5025, "voice_type_id": 11, "voice_text": "星熊？ ああ、あいつは酒呑の懐刀よ。力の勇儀なんて呼ばれるだけあって、何でも力にする貪欲さには脱帽だわ。普段は冷静を装っているけどね。", "emotion": "3"}
+{"id": 502512, "unit_id": 5025, "voice_type_id": 12, "voice_text": "鬼と神が同根なのは、常識だと思ってたわ。旧人類って何も知らないのね。信仰と恐怖も、元は同じものなのよ。分かった？", "emotion": "10"}
+{"id": 502513, "unit_id": 5025, "voice_type_id": 13, "voice_text": "「氷消えては波旧苔の鬚を洗う」。違う、「水消えて波は旧苔の髪を洗う」だったかしら。……えっ？ あ、いや、都っていう人間が詠んだ歌への返しだけど。", "emotion": "1"}
+{"id": 502514, "unit_id": 5025, "voice_type_id": 14, "voice_text": "夏は肝試し？ ほう、いい度胸じゃあないの。それなら百鬼夜行を再現してあげるわ。河童に天狗、土蜘蛛に釣瓶落とし、覚童子……え、お馴染み？", "emotion": "3"}
+{"id": 502515, "unit_id": 5025, "voice_type_id": 15, "voice_text": "紅葉姫っていう鬼のことは知っている？ ……あら、そう。ここに流れ着いてもおかしくない鬼だと思ったけど。それじゃあ牛鬼……は流石に知ってるか。", "emotion": "7"}
+{"id": 502516, "unit_id": 5025, "voice_type_id": 16, "voice_text": "……寒いわね。こう寒いと、どうしても思い出すわ。雪に染まった丹後富士の嶺。凍りついた平安の京。そして、綱との未決着の勝負。あの時、右腕が斬られていたら……？", "emotion": "2"}
+{"id": 502517, "unit_id": 5025, "voice_type_id": 17, "voice_text": "課題？ しっかりやりなさい。お説教は嫌でしょう？", "emotion": "9"}
+{"id": 502518, "unit_id": 5025, "voice_type_id": 18, "voice_text": "課題を終えるのが遅いわ。それじゃあ、お説教よ。正座なさい。", "emotion": "1"}
+{"id": 502519, "unit_id": 5025, "voice_type_id": 19, "voice_text": "伝書にはすぐ目を通すこと。つべこべ言わない、さっさとやる！", "emotion": "6"}
+{"id": 502520, "unit_id": 5025, "voice_type_id": 20, "voice_text": "さあ、道具の調整よ。休んでる暇なんてないから。……まあ、お茶くらいはいいけど。", "emotion": "1"}
+{"id": 502521, "unit_id": 5025, "voice_type_id": 21, "voice_text": "誰か帰ってきたみたいね。何か甘いもの……なんでもない。", "emotion": "2"}
+{"id": 502522, "unit_id": 5025, "voice_type_id": 22, "voice_text": "だから、お前の知るカセンチャンとは違うんだって……！", "emotion": "10"}
+{"id": 502523, "unit_id": 5025, "voice_type_id": 23, "voice_text": "って、言ってるのに……ンモー！", "emotion": "6"}
+{"id": 502524, "unit_id": 5025, "voice_type_id": 24, "voice_text": "勝手に吾の膝で寝てっ！ ……よしよし。", "emotion": "3"}
+{"id": 502525, "unit_id": 5025, "voice_type_id": 25, "voice_text": "鬼の仁王がひとり、茨木童子。推して参るわ！", "emotion": ""}
+{"id": 502526, "unit_id": 5025, "voice_type_id": 26, "voice_text": "酒呑はさがってて。ここは吾がっ！", "emotion": ""}
+{"id": 502527, "unit_id": 5025, "voice_type_id": 27, "voice_text": "勝利し続けてこそ、意味がある。欲しい物がある以上は、尚更よ！", "emotion": ""}
+{"id": 502528, "unit_id": 5025, "voice_type_id": 28, "voice_text": "くっ、こんなんじゃあ終われないわ！ 必ず、舞い戻ってみせる！", "emotion": ""}
+{"id": 502529, "unit_id": 5025, "voice_type_id": 29, "voice_text": "一瞬でも！", "emotion": ""}
+{"id": 502530, "unit_id": 5025, "voice_type_id": 30, "voice_text": "油断したら！", "emotion": ""}
+{"id": 502531, "unit_id": 5025, "voice_type_id": 31, "voice_text": "命はないと思え！", "emotion": ""}
+{"id": 502532, "unit_id": 5025, "voice_type_id": 32, "voice_text": "お前も！", "emotion": ""}
+{"id": 502533, "unit_id": 5025, "voice_type_id": 33, "voice_text": "動物として！", "emotion": ""}
+{"id": 502534, "unit_id": 5025, "voice_type_id": 34, "voice_text": "導いてやるわ！", "emotion": ""}
+{"id": 502535, "unit_id": 5025, "voice_type_id": 35, "voice_text": "しょうがないわね", "emotion": ""}
+{"id": 502536, "unit_id": 5025, "voice_type_id": 36, "voice_text": "これでいいでしょう", "emotion": ""}
+{"id": 502537, "unit_id": 5025, "voice_type_id": 37, "voice_text": "は？ なんで吾が……", "emotion": ""}
+{"id": 502538, "unit_id": 5025, "voice_type_id": 38, "voice_text": "ちょ、調子乗んな！", "emotion": ""}
+{"id": 502539, "unit_id": 5025, "voice_type_id": 39, "voice_text": "はいはい分かった分かった", "emotion": ""}
+{"id": 502540, "unit_id": 5025, "voice_type_id": 40, "voice_text": "なかなかに愉快だわ！", "emotion": ""}
+{"id": 502541, "unit_id": 5025, "voice_type_id": 41, "voice_text": "手加減無用！", "emotion": ""}
+{"id": 502542, "unit_id": 5025, "voice_type_id": 42, "voice_text": "ここからは任せなさい！", "emotion": ""}
+{"id": 502543, "unit_id": 5025, "voice_type_id": 43, "voice_text": "やってやりなさい、監兵！", "emotion": ""}
+{"id": 502544, "unit_id": 5025, "voice_type_id": 44, "voice_text": "ぶっ潰してやるわ！", "emotion": ""}
+{"id": 502545, "unit_id": 5025, "voice_type_id": 45, "voice_text": "見せてあげましょう　\nこれが鬼の仁王の術", "emotion": ""}
+{"id": 502546, "unit_id": 5025, "voice_type_id": 46, "voice_text": "来なさい　監兵　\n手心なんて要らないわ！", "emotion": ""}
+{"id": 502547, "unit_id": 5025, "voice_type_id": 47, "voice_text": "虎符「西門の白虎」", "emotion": ""}
+{"id": 502548, "unit_id": 5025, "voice_type_id": 48, "voice_text": "虎の叫声を聞くがいい　\n轟き響く　その声を", "emotion": ""}
+{"id": 502549, "unit_id": 5025, "voice_type_id": 49, "voice_text": "鬼の国よ　慄えて揺れろ　\n術のままに震撼せよ！", "emotion": ""}
+{"id": 502550, "unit_id": 5025, "voice_type_id": 50, "voice_text": "虎符「タイガーズグロウル」", "emotion": ""}
+{"id": 502551, "unit_id": 5025, "voice_type_id": 51, "voice_text": "地獄に勤めたとしたら　\nそれも楽しかったかもね", "emotion": ""}
+{"id": 502552, "unit_id": 5025, "voice_type_id": 52, "voice_text": "でも吾は　新たな鬼の国に　\n今でも夢中なのよ！", "emotion": ""}
+{"id": 502553, "unit_id": 5025, "voice_type_id": 53, "voice_text": "「悪鬼夜叉　牛頭獄卒」", "emotion": ""}
+{"id": 502554, "unit_id": 5025, "voice_type_id": 54, "voice_text": "うぐっ！", "emotion": ""}
+{"id": 502555, "unit_id": 5025, "voice_type_id": 55, "voice_text": "小癪なっ！", "emotion": ""}
+{"id": 502556, "unit_id": 5025, "voice_type_id": 56, "voice_text": "巫山戯てるの？", "emotion": ""}
+{"id": 502557, "unit_id": 5025, "voice_type_id": 57, "voice_text": "他愛ないわね！", "emotion": ""}
+{"id": 502558, "unit_id": 5025, "voice_type_id": 58, "voice_text": "えっ、いいの？", "emotion": ""}
+{"id": 502559, "unit_id": 5025, "voice_type_id": 59, "voice_text": "まだよ……国の行く末を、この目で見るまでは！", "emotion": ""}
+{"id": 502560, "unit_id": 5025, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 502561, "unit_id": 5025, "voice_type_id": 61, "voice_text": "いいわよ", "emotion": ""}
+{"id": 502562, "unit_id": 5025, "voice_type_id": 62, "voice_text": "あら、そう", "emotion": ""}
+{"id": 502563, "unit_id": 5025, "voice_type_id": 63, "voice_text": "あ、ありがと", "emotion": ""}
+{"id": 502564, "unit_id": 5025, "voice_type_id": 64, "voice_text": "星熊、もっと前に出て！ 酒呑を守れない！", "emotion": ""}
+{"id": 502565, "unit_id": 5025, "voice_type_id": 65, "voice_text": "酒呑が抱く理想が正しいかなんて、今や吾には分からない。でも大切なことは、最後まで信じぬけるかどうかよ。", "emotion": ""}
+{"id": 503701, "unit_id": 5037, "voice_type_id": 1, "voice_text": "今こそ私は、未熟な自分を誇ります。自信たっぷりの満々で！ もし私が一人前だったら、神奈子様も諏訪子様もなく、孤独な神だったでしょうから。私のこと、覚えてますよね？ 風祝にして現人神、小さなあなたをおんぶしては抱っこした奇跡のお姉ちゃん、東風谷早苗です！ ……えっ、記憶の捏造？ 違いますって！ 真澄鏡の影と八栄鈴の声が、そう言ってるんですよ～！", "emotion": ""}
+{"id": 503702, "unit_id": 5037, "voice_type_id": 2, "voice_text": "守矢神社は理系神社！ なんでもお答えしますよ！", "emotion": "7"}
+{"id": 503703, "unit_id": 5037, "voice_type_id": 3, "voice_text": "ロボット、ロケット、ＡＩ、時間旅行、ワープ航法、全部大好きです！", "emotion": "3"}
+{"id": 503704, "unit_id": 5037, "voice_type_id": 4, "voice_text": "大異変の末路、私も全てを消し去られて、闇の果てに封じられました。今ここにいるのは、神奈子様と諏訪子様との絆による結果です。", "emotion": "8"}
+{"id": 503705, "unit_id": 5037, "voice_type_id": 5, "voice_text": "ただ、私たちの『神様としての絆』というよりも、何かこう、ちょっと違う繋がりによるもの……のような気がするんですよね。神様の力でも、大異変の前ではほとんど意味がありませんので。", "emotion": "2"}
+{"id": 503706, "unit_id": 5037, "voice_type_id": 6, "voice_text": "難しいお話になりますが、時間と空間は同じものなんですよ。ブロック宇宙とかスポットライト理論で語られているとおりです。つまり宇宙の果てと、宇宙の開闢および終焉は同じ……うわあ、自分で言ってて分からなくなってきました。", "emotion": "9"}
+{"id": 503707, "unit_id": 5037, "voice_type_id": 7, "voice_text": "守矢神社って、いつまで経ってもどこか『新参者』っぽい印象を持たれてると思います。でも、それもまた『受け入れられ方』のひとつなんですよね。幻想郷の中にありながら常に新しい何かを期待されるのが、私たちの強み。大異変に対しても、守矢神社だからこそのアプローチがあるはずです！", "emotion": "3"}
+{"id": 503708, "unit_id": 5037, "voice_type_id": 8, "voice_text": "おーっと東風谷早苗ちゃん、まだまだ成長期の様子だ～！", "emotion": ""}
+{"id": 503709, "unit_id": 5037, "voice_type_id": 9, "voice_text": "かつては霊夢さんにばかり、お姉ちゃんぶらせていました。でも決めましたよ。今日は私がお姉ちゃんの日です！ お泊りセット、持ちましたか？", "emotion": "1"}
+{"id": 503710, "unit_id": 5037, "voice_type_id": 10, "voice_text": "たぶんなんですけど、伊弉諾物質だと思うんですよね。この真澄鏡と八栄鈴、ふたつの神宝って。根拠は……なんとなくです！", "emotion": "4"}
+{"id": 503711, "unit_id": 5037, "voice_type_id": 11, "voice_text": "あなたにはたくさんお姉ちゃんがいていいですね～。霊夢さんでしょ、魔理沙さんでしょ、咲夜さんに妖夢さんに鈴仙さん……全員私が取り戻してみせますから！", "emotion": "6"}
+{"id": 503712, "unit_id": 5037, "voice_type_id": 12, "voice_text": "神社を乗せた戦車！？ それは初耳ですが、聞くからに浪漫の塊ですね！ ……罰当たり？ いえ、神様はそういうの好きですよ。意外と！", "emotion": "5"}
+{"id": 503713, "unit_id": 5037, "voice_type_id": 13, "voice_text": "春、懐かしい季節です。外に居た頃の思い出、入学式を思い出しますね。神奈子様と諏訪子様も、近くで見守って下さってました。", "emotion": "6"}
+{"id": 503714, "unit_id": 5037, "voice_type_id": 14, "voice_text": "夏祭りといば、風神の湖にお船を浮かべるんですよね。あと夏の暮れには恐ろしい怨霊が嵐を起こすので、鎮めるお祭りとか。", "emotion": "1"}
+{"id": 503715, "unit_id": 5037, "voice_type_id": 15, "voice_text": "秋の味覚と言えばキノコって言ってたのは、魔理沙さんだったでしょうか。懐かしいですね。この季節は、妖怪の山にもキノコがいっぱいです。", "emotion": "6"}
+{"id": 503716, "unit_id": 5037, "voice_type_id": 16, "voice_text": "真澄鏡と八栄鈴につける毛糸カバーを作りました！ 神奈子様と諏訪子様が寒いといけませんからね。これで安心です。", "emotion": "3"}
+{"id": 503717, "unit_id": 5037, "voice_type_id": 17, "voice_text": "課題、一緒に頑張りましょう！ はい、隣りに座って。ここはですね～。", "emotion": "1"}
+{"id": 503718, "unit_id": 5037, "voice_type_id": 18, "voice_text": "課題、大正解！ よしよし、かわいいかわいい。", "emotion": "3"}
+{"id": 503719, "unit_id": 5037, "voice_type_id": 19, "voice_text": "伝書……マイクロブラックホールを通ってきた情報だったりして。", "emotion": "5"}
+{"id": 503720, "unit_id": 5037, "voice_type_id": 20, "voice_text": "あっ！ お茶を淹れて下さったんですね。嬉しいです、よしよし。", "emotion": "3"}
+{"id": 503721, "unit_id": 5037, "voice_type_id": 21, "voice_text": "誰か帰ってきたみたいですね。お帰りなさい！ ほら、あなたも。", "emotion": "1"}
+{"id": 503722, "unit_id": 5037, "voice_type_id": 22, "voice_text": "はい、お姉ちゃんのお膝で寝ていいですよ。", "emotion": "3"}
+{"id": 503723, "unit_id": 5037, "voice_type_id": 23, "voice_text": "か、硬い？ あっ、そっか。今は外しておこっと。", "emotion": "5"}
+{"id": 503724, "unit_id": 5037, "voice_type_id": 24, "voice_text": "よし、よし。本当に、安らかな寝顔ですね。", "emotion": "6"}
+{"id": 503725, "unit_id": 5037, "voice_type_id": 25, "voice_text": "もう離しません。ムギュッと抱きしめてやる！", "emotion": ""}
+{"id": 503726, "unit_id": 5037, "voice_type_id": 26, "voice_text": "さあ、風に乗って。星空の彼方へ！", "emotion": ""}
+{"id": 503727, "unit_id": 5037, "voice_type_id": 27, "voice_text": "祈りも願いも、この東風谷早苗が終わらせない。さあ、進みましょう！", "emotion": ""}
+{"id": 503728, "unit_id": 5037, "voice_type_id": 28, "voice_text": "あっれー、おかしいですね。この装備なら大丈夫なハズなのに", "emotion": ""}
+{"id": 503729, "unit_id": 5037, "voice_type_id": 29, "voice_text": "さあて！", "emotion": ""}
+{"id": 503730, "unit_id": 5037, "voice_type_id": 30, "voice_text": "いっきますよー！", "emotion": ""}
+{"id": 503731, "unit_id": 5037, "voice_type_id": 31, "voice_text": "この手で星を掴んで見せる！", "emotion": ""}
+{"id": 503732, "unit_id": 5037, "voice_type_id": 32, "voice_text": "ほらほら！", "emotion": ""}
+{"id": 503733, "unit_id": 5037, "voice_type_id": 33, "voice_text": "どうしたんですかー！", "emotion": ""}
+{"id": 503734, "unit_id": 5037, "voice_type_id": 34, "voice_text": "さっさと勝負しろー！", "emotion": ""}
+{"id": 503735, "unit_id": 5037, "voice_type_id": 35, "voice_text": "もう迷いませんよ", "emotion": ""}
+{"id": 503736, "unit_id": 5037, "voice_type_id": 36, "voice_text": "すべて守ります！", "emotion": ""}
+{"id": 503737, "unit_id": 5037, "voice_type_id": 37, "voice_text": "はい、私に任せて", "emotion": ""}
+{"id": 503738, "unit_id": 5037, "voice_type_id": 38, "voice_text": "遠慮しないで下さいね", "emotion": ""}
+{"id": 503739, "unit_id": 5037, "voice_type_id": 39, "voice_text": "やってあげちゃいます", "emotion": ""}
+{"id": 503740, "unit_id": 5037, "voice_type_id": 40, "voice_text": "弾け飛べ、常識の壁よ！", "emotion": ""}
+{"id": 503741, "unit_id": 5037, "voice_type_id": 41, "voice_text": "お任せしますね", "emotion": ""}
+{"id": 503742, "unit_id": 5037, "voice_type_id": 42, "voice_text": "早苗ちゃんの参上だぞっ", "emotion": ""}
+{"id": 503743, "unit_id": 5037, "voice_type_id": 43, "voice_text": "諏訪子様の技です！", "emotion": ""}
+{"id": 503744, "unit_id": 5037, "voice_type_id": 44, "voice_text": "神奈子様の力です！", "emotion": ""}
+{"id": 503745, "unit_id": 5037, "voice_type_id": 45, "voice_text": "輝け　真澄鏡　\n蛇神の影を　映し出せ", "emotion": ""}
+{"id": 503746, "unit_id": 5037, "voice_type_id": 46, "voice_text": "神奈子様　私は大丈夫です　\nもうちょっとだけ　待ってて下さい", "emotion": ""}
+{"id": 503747, "unit_id": 5037, "voice_type_id": 47, "voice_text": "守矢神社「表祭神の威光」", "emotion": ""}
+{"id": 503748, "unit_id": 5037, "voice_type_id": 48, "voice_text": "震えよ　八栄鈴　\n見えざる神の声を　響かせよ", "emotion": ""}
+{"id": 503749, "unit_id": 5037, "voice_type_id": 49, "voice_text": "諏訪子様　ありがとうございます　\nいつも私を　守ってくれて", "emotion": ""}
+{"id": 503750, "unit_id": 5037, "voice_type_id": 50, "voice_text": "守矢神社「裏祭神の祟り」", "emotion": ""}
+{"id": 503751, "unit_id": 5037, "voice_type_id": 51, "voice_text": "私を見よ　私を通して\n神の御影を見るがよい", "emotion": ""}
+{"id": 503752, "unit_id": 5037, "voice_type_id": 52, "voice_text": "全ては不可視の神を見るため　\nすなわち私が　守矢神社だっ！", "emotion": ""}
+{"id": 503753, "unit_id": 5037, "voice_type_id": 53, "voice_text": "「本殿持たぬ守矢の御正体」", "emotion": ""}
+{"id": 503754, "unit_id": 5037, "voice_type_id": 54, "voice_text": "あいてっ", "emotion": ""}
+{"id": 503755, "unit_id": 5037, "voice_type_id": 55, "voice_text": "そんなの無理ですぅ！", "emotion": ""}
+{"id": 503756, "unit_id": 5037, "voice_type_id": 56, "voice_text": "ほっ、平気でした", "emotion": ""}
+{"id": 503757, "unit_id": 5037, "voice_type_id": 57, "voice_text": "キセキを見よ！", "emotion": ""}
+{"id": 503758, "unit_id": 5037, "voice_type_id": 58, "voice_text": "はわわっ、助かりました！", "emotion": ""}
+{"id": 503759, "unit_id": 5037, "voice_type_id": 59, "voice_text": "終わりません！ 終わらせませんよ！", "emotion": ""}
+{"id": 503760, "unit_id": 5037, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 503761, "unit_id": 5037, "voice_type_id": 61, "voice_text": "いいですよ！", "emotion": ""}
+{"id": 503762, "unit_id": 5037, "voice_type_id": 62, "voice_text": "やめますね！", "emotion": ""}
+{"id": 503763, "unit_id": 5037, "voice_type_id": 63, "voice_text": "ありがとうございます！", "emotion": ""}
+{"id": 503764, "unit_id": 5037, "voice_type_id": 64, "voice_text": "私って、少しは一人前に近づけてるんでしょうか。", "emotion": ""}
+{"id": 503765, "unit_id": 5037, "voice_type_id": 65, "voice_text": "神奈子様、諏訪子様……！ またお会いできて……早苗は、早苗は……う、嬉しい……です！", "emotion": ""}
 {"id": 505001, "unit_id": 5050, "voice_type_id": 1, "voice_text": "恋~？ 你去哪了~？ 没有你挡着我，我穿泳装太害羞了……等一下！？ 这是妖怪贤者说的异界转移！？ 为什么！？ 这种事情就应该和旅行一样，事先做好周全的准备……什么？ 你是本地人吗。我读取了你的内心。我是古明地觉。有些突然……你能站在我的前面吗？", "emotion": ""}
 {"id": 505002, "unit_id": 5050, "voice_type_id": 2, "voice_text": "这个泳装是恋选的。……我还穿不惯。", "emotion": "6"}
 {"id": 505003, "unit_id": 5050, "voice_type_id": 3, "voice_text": "海和温泉不一样，水很凉呢。……你说这是理所当然的事情？", "emotion": "2"}
@@ -13713,6 +14103,71 @@
 {"id": 505663, "unit_id": 5056, "voice_type_id": 63, "voice_text": "谢谢！", "emotion": ""}
 {"id": 505664, "unit_id": 5056, "voice_type_id": 64, "voice_text": "可以。那我就启动这个程序吧！", "emotion": ""}
 {"id": 505665, "unit_id": 5056, "voice_type_id": 65, "voice_text": "程序无法启动？ 奇怪。你是不是看到了大脚怪或者尼斯湖水怪？", "emotion": ""}
+{"id": 508901, "unit_id": 5089, "voice_type_id": 1, "voice_text": "古来より神仙思想は、多様な異界の存在を認めてきた。貴方はそれを知っているかしら。私は比那名居天子。そしてこれは最強の宝貝のひとつ、霧露乾坤網！ 霊の流れは水の気質。この宝貝を使えば、霊道を通して異界を渡るのも造作ないのよ。ちょっとならね。さて、私の異変計画を邪魔した愚か者はどこかな？ これじゃあ皆と遊べな……じゃあなくて、地上を造り変えられないじゃあないの。", "emotion": ""}
+{"id": 508902, "unit_id": 5089, "voice_type_id": 2, "voice_text": "地子って名前、なんで貴方が知ってるの！？", "emotion": "5"}
+{"id": 508903, "unit_id": 5089, "voice_type_id": 3, "voice_text": "まあ比那名居家も成り上がりだから、後から勉強したんだけどね。", "emotion": "1"}
+{"id": 508904, "unit_id": 5089, "voice_type_id": 4, "voice_text": "確かに私は元地上人だけど、他の地上人とは違うし、惰眠を貪りながら成り上がりを見下すことしかできない天人たちとも違うわ。", "emotion": "9"}
+{"id": 508905, "unit_id": 5089, "voice_type_id": 5, "voice_text": "地べたを這っているだけじゃあ、異変は解決しない。空から見下ろしているだけでもダメ。それなら、私しかいないじゃない？ 全てを見通し、全てを備えた私なら、全世界を救済することさえ不可能じゃあないわ。", "emotion": "1"}
+{"id": 508906, "unit_id": 5089, "voice_type_id": 6, "voice_text": "異変を解決すれば、天地の全てが私を認めざるを得ないのよ。これ程までにコスパのいい行動もないものだわ。これで夢の友達百人……じゃあなくって！ 天人としての力の誇示ができるって寸法よ。", "emotion": "3"}
+{"id": 508907, "unit_id": 5089, "voice_type_id": 7, "voice_text": "そりゃあ天人になった時は、何もしなくても頭は良くなったし、体は強くなったし、たぶん美貌もアップしたわ。でも天人は、長寿だけれど不死ではない。何が言いたいかっていうと……私の知恵も力も美しさも、そして私の世界も！ 私が守らないと、無くなっちゃうってこと！", "emotion": "7"}
+{"id": 508908, "unit_id": 5089, "voice_type_id": 8, "voice_text": "霧露乾坤網……貴方、まだ力を隠し持ってたの？ まったく。", "emotion": ""}
+{"id": 508909, "unit_id": 5089, "voice_type_id": 9, "voice_text": "本当は剣型のアイテムを持ち出そうと思ったんだけど、使いの者に「ダメです」って止められちゃって。次回は絶対に持ち出すつもりよ。", "emotion": "10"}
+{"id": 508910, "unit_id": 5089, "voice_type_id": 10, "voice_text": "生まれつきの天人よりも、後から努力してそのレベルに到達した私のほうが、全面的に秀でているに決まってるんだから。……ああ、こっちの話ね。", "emotion": "6"}
+{"id": 508911, "unit_id": 5089, "voice_type_id": 11, "voice_text": "孫娘の話ばっかりする天人がいるんだけど、退屈な天界の中ではかなりマシな部類ね。ただ、何かと剣の稽古をつけようとしてくるのよね。", "emotion": "9"}
+{"id": 508912, "unit_id": 5089, "voice_type_id": 12, "voice_text": "娘の自慢話で有名な天人がさ、天界の各地を旅しまくる変人なのよね。桃には目もくれず桜ばっか探しちゃってさ。でも付き合ってみたら、これがなかなか。", "emotion": "5"}
+{"id": 508913, "unit_id": 5089, "voice_type_id": 13, "voice_text": "地上の桜は正直見事だと思うわ。こういうのがね、天界にも必要なのよ。さあて、博麗神社の宴会に混ぜてもらおーっと。", "emotion": "3"}
+{"id": 508914, "unit_id": 5089, "voice_type_id": 14, "voice_text": "海と空って、もともとひとつだったって知ってた？ どっちもアマって言うでしょ。まあ、私も後から勉強したんだけどね。あー、海に行きたい。", "emotion": "3"}
+{"id": 508915, "unit_id": 5089, "voice_type_id": 15, "voice_text": "天界にも金丹とか桃とかあるけど、地上の農作物もなかなか……い、いや、土臭くて食べれたものじゃないわ！ ……ｍｇｍｇ。", "emotion": "6"}
+{"id": 508916, "unit_id": 5089, "voice_type_id": 16, "voice_text": "そういえば、あの山には名居守の祠があるんだったわね。私と縁のある場所だし、積もった雪くらい払いに行ってあげようかなあ。", "emotion": "9"}
+{"id": 508917, "unit_id": 5089, "voice_type_id": 17, "voice_text": "へえ、お勉強してるんだ？ 教えてあげよっか？", "emotion": "1"}
+{"id": 508918, "unit_id": 5089, "voice_type_id": 18, "voice_text": "ふふん、ほら見なさい。天人は全方位で強い。課題くらい簡単よ。", "emotion": "7"}
+{"id": 508919, "unit_id": 5089, "voice_type_id": 19, "voice_text": "貴方にお手紙が来てるみたい。さっさと見たほうがいいわよ。", "emotion": "10"}
+{"id": 508920, "unit_id": 5089, "voice_type_id": 20, "voice_text": "ふぅ～、ただいまっ。……はっ！？ すっかり幻想郷に慣れきってる！？", "emotion": "2"}
+{"id": 508921, "unit_id": 5089, "voice_type_id": 21, "voice_text": "誰か帰ってきた。ちょっと衣玖？ 衣玖ー？ ……しょうがない、私が行くわ。", "emotion": "4"}
+{"id": 508922, "unit_id": 5089, "voice_type_id": 22, "voice_text": "運の悪い貴方の寝顔、見守ってあげるわ。", "emotion": "1"}
+{"id": 508923, "unit_id": 5089, "voice_type_id": 23, "voice_text": "無断で私の膝を枕にして、しょうがない地上の子ね。", "emotion": "6"}
+{"id": 508924, "unit_id": 5089, "voice_type_id": 24, "voice_text": "よしよーし、なでなで。昔の私にちょっと似てるかも。", "emotion": "7"}
+{"id": 508925, "unit_id": 5089, "voice_type_id": 25, "voice_text": "霧露乾坤網の水に溺れるがいいわ！", "emotion": ""}
+{"id": 508926, "unit_id": 5089, "voice_type_id": 26, "voice_text": "ちょっと、霧露乾坤網。真面目にやりなさい！", "emotion": ""}
+{"id": 508927, "unit_id": 5089, "voice_type_id": 27, "voice_text": "天に比那名居天子あり。地上の有象無象は打ち震えるがいい！", "emotion": ""}
+{"id": 508928, "unit_id": 5089, "voice_type_id": 28, "voice_text": "ちょっと！ なんで敗けるのよ！？ 霧露乾坤網、本気出しなさい！", "emotion": ""}
+{"id": 508929, "unit_id": 5089, "voice_type_id": 29, "voice_text": "さあさあ", "emotion": ""}
+{"id": 508930, "unit_id": 5089, "voice_type_id": 30, "voice_text": "そんなもの？", "emotion": ""}
+{"id": 508931, "unit_id": 5089, "voice_type_id": 31, "voice_text": "まだ本気じゃないでしょ", "emotion": ""}
+{"id": 508932, "unit_id": 5089, "voice_type_id": 32, "voice_text": "出し惜しみなら", "emotion": ""}
+{"id": 508933, "unit_id": 5089, "voice_type_id": 33, "voice_text": "しないほうがいいわ", "emotion": ""}
+{"id": 508934, "unit_id": 5089, "voice_type_id": 34, "voice_text": "貴方の弾幕を見せなさい", "emotion": ""}
+{"id": 508935, "unit_id": 5089, "voice_type_id": 35, "voice_text": "気分が上がるわあ", "emotion": ""}
+{"id": 508936, "unit_id": 5089, "voice_type_id": 36, "voice_text": "これで上々でしょ", "emotion": ""}
+{"id": 508937, "unit_id": 5089, "voice_type_id": 37, "voice_text": "ふうん、なるほどね", "emotion": ""}
+{"id": 508938, "unit_id": 5089, "voice_type_id": 38, "voice_text": "そう考えるのね", "emotion": ""}
+{"id": 508939, "unit_id": 5089, "voice_type_id": 39, "voice_text": "へえ、いいじゃない", "emotion": ""}
+{"id": 508940, "unit_id": 5089, "voice_type_id": 40, "voice_text": "いくわよ、霧露乾坤網！", "emotion": ""}
+{"id": 508941, "unit_id": 5089, "voice_type_id": 41, "voice_text": "任せたから！", "emotion": ""}
+{"id": 508942, "unit_id": 5089, "voice_type_id": 42, "voice_text": "覚悟しなさい！", "emotion": ""}
+{"id": 508943, "unit_id": 5089, "voice_type_id": 43, "voice_text": "さあ、飛んでけ！", "emotion": ""}
+{"id": 508944, "unit_id": 5089, "voice_type_id": 44, "voice_text": "水の気質よ！", "emotion": ""}
+{"id": 508945, "unit_id": 5089, "voice_type_id": 45, "voice_text": "気質の組み合わせ　\nそれは　万物を構成する法則", "emotion": ""}
+{"id": 508946, "unit_id": 5089, "voice_type_id": 46, "voice_text": "水侮土　強すぎる水は　\n土を支配する", "emotion": ""}
+{"id": 508947, "unit_id": 5089, "voice_type_id": 47, "voice_text": "湧符「大地のリクェファクション」", "emotion": ""}
+{"id": 508948, "unit_id": 5089, "voice_type_id": 48, "voice_text": "土と水の気質が合わされば　\n剛柔併せ持つ　最強の武器になる", "emotion": ""}
+{"id": 508949, "unit_id": 5089, "voice_type_id": 49, "voice_text": "さあ　霧露乾坤網　\n貴方の力を見せなさい", "emotion": ""}
+{"id": 508950, "unit_id": 5089, "voice_type_id": 50, "voice_text": "増粘「ダイラタンシー砲」", "emotion": ""}
+{"id": 508951, "unit_id": 5089, "voice_type_id": 51, "voice_text": "天界は　成仏した霊が住む処　\n天の大水は　地上を洗う清水です", "emotion": ""}
+{"id": 508952, "unit_id": 5089, "voice_type_id": 52, "voice_text": "霧露乾坤網よ　大地をすすぎ\n万物を　造り変えなさい", "emotion": ""}
+{"id": 508953, "unit_id": 5089, "voice_type_id": 53, "voice_text": "「緋想　霧露乾坤網の極光浄天」", "emotion": ""}
+{"id": 508954, "unit_id": 5089, "voice_type_id": 54, "voice_text": "ちょっ！", "emotion": ""}
+{"id": 508955, "unit_id": 5089, "voice_type_id": 55, "voice_text": "うんもー！", "emotion": ""}
+{"id": 508956, "unit_id": 5089, "voice_type_id": 56, "voice_text": "平気よ！", "emotion": ""}
+{"id": 508957, "unit_id": 5089, "voice_type_id": 57, "voice_text": "話にもならないわ", "emotion": ""}
+{"id": 508958, "unit_id": 5089, "voice_type_id": 58, "voice_text": "あら、助かるわ！", "emotion": ""}
+{"id": 508959, "unit_id": 5089, "voice_type_id": 59, "voice_text": "お陰で面倒事が増えちゃったじゃない！", "emotion": ""}
+{"id": 508960, "unit_id": 5089, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 508961, "unit_id": 5089, "voice_type_id": 61, "voice_text": "いいわよ", "emotion": ""}
+{"id": 508962, "unit_id": 5089, "voice_type_id": 62, "voice_text": "やめるわよ", "emotion": ""}
+{"id": 508963, "unit_id": 5089, "voice_type_id": 63, "voice_text": "ありがとう！", "emotion": ""}
+{"id": 508964, "unit_id": 5089, "voice_type_id": 64, "voice_text": "なんで霧露乾坤網は、あんまり言うことを聞いてくれないんだろう？", "emotion": ""}
+{"id": 508965, "unit_id": 5089, "voice_type_id": 65, "voice_text": "い、いいい、衣玖！？ なんでここにいるの！？ 内緒で来たハズなのに……ななな何でもないです！", "emotion": ""}
 {"id": 600101, "unit_id": 6001, "voice_type_id": 1, "voice_text": "可恶，明明还差一点就打赢了！ 又得从头开始吗！ ……咦？ 幻想乡迎来了春天？ 难道说我打败了那个所谓西行寺大小姐吗！？ 虽然不知道是怎么一回事，但是异变解决了就好！ 你也这么认为吧？ 这次的异变也被我博丽灵梦平安无事解决掉了！ ……什么，不是吗？", "emotion": ""}
 {"id": 600102, "unit_id": 6001, "voice_type_id": 2, "voice_text": "真的诶……还有一个我，而且长得稍微有点不一样……！", "emotion": "5"}
 {"id": 600103, "unit_id": 6001, "voice_type_id": 3, "voice_text": "原来除了冥界这样的异界以外，还存在这样的世界……！", "emotion": "2"}
@@ -14103,6 +14558,71 @@
 {"id": 601063, "unit_id": 6010, "voice_type_id": 63, "voice_text": "哼哼，谢谢你", "emotion": ""}
 {"id": 601064, "unit_id": 6010, "voice_type_id": 64, "voice_text": "红雾消散之后，就轮到我登场了", "emotion": ""}
 {"id": 601065, "unit_id": 6010, "voice_type_id": 65, "voice_text": "管理异变看起来真辛苦。紫，如果有我和妖梦能帮上忙的事情你尽管和我们说。", "emotion": ""}
+{"id": 601101, "unit_id": 6011, "voice_type_id": 1, "voice_text": "ヘイ、お待ち！ 幽々子様の大好きな助六寿司です！ ……あれっ、なんだか様子がおかしいな。あ、あれは！ 在りし日の博麗神社！？ 建物のくせに化けて出たか……えっ、おばけじゃあなくて本物？ ――ひィ！？ び、びっくりした！ ただの小さな女の子ですか～！ おばけが増えたかと思っちゃいました。私は魂魄妖夢です。貴方はどなたですか？", "emotion": ""}
+{"id": 601102, "unit_id": 6011, "voice_type_id": 2, "voice_text": "助六寿司って知ってます？ とっても美味しいんですよ。", "emotion": "3"}
+{"id": 601103, "unit_id": 6011, "voice_type_id": 3, "voice_text": "お稲荷さんと巻いたお寿司のセットを、助六寿司って呼ぶんです。", "emotion": "1"}
+{"id": 601104, "unit_id": 6011, "voice_type_id": 4, "voice_text": "助六さんの恋人が揚巻さんという方なので、お揚げを使ったお稲荷さんと巻いたお寿司なんだそうです。なんだか面白いですよね。", "emotion": "6"}
+{"id": 601105, "unit_id": 6011, "voice_type_id": 5, "voice_text": "私たちの世界では冥界の気温が高すぎるので、地上へ避暑に行くんです。閻魔様公認で。その時、幽々子様のお弁当として幽霊寿司を作ったのが、全ての始まりです。ネタは何かって？ えっと……。", "emotion": "3"}
+{"id": 601106, "unit_id": 6011, "voice_type_id": 6, "voice_text": "うちの白玉楼には果樹園があるので、その手入れも私の役目です。おじいちゃ……じゃなかった、お師匠も、果樹園管理と板前が職務でした。幽々子様のために手早く、美しく、おいしい料理をとの教えです。", "emotion": "4"}
+{"id": 601107, "unit_id": 6011, "voice_type_id": 7, "voice_text": "おじいちゃ……じゃなくて、お師匠の技を真似るだけでは、極めることはできない。剣の道も、料理の道も。お師匠を超えなくては……！ だから私は、お寿司に新しいネタを取り入れます。きっと異世界には、もっと予想だにしないお寿司ネタが、あり……ま、すよね？", "emotion": "2"}
+{"id": 601108, "unit_id": 6011, "voice_type_id": 8, "voice_text": "剣と包丁は一心同体。いつか私だけの料理で、究極へ至って見せます。", "emotion": ""}
+{"id": 601109, "unit_id": 6011, "voice_type_id": 9, "voice_text": "今でこそ海の幸を握っていますが、最初に握ったネタはフルーツでした。白玉楼の庭園で採れた、アボカドやパイナップルです。", "emotion": "6"}
+{"id": 601110, "unit_id": 6011, "voice_type_id": 10, "voice_text": "白玉楼の庭園の一角が、果樹園になっているんです。この世界では違うんですか？ 奇妙な形の果実が、たま～に実るんですよ。", "emotion": "1"}
+{"id": 601111, "unit_id": 6011, "voice_type_id": 11, "voice_text": "水着で遊ぶ潤美さんを見ていたら、新しいネタを思いつきました。名付けて『肉寿司』です！ 高級志向なお客様が喜ぶかなって。", "emotion": "7"}
+{"id": 601112, "unit_id": 6011, "voice_type_id": 12, "voice_text": "ある日、にとりさんとたかねさんが水着合戦をしているのを見て、私はふと思ったんです。本物のカッパ巻が作れそう、って！", "emotion": "6"}
+{"id": 601113, "unit_id": 6011, "voice_type_id": 13, "voice_text": "今、タタキを作ってるんです。カツオは春が旬ですからね。どこから手に入れたのかって？ それは……ひ、秘密です！ 握りますかっ！？", "emotion": "7"}
+{"id": 601114, "unit_id": 6011, "voice_type_id": 14, "voice_text": "夏だ！ 水着だ！ 海遊びだ～！ というわけで、月までネタ探しに行ってきます。やっぱり海月がたくさんいるのかな。握りますか？", "emotion": "3"}
+{"id": 601115, "unit_id": 6011, "voice_type_id": 15, "voice_text": "秋からが旬の長ネギと違い、芽ネギはすぐに収穫できるので旬はないです。彩りがよくサッパリしていてオススメですよ。握りますか？", "emotion": "1"}
+{"id": 601116, "unit_id": 6011, "voice_type_id": 16, "voice_text": "藍様と管狐を見ていたら、初午いなりを思い出しました。知りません？ みんなでお稲荷さんを食べる日なんですよ～！ 握りますか？", "emotion": "6"}
+{"id": 601117, "unit_id": 6011, "voice_type_id": 17, "voice_text": "課題ですか？ そんなことより、そろそろお寿司食べませんか？", "emotion": "1"}
+{"id": 601118, "unit_id": 6011, "voice_type_id": 18, "voice_text": "課題お疲れ様です！ それじゃあお寿司、食べますよね？", "emotion": "6"}
+{"id": 601119, "unit_id": 6011, "voice_type_id": 19, "voice_text": "エアメールが来てました！ ……どこから来たんでしょうか？", "emotion": "5"}
+{"id": 601120, "unit_id": 6011, "voice_type_id": 20, "voice_text": "いろんなネタがいっぱいでしたね！ どの弾幕も、全部握りたい！", "emotion": "10"}
+{"id": 601121, "unit_id": 6011, "voice_type_id": 21, "voice_text": "誰かが帰ってきましたね。シャリ用のお米、手に入ったかなあ。", "emotion": "9"}
+{"id": 601122, "unit_id": 6011, "voice_type_id": 22, "voice_text": "フルーツ寿司、幽々子様からは不評でした……。", "emotion": "2"}
+{"id": 601123, "unit_id": 6011, "voice_type_id": 23, "voice_text": "貴方は何でも美味しそうに食べますね。お腹平気？", "emotion": "9"}
+{"id": 601124, "unit_id": 6011, "voice_type_id": 24, "voice_text": "満腹になった途端、膝で寝ちゃって……よしよし。", "emotion": "6"}
+{"id": 601125, "unit_id": 6011, "voice_type_id": 25, "voice_text": "お寿司にならないものなど、あんまりない！", "emotion": ""}
+{"id": 601126, "unit_id": 6011, "voice_type_id": 26, "voice_text": "いいネタを見かけたら、教えて下さいね！", "emotion": ""}
+{"id": 601127, "unit_id": 6011, "voice_type_id": 27, "voice_text": "これぞお寿司版、満漢全席。さあ幽々子様、お召し上がり下さい！", "emotion": ""}
+{"id": 601128, "unit_id": 6011, "voice_type_id": 28, "voice_text": "ああっ！ このままじゃ幽々子様が、ネタを直接食べてしまうっ！", "emotion": ""}
+{"id": 601129, "unit_id": 6011, "voice_type_id": 29, "voice_text": "中トロ！", "emotion": ""}
+{"id": 601130, "unit_id": 6011, "voice_type_id": 30, "voice_text": "大トロ！！", "emotion": ""}
+{"id": 601131, "unit_id": 6011, "voice_type_id": 31, "voice_text": "お寿司食いねェ、です！", "emotion": ""}
+{"id": 601132, "unit_id": 6011, "voice_type_id": 32, "voice_text": "エンガワ！", "emotion": ""}
+{"id": 601133, "unit_id": 6011, "voice_type_id": 33, "voice_text": "サーモン！！", "emotion": ""}
+{"id": 601134, "unit_id": 6011, "voice_type_id": 34, "voice_text": "はい、アガリです！", "emotion": ""}
+{"id": 601135, "unit_id": 6011, "voice_type_id": 35, "voice_text": "ギョク？ ありますよ！", "emotion": ""}
+{"id": 601136, "unit_id": 6011, "voice_type_id": 36, "voice_text": "醤油を塗るのには、ガリを！", "emotion": ""}
+{"id": 601137, "unit_id": 6011, "voice_type_id": 37, "voice_text": "カッパ巻ですか！？", "emotion": ""}
+{"id": 601138, "unit_id": 6011, "voice_type_id": 38, "voice_text": "ワカサギ一丁！", "emotion": ""}
+{"id": 601139, "unit_id": 6011, "voice_type_id": 39, "voice_text": "リュウグウノツカイ一丁！", "emotion": ""}
+{"id": 601140, "unit_id": 6011, "voice_type_id": 40, "voice_text": "そろそろお寿司を食べないとヤバいですよ！", "emotion": ""}
+{"id": 601141, "unit_id": 6011, "voice_type_id": 41, "voice_text": "仕込んできます！", "emotion": ""}
+{"id": 601142, "unit_id": 6011, "voice_type_id": 42, "voice_text": "へいらっしゃい、です！", "emotion": ""}
+{"id": 601143, "unit_id": 6011, "voice_type_id": 43, "voice_text": "巻き寿司にしてあげます", "emotion": ""}
+{"id": 601144, "unit_id": 6011, "voice_type_id": 44, "voice_text": "スパッと両断！", "emotion": ""}
+{"id": 601145, "unit_id": 6011, "voice_type_id": 45, "voice_text": "生ものは苦手ですか？　\nならば刀を　超音速で振るえば――", "emotion": ""}
+{"id": 601146, "unit_id": 6011, "voice_type_id": 46, "voice_text": "――刀身が熱を帯びて　\n焼きお寿司の　できあがり！", "emotion": ""}
+{"id": 601147, "unit_id": 6011, "voice_type_id": 47, "voice_text": "天神剣「カラフル寿司ベイク」", "emotion": ""}
+{"id": 601148, "unit_id": 6011, "voice_type_id": 48, "voice_text": "暑い日には　\nお刺し身が一番！", "emotion": ""}
+{"id": 601149, "unit_id": 6011, "voice_type_id": 49, "voice_text": "食べやすく　小さく斬って……　\nしゅばばばばば！", "emotion": ""}
+{"id": 601150, "unit_id": 6011, "voice_type_id": 50, "voice_text": "彼岸剣「ロミロミ＆ポキボウル」", "emotion": ""}
+{"id": 601151, "unit_id": 6011, "voice_type_id": 51, "voice_text": "お寿司　なんて魅力的な形！　\n疲労回復には　まずお寿司です！", "emotion": ""}
+{"id": 601152, "unit_id": 6011, "voice_type_id": 52, "voice_text": "割主烹従　斬り方が全て　\nいざ尋常に　召し上がれ！", "emotion": ""}
+{"id": 601153, "unit_id": 6011, "voice_type_id": 53, "voice_text": "「待宵反射無限寿司」", "emotion": ""}
+{"id": 601154, "unit_id": 6011, "voice_type_id": 54, "voice_text": "つぶ貝っ！", "emotion": ""}
+{"id": 601155, "unit_id": 6011, "voice_type_id": 55, "voice_text": "シャリが崩れちゃう！", "emotion": ""}
+{"id": 601156, "unit_id": 6011, "voice_type_id": 56, "voice_text": "アオリイカ～！", "emotion": ""}
+{"id": 601157, "unit_id": 6011, "voice_type_id": 57, "voice_text": "フグでも持ってこーい", "emotion": ""}
+{"id": 601158, "unit_id": 6011, "voice_type_id": 58, "voice_text": "まいどあり～です！", "emotion": ""}
+{"id": 601159, "unit_id": 6011, "voice_type_id": 59, "voice_text": "ああっ！ 蒐めたネタがっ！ イカ、タコ、ヒラメ……！", "emotion": ""}
+{"id": 601160, "unit_id": 6011, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 601161, "unit_id": 6011, "voice_type_id": 61, "voice_text": "はいっ！", "emotion": ""}
+{"id": 601162, "unit_id": 6011, "voice_type_id": 62, "voice_text": "やめますっ！", "emotion": ""}
+{"id": 601163, "unit_id": 6011, "voice_type_id": 63, "voice_text": "ありがとうございます！", "emotion": ""}
+{"id": 601164, "unit_id": 6011, "voice_type_id": 64, "voice_text": "えっと、幽々子様。こんなにお寿司を作って、食べて……何のためでしたっけ？", "emotion": ""}
+{"id": 601165, "unit_id": 6011, "voice_type_id": 65, "voice_text": "幽々子様、果樹園で珍しいフルーツが採れました！ なんともみょんな形……食べれるのかな。お寿司にしてみましょうか？", "emotion": ""}
 {"id": 602401, "unit_id": 6024, "voice_type_id": 1, "voice_text": "太好了，第一个冲过终点线的人是我～！ 我本来是这么想的，但我好像冲破了时空墙壁？ 但对这个维摩那来讲，也不算什么奇怪的事情吧。这位小姐，这附近有没有信仰的根据地？ 比如说寺庙或者神社……这里就是神社呢。我是圣白莲，是旅途中的僧侣。这条狗是小紫云。我正在竞速，所以想进行补给和维修。", "emotion": ""}
 {"id": 602402, "unit_id": 6024, "voice_type_id": 2, "voice_text": "骑摩托车旅行的僧侣也不罕见吧？ 哼哼！", "emotion": "3"}
 {"id": 602403, "unit_id": 6024, "voice_type_id": 3, "voice_text": "用自己准备的摩托车在广阔的幻想乡中奔驰。真是太浪漫了！", "emotion": "1"}
@@ -14168,6 +14688,71 @@
 {"id": 602463, "unit_id": 6024, "voice_type_id": 63, "voice_text": "非常感谢！", "emotion": ""}
 {"id": 602464, "unit_id": 6024, "voice_type_id": 64, "voice_text": "命莲。请守望着我。", "emotion": ""}
 {"id": 602465, "unit_id": 6024, "voice_type_id": 65, "voice_text": "看着小紫云，我就会想起我的弟弟。……虽然他们根本不像吧。", "emotion": ""}
+{"id": 602501, "unit_id": 6025, "voice_type_id": 1, "voice_text": "愚かで都合のいい願いを、どうか許して。禁じ手を使うワケにはいかなかった。それでも相棒、お前の力なくしては罷り通らない。幻肢剣·鬼切丸の気を維持するために、光の差す方角へ旅を続けてきたら……まさか君と再会するなんて。改めて、私は茨木華扇。茨絡まる胸の牡丹は、私の精神を表しているわ。さあ、私と来て。全てをこの手で取り戻し、暖かかったあの日々へと帰るのよ。", "emotion": ""}
+{"id": 602502, "unit_id": 6025, "voice_type_id": 2, "voice_text": "知らないうちに、動物たちの毛並みがよくなってる！？", "emotion": "5"}
+{"id": 602503, "unit_id": 6025, "voice_type_id": 3, "voice_text": "私の甘味がない！？ もしかして……いや、疑ってごめん。", "emotion": "10"}
+{"id": 602504, "unit_id": 6025, "voice_type_id": 4, "voice_text": "『私の存在は黙ってろ。バレないほうが本体のためだ。まあ、秘蔵の甘味を喰う代わりに、動物の世話はしてやってるから。』", "emotion": "4"}
+{"id": 602505, "unit_id": 6025, "voice_type_id": 5, "voice_text": "私が『力』に取り込まれないように、鬼切丸が強い境界を引いてくれている。どういうことなのかは……ちょっと話せないけど。過去を繰り返し思い返す仙人としては、ちょうどいいの。", "emotion": "2"}
+{"id": 602506, "unit_id": 6025, "voice_type_id": 6, "voice_text": "この痛みは、あの時の……綱の鬼切丸による、一太刀の斬撃。これこそが封印であり、私とあいつの間の境界そのもの。――そこにいるのは誰！？ なんだ、君だったのね。今の話？ 何のことかしら。", "emotion": "1"}
+{"id": 602507, "unit_id": 6025, "voice_type_id": 7, "voice_text": "君にはまだまだ指導が必要だけれど、日々重ねている努力は認めます。いつか霊夢たちを取り戻して、あの頃の生活に帰りましょう。さあ、私の手を取って。――『こいつ、異変解決が別れを意味することを知らんのか？ それとも黙っている？ どちらにせよ、お前だけは真実を見誤るなよ。』", "emotion": "7"}
+{"id": 602508, "unit_id": 6025, "voice_type_id": 8, "voice_text": "『腕を上げたな。実戦での腕が鳴るじゃあないか』――今、私……？", "emotion": ""}
+{"id": 602509, "unit_id": 6025, "voice_type_id": 9, "voice_text": "幻肢剣·鬼切丸の気がなければ、私は禁忌を犯してしまう。そうなれば、もう霊夢でも止められない。今の私には、これは大切な宝物よ。", "emotion": "9"}
+{"id": 602510, "unit_id": 6025, "voice_type_id": 10, "voice_text": "長寿の秘訣は、半生の全てを繰り返し思い出すこと。それができるのも鬼切丸のお陰ね。小町や天子とも早く再会したいわ。ふたりとの関係？ た、ただの友達！", "emotion": "6"}
+{"id": 602511, "unit_id": 6025, "voice_type_id": 11, "voice_text": "賢者たちも鬼たちも、ただじゃ終わらない奴らよ。何とか取り戻せれば、心強い味方になってくれるわ。大異変は共通の、排除すべき異物だから。", "emotion": "4"}
+{"id": 602512, "unit_id": 6025, "voice_type_id": 12, "voice_text": "『再びひとつになろう。そうすれば、こんな異変はすぐ解決するぞ』……ダメよ、私。心の声に敗けては。大人しくしてなさい、相棒。", "emotion": "9"}
+{"id": 602513, "unit_id": 6025, "voice_type_id": 13, "voice_text": "『花見は楽しんだか？ この光景も、ほとんどの世界からすれば貴重な部類だ。今のうちに有難がっておけ。後悔しないようにな。』", "emotion": "3"}
+{"id": 602514, "unit_id": 6025, "voice_type_id": 14, "voice_text": "『ほう、かき氷か。本体に気づかれる前に堪能しておくとしよう。はむはむ。……ッッ！』――えっ、なに！？ 頭、痛ったぁ！？", "emotion": "10"}
+{"id": 602515, "unit_id": 6025, "voice_type_id": 15, "voice_text": "『秋祭の屋台か。どれもウマソ～ッ……おや、あそこにいるのは鬼の……？ お～い、もごががっ！ てめ、くちをふしゃぐにゃ。』", "emotion": "5"}
+{"id": 602516, "unit_id": 6025, "voice_type_id": 16, "voice_text": "『汁粉？ 今の時代は、庶民でもこんな甘いモンが食えるのか。いい時代になったんだなあ。なら……取り戻さなきゃな。』", "emotion": "6"}
+{"id": 602517, "unit_id": 6025, "voice_type_id": 17, "voice_text": "課題はしっかりやりなさい。それともお説教をお望みかしら？", "emotion": "1"}
+{"id": 602518, "unit_id": 6025, "voice_type_id": 18, "voice_text": "『お前、ちゃんと課題やったんだな。……偉いな。よしよし。』", "emotion": "3"}
+{"id": 602519, "unit_id": 6025, "voice_type_id": 19, "voice_text": "伝書はちゃんと読みなさい。それが君のためになるの。", "emotion": "7"}
+{"id": 602520, "unit_id": 6025, "voice_type_id": 20, "voice_text": "帰ったら、まずは報告をまとめなさい。そして……うん、お茶でも飲みましょ。", "emotion": "9"}
+{"id": 602521, "unit_id": 6025, "voice_type_id": 21, "voice_text": "誰かが帰ってきたわね。えっ、里で人気の甘味を私に！？ ……あ、ありがとうっ！", "emotion": "3"}
+{"id": 602522, "unit_id": 6025, "voice_type_id": 22, "voice_text": "眠たくなるほど退屈だったかしら。私の話。", "emotion": "1"}
+{"id": 602523, "unit_id": 6025, "voice_type_id": 23, "voice_text": "しょうがないわね。膝で寝る？ それとも抱っこ？", "emotion": "2"}
+{"id": 602524, "unit_id": 6025, "voice_type_id": 24, "voice_text": "本当に安らかで可愛い寝顔ね。よし、よし。", "emotion": "7"}
+{"id": 602525, "unit_id": 6025, "voice_type_id": 25, "voice_text": "傷が疼く……治まれ、我が相棒っ！", "emotion": ""}
+{"id": 602526, "unit_id": 6025, "voice_type_id": 26, "voice_text": "この痛み、百薬枡で抑えなきゃ", "emotion": ""}
+{"id": 602527, "unit_id": 6025, "voice_type_id": 27, "voice_text": "『腕』は二度と解き放たない。私の隣に居させる。それでいいのよ", "emotion": ""}
+{"id": 602528, "unit_id": 6025, "voice_type_id": 28, "voice_text": "このままじゃあ『腕』が……みんな、逃げて！", "emotion": ""}
+{"id": 602529, "unit_id": 6025, "voice_type_id": 29, "voice_text": "うう、右腕がっ", "emotion": ""}
+{"id": 602530, "unit_id": 6025, "voice_type_id": 30, "voice_text": "鎮まれ、鎮まれ！", "emotion": ""}
+{"id": 602531, "unit_id": 6025, "voice_type_id": 31, "voice_text": "止まりなさい、相棒！", "emotion": ""}
+{"id": 602532, "unit_id": 6025, "voice_type_id": 32, "voice_text": "鬼切丸！", "emotion": ""}
+{"id": 602533, "unit_id": 6025, "voice_type_id": 33, "voice_text": "結界を！", "emotion": ""}
+{"id": 602534, "unit_id": 6025, "voice_type_id": 34, "voice_text": "私たちの間に！", "emotion": ""}
+{"id": 602535, "unit_id": 6025, "voice_type_id": 35, "voice_text": "『少しくらいいいだろ？』", "emotion": ""}
+{"id": 602536, "unit_id": 6025, "voice_type_id": 36, "voice_text": "『バレやしないさ』", "emotion": ""}
+{"id": 602537, "unit_id": 6025, "voice_type_id": 37, "voice_text": "しっかりしなさい", "emotion": ""}
+{"id": 602538, "unit_id": 6025, "voice_type_id": 38, "voice_text": "ちゃんとしなさい", "emotion": ""}
+{"id": 602539, "unit_id": 6025, "voice_type_id": 39, "voice_text": "『手を貸してやろうか？』", "emotion": ""}
+{"id": 602540, "unit_id": 6025, "voice_type_id": 40, "voice_text": "二度と、ひとつにはならない！", "emotion": ""}
+{"id": 602541, "unit_id": 6025, "voice_type_id": 41, "voice_text": "『退くぞ、動物ども』", "emotion": ""}
+{"id": 602542, "unit_id": 6025, "voice_type_id": 42, "voice_text": "手を貸しましょう", "emotion": ""}
+{"id": 602543, "unit_id": 6025, "voice_type_id": 43, "voice_text": "動物たちよ！", "emotion": ""}
+{"id": 602544, "unit_id": 6025, "voice_type_id": 44, "voice_text": "思い起こせ！", "emotion": ""}
+{"id": 602545, "unit_id": 6025, "voice_type_id": 45, "voice_text": "仙人として　この技を使うのは　\n正直気が引けるけど", "emotion": ""}
+{"id": 602546, "unit_id": 6025, "voice_type_id": 46, "voice_text": "なりふりは　構っていられない　\n切った縁すら　利用するわ", "emotion": ""}
+{"id": 602547, "unit_id": 6025, "voice_type_id": 47, "voice_text": "非四天王奥義「三歩崩潰」", "emotion": ""}
+{"id": 602548, "unit_id": 6025, "voice_type_id": 48, "voice_text": "我が名に呼応せよ　\n幻想郷の　数多の結界よ", "emotion": ""}
+{"id": 602549, "unit_id": 6025, "voice_type_id": 49, "voice_text": "三々五々の賢者たち　\n少しずつ力を貸しなさい", "emotion": ""}
+{"id": 602550, "unit_id": 6025, "voice_type_id": 50, "voice_text": "秘賢者奇策「アポストルカウンシル」", "emotion": ""}
+{"id": 602551, "unit_id": 6025, "voice_type_id": 51, "voice_text": "私は天道を往く仙人　\nお前とはもう　交わらない", "emotion": ""}
+{"id": 602552, "unit_id": 6025, "voice_type_id": 52, "voice_text": "この鬼切丸が　私たちの境界　\n私の隣に居なさい　我が相棒！", "emotion": ""}
+{"id": 602553, "unit_id": 6025, "voice_type_id": 53, "voice_text": "「平安門橋事変　死禍閃」", "emotion": ""}
+{"id": 602554, "unit_id": 6025, "voice_type_id": 54, "voice_text": "手痛いわね", "emotion": ""}
+{"id": 602555, "unit_id": 6025, "voice_type_id": 55, "voice_text": "手を焼かせないで", "emotion": ""}
+{"id": 602556, "unit_id": 6025, "voice_type_id": 56, "voice_text": "ここは手堅く", "emotion": ""}
+{"id": 602557, "unit_id": 6025, "voice_type_id": 57, "voice_text": "あら、手心かしら", "emotion": ""}
+{"id": 602558, "unit_id": 6025, "voice_type_id": 58, "voice_text": "手を借りたかったところよ", "emotion": ""}
+{"id": 602559, "unit_id": 6025, "voice_type_id": 59, "voice_text": "『ふざけるな。共倒れなんて最悪だ！』", "emotion": ""}
+{"id": 602560, "unit_id": 6025, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 602561, "unit_id": 6025, "voice_type_id": 61, "voice_text": "いいわ", "emotion": ""}
+{"id": 602562, "unit_id": 6025, "voice_type_id": 62, "voice_text": "やめるわね", "emotion": ""}
+{"id": 602563, "unit_id": 6025, "voice_type_id": 63, "voice_text": "ふふ、ありがとう", "emotion": ""}
+{"id": 602564, "unit_id": 6025, "voice_type_id": 64, "voice_text": "動物たち、誰かからかご飯をもらっている……？", "emotion": ""}
+{"id": 602565, "unit_id": 6025, "voice_type_id": 65, "voice_text": "『なあ本体。本当に、ひとつにならなくていいのか？』……もちろんよ。私たちはお互いの隣に立つ。だからこれからも、よろしくね。", "emotion": ""}
 {"id": 604001, "unit_id": 6040, "voice_type_id": 1, "voice_text": "让河童装载鬼的式神什么的……也有点太乱来了吧？ ……果然发生召唤事故了！！ 抱歉抱歉，我在说我这边的事情。没想到式神使是这么小的孩子。我是河城荷取。我会好好完成工作的。“为什么河童装载着鬼的式神”？这个问题说明起来可麻烦了。", "emotion": ""}
 {"id": 604002, "unit_id": 6040, "voice_type_id": 2, "voice_text": "这身衣服和橙的衣服有些像，穿起来十分舒服。 但不知道我穿起来好不好看。", "emotion": "7"}
 {"id": 604003, "unit_id": 6040, "voice_type_id": 3, "voice_text": "一定要珍惜水资源。干净的水是一切的基础。", "emotion": "4"}
@@ -14233,6 +14818,71 @@
 {"id": 604063, "unit_id": 6040, "voice_type_id": 63, "voice_text": "感谢", "emotion": ""}
 {"id": 604064, "unit_id": 6040, "voice_type_id": 64, "voice_text": "所以说式神该怎么用啊。我没听懂妖怪贤者的说明。", "emotion": ""}
 {"id": 604065, "unit_id": 6040, "voice_type_id": 65, "voice_text": "“前鬼和后鬼是一心同体的存在。我们的命是主人大人捡来的，所以我们的使命是守护主人大人一辈子。”", "emotion": ""}
+{"id": 604901, "unit_id": 6049, "voice_type_id": 1, "voice_text": "へえ、いい土地じゃあないか。ここも『新·鬼の国』の属領にしてあげようかね。吾は星熊童子。普段は勇儀と名乗っている。酒呑童子の東を守る門神にして、阿形の鬼だ。なあに、取って食らおうなんてしないさ。吾ら『新しい鬼』は、もっぱら『新しい人間』を相手にする。……ん？ やけに落ち着き払っている？ そりゃまあ力ってのは、外に発散するだけが能じゃあないからね。", "emotion": ""}
+{"id": 604902, "unit_id": 6049, "voice_type_id": 2, "voice_text": "人間は手先が器用だから、嫌いじゃあなかったんだがね。", "emotion": "10"}
+{"id": 604903, "unit_id": 6049, "voice_type_id": 3, "voice_text": "鬼に横道なし。鬼の技術は、人間のそれとは違うんだよ。", "emotion": "1"}
+{"id": 604904, "unit_id": 6049, "voice_type_id": 4, "voice_text": "鬼と人間とでは、生きている時間の長さが違う。だからそもそも、人間のような小賢しい小技は必要としないんだ。", "emotion": "7"}
+{"id": 604905, "unit_id": 6049, "voice_type_id": 5, "voice_text": "鬼が優秀な大工なのは、お前も知っているだろう？ 鬼の技術ってのは、つまりは都市開発のことなのさ。ひとつの都市を、ひとつの道具のように軽々と自在に扱う。この金棒を使って、な。", "emotion": "7"}
+{"id": 604906, "unit_id": 6049, "voice_type_id": 6, "voice_text": "技術っていうのは、冷たいものなんかじゃあない。その根源は精神性なんだ。技術のみならず、武術、芸術、医術、全てはひとつの力なのさ。鬼でなければ、その境地には到れまいよ。", "emotion": "4"}
+{"id": 604907, "unit_id": 6049, "voice_type_id": 7, "voice_text": "鬼がどんなに新しくなろうが、衰退の定めからは逃れられない……か。まあ、薄々勘づいていたよ。だからこそ、永遠の楽園を求めたのさ。吾も茨木童子も、そして酒呑童子もね。だが……その大異変というのを消し去れば、また夢を見れそうだ。力を貸すのも一興かねえ。", "emotion": "3"}
+{"id": 604908, "unit_id": 6049, "voice_type_id": 8, "voice_text": "さらなる新しい力か。ああ、好きだよ。そういうの、吾は。", "emotion": ""}
+{"id": 604909, "unit_id": 6049, "voice_type_id": 9, "voice_text": "孟章はお前に懐いてるみたいだね。龍はなかなか人に心を開かないんだがなあ。お陰で、金棒に内蔵されている盃の調整に集中できる。", "emotion": "3"}
+{"id": 604910, "unit_id": 6049, "voice_type_id": 10, "voice_text": "地底世界、か。人間に失望し続ければ、そういう道もあったかもしれないね。ただ吾らは、そっちへ行くワケにはいかなかった。それだけのことだよ。", "emotion": "9"}
+{"id": 604911, "unit_id": 6049, "voice_type_id": 11, "voice_text": "茨木童子は、酒呑童子の右腕だよ。本来なら参謀役ってところなんだが、血の気が多くてさあ。切り込み隊長は、吾なんだがねえ。", "emotion": "6"}
+{"id": 604912, "unit_id": 6049, "voice_type_id": 12, "voice_text": "門神にして鬼神なのが、吾たち仁王だよ。お前の知る鬼とは違うかもしれないが、これも鬼の在り方のひとつだと理解してもらえないかねえ。", "emotion": "5"}
+{"id": 604913, "unit_id": 6049, "voice_type_id": 13, "voice_text": "春、五行の色は青。今では緑という色もあるが、元はそれも青と呼ばれていた。そういえば、金髪緑眼の妖怪巫女はどこへ行った？ うちの橋姫なんだが。", "emotion": "2"}
+{"id": 604914, "unit_id": 6049, "voice_type_id": 14, "voice_text": "夏は肝試しか。見越入道を呼び出して、公開手合わせでもしてみようかね。……ああ、それは腕試しか。えっ、十分肝試しだって？", "emotion": "3"}
+{"id": 604915, "unit_id": 6049, "voice_type_id": 15, "voice_text": "ほほう、紅葉姫を知っているのかい。あいつも有名になったもんだ。天魔っていうのは……おっと、この話はやめておこう。", "emotion": "5"}
+{"id": 604916, "unit_id": 6049, "voice_type_id": 16, "voice_text": "雪化粧をした丹後富士のことを、白嶺って呼んだものさ。ここの巫女も『ハクレイ』って言うんだろう？ うちの妖怪巫女には、『橋姫の巫女』とでも名乗らせようか。", "emotion": "7"}
+{"id": 604917, "unit_id": 6049, "voice_type_id": 17, "voice_text": "課題かい？ 感心感心。小娘はそうでなくっちゃあね。", "emotion": "6"}
+{"id": 604918, "unit_id": 6049, "voice_type_id": 18, "voice_text": "課題を済ませたんだね。偉いぞ。ほれ、頭を撫でさせとくれ。", "emotion": "3"}
+{"id": 604919, "unit_id": 6049, "voice_type_id": 19, "voice_text": "今どきの小娘は、字が読めるんだねえ。この伝書は読めるかい？", "emotion": "5"}
+{"id": 604920, "unit_id": 6049, "voice_type_id": 20, "voice_text": "ふう、一休みしよう。肩を揉んでくれるかい？ ……ああ、そこそこ。", "emotion": "6"}
+{"id": 604921, "unit_id": 6049, "voice_type_id": 21, "voice_text": "使いの者が帰ったみたいだね。たっぷり労ってやるとしよう。", "emotion": "7"}
+{"id": 604922, "unit_id": 6049, "voice_type_id": 22, "voice_text": "眠たいのかい？ 吾の膝で休むといい。", "emotion": "7"}
+{"id": 604923, "unit_id": 6049, "voice_type_id": 23, "voice_text": "なんなら子守唄でも歌ってやろうか？", "emotion": "3"}
+{"id": 604924, "unit_id": 6049, "voice_type_id": 24, "voice_text": "なんて安らかな寝顔をしてるんだい。……よしよし。", "emotion": "7"}
+{"id": 604925, "unit_id": 6049, "voice_type_id": 25, "voice_text": "鬼の仁王がひとり、星熊童子。推して参ろうか", "emotion": ""}
+{"id": 604926, "unit_id": 6049, "voice_type_id": 26, "voice_text": "この程度じゃあ、大将が出るまでもないな", "emotion": ""}
+{"id": 604927, "unit_id": 6049, "voice_type_id": 27, "voice_text": "勝利も惰性となれば味気がなくなる。より強い相手を求めてこその勝負だ", "emotion": ""}
+{"id": 604928, "unit_id": 6049, "voice_type_id": 28, "voice_text": "面白いねえ、己の迂闊さを素直に認めるよ。これも力の糧としよう", "emotion": ""}
+{"id": 604929, "unit_id": 6049, "voice_type_id": 29, "voice_text": "さあさあ", "emotion": ""}
+{"id": 604930, "unit_id": 6049, "voice_type_id": 30, "voice_text": "見せとくれ", "emotion": ""}
+{"id": 604931, "unit_id": 6049, "voice_type_id": 31, "voice_text": "お前の力の限界を", "emotion": ""}
+{"id": 604932, "unit_id": 6049, "voice_type_id": 32, "voice_text": "ほらほら", "emotion": ""}
+{"id": 604933, "unit_id": 6049, "voice_type_id": 33, "voice_text": "撃ってきな", "emotion": ""}
+{"id": 604934, "unit_id": 6049, "voice_type_id": 34, "voice_text": "懐を貸してやるよ", "emotion": ""}
+{"id": 604935, "unit_id": 6049, "voice_type_id": 35, "voice_text": "これはどうだい？", "emotion": ""}
+{"id": 604936, "unit_id": 6049, "voice_type_id": 36, "voice_text": "そら、受け取りな", "emotion": ""}
+{"id": 604937, "unit_id": 6049, "voice_type_id": 37, "voice_text": "なるほどねえ", "emotion": ""}
+{"id": 604938, "unit_id": 6049, "voice_type_id": 38, "voice_text": "お前はそう考えるか", "emotion": ""}
+{"id": 604939, "unit_id": 6049, "voice_type_id": 39, "voice_text": "面白いじゃあないか", "emotion": ""}
+{"id": 604940, "unit_id": 6049, "voice_type_id": 40, "voice_text": "切ってこその切り札さね", "emotion": ""}
+{"id": 604941, "unit_id": 6049, "voice_type_id": 41, "voice_text": "ここからは任せるよ", "emotion": ""}
+{"id": 604942, "unit_id": 6049, "voice_type_id": 42, "voice_text": "さて、派手に行こうか", "emotion": ""}
+{"id": 604943, "unit_id": 6049, "voice_type_id": 43, "voice_text": "行きな、孟章", "emotion": ""}
+{"id": 604944, "unit_id": 6049, "voice_type_id": 44, "voice_text": "少しひねってやるよ", "emotion": ""}
+{"id": 604945, "unit_id": 6049, "voice_type_id": 45, "voice_text": "鬼の仁王の力を　見せてやろう　\nその目にしっかりとな", "emotion": ""}
+{"id": 604946, "unit_id": 6049, "voice_type_id": 46, "voice_text": "それじゃあ　孟章　\n少し暴れようか", "emotion": ""}
+{"id": 604947, "unit_id": 6049, "voice_type_id": 47, "voice_text": "龍符「東門の青龍」", "emotion": ""}
+{"id": 604948, "unit_id": 6049, "voice_type_id": 48, "voice_text": "龍の慟哭を聞くがいい　\n憂い嘆く　その声を", "emotion": ""}
+{"id": 604949, "unit_id": 6049, "voice_type_id": 49, "voice_text": "鬼の国よ　軋み嘶け　\n力のままに回転せよ！", "emotion": ""}
+{"id": 604950, "unit_id": 6049, "voice_type_id": 50, "voice_text": "龍符「ドラゴンズハウル」", "emotion": ""}
+{"id": 604951, "unit_id": 6049, "voice_type_id": 51, "voice_text": "地獄だなんて　滅相もない　\nここは楽園だよ", "emotion": ""}
+{"id": 604952, "unit_id": 6049, "voice_type_id": 52, "voice_text": "ただ　鬼以外にとってどうかは　\n知るところではないがね", "emotion": ""}
+{"id": 604953, "unit_id": 6049, "voice_type_id": 53, "voice_text": "「悪鬼羅刹　馬頭獄卒」", "emotion": ""}
+{"id": 604954, "unit_id": 6049, "voice_type_id": 54, "voice_text": "おっ……と", "emotion": ""}
+{"id": 604955, "unit_id": 6049, "voice_type_id": 55, "voice_text": "やるじゃあないか", "emotion": ""}
+{"id": 604956, "unit_id": 6049, "voice_type_id": 56, "voice_text": "この程度かい？", "emotion": ""}
+{"id": 604957, "unit_id": 6049, "voice_type_id": 57, "voice_text": "可愛いねえ", "emotion": ""}
+{"id": 604958, "unit_id": 6049, "voice_type_id": 58, "voice_text": "余裕かい？", "emotion": ""}
+{"id": 604959, "unit_id": 6049, "voice_type_id": 59, "voice_text": "くっ、少し考えが甘かったか。次に活かさないとねえ", "emotion": ""}
+{"id": 604960, "unit_id": 6049, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 604961, "unit_id": 6049, "voice_type_id": 61, "voice_text": "あいよ", "emotion": ""}
+{"id": 604962, "unit_id": 6049, "voice_type_id": 62, "voice_text": "よすのかい", "emotion": ""}
+{"id": 604963, "unit_id": 6049, "voice_type_id": 63, "voice_text": "ありがとさん", "emotion": ""}
+{"id": 604964, "unit_id": 6049, "voice_type_id": 64, "voice_text": "前に出すぎだ、茨木童子。大将のそばに居な。", "emotion": ""}
+{"id": 604965, "unit_id": 6049, "voice_type_id": 65, "voice_text": "たとえ力が失われようと、酒呑童子は吾らの大将だよ。力だけが、力ではない。吾が証明してみせる。", "emotion": ""}
 {"id": 605601, "unit_id": 6056, "voice_type_id": 1, "voice_text": "纯狐！ 克劳恩皮丝！水果宾治做好了！……咦？我什么时候把门打开了？怎么办呢……这位本地人！ 你看起来对这附近很熟悉呢。这里简直就像是月亮背面一样到处都是“山”，你能给我带下路吗？我是赫卡提亚·拉碧斯拉祖利。是常夏地狱的女神。", "emotion": ""}
 {"id": 605602, "unit_id": 6056, "voice_type_id": 2, "voice_text": "你无聊吗？ 那就和姐姐一起出去玩吧。来，拉着我的手。", "emotion": "3"}
 {"id": 605603, "unit_id": 6056, "voice_type_id": 3, "voice_text": "这里可以怎么玩水呢？有水滑梯吗？", "emotion": "1"}
@@ -14493,6 +15143,71 @@
 {"id": 606463, "unit_id": 6064, "voice_type_id": 63, "voice_text": "谢谢莉莉！", "emotion": ""}
 {"id": 606464, "unit_id": 6064, "voice_type_id": 64, "voice_text": "露娜姐和梅露姐真是随心所欲，真羡慕她们～！", "emotion": ""}
 {"id": 606465, "unit_id": 6064, "voice_type_id": 65, "voice_text": "虽说是为了伪装，但TOOLS的活动很有趣。现在已经是我们生活的一部分了。", "emotion": ""}
+{"id": 608701, "unit_id": 6087, "voice_type_id": 1, "voice_text": "感情表現の練習に明け暮れる毎日に、空前絶後の大チャンス到来～。臨時の秘神童子として、自慢の豊かな感情を爆発させるぞ。えいえい、おー。……おい、そこの小童。どうしてポカンとしているんだ。感動とかしろ。私は秦こころ。『ぺるそな』とかいう謎の理屈で、人真似の猿芝居をしている。今ならこの舞台裏から、一世を風靡できそうな気がしているの。目指せ大女優。分かったか？", "emotion": ""}
+{"id": 608702, "unit_id": 6087, "voice_type_id": 2, "voice_text": "舞ちゃんの服、着てみるとなかなかに馴染む。実に馴染むなあ。", "emotion": "1"}
+{"id": 608703, "unit_id": 6087, "voice_type_id": 3, "voice_text": "私自身は人間ではないが、人間に強く由来している付喪神ではある。", "emotion": "7"}
+{"id": 608704, "unit_id": 6087, "voice_type_id": 4, "voice_text": "そもそも『仮面を外した真の顔』なんてものは、存在しないんだよ。人間は誰もがいつでも、仮面を被って生きているのさ。", "emotion": "10"}
+{"id": 608705, "unit_id": 6087, "voice_type_id": 5, "voice_text": "仮面を生きるための基盤とする者には、二種類ある。ひとつは舞台に立つ役者。もうひとつは面霊気だ。つまり私は、生まれながらの大女優だったんだよ。七色の笑顔で観客を沸かすぜ、ブイブイ。", "emotion": "1"}
+{"id": 608706, "unit_id": 6087, "voice_type_id": 6, "voice_text": "秘神の童子として女優ぶってみたけど、分かったことがある。やっぱり、感情表現の世界は奥が深い。まだまだ勉強も稽古も足りてない。……ねえねえ、フランちゃん。一緒に練習しようよ。真面目にやろーよぅ。", "emotion": "5"}
+{"id": 608707, "unit_id": 6087, "voice_type_id": 7, "voice_text": "大女優の道はまだまだ先が長いみたい。もっと新しい演目も、学んだほうがいい？ 伝統との両立するのが大変そう。でも私、やってみる。付喪神も時代とともに変化するらしいし。それじゃあ、お前の知っている面白い演目を教えろ。それを早速練習してみるから。", "emotion": "7"}
+{"id": 608708, "unit_id": 6087, "voice_type_id": 8, "voice_text": "背中がモゾモゾするわ。バックグラウンド通信？ なにそれこわい。", "emotion": ""}
+{"id": 608709, "unit_id": 6087, "voice_type_id": 9, "voice_text": "演目によっては、背中に翼が生えることもあるらしい。正確には、開放された背中の扉がそう見えるってことなんだってさ。", "emotion": "1"}
+{"id": 608710, "unit_id": 6087, "voice_type_id": 10, "voice_text": "秘神の童子は人間から選ばれる。それは知ってる。だから私にも、人間由来の成分があるってことね。……無理をさせられてる気がするぞ。", "emotion": "9"}
+{"id": 608711, "unit_id": 6087, "voice_type_id": 11, "voice_text": "秘神ぶってても、隠岐奈さんは私のお父さんみたいな人……な気がする。でも仕事上は、そんなの関係ない。大女優になって、認めてもらうんだ。", "emotion": "7"}
+{"id": 608712, "unit_id": 6087, "voice_type_id": 12, "voice_text": "ねえねえ、フランちゃん。舞ちゃんと里乃ちゃんに演技を見てもらおうよ。ダンサーの観点から助言をもらえるかも。あと、こいしちゃんも見たがってた。", "emotion": "3"}
+{"id": 608713, "unit_id": 6087, "voice_type_id": 13, "voice_text": "春だね。それじゃあ高砂の練習をしようよ、フランちゃん。松ってすごく寿命が長い木なんだってさ。吸血鬼と一緒だよね。", "emotion": "7"}
+{"id": 608714, "unit_id": 6087, "voice_type_id": 14, "voice_text": "暑い。暑すぎる。よし、海を題材にした新しい演目を作ろう。そのためにも、海があるところに連れてけ。さあ、早く。", "emotion": "2"}
+{"id": 608715, "unit_id": 6087, "voice_type_id": 15, "voice_text": "ねえフランちゃん。秋だから、通小町の練習をしよう。フランちゃん可愛いから、小町役でいいよ。亡霊って、ますますお似合いの役だね。", "emotion": "1"}
+{"id": 608716, "unit_id": 6087, "voice_type_id": 16, "voice_text": "寒い。寒すぎる。そういう時はマッチを擦るんだよって、隠岐奈さんが言ってた。演技の肥やしになるって。こんな演目、聞いたことないけどなあ。", "emotion": "8"}
+{"id": 608717, "unit_id": 6087, "voice_type_id": 17, "voice_text": "課題なんかやってんの？ そんな暇があるなら、私の演技見て。", "emotion": "5"}
+{"id": 608718, "unit_id": 6087, "voice_type_id": 18, "voice_text": "課題終わったんだ。で、演技の感想は？ 大事なのはこっちだから。", "emotion": "7"}
+{"id": 608719, "unit_id": 6087, "voice_type_id": 19, "voice_text": "で、ででで、伝書～！？ ……これが驚きの感情。", "emotion": "5"}
+{"id": 608720, "unit_id": 6087, "voice_type_id": 20, "voice_text": "ただーいまっ。ふう、疲れた。でもなぜか、あんまり記憶がないなあ。", "emotion": "8"}
+{"id": 608721, "unit_id": 6087, "voice_type_id": 21, "voice_text": "誰かが帰ってくると、耳の後ろから囁かれてる感じがするの。ゾワッとする。", "emotion": "10"}
+{"id": 608722, "unit_id": 6087, "voice_type_id": 22, "voice_text": "なっ、なんだお前。膝で寝るのか。なんで？", "emotion": "2"}
+{"id": 608723, "unit_id": 6087, "voice_type_id": 23, "voice_text": "どうせ断っても寝るんだろ。分かってるんだ。", "emotion": "6"}
+{"id": 608724, "unit_id": 6087, "voice_type_id": 24, "voice_text": "ほら寝てる。まったく。……よしよし。", "emotion": "1"}
+{"id": 608725, "unit_id": 6087, "voice_type_id": 25, "voice_text": "童子の祖が憑依する？ それなんてオカルト？", "emotion": ""}
+{"id": 608726, "unit_id": 6087, "voice_type_id": 26, "voice_text": "六十六面相を持つ、伝説の女優になるぞ", "emotion": ""}
+{"id": 608727, "unit_id": 6087, "voice_type_id": 27, "voice_text": "これでまた一歩、大女優に近づいた。見よ、七色の笑顔を。どやっ", "emotion": ""}
+{"id": 608728, "unit_id": 6087, "voice_type_id": 28, "voice_text": "しくしく。めそめそ。絶対勝てるって聞いたのに、どうして", "emotion": ""}
+{"id": 608729, "unit_id": 6087, "voice_type_id": 29, "voice_text": "おらおら", "emotion": ""}
+{"id": 608730, "unit_id": 6087, "voice_type_id": 30, "voice_text": "かかってこいよ", "emotion": ""}
+{"id": 608731, "unit_id": 6087, "voice_type_id": 31, "voice_text": "どうしたどうした", "emotion": ""}
+{"id": 608732, "unit_id": 6087, "voice_type_id": 32, "voice_text": "がくがく", "emotion": ""}
+{"id": 608733, "unit_id": 6087, "voice_type_id": 33, "voice_text": "ぶるぶる", "emotion": ""}
+{"id": 608734, "unit_id": 6087, "voice_type_id": 34, "voice_text": "こわいよー", "emotion": ""}
+{"id": 608735, "unit_id": 6087, "voice_type_id": 35, "voice_text": "えっと、台本台本", "emotion": ""}
+{"id": 608736, "unit_id": 6087, "voice_type_id": 36, "voice_text": "メイク、落ちてない？", "emotion": ""}
+{"id": 608737, "unit_id": 6087, "voice_type_id": 37, "voice_text": "発声練習、聞いてー", "emotion": ""}
+{"id": 608738, "unit_id": 6087, "voice_type_id": 38, "voice_text": "山姥ヤバいなやいゆえよ", "emotion": ""}
+{"id": 608739, "unit_id": 6087, "voice_type_id": 39, "voice_text": "川原に河童も倒れてる", "emotion": ""}
+{"id": 608740, "unit_id": 6087, "voice_type_id": 40, "voice_text": "『舞い踊りなさい、面霊気よ』", "emotion": ""}
+{"id": 608741, "unit_id": 6087, "voice_type_id": 41, "voice_text": "ハケるよ", "emotion": ""}
+{"id": 608742, "unit_id": 6087, "voice_type_id": 42, "voice_text": "出番だ～", "emotion": ""}
+{"id": 608743, "unit_id": 6087, "voice_type_id": 43, "voice_text": "ぶっ刺してやる", "emotion": ""}
+{"id": 608744, "unit_id": 6087, "voice_type_id": 44, "voice_text": "観念しろー", "emotion": ""}
+{"id": 608745, "unit_id": 6087, "voice_type_id": 45, "voice_text": "『丁禮多も　今や何代目か　\n　秘神様は何をお考えなのやら』", "emotion": ""}
+{"id": 608746, "unit_id": 6087, "voice_type_id": 46, "voice_text": "『しかしまあ　いいでしょう　\n　この子でも十分です』", "emotion": ""}
+{"id": 608747, "unit_id": 6087, "voice_type_id": 47, "voice_text": "星符「七夕の神楽牛」", "emotion": ""}
+{"id": 608748, "unit_id": 6087, "voice_type_id": 48, "voice_text": "『舞はやんちゃですが　\n　この子は扱いやすいですね』", "emotion": ""}
+{"id": 608749, "unit_id": 6087, "voice_type_id": 49, "voice_text": "『やはりペルソナの\n　起源たる存在なだけはある』", "emotion": ""}
+{"id": 608750, "unit_id": 6087, "voice_type_id": 50, "voice_text": "申符「六十六番の物まね」", "emotion": ""}
+{"id": 608751, "unit_id": 6087, "voice_type_id": 51, "voice_text": "『さあ　舞台へ上がりなさい　\n　なけなしの人間要素を抱えて』", "emotion": ""}
+{"id": 608752, "unit_id": 6087, "voice_type_id": 52, "voice_text": "『舞台裏から覗き見る世界で　\n　秘神様を誉め讃えるのです』", "emotion": ""}
+{"id": 608753, "unit_id": 6087, "voice_type_id": 53, "voice_text": "「大辟奇祭　太秦牛祭」", "emotion": ""}
+{"id": 608754, "unit_id": 6087, "voice_type_id": 54, "voice_text": "イテッ", "emotion": ""}
+{"id": 608755, "unit_id": 6087, "voice_type_id": 55, "voice_text": "やめろー", "emotion": ""}
+{"id": 608756, "unit_id": 6087, "voice_type_id": 56, "voice_text": "余裕だわあ", "emotion": ""}
+{"id": 608757, "unit_id": 6087, "voice_type_id": 57, "voice_text": "どう？ 私の演技", "emotion": ""}
+{"id": 608758, "unit_id": 6087, "voice_type_id": 58, "voice_text": "差し入れありがとう～", "emotion": ""}
+{"id": 608759, "unit_id": 6087, "voice_type_id": 59, "voice_text": "ああ～、待って～、まだ幕を下ろさないで～", "emotion": ""}
+{"id": 608760, "unit_id": 6087, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 608761, "unit_id": 6087, "voice_type_id": 61, "voice_text": "イェス、イェス、イェス", "emotion": ""}
+{"id": 608762, "unit_id": 6087, "voice_type_id": 62, "voice_text": "ノー、ノー、ノー", "emotion": ""}
+{"id": 608763, "unit_id": 6087, "voice_type_id": 63, "voice_text": "助かった", "emotion": ""}
+{"id": 608764, "unit_id": 6087, "voice_type_id": 64, "voice_text": "秘神の童子になったら、感情表現の勉強になると思ったんだけどなあ。", "emotion": ""}
+{"id": 608765, "unit_id": 6087, "voice_type_id": 65, "voice_text": "『我ら二童子は秘神様と一心同体、すなわち丁禮多と爾子多である。』", "emotion": ""}
 {"id": 608901, "unit_id": 6089, "voice_type_id": 1, "voice_text": "撑住啊，风火二轮！ 就这样第一个冲过终点线的话，实现愿望的权力就归我了。最重要的是，我就是综合排名第一名了……不是吧～！？ 我怎么冲破时空墙壁了！？ 风火二轮，你认真起来还能做到这种事情啊！？ 那里的本地人。我是比那名居天子，是疾驰在天道的赛车手。你刚刚看到了吧！？ 是不是很厉害！？", "emotion": ""}
 {"id": 608902, "unit_id": 6089, "voice_type_id": 2, "voice_text": "你想坐风火二轮？ 没问题。坐我后面吧！", "emotion": "7"}
 {"id": 608903, "unit_id": 6089, "voice_type_id": 3, "voice_text": "你这么柔弱的人类可扛不住我们世界的竞速。", "emotion": "10"}
@@ -14558,6 +15273,71 @@
 {"id": 608963, "unit_id": 6089, "voice_type_id": 63, "voice_text": "干得漂亮", "emotion": ""}
 {"id": 608964, "unit_id": 6089, "voice_type_id": 64, "voice_text": "等竞速结束了，我会把风火二轮还给它的主人。", "emotion": ""}
 {"id": 608965, "unit_id": 6089, "voice_type_id": 65, "voice_text": "我有很多旅途见闻想分享给衣玖。我和你在荒野留下的痕迹，正是我们前进的证明……是不是，风火二轮。", "emotion": ""}
+{"id": 609401, "unit_id": 6094, "voice_type_id": 1, "voice_text": "なんだァ、お前。ただの人間じゃあないか。たとえ逆立ちしてもどのみち支配されるのが、絶対弱者たる人間の定めだ。いや、何かにおうな？ お前の持っているそのアイテム、何だか知らんがレアな力を感じるぞ。……よし、我々の味方になれ。私は鬼人正邪。お前を虐げてきた者たちへの復讐を、私が手助けしてやろう。下剋上だ。それと、帰り方を教えろ。", "emotion": ""}
+{"id": 609402, "unit_id": 6094, "voice_type_id": 2, "voice_text": "その筆記帳がなければ、お前も所詮は最底辺の存在だぞ。", "emotion": "9"}
+{"id": 609403, "unit_id": 6094, "voice_type_id": 3, "voice_text": "お前は幻想郷の真実を知らない。ただの人間なら仕方ないがな。", "emotion": "1"}
+{"id": 609404, "unit_id": 6094, "voice_type_id": 4, "voice_text": "里の人間は実質の家畜だよ。恐怖と信仰を搾取するためのな。そして外からの『食糧』は、地位と力を持つ妖怪から優先して配当される。", "emotion": "7"}
+{"id": 609405, "unit_id": 6094, "voice_type_id": 5, "voice_text": "妖怪と人間の相互依存関係。一見して公正な仕組みを維持しているかのようだが、それは嘘っぱちだ。弱小妖怪は虐げられ、賢者共は利権にしがみついている。茶番にすぎない異変に、効果があると思うか？", "emotion": "3"}
+{"id": 609406, "unit_id": 6094, "voice_type_id": 6, "voice_text": "異変が起きなきゃ、困るのは賢者たちだろう？ なら、私のやっていることは慈善事業だな。妖怪は予定調和を嫌う。スペルカードルールなんて、ただのごっこ遊びだ。なんでみんな律儀に守ってるんだ？", "emotion": "2"}
+{"id": 609407, "unit_id": 6094, "voice_type_id": 7, "voice_text": "ああ、分かった分かった。お前の説得は諦める。ひっくり返しても意味がない『玉』が霊夢で、ひっくり返しても変わらない『真っ黒』が魔理沙。そしてお前は……何をもってひっくり返ったか分からない『点』みたいな奴だな。正直、興味がある。今しばらく観察させてくれよ。", "emotion": "6"}
+{"id": 609408, "unit_id": 6094, "voice_type_id": 8, "voice_text": "ひっくり返す力なんて、強くはない。大事なのは事前の仕込みだよ。", "emotion": ""}
+{"id": 609409, "unit_id": 6094, "voice_type_id": 9, "voice_text": "弱小妖怪の救済は本気で必要だし、道具たちが付喪神化するのは副作用だが結果オーライだ。私は反逆の報酬として、少し分け前を貰うだけだよ。", "emotion": "1"}
+{"id": 609410, "unit_id": 6094, "voice_type_id": 10, "voice_text": "異変も妖怪退治も、既得権益者たちの陰謀にすぎないと思わないか？ 霊夢は自覚なしにその手先をやっているんだよ。お前は違うよな？", "emotion": "9"}
+{"id": 609411, "unit_id": 6094, "voice_type_id": 11, "voice_text": "姫を騙して悪いと思わないのかって？ あっははは！ 今や姫は、私との利害の一致を認めているさ！ いわばビジネスパートナーだな。", "emotion": "3"}
+{"id": 609412, "unit_id": 6094, "voice_type_id": 12, "voice_text": "記憶も財産も失ったままのお前は、言うなれば誰かの奴隷だ。それも究極の、な。意思を無視して従わされるのは嫌だろう？ なら私に付け。", "emotion": "7"}
+{"id": 609413, "unit_id": 6094, "voice_type_id": 13, "voice_text": "永く異変をやっていると、おかしなこともあってな。わざわざ天人が、花見に降りてきたんだ。仲間にしたかったが、むしろこちらが品定めされた。", "emotion": "8"}
+{"id": 609414, "unit_id": 6094, "voice_type_id": 14, "voice_text": "永い異変の中で、サマーライブをひっくり返してやろうと思ったんだ。そしたら先客の貧乏神と疫病神に鉢合わせてな。あれは熾烈な戦いだった。", "emotion": "6"}
+{"id": 609415, "unit_id": 6094, "voice_type_id": 15, "voice_text": "永く異変をやっていると、月から兎が攻めて来ることもあるんだ。あれは正直ヤバかった。蜘蛛と車の中間みたいなマシンに乗ってきやがって。", "emotion": "5"}
+{"id": 609416, "unit_id": 6094, "voice_type_id": 16, "voice_text": "永い異変の中で、賢者を引きずり出すことにも成功したんだ。後戸の神を名乗っていたな。魔法の森の周辺を冬にしたのは、何の意味があったのやら。", "emotion": "1"}
+{"id": 609417, "unit_id": 6094, "voice_type_id": 17, "voice_text": "おいおい、課題なんかひっくり返しちまえよ。", "emotion": "10"}
+{"id": 609418, "unit_id": 6094, "voice_type_id": 18, "voice_text": "課題クリアか。お前の真面目さは、逆に利用できそうだ。", "emotion": "6"}
+{"id": 609419, "unit_id": 6094, "voice_type_id": 19, "voice_text": "伝書か。お前は字が読めるんだな。……なるほど。", "emotion": "1"}
+{"id": 609420, "unit_id": 6094, "voice_type_id": 20, "voice_text": "弾幕をひっくり返すのは得意だ。この能力を、もっと有意義に応用したいんだよなあ。", "emotion": "1"}
+{"id": 609421, "unit_id": 6094, "voice_type_id": 21, "voice_text": "誰かが帰ってきたな。よし、たまには律儀に作戦会議でもするか。", "emotion": "3"}
+{"id": 609422, "unit_id": 6094, "voice_type_id": 22, "voice_text": "ほれ、私は逆さまだぞ？ 膝枕は無理だろう？", "emotion": "7"}
+{"id": 609423, "unit_id": 6094, "voice_type_id": 23, "voice_text": "逆さま状態でも膝枕にできるとは……お前、やるな！", "emotion": "5"}
+{"id": 609424, "unit_id": 6094, "voice_type_id": 24, "voice_text": "ま、どうでもいいか。よしよし、なでなで。", "emotion": "1"}
+{"id": 609425, "unit_id": 6094, "voice_type_id": 25, "voice_text": "力ある者には分かるまい。お前も挫折を味わえ！", "emotion": ""}
+{"id": 609426, "unit_id": 6094, "voice_type_id": 26, "voice_text": "この調子で、すべてひっくり返してやる", "emotion": ""}
+{"id": 609427, "unit_id": 6094, "voice_type_id": 27, "voice_text": "さあて、味方になるか？ 多少は便宜を図ってやってもいいぞ", "emotion": ""}
+{"id": 609428, "unit_id": 6094, "voice_type_id": 28, "voice_text": "な、なんてこった。時期尚早ってやつか……！？", "emotion": ""}
+{"id": 609429, "unit_id": 6094, "voice_type_id": 29, "voice_text": "好機だ", "emotion": ""}
+{"id": 609430, "unit_id": 6094, "voice_type_id": 30, "voice_text": "下剋上だ", "emotion": ""}
+{"id": 609431, "unit_id": 6094, "voice_type_id": 31, "voice_text": "さあ、反逆の時間だ！", "emotion": ""}
+{"id": 609432, "unit_id": 6094, "voice_type_id": 32, "voice_text": "いい気味だな", "emotion": ""}
+{"id": 609433, "unit_id": 6094, "voice_type_id": 33, "voice_text": "悔しいだろう？", "emotion": ""}
+{"id": 609434, "unit_id": 6094, "voice_type_id": 34, "voice_text": "泣いて歯ぎしりするがいい！", "emotion": ""}
+{"id": 609435, "unit_id": 6094, "voice_type_id": 35, "voice_text": "力が欲しいか？", "emotion": ""}
+{"id": 609436, "unit_id": 6094, "voice_type_id": 36, "voice_text": "強くなりたいか？", "emotion": ""}
+{"id": 609437, "unit_id": 6094, "voice_type_id": 37, "voice_text": "言うじゃあないか", "emotion": ""}
+{"id": 609438, "unit_id": 6094, "voice_type_id": 38, "voice_text": "お前も大胆だな", "emotion": ""}
+{"id": 609439, "unit_id": 6094, "voice_type_id": 39, "voice_text": "それがお前の選択か", "emotion": ""}
+{"id": 609440, "unit_id": 6094, "voice_type_id": 40, "voice_text": "力には代償が付き物なんだよ", "emotion": ""}
+{"id": 609441, "unit_id": 6094, "voice_type_id": 41, "voice_text": "さらばだ", "emotion": ""}
+{"id": 609442, "unit_id": 6094, "voice_type_id": 42, "voice_text": "即刻立ち去れい！", "emotion": ""}
+{"id": 609443, "unit_id": 6094, "voice_type_id": 43, "voice_text": "観念しな", "emotion": ""}
+{"id": 609444, "unit_id": 6094, "voice_type_id": 44, "voice_text": "無駄な抵抗だ", "emotion": ""}
+{"id": 609445, "unit_id": 6094, "voice_type_id": 45, "voice_text": "さあて　すんなりと世の中を　\nひっくり返してみせよう", "emotion": ""}
+{"id": 609446, "unit_id": 6094, "voice_type_id": 46, "voice_text": "これからは　強者は力を失う　\nこの世を統べるのは　弱者なんだよ", "emotion": ""}
+{"id": 609447, "unit_id": 6094, "voice_type_id": 47, "voice_text": "逆符「イビルインザミラー」", "emotion": ""}
+{"id": 609448, "unit_id": 6094, "voice_type_id": 48, "voice_text": "力弱き者が　如何に\n虐げられてきたか", "emotion": ""}
+{"id": 609449, "unit_id": 6094, "voice_type_id": 49, "voice_text": "お前達には　想像できんか　\n残念だ　実に残念だよ", "emotion": ""}
+{"id": 609450, "unit_id": 6094, "voice_type_id": 50, "voice_text": "逆転「チェンジエアブレイブ」", "emotion": ""}
+{"id": 609451, "unit_id": 6094, "voice_type_id": 51, "voice_text": "ゆくゆくは幻想郷だけでなく　\n天界も月も　ひっくり返す", "emotion": ""}
+{"id": 609452, "unit_id": 6094, "voice_type_id": 52, "voice_text": "かかせるのは　胡座ではなく赤っ恥　\nあっはっは！　実に気分がいいぞ！", "emotion": ""}
+{"id": 609453, "unit_id": 6094, "voice_type_id": 53, "voice_text": "「変異様逆狂想幻」", "emotion": ""}
+{"id": 609454, "unit_id": 6094, "voice_type_id": 54, "voice_text": "くう！", "emotion": ""}
+{"id": 609455, "unit_id": 6094, "voice_type_id": 55, "voice_text": "なんてこった！", "emotion": ""}
+{"id": 609456, "unit_id": 6094, "voice_type_id": 56, "voice_text": "無駄なことだ", "emotion": ""}
+{"id": 609457, "unit_id": 6094, "voice_type_id": 57, "voice_text": "残念！", "emotion": ""}
+{"id": 609458, "unit_id": 6094, "voice_type_id": 58, "voice_text": "すまんなぁ！", "emotion": ""}
+{"id": 609459, "unit_id": 6094, "voice_type_id": 59, "voice_text": "諦めないぞ！ 秘宝はまだ我らの手に！", "emotion": ""}
+{"id": 609460, "unit_id": 6094, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 609461, "unit_id": 6094, "voice_type_id": 61, "voice_text": "いいぞ", "emotion": ""}
+{"id": 609462, "unit_id": 6094, "voice_type_id": 62, "voice_text": "やめるのか", "emotion": ""}
+{"id": 609463, "unit_id": 6094, "voice_type_id": 63, "voice_text": "助かるぞ", "emotion": ""}
+{"id": 609464, "unit_id": 6094, "voice_type_id": 64, "voice_text": "稀神サグメ……私にも、ああいう力が使えるんだろうか。", "emotion": ""}
+{"id": 609465, "unit_id": 6094, "voice_type_id": 65, "voice_text": "野望のためとはいえ、姫との関係は特別だ。他の奴らとは違うんだよ。", "emotion": ""}
 {"id": 611201, "unit_id": 6112, "voice_type_id": 1, "voice_text": "哔哔—！这位客人！ 请退到白线内侧，要不然很危险……奇怪？ 对了。已经抵达目的地了，所以这里不是站台呢。小小的人类啊，你好。我是庭渡久侘歌，是灵河铁道的站务员。我有时会和小町一起担任乘务员。用不用我来带路……对了，今天是久违的假期！ 我养成习惯了，诶嘿嘿嘿～。", "emotion": ""}
 {"id": 611202, "unit_id": 6112, "voice_type_id": 2, "voice_text": "哔哔—！ 我的哨子声音不错吧。哔哔—！ 诶嘿嘿。", "emotion": "7"}
 {"id": 611203, "unit_id": 6112, "voice_type_id": 3, "voice_text": "我的工作是让灵魂排好队，让它们遵守顺序！", "emotion": "1"}
@@ -15013,6 +15793,71 @@
 {"id": 706463, "unit_id": 7064, "voice_type_id": 63, "voice_text": "谢谢！", "emotion": ""}
 {"id": 706464, "unit_id": 7064, "voice_type_id": 64, "voice_text": "现实中不存在的声音――我的幻想之音果然最棒啦！", "emotion": ""}
 {"id": 706465, "unit_id": 7064, "voice_type_id": 65, "voice_text": "我发现我的搭档――键盘变红的时候，连我都觉得要完蛋了！", "emotion": ""}
+{"id": 800101, "unit_id": 8001, "voice_type_id": 1, "voice_text": "頭での理解じゃあなくって、私の何かが記憶している。私は博麗霊夢、はじまりの巫女よ。どうして『はじまり』なのか、そしてどうして『君』なのか、考えても意味はないわ。全ては『パターン』だから。それを掻い潜り、黒幕にたどり着けるのは、あらゆる束縛から解き放たれたこの私。魔理沙を取り戻すためにも君が必要だって……この『玉』に言われたわ。ねえ、話をしない？ 道すがらでいいわ。", "emotion": ""}
+{"id": 800102, "unit_id": 8001, "voice_type_id": 2, "voice_text": "君はどこまで知っているの？ 少しずつでも、話してほしいわ。", "emotion": "1"}
+{"id": 800103, "unit_id": 8001, "voice_type_id": 3, "voice_text": "私が見てきたのは驚異的な事実だった。君もそれを見てきたのよね？", "emotion": "2"}
+{"id": 800104, "unit_id": 8001, "voice_type_id": 4, "voice_text": "私はね、君に謝りたいの。私の知らないところで、君に大異変を抱えさせていたことを。でも同時に……君が何者なのかが分からない。", "emotion": "6"}
+{"id": 800105, "unit_id": 8001, "voice_type_id": 5, "voice_text": "咲夜、妖夢、早苗、鈴仙――まあ、私にも仲間くらい、いなくはないわ。その中でも魔理沙は、付き合いが長いから特別ね。ただ、君と知り合ったのは最近……えっと、うーん、いや……とにかく、全く別の何かなのよ。", "emotion": "9"}
+{"id": 800106, "unit_id": 8001, "voice_type_id": 6, "voice_text": "ねえ、私って、以前に君と会ったことがある？ 魔理沙とは別の縁で、ずっと昔ずっと昔――魔理沙のことを思い出そうとすると現れる、記憶の隙間……？ ――いえ。どうかしているわね、私。そんな記憶、微塵にも無いのに。", "emotion": "5"}
+{"id": 800107, "unit_id": 8001, "voice_type_id": 7, "voice_text": "君は守るべき普通の人間で、故郷へ返すべき迷子で……でも、そうじゃあない君が頭をかすめるわ。ただ、ね？ この答えは、考えたところで出て来ない。答えに辿り着くには、前へ進むしかないの。魔理沙と合流したら、きっと何か進展があるわ。そうと決まれば、先を急ぎましょ。", "emotion": "1"}
+{"id": 800108, "unit_id": 8001, "voice_type_id": 8, "voice_text": "この陰陽玉、中に妖精でも入ってるのかしら。……ああ、こっちの話ね。", "emotion": ""}
+{"id": 800109, "unit_id": 8001, "voice_type_id": 9, "voice_text": "やけに硬いから装甲陰陽玉って呼んでるの。でも普通のと比べて、使い勝手がどこか変なのよね。不便ではないけど……なんか爺臭い感じ？", "emotion": "1"}
+{"id": 800110, "unit_id": 8001, "voice_type_id": 10, "voice_text": "最初は、魅須丸が隠し機能を仕込んだ結果じゃないかとか、紫が勝手に改造したんじゃないかとか疑ったんだけど。なんか、違うらしいのよ。", "emotion": "10"}
+{"id": 800111, "unit_id": 8001, "voice_type_id": 11, "voice_text": "華扇にも聞いたし、詳しそうな萃香や文にも聞いたけど、反応はイマイチ。やっぱり道具のことは、魔理沙に聞くに限るわ。あっ、霖之助さんに聞くって手もあるか。", "emotion": "3"}
+{"id": 800112, "unit_id": 8001, "voice_type_id": 12, "voice_text": "この装甲陰陽玉、本っ当に謎でね。調子が悪くなったら、池の水につければ戻るのよ。その池はどこかって？ 神社の裏手だけど？", "emotion": "9"}
+{"id": 800113, "unit_id": 8001, "voice_type_id": 13, "voice_text": "夜は境内が大宴会場？ ええ、構わないわ。今だけはね。でも参拝客が来たら、すぐに叩き出してやる。……ふふ、それが楽しいんだから。", "emotion": "7"}
+{"id": 800114, "unit_id": 8001, "voice_type_id": 14, "voice_text": "霖之助さんがくれたコーラ、また飲みたいわあ。拾い物だからって警戒してたけど、飲んでみたらこれがなかなか。", "emotion": "7"}
+{"id": 800115, "unit_id": 8001, "voice_type_id": 15, "voice_text": "秋の味覚を食べすぎちゃったけど、なぜか罪悪感がないわね。この変な陰陽玉を使うようになってから、ずっとそうだわ！ こわっ！？", "emotion": "5"}
+{"id": 800116, "unit_id": 8001, "voice_type_id": 16, "voice_text": "初詣くらいは、霖之助さんが神社まで来てた……ような気がする。あとたしか、阿求とかも。なんだかんだでみんなが集まる場所よね、博麗神社。", "emotion": "7"}
+{"id": 800117, "unit_id": 8001, "voice_type_id": 17, "voice_text": "課題かあ、なんだか懐かしいわね。お茶でも淹れてあげようか？", "emotion": "1"}
+{"id": 800118, "unit_id": 8001, "voice_type_id": 18, "voice_text": "うんうん、課題できてる。やっぱり君は、普通の小さな女の子よね。", "emotion": "7"}
+{"id": 800119, "unit_id": 8001, "voice_type_id": 19, "voice_text": "伝書の内容も気になるけど、そもそもの送り主が気になるわね。", "emotion": "2"}
+{"id": 800120, "unit_id": 8001, "voice_type_id": 20, "voice_text": "ふう、なかなか疲れた。あら、お茶を淹れてくれたの？ く～っ！ よしよし～！", "emotion": "3"}
+{"id": 800121, "unit_id": 8001, "voice_type_id": 21, "voice_text": "んっ！ 誰かが参拝に来る予感。さて、素敵なお賽銭箱は～っと。", "emotion": "3"}
+{"id": 800122, "unit_id": 8001, "voice_type_id": 22, "voice_text": "私と君が出会って『はじまる』……？", "emotion": "1"}
+{"id": 800123, "unit_id": 8001, "voice_type_id": 23, "voice_text": "うーん、勘だけ働いてもしょうがないわね。", "emotion": "9"}
+{"id": 800124, "unit_id": 8001, "voice_type_id": 24, "voice_text": "君は私の膝で、夢の中……ね。よし、よし。", "emotion": "7"}
+{"id": 800125, "unit_id": 8001, "voice_type_id": 25, "voice_text": "行くわよ、装甲陰陽玉。全てなぎ倒す！", "emotion": ""}
+{"id": 800126, "unit_id": 8001, "voice_type_id": 26, "voice_text": "あー、邪魔邪魔！ さっさとどきなさい！", "emotion": ""}
+{"id": 800127, "unit_id": 8001, "voice_type_id": 27, "voice_text": "ここにはいない……わね。次へ向かうわ。グズグズしてられないもの", "emotion": ""}
+{"id": 800128, "unit_id": 8001, "voice_type_id": 28, "voice_text": "まだよ。ここじゃあない。もっと、どこまでも、私は進まなきゃ……！", "emotion": ""}
+{"id": 800129, "unit_id": 8001, "voice_type_id": 29, "voice_text": "あったまに来た！", "emotion": ""}
+{"id": 800130, "unit_id": 8001, "voice_type_id": 30, "voice_text": "大人しく！", "emotion": ""}
+{"id": 800131, "unit_id": 8001, "voice_type_id": 31, "voice_text": "倒されなさい！", "emotion": ""}
+{"id": 800132, "unit_id": 8001, "voice_type_id": 32, "voice_text": "覚悟は決まった？", "emotion": ""}
+{"id": 800133, "unit_id": 8001, "voice_type_id": 33, "voice_text": "それなら、ほら！", "emotion": ""}
+{"id": 800134, "unit_id": 8001, "voice_type_id": 34, "voice_text": "かかってきなさい！", "emotion": ""}
+{"id": 800135, "unit_id": 8001, "voice_type_id": 35, "voice_text": "こんなの簡単よ", "emotion": ""}
+{"id": 800136, "unit_id": 8001, "voice_type_id": 36, "voice_text": "見せてみなさい？", "emotion": ""}
+{"id": 800137, "unit_id": 8001, "voice_type_id": 37, "voice_text": "ええ、いいわ", "emotion": ""}
+{"id": 800138, "unit_id": 8001, "voice_type_id": 38, "voice_text": "あら、奇遇ね", "emotion": ""}
+{"id": 800139, "unit_id": 8001, "voice_type_id": 39, "voice_text": "君らしいわね", "emotion": ""}
+{"id": 800140, "unit_id": 8001, "voice_type_id": 40, "voice_text": "私は何物にも縛られない！", "emotion": ""}
+{"id": 800141, "unit_id": 8001, "voice_type_id": 41, "voice_text": "やってもらえる？", "emotion": ""}
+{"id": 800142, "unit_id": 8001, "voice_type_id": 42, "voice_text": "頼まれた！", "emotion": ""}
+{"id": 800143, "unit_id": 8001, "voice_type_id": 43, "voice_text": "逃げられないわよ！", "emotion": ""}
+{"id": 800144, "unit_id": 8001, "voice_type_id": 44, "voice_text": "光を浴びよ！", "emotion": ""}
+{"id": 800145, "unit_id": 8001, "voice_type_id": 45, "voice_text": "星ばっかり見てるから　\nどっか行っちゃうのよ", "emotion": ""}
+{"id": 800146, "unit_id": 8001, "voice_type_id": 46, "voice_text": "さっさと追いついて来なさい　\n霧雨魔理沙！", "emotion": ""}
+{"id": 800147, "unit_id": 8001, "voice_type_id": 47, "voice_text": "魔霊符「星霜封印」", "emotion": ""}
+{"id": 800148, "unit_id": 8001, "voice_type_id": 48, "voice_text": "今までは　適当でも大概　\nなんとかなったんだけど……", "emotion": ""}
+{"id": 800149, "unit_id": 8001, "voice_type_id": 49, "voice_text": "火力だか　パワーだか　\n悔しいけど　あんたの言う通りだわ", "emotion": ""}
+{"id": 800150, "unit_id": 8001, "voice_type_id": 50, "voice_text": "夢恋符「砲魔陣」", "emotion": ""}
+{"id": 800151, "unit_id": 8001, "voice_type_id": 51, "voice_text": "そうね　あんただったわ　\nこれに名前を付けたのは", "emotion": ""}
+{"id": 800152, "unit_id": 8001, "voice_type_id": 52, "voice_text": "あれがなかったら　私は……　\nいえ　まずはあんたを取り戻す！", "emotion": ""}
+{"id": 800153, "unit_id": 8001, "voice_type_id": 53, "voice_text": "「夢想天生と名付けられた弾幕」", "emotion": ""}
+{"id": 800154, "unit_id": 8001, "voice_type_id": 54, "voice_text": "ったた！", "emotion": ""}
+{"id": 800155, "unit_id": 8001, "voice_type_id": 55, "voice_text": "あーん、もう！", "emotion": ""}
+{"id": 800156, "unit_id": 8001, "voice_type_id": 56, "voice_text": "甘いわね", "emotion": ""}
+{"id": 800157, "unit_id": 8001, "voice_type_id": 57, "voice_text": "あー？ こんなもん？", "emotion": ""}
+{"id": 800158, "unit_id": 8001, "voice_type_id": 58, "voice_text": "あら、私に？", "emotion": ""}
+{"id": 800159, "unit_id": 8001, "voice_type_id": 59, "voice_text": "あんな弾幕、次は避けてやるから！", "emotion": ""}
+{"id": 800160, "unit_id": 8001, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 800161, "unit_id": 8001, "voice_type_id": 61, "voice_text": "いいわよ", "emotion": ""}
+{"id": 800162, "unit_id": 8001, "voice_type_id": 62, "voice_text": "やめるわね", "emotion": ""}
+{"id": 800163, "unit_id": 8001, "voice_type_id": 63, "voice_text": "ふふ、ありがとね", "emotion": ""}
+{"id": 800164, "unit_id": 8001, "voice_type_id": 64, "voice_text": "縛られないからこそ、『繰り返し』からの脱出ができる。", "emotion": ""}
+{"id": 800165, "unit_id": 8001, "voice_type_id": 65, "voice_text": "あんたが神社に来るまで、私はたんまり待たされた。その分、これから付き合ってもらうわ。……いいわよね、魔理沙。", "emotion": ""}
 {"id": 800201, "unit_id": 8002, "voice_type_id": 1, "voice_text": "好久不见。虽然是老套路了，但该说的我还是得说。我是雾雨魔理沙。是只能追逐她的背影的，最弱的魔法使。最强之路最后一定会走到死胡同里面。但是……你明白吧？ 这不是我放弃的理由。正因为我们是最弱的存在，我们才可以通过研究和学习不断变强下去。我们一起前进吧。", "emotion": ""}
 {"id": 800202, "unit_id": 8002, "voice_type_id": 2, "voice_text": "怎样，我们交情很久吧？ 和我说的一样呢。", "emotion": "6"}
 {"id": 800203, "unit_id": 8002, "voice_type_id": 3, "voice_text": "我是普通人类。但是随处可见的星光让现在的我活了下来。", "emotion": "9"}
@@ -15059,7 +15904,7 @@
 {"id": 800244, "unit_id": 8002, "voice_type_id": 44, "voice_text": "贯穿吧，信仰之针！", "emotion": ""}
 {"id": 800245, "unit_id": 8002, "voice_type_id": 45, "voice_text": "梦想　封印　\n我的星星记得", "emotion": ""}
 {"id": 800246, "unit_id": 8002, "voice_type_id": 46, "voice_text": "那个天才的弹幕　\n我的幻想啊 回应我吧", "emotion": ""}
-{"id": 800247, "unit_id": 8002, "voice_type_id": 47, "voice_text": "灵魔符「结界幻想」", "emotion": ""}
+{"id": 800247, "unit_id": 8002, "voice_type_id": 47, "voice_text": "灵魔符「封印幻想」", "emotion": ""}
 {"id": 800248, "unit_id": 8002, "voice_type_id": 48, "voice_text": "我爱上的　你的梦想\n我所爱的　我的幻想", "emotion": ""}
 {"id": 800249, "unit_id": 8002, "voice_type_id": 49, "voice_text": "区分并贯穿 异乡的境界吧　\n倾斜的　魔法闪光啊", "emotion": ""}
 {"id": 800250, "unit_id": 8002, "voice_type_id": 50, "voice_text": "恋梦符「四方阵火花」", "emotion": ""}
@@ -15143,6 +15988,71 @@
 {"id": 803263, "unit_id": 8032, "voice_type_id": 63, "voice_text": "谢谢", "emotion": ""}
 {"id": 803264, "unit_id": 8032, "voice_type_id": 64, "voice_text": "需要我帮忙的时候，就向星星许愿吧。", "emotion": ""}
 {"id": 803265, "unit_id": 8032, "voice_type_id": 65, "voice_text": "我原本以为魔物是邪恶的存在……没有人想知道这种真相。", "emotion": ""}
+{"id": 803801, "unit_id": 8038, "voice_type_id": 1, "voice_text": "あっ、早苗！？ やっと見つけました！ って、早苗じゃあない！？ お姉ちゃん誰？ 神奈は八坂神奈子っていいます。住所は山の中で、えっと、ううっ……な、泣きません！ 神奈は強い神様ですからっ！ えっ、もう泣いてる？ み、見ないでぇ～！ ダメダメ、仕切り直しです。……キリッ！ 神奈は戦神にして軍神にして武神です。さあ、信仰しちゃっていいよ？", "emotion": ""}
+{"id": 803802, "unit_id": 8038, "voice_type_id": 2, "voice_text": "知らない人に信仰されちゃダメって、早苗が……。", "emotion": "6"}
+{"id": 803803, "unit_id": 8038, "voice_type_id": 3, "voice_text": "小さいので、信仰は少しで大丈夫なんです。えへへ～。", "emotion": "3"}
+{"id": 803804, "unit_id": 8038, "voice_type_id": 4, "voice_text": "信仰は少なくても、暮らしは幸せです。でも……早苗のご飯だけは、大盛にしてあげたいものですね。", "emotion": "1"}
+{"id": 803805, "unit_id": 8038, "voice_type_id": 5, "voice_text": "神奈の世界では、神奈たちは新しい人類っていうカテゴリでして。新しい神様は『鬼神』……つまり鬼さんたちなんです。鬼さんは鉄とかの金属を欲しがるので、信仰を対価として金属を作ってあげる感じです。", "emotion": "2"}
+{"id": 803806, "unit_id": 8038, "voice_type_id": 6, "voice_text": "神奈と諏訪ちゃんで、毎日トンテンカン、トンテンカンって頑張っています。思った通りの金属を作るのって、結構難しくて……。泣きそうになるんですが、早苗のためなら頑張りたいなって。", "emotion": "8"}
+{"id": 803807, "unit_id": 8038, "voice_type_id": 7, "voice_text": "幻想郷に住むもう一組の神奈たちって、また違った意味で幸せそうですね。そういう未来もありえたんでしょうか。……神奈たちの世界も、力を合わせればもっと良くなるかも。諏訪と一緒なら、早苗のために頑張れるような気がしてきました！ お姉ちゃんのお話のお陰です。", "emotion": "3"}
+{"id": 803808, "unit_id": 8038, "voice_type_id": 8, "voice_text": "わあ、強くなれました～！ 諏訪も強くなれた？ じゃあ、今度あ～そぼ！", "emotion": ""}
+{"id": 803809, "unit_id": 8038, "voice_type_id": 9, "voice_text": "早苗が迎えに来るまでは、幻想郷のお世話になりますね。ご迷惑をお掛けしますが、よろしくお願いいたします。", "emotion": "1"}
+{"id": 803810, "unit_id": 8038, "voice_type_id": 10, "voice_text": "神奈は顔つきが大人っぽいからか、しっかりしていると思われがちで。そういう信仰の期待に応えなきゃって……つい力んじゃいます。", "emotion": "4"}
+{"id": 803811, "unit_id": 8038, "voice_type_id": 11, "voice_text": "お姉ちゃんにお願いがあります。よろしければ、幻想郷のお話を神奈に聞かせてもらえませんか。神奈が眠る前でもいいので……。", "emotion": "5"}
+{"id": 803812, "unit_id": 8038, "voice_type_id": 12, "voice_text": "諏訪ちゃんとは、百回勝負すると四十九回くらい負けちゃいます。本当は裏で色々お手伝いしてくれる、とっても優しい子なんですよ。", "emotion": "3"}
+{"id": 803813, "unit_id": 8038, "voice_type_id": 13, "voice_text": "幻想郷の『山』は、秋の気質なんですね。神奈の棲む山は今みたいに、春って感じです。神奈自身は、秋のほうがしっくり来るんですけどね。", "emotion": "1"}
+{"id": 803814, "unit_id": 8038, "voice_type_id": 14, "voice_text": "毎日が鑪ら場みたいに暑いですね～。お姉ちゃんは夏バテですか？ ……えっ！ 脱水症状を起こしかけてる！？ お、お水をっ！", "emotion": "5"}
+{"id": 803815, "unit_id": 8038, "voice_type_id": 15, "voice_text": "やっぱり秋が大好きです！ この盤石で堅固な要塞めいた感じが、金属っぽくていいですよね。お祭りも多いですし！", "emotion": "3"}
+{"id": 803816, "unit_id": 8038, "voice_type_id": 16, "voice_text": "しゃ、しゃびいでしゅね……！ でも神社に行って、信者さんたちを迎えないと……みんなが神奈を待ってます、からっ！", "emotion": "8"}
+{"id": 803817, "unit_id": 8038, "voice_type_id": 17, "voice_text": "課題をやっているんですか？ 神奈も神様の宿題やらなきゃ……！", "emotion": "2"}
+{"id": 803818, "unit_id": 8038, "voice_type_id": 18, "voice_text": "ほほう、課題を終えたかい。よしよし……普段はこんな感じで神様やってます。", "emotion": "7"}
+{"id": 803819, "unit_id": 8038, "voice_type_id": 19, "voice_text": "伝書ですね。他の神様からの連絡かも。速やかに確認しましょう。", "emotion": "1"}
+{"id": 803820, "unit_id": 8038, "voice_type_id": 20, "voice_text": "神奈、弾幕ごっこだ～いすき！ 次も神奈を連れて行って下さいね！", "emotion": "5"}
+{"id": 803821, "unit_id": 8038, "voice_type_id": 21, "voice_text": "どなたかがお帰りになりましたね。労って差し上げましょう！", "emotion": "3"}
+{"id": 803822, "unit_id": 8038, "voice_type_id": 22, "voice_text": "神奈、そんなに大人っぽいですかね……？", "emotion": "7"}
+{"id": 803823, "unit_id": 8038, "voice_type_id": 23, "voice_text": "お姉ちゃん、どこでも寝れるんですね……！", "emotion": "2"}
+{"id": 803824, "unit_id": 8038, "voice_type_id": 24, "voice_text": "お膝を貸してみましたが、どうも逆な気がします。よしよし。", "emotion": "6"}
+{"id": 803825, "unit_id": 8038, "voice_type_id": 25, "voice_text": "神奈の前に出ましたね？ ぶっ飛ばしちゃいます！", "emotion": ""}
+{"id": 803826, "unit_id": 8038, "voice_type_id": 26, "voice_text": "全軍、前進です！ 神奈に続いてください！", "emotion": ""}
+{"id": 803827, "unit_id": 8038, "voice_type_id": 27, "voice_text": "勝利です。皆さん、無事ですか？ 次の戦いもお願いしますね！", "emotion": ""}
+{"id": 803828, "unit_id": 8038, "voice_type_id": 28, "voice_text": "あ、あれれ？ 神奈がいるのに敗けちゃった。……なんででしょう", "emotion": ""}
+{"id": 803829, "unit_id": 8038, "voice_type_id": 29, "voice_text": "えへへ、よいしょっと", "emotion": ""}
+{"id": 803830, "unit_id": 8038, "voice_type_id": 30, "voice_text": "準備、終わりました！", "emotion": ""}
+{"id": 803831, "unit_id": 8038, "voice_type_id": 31, "voice_text": "ぶっ飛ばしてやりま～す！", "emotion": ""}
+{"id": 803832, "unit_id": 8038, "voice_type_id": 32, "voice_text": "うんしょ、うんしょ", "emotion": ""}
+{"id": 803833, "unit_id": 8038, "voice_type_id": 33, "voice_text": "そちらはどうですか？", "emotion": ""}
+{"id": 803834, "unit_id": 8038, "voice_type_id": 34, "voice_text": "そんな程度ですか～？", "emotion": ""}
+{"id": 803835, "unit_id": 8038, "voice_type_id": 35, "voice_text": "御利益ですよ～", "emotion": ""}
+{"id": 803836, "unit_id": 8038, "voice_type_id": 36, "voice_text": "お待たせしました！", "emotion": ""}
+{"id": 803837, "unit_id": 8038, "voice_type_id": 37, "voice_text": "神奈にお任せ！", "emotion": ""}
+{"id": 803838, "unit_id": 8038, "voice_type_id": 38, "voice_text": "神奈がやってあげます", "emotion": ""}
+{"id": 803839, "unit_id": 8038, "voice_type_id": 39, "voice_text": "えっ！ 神奈も～！", "emotion": ""}
+{"id": 803840, "unit_id": 8038, "voice_type_id": 40, "voice_text": "もっと神奈を見て下さ～い！", "emotion": ""}
+{"id": 803841, "unit_id": 8038, "voice_type_id": 41, "voice_text": "お家に帰りま～す", "emotion": ""}
+{"id": 803842, "unit_id": 8038, "voice_type_id": 42, "voice_text": "行ってきま～す！", "emotion": ""}
+{"id": 803843, "unit_id": 8038, "voice_type_id": 43, "voice_text": "びゅーびゅー！", "emotion": ""}
+{"id": 803844, "unit_id": 8038, "voice_type_id": 44, "voice_text": "ニョロニョロさん！", "emotion": ""}
+{"id": 803845, "unit_id": 8038, "voice_type_id": 45, "voice_text": "神奈の国は　山の国　\n神を縛る縄は　神威の象徴", "emotion": ""}
+{"id": 803846, "unit_id": 8038, "voice_type_id": 46, "voice_text": "この輪を通るものは　\n時と場所の境界を超えちゃいます！", "emotion": ""}
+{"id": 803847, "unit_id": 8038, "voice_type_id": 47, "voice_text": "神秘「ヤマトトーラス」", "emotion": ""}
+{"id": 803848, "unit_id": 8038, "voice_type_id": 48, "voice_text": "神奈の座す地に　風が吹く　\nまるで大きな鞴みたいに", "emotion": ""}
+{"id": 803849, "unit_id": 8038, "voice_type_id": 49, "voice_text": "どうしますか！　ぜーんぶ　\n吹っ飛んじゃいますけど！？", "emotion": ""}
+{"id": 803850, "unit_id": 8038, "voice_type_id": 50, "voice_text": "風符「神地嵐」", "emotion": ""}
+{"id": 803851, "unit_id": 8038, "voice_type_id": 51, "voice_text": "川を使えば　もっと綺麗な　\n鉄が作れますよ～", "emotion": ""}
+{"id": 803852, "unit_id": 8038, "voice_type_id": 52, "voice_text": "仕方ないですね　お姉ちゃん　\n神奈がやり方　教えてあげます", "emotion": ""}
+{"id": 803853, "unit_id": 8038, "voice_type_id": 53, "voice_text": "「鉄穴流しと藤蔓の笊」", "emotion": ""}
+{"id": 803854, "unit_id": 8038, "voice_type_id": 54, "voice_text": "うわあ！", "emotion": ""}
+{"id": 803855, "unit_id": 8038, "voice_type_id": 55, "voice_text": "な、泣きませんから！", "emotion": ""}
+{"id": 803856, "unit_id": 8038, "voice_type_id": 56, "voice_text": "くっ、これくらい！", "emotion": ""}
+{"id": 803857, "unit_id": 8038, "voice_type_id": 57, "voice_text": "本気出して下さい！", "emotion": ""}
+{"id": 803858, "unit_id": 8038, "voice_type_id": 58, "voice_text": "わあ、嬉しいです！", "emotion": ""}
+{"id": 803859, "unit_id": 8038, "voice_type_id": 59, "voice_text": "もっとごはん食べたほうがいいのかな……？", "emotion": ""}
+{"id": 803860, "unit_id": 8038, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 803861, "unit_id": 8038, "voice_type_id": 61, "voice_text": "分かりました！", "emotion": ""}
+{"id": 803862, "unit_id": 8038, "voice_type_id": 62, "voice_text": "やめておきます！", "emotion": ""}
+{"id": 803863, "unit_id": 8038, "voice_type_id": 63, "voice_text": "お姉ちゃん、ありがとう！", "emotion": ""}
+{"id": 803864, "unit_id": 8038, "voice_type_id": 64, "voice_text": "神奈のほうがかなりお姉ちゃんですけどね。", "emotion": ""}
+{"id": 803865, "unit_id": 8038, "voice_type_id": 65, "voice_text": "鉄を作るのは、諏訪ちゃんのほうが先だったんです。でも神奈が後から来たから、最初は大喧嘩になっちゃって。えへへ。", "emotion": ""}
 {"id": 1100301, "unit_id": 11003, "voice_type_id": 1, "voice_text": "流星的轨迹引导我来到了此地。魔法少女蕾米莉亚·斯卡雷特闪亮登场！魔法少女是这种感觉吧。芙兰喜欢魔法少女，所以我很了解这方面的事情。……什么？ 魔法少女应该更阳光一些？ 别想骗我。我知道最近也有酷酷的魔法少女。那么星之魔物在哪里呢？ 等一下！ 不要碰我的星枪～！", "emotion": ""}
 {"id": 1100302, "unit_id": 11003, "voice_type_id": 2, "voice_text": "这个世界存在拥有实体的月亮吗。这是和平的证据。", "emotion": "7"}
 {"id": 1100303, "unit_id": 11003, "voice_type_id": 3, "voice_text": "你所知道的红梦的魔女看来踏上了不同的命运呢。", "emotion": "5"}
@@ -15192,7 +16102,7 @@
 {"id": 1100347, "unit_id": 11003, "voice_type_id": 47, "voice_text": "「蕾米莉亚的爱心幻想」", "emotion": ""}
 {"id": 1100348, "unit_id": 11003, "voice_type_id": 48, "voice_text": "鲜红魔物　将覆盖天空　\n黑暗的星之血雾　将包围幻想乡", "emotion": ""}
 {"id": 1100349, "unit_id": 11003, "voice_type_id": 49, "voice_text": "……刮目相看吧　\n这就是“星之红魔乡”", "emotion": ""}
-{"id": 1100350, "unit_id": 11003, "voice_type_id": 50, "voice_text": "「蓝莲花乐园的蕾米莉亚」", "emotion": ""}
+{"id": 1100350, "unit_id": 11003, "voice_type_id": 50, "voice_text": "「蓝色幻想乡的蕾米莉亚」", "emotion": ""}
 {"id": 1100351, "unit_id": 11003, "voice_type_id": 51, "voice_text": "注入在流星中的　\n数不清的祈祷啊", "emotion": ""}
 {"id": 1100352, "unit_id": 11003, "voice_type_id": 52, "voice_text": "化为星雾　\n成为地上新的月亮吧", "emotion": ""}
 {"id": 1100353, "unit_id": 11003, "voice_type_id": 53, "voice_text": "「蕾米莉亚星雾命运」", "emotion": ""}
@@ -15208,6 +16118,136 @@
 {"id": 1100363, "unit_id": 11003, "voice_type_id": 63, "voice_text": "哼哼，谢了", "emotion": ""}
 {"id": 1100364, "unit_id": 11003, "voice_type_id": 64, "voice_text": "咲夜也好美铃也好小恶魔也好……你们怎么拍了这么多张照片啊！？ 怎么连帕琪都这样！", "emotion": ""}
 {"id": 1100365, "unit_id": 11003, "voice_type_id": 65, "voice_text": "我努力的目的就是为了让芙兰不需要成为魔法少女。明明是这样……为什么连你都成为了魔法少女啊，芙兰～！", "emotion": ""}
+{"id": 1200401, "unit_id": 12004, "voice_type_id": 1, "voice_text": "どうしてこう、賢者ってのは何かと別の場所へ転送させたがるかなァ……！ でも、まあいいか。私はフランドール·スカーレット。今は舞台裏の冴えない地下女優。でもいつかは、紅の月下で輝く一輪の血の花として……って、隠岐奈！ これ、あんたのとこの踊り子の服装じゃあないの！ ああもう、ワケ分かんないよ！ そこの人間、あんたは私の付き人ね！", "emotion": ""}
+{"id": 1200402, "unit_id": 12004, "voice_type_id": 2, "voice_text": "まあ、秘神童子の服も嫌いじゃあないけど。なかなか可愛いし。", "emotion": "6"}
+{"id": 1200403, "unit_id": 12004, "voice_type_id": 3, "voice_text": "吸血鬼って、舞台演目で広まった妖怪なのよね。知ってたけど。", "emotion": "1"}
+{"id": 1200404, "unit_id": 12004, "voice_type_id": 4, "voice_text": "知ってた？ 外の世界で知られた始祖の吸血鬼って、人間が変化した妖怪なのよ。それで私と秘神童子を結びつけたのね。……誰がって？ 隠岐奈がよ。", "emotion": "10"}
+{"id": 1200405, "unit_id": 12004, "voice_type_id": 5, "voice_text": "「舞台演劇と弾幕ごっこは似ている」と隠岐奈が言っていたけど、観客の立場になってみてその意味が分かったわ。円形劇場の舞台上を舞いながら虚構を見せる、あれを幻想と呼ばずしてって感じね。", "emotion": "1"}
+{"id": 1200406, "unit_id": 12004, "voice_type_id": 6, "voice_text": "知れば知るほど、演技の世界は奥が深いわ。女優という人間こそが、むしろ化け物なんじゃない？ ゆくゆくは銀幕スターへの道もって考えてたけど、本気出さなきゃ。……テレビスター！？ そういうのもあるの！？", "emotion": "5"}
+{"id": 1200407, "unit_id": 12004, "voice_type_id": 7, "voice_text": "スター女優になる道は片手間感覚で歩めるものではないってことが、よく分かったわ。真剣に全力で向き合って初めて、目指すことが許される。……やるじゃない、隠岐奈。貴方の世界、ちょっと気に入ったよ。それじゃ付き人、私の衣装箱を担ぎなさい。さあ、行くわよ！", "emotion": "4"}
+{"id": 1200408, "unit_id": 12004, "voice_type_id": 8, "voice_text": "お姉様も演技してみる？ ……あっ、普段から芝居がかってたか！ キャハハ！", "emotion": ""}
+{"id": 1200409, "unit_id": 12004, "voice_type_id": 9, "voice_text": "私が知っているのは、文芸復興だかでいろんな舞台作品が次々と生み出されている……らしい、という昔のニュース。観てみたかったわァ。", "emotion": "1"}
+{"id": 1200410, "unit_id": 12004, "voice_type_id": 10, "voice_text": "秘神の童子も吸血鬼も、人間から変化した存在。だから吸血鬼には舞台女優の才能がある……っていう誘い文句、お姉様にも通じるわね。", "emotion": "10"}
+{"id": 1200411, "unit_id": 12004, "voice_type_id": 11, "voice_text": "オーディションやスカウトの時に、Ｐ面してる隠岐奈って想像できる？ それを見て大飛出の面が貼り付いてる、こころちゃんの様子も。", "emotion": "9"}
+{"id": 1200412, "unit_id": 12004, "voice_type_id": 12, "voice_text": "舞台で輝く一番星を目指すのも、悪くないわ。４９５年も続けてきたクマちゃん劇場での演出力が今こそっ……さ、さて練習しよっか、こいしちゃんも見に来てることだし。", "emotion": "7"}
+{"id": 1200413, "unit_id": 12004, "voice_type_id": 13, "voice_text": "ねえ、こころちゃん。青い季節だから、キャピュレット家とモンタギュー家の物語をやってみない？ この青臭さ、書いたのはきっと年下だわ。", "emotion": "6"}
+{"id": 1200414, "unit_id": 12004, "voice_type_id": 14, "voice_text": "喜劇でもやるか、こころちゃん。森の妖精たちの物語がいい？ じゃあ脇役に妖精を呼びましょ。豆の花、蜘蛛の巣、蛾の羽根、芥子の種。", "emotion": "7"}
+{"id": 1200415, "unit_id": 12004, "voice_type_id": 15, "voice_text": "こころちゃん。秋だから、演劇も豪華にいくわよ。復讐の王子、暗殺の将軍、嫉妬の軍人、悲嘆の狂王……大悲劇の四本立て。ゾクゾクするわね。", "emotion": "2"}
+{"id": 1200416, "unit_id": 12004, "voice_type_id": 16, "voice_text": "心も冷える季節。それに相応しい悲劇は、将軍タイタスの物語の他にない。一緒にやってみようよ、こころちゃん。きっと楽しいわ。", "emotion": "3"}
+{"id": 1200417, "unit_id": 12004, "voice_type_id": 17, "voice_text": "課題なんかやってるんだ？ それより私の演技、観てくれない？", "emotion": "10"}
+{"id": 1200418, "unit_id": 12004, "voice_type_id": 18, "voice_text": "課題、終わったのね。それじゃあ演技の感想を聞かせてもらえる？ ん？", "emotion": "1"}
+{"id": 1200419, "unit_id": 12004, "voice_type_id": 19, "voice_text": "はい、伝書。持ってきたのよ、貴方のために。……今の演技、どうだった？", "emotion": "6"}
+{"id": 1200420, "unit_id": 12004, "voice_type_id": 20, "voice_text": "ただいま。なんかこう、途中で記憶が途切れているのよね。何なのかしら。", "emotion": "10"}
+{"id": 1200421, "unit_id": 12004, "voice_type_id": 21, "voice_text": "なんかこう、背中の羽を通じて、誰かが帰ってくるのが分かる感じがするのよ。", "emotion": "5"}
+{"id": 1200422, "unit_id": 12004, "voice_type_id": 22, "voice_text": "未来の大スターの膝よ。味わって寝なさい。", "emotion": "3"}
+{"id": 1200423, "unit_id": 12004, "voice_type_id": 23, "voice_text": "眠りにくい？ どうしてかしら。演技してるのに。", "emotion": "10"}
+{"id": 1200424, "unit_id": 12004, "voice_type_id": 24, "voice_text": "よしよし、なでなで。……これであってるハズ。", "emotion": "7"}
+{"id": 1200425, "unit_id": 12004, "voice_type_id": 25, "voice_text": "童子の祖が憑依？ 世襲制か？", "emotion": ""}
+{"id": 1200426, "unit_id": 12004, "voice_type_id": 26, "voice_text": "では伝説の吸血姫を演じてご覧に入れよう！", "emotion": ""}
+{"id": 1200427, "unit_id": 12004, "voice_type_id": 27, "voice_text": "いつか私を題材にした劇が作られる。フラン·ザ·スーパースターってね", "emotion": ""}
+{"id": 1200428, "unit_id": 12004, "voice_type_id": 28, "voice_text": "あれ？ おかしいな。隠岐奈は絶対に勝てるって言ってたのに", "emotion": ""}
+{"id": 1200429, "unit_id": 12004, "voice_type_id": 29, "voice_text": "照明ＯＫ", "emotion": ""}
+{"id": 1200430, "unit_id": 12004, "voice_type_id": 30, "voice_text": "音響ＯＫ", "emotion": ""}
+{"id": 1200431, "unit_id": 12004, "voice_type_id": 31, "voice_text": "演技開始！", "emotion": ""}
+{"id": 1200432, "unit_id": 12004, "voice_type_id": 32, "voice_text": "メイド役？", "emotion": ""}
+{"id": 1200433, "unit_id": 12004, "voice_type_id": 33, "voice_text": "門番役？", "emotion": ""}
+{"id": 1200434, "unit_id": 12004, "voice_type_id": 34, "voice_text": "なんでも来ーい", "emotion": ""}
+{"id": 1200435, "unit_id": 12004, "voice_type_id": 35, "voice_text": "台本のどこ？", "emotion": ""}
+{"id": 1200436, "unit_id": 12004, "voice_type_id": 36, "voice_text": "演出変更？ めんどっ", "emotion": ""}
+{"id": 1200437, "unit_id": 12004, "voice_type_id": 37, "voice_text": "ものまねしまーす", "emotion": ""}
+{"id": 1200438, "unit_id": 12004, "voice_type_id": 38, "voice_text": "むきゅー（パチェ風）", "emotion": ""}
+{"id": 1200439, "unit_id": 12004, "voice_type_id": 39, "voice_text": "うーうー（お姉様風）", "emotion": ""}
+{"id": 1200440, "unit_id": 12004, "voice_type_id": 40, "voice_text": "『ここが見せ場だぞ、吸血鬼』", "emotion": ""}
+{"id": 1200441, "unit_id": 12004, "voice_type_id": 41, "voice_text": "ハケるわ", "emotion": ""}
+{"id": 1200442, "unit_id": 12004, "voice_type_id": 42, "voice_text": "出番ね", "emotion": ""}
+{"id": 1200443, "unit_id": 12004, "voice_type_id": 43, "voice_text": "ピリッとするわ", "emotion": ""}
+{"id": 1200444, "unit_id": 12004, "voice_type_id": 44, "voice_text": "チリッとするかも", "emotion": ""}
+{"id": 1200445, "unit_id": 12004, "voice_type_id": 45, "voice_text": "『茗荷って「妹の香り」とも\n　書くらしいなァ？』", "emotion": ""}
+{"id": 1200446, "unit_id": 12004, "voice_type_id": 46, "voice_text": "『ならば貴様にぴったりだ　\n　吸血鬼の妹！』", "emotion": ""}
+{"id": 1200447, "unit_id": 12004, "voice_type_id": 47, "voice_text": "忘符「フォゴットンフォービドゥン」", "emotion": ""}
+{"id": 1200448, "unit_id": 12004, "voice_type_id": 48, "voice_text": "『海の向こうには　\n　歌って踊る演劇があるとか』", "emotion": ""}
+{"id": 1200449, "unit_id": 12004, "voice_type_id": 49, "voice_text": "『そういうのも悪くない　\n　貴様がトップスターになれ！』", "emotion": ""}
+{"id": 1200450, "unit_id": 12004, "voice_type_id": 50, "voice_text": "申符「貴方が水舞を踊るのさ」", "emotion": ""}
+{"id": 1200451, "unit_id": 12004, "voice_type_id": 51, "voice_text": "『タイトルは「蓬莱人形」？　\n　このブロンド巫女　貴様に似てるな』", "emotion": ""}
+{"id": 1200452, "unit_id": 12004, "voice_type_id": 52, "voice_text": "『女優とは　舞い踊る占い巫女　\n　貴様の運命は　星に聞け！』", "emotion": ""}
+{"id": 1200453, "unit_id": 12004, "voice_type_id": 53, "voice_text": "「吉凶のノーベントリオン」", "emotion": ""}
+{"id": 1200454, "unit_id": 12004, "voice_type_id": 54, "voice_text": "あいたっ", "emotion": ""}
+{"id": 1200455, "unit_id": 12004, "voice_type_id": 55, "voice_text": "座布団投げんな！", "emotion": ""}
+{"id": 1200456, "unit_id": 12004, "voice_type_id": 56, "voice_text": "邪魔すんな！", "emotion": ""}
+{"id": 1200457, "unit_id": 12004, "voice_type_id": 57, "voice_text": "畑の野菜ども～", "emotion": ""}
+{"id": 1200458, "unit_id": 12004, "voice_type_id": 58, "voice_text": "えっ、プレゼント？", "emotion": ""}
+{"id": 1200459, "unit_id": 12004, "voice_type_id": 59, "voice_text": "まだ演技中！ 終わってない！", "emotion": ""}
+{"id": 1200460, "unit_id": 12004, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 1200461, "unit_id": 12004, "voice_type_id": 61, "voice_text": "イェス、イェス、イェス", "emotion": ""}
+{"id": 1200462, "unit_id": 12004, "voice_type_id": 62, "voice_text": "ノー、ノー、ノー", "emotion": ""}
+{"id": 1200463, "unit_id": 12004, "voice_type_id": 63, "voice_text": "ありがとう～", "emotion": ""}
+{"id": 1200464, "unit_id": 12004, "voice_type_id": 64, "voice_text": "秘神の童子でスターになれるとか、話がうますぎたわ。", "emotion": ""}
+{"id": 1200465, "unit_id": 12004, "voice_type_id": 65, "voice_text": "『我ら二童子は秘神様と一心同体、すなわち爾子多と丁禮多だ。』", "emotion": ""}
+{"id": 1300201, "unit_id": 13002, "voice_type_id": 1, "voice_text": "赤い方の霧雨魔理沙だぜ。今から真夏の弾幕特訓を開始する。今すぐ並べ！ ……ああん？ 「異界渡りしちゃってますよ」だと？ だからどうした？ こちとら伊達に紅魔塔で千年過ごしちゃあいないんだよ。ほっほーう、つべこべ言う余裕があるか。貴様はビーチダッシュ、もうワンセッ！ ――いやあ、キツくあたって悪かったな。鬼教官で行けとの依頼なんだ。ほら、ホットドッグ奢ってやるから。", "emotion": ""}
+{"id": 1300202, "unit_id": 13002, "voice_type_id": 2, "voice_text": "千年も生きていれば、多少は背格好が成長する。ちょっとの違いだがな。", "emotion": "10"}
+{"id": 1300203, "unit_id": 13002, "voice_type_id": 3, "voice_text": "異変解決の鍵は、いつでもどこでも『弾幕』。では、訓練開始だ。", "emotion": "7"}
+{"id": 1300204, "unit_id": 13002, "voice_type_id": 4, "voice_text": "ああ、この傷跡か？ これは魔女に転化した時に、爆熱が吹き出した痕だぜ。戒めでもあるが、思い出だとも思っている。", "emotion": "5"}
+{"id": 1300205, "unit_id": 13002, "voice_type_id": 5, "voice_text": "黒幕と接触したことがある私なら、はっきり分かる。貴様らには修行が必要だ。さあ、フルパワーでかかってこい！ 力の使い方を教えてやるぜ。それと激辛ホットドッグをバカにした者は、後で説教だ。", "emotion": "9"}
+{"id": 1300206, "unit_id": 13002, "voice_type_id": 6, "voice_text": "大異変を解決すれば、私の霊夢は帰ってくるかもしれない。もしくは、大異変を追えば再会できるかも。そのためなら……貴様ら、まだまだ弾幕が薄いぞ、何やってんだ！ ビーチランニング追加！ 私も行くッ！", "emotion": "4"}
+{"id": 1300207, "unit_id": 13002, "voice_type_id": 7, "voice_text": "私の霊夢を見つけ、大異変を解決するには、皆が『弾幕』の力を合わせる必要がある。弾幕こそ、大異変解決の鍵だぜ。私が全員を鍛え上げる。そのためなら私は燃え尽きても……いや、そうだな。お前の言うとおり、私も全員に含まれている。必ず旅を終わらせよう。私たちの旅を。", "emotion": "1"}
+{"id": 1300208, "unit_id": 13002, "voice_type_id": 8, "voice_text": "辛いものは好きか？ そうかそうか、じゃあコレをかけてやるよ。", "emotion": ""}
+{"id": 1300209, "unit_id": 13002, "voice_type_id": 9, "voice_text": "これは、ミニ八卦炉にスナイパーソケットを装着した水鉄砲だ。……ん？ もちろん水鉄砲だが？ ああ、鉄板くらいは撃ち抜ける。", "emotion": "5"}
+{"id": 1300210, "unit_id": 13002, "voice_type_id": 10, "voice_text": "紅魔塔でできることが一段落したんでな。私の霊夢を捜す旅に出たいと話したら、レミリアたちは喜んで送り出してくれたぜ。", "emotion": "3"}
+{"id": 1300211, "unit_id": 13002, "voice_type_id": 11, "voice_text": "ああ、でも……パチュリーだけは、研究終わってないのにって怒ってたな。旅先で珍しい物を見つけたら、持ち帰ってやるか。", "emotion": "2"}
+{"id": 1300212, "unit_id": 13002, "voice_type_id": 12, "voice_text": "あっ……そういえばアリスも、後から追いかけるからとか怨み節っぽく言ってたような……。だが、あの鎧で海は無理だろうなあ。", "emotion": "8"}
+{"id": 1300213, "unit_id": 13002, "voice_type_id": 13, "voice_text": "桜の舞う神社……春になると、あいつを思い出すな。誰かって？ そりゃあ、私の霊夢のことだぜ。霊夢もやっぱり、背が伸びたのかな。", "emotion": "7"}
+{"id": 1300214, "unit_id": 13002, "voice_type_id": 14, "voice_text": "夏だ！ 水着だ！ 海遊びだ～！ って、貴様らはしゃぎ過ぎだ！ だが今日は許す。特製激辛ホットドッグを用意したので遠慮なく食え！", "emotion": "3"}
+{"id": 1300215, "unit_id": 13002, "voice_type_id": 15, "voice_text": "秋の味覚にホットソースをかけまくってたら、妹の方の秋神に怒られちまった。美味しいのに。でもまあ、素材の味もいいものだぜ。", "emotion": "2"}
+{"id": 1300216, "unit_id": 13002, "voice_type_id": 16, "voice_text": "辛い物を食べると体が温まるが、お前にはまだ早いな。……そうだ。私は体に星の魔法を宿しているから、体温が高めなんだぜ。ほら、ぎゅ～ってしてやる。", "emotion": "10"}
+{"id": 1300217, "unit_id": 13002, "voice_type_id": 17, "voice_text": "課題か。苦しい時こそ努力する。それがお前の力になるんだぜ。", "emotion": "1"}
+{"id": 1300218, "unit_id": 13002, "voice_type_id": 18, "voice_text": "ほら、ご褒美のホットドッグだ。お前のは、辛いの無しにしといたぜ？", "emotion": "7"}
+{"id": 1300219, "unit_id": 13002, "voice_type_id": 19, "voice_text": "エアメールか。一体どこから……まさか、異界を渡ってきたのか？", "emotion": "5"}
+{"id": 1300220, "unit_id": 13002, "voice_type_id": 20, "voice_text": "いい特訓だったな。お前への褒美は……ほら。私からハグだ。", "emotion": "3"}
+{"id": 1300221, "unit_id": 13002, "voice_type_id": 21, "voice_text": "使いの者が帰ったな。レッドホットチリソースは手に入っただろうか？", "emotion": "6"}
+{"id": 1300222, "unit_id": 13002, "voice_type_id": 22, "voice_text": "『無間地獄ホットソース』新発売……だと！？", "emotion": "4"}
+{"id": 1300223, "unit_id": 13002, "voice_type_id": 23, "voice_text": "ホットドッグを平らげたら、眠っちまったか。", "emotion": "9"}
+{"id": 1300224, "unit_id": 13002, "voice_type_id": 24, "voice_text": "ほら、膝でお眠り。よしよし……なでなで。", "emotion": "6"}
+{"id": 1300225, "unit_id": 13002, "voice_type_id": 25, "voice_text": "弾幕訓練キャンプへようこそ、ひよっ子ども！", "emotion": ""}
+{"id": 1300226, "unit_id": 13002, "voice_type_id": 26, "voice_text": "ついて来い！ やり遂げるんだろう？", "emotion": ""}
+{"id": 1300227, "unit_id": 13002, "voice_type_id": 27, "voice_text": "浮かれるんじゃあない、半人前ども！ ……だが？ 今だけは？ ビクトリー！", "emotion": ""}
+{"id": 1300228, "unit_id": 13002, "voice_type_id": 28, "voice_text": "訓練生に手を出したら、タダじゃおかん。私を、倒してからにしろっ！", "emotion": ""}
+{"id": 1300229, "unit_id": 13002, "voice_type_id": 29, "voice_text": "たぎれ！", "emotion": ""}
+{"id": 1300230, "unit_id": 13002, "voice_type_id": 30, "voice_text": "燃え上がれ！", "emotion": ""}
+{"id": 1300231, "unit_id": 13002, "voice_type_id": 31, "voice_text": "もうワンセッ、だ！", "emotion": ""}
+{"id": 1300232, "unit_id": 13002, "voice_type_id": 32, "voice_text": "声を出せ！", "emotion": ""}
+{"id": 1300233, "unit_id": 13002, "voice_type_id": 33, "voice_text": "聞こえないな！", "emotion": ""}
+{"id": 1300234, "unit_id": 13002, "voice_type_id": 34, "voice_text": "もう音を上げたのか？", "emotion": ""}
+{"id": 1300235, "unit_id": 13002, "voice_type_id": 35, "voice_text": "貴様ならできる！", "emotion": ""}
+{"id": 1300236, "unit_id": 13002, "voice_type_id": 36, "voice_text": "お遊び気分か？", "emotion": ""}
+{"id": 1300237, "unit_id": 13002, "voice_type_id": 37, "voice_text": "力を見せろ", "emotion": ""}
+{"id": 1300238, "unit_id": 13002, "voice_type_id": 38, "voice_text": "捨て身になれよ", "emotion": ""}
+{"id": 1300239, "unit_id": 13002, "voice_type_id": 39, "voice_text": "自信を持つことだぜ", "emotion": ""}
+{"id": 1300240, "unit_id": 13002, "voice_type_id": 40, "voice_text": "痛みなくして得るものなどない！", "emotion": ""}
+{"id": 1300241, "unit_id": 13002, "voice_type_id": 41, "voice_text": "3分休憩をやろう", "emotion": ""}
+{"id": 1300242, "unit_id": 13002, "voice_type_id": 42, "voice_text": "訓練再開だ", "emotion": ""}
+{"id": 1300243, "unit_id": 13002, "voice_type_id": 43, "voice_text": "これが力だ！", "emotion": ""}
+{"id": 1300244, "unit_id": 13002, "voice_type_id": 44, "voice_text": "クールダウンだぜ", "emotion": ""}
+{"id": 1300245, "unit_id": 13002, "voice_type_id": 45, "voice_text": "異変解決など　\nお前にはまだ早い", "emotion": ""}
+{"id": 1300246, "unit_id": 13002, "voice_type_id": 46, "voice_text": "立てよ　ひよっ子　\nそれが最初の一歩だぜ", "emotion": ""}
+{"id": 1300247, "unit_id": 13002, "voice_type_id": 47, "voice_text": "儀符「オーレリーズレッドサン」", "emotion": ""}
+{"id": 1300248, "unit_id": 13002, "voice_type_id": 48, "voice_text": "力は内面に眠っている　\n弾幕はその現れだ", "emotion": ""}
+{"id": 1300249, "unit_id": 13002, "voice_type_id": 49, "voice_text": "あの十字星に誓え　\n新しく生まれ変わると！", "emotion": ""}
+{"id": 1300250, "unit_id": 13002, "voice_type_id": 50, "voice_text": "赤魔十字「ホットサザンクロス」", "emotion": ""}
+{"id": 1300251, "unit_id": 13002, "voice_type_id": 51, "voice_text": "訓練だけで夏が終わる　だと？　\n甘えたことを言うな！", "emotion": ""}
+{"id": 1300252, "unit_id": 13002, "voice_type_id": 52, "voice_text": "私が隣にいる限り　ここは\n永遠のサマーキャンプだ！", "emotion": ""}
+{"id": 1300253, "unit_id": 13002, "voice_type_id": 53, "voice_text": "「ファイナルサマースパーク」", "emotion": ""}
+{"id": 1300254, "unit_id": 13002, "voice_type_id": 54, "voice_text": "うぐっ", "emotion": ""}
+{"id": 1300255, "unit_id": 13002, "voice_type_id": 55, "voice_text": "こ、根性だっ！", "emotion": ""}
+{"id": 1300256, "unit_id": 13002, "voice_type_id": 56, "voice_text": "本気か？", "emotion": ""}
+{"id": 1300257, "unit_id": 13002, "voice_type_id": 57, "voice_text": "ぬるいぜ", "emotion": ""}
+{"id": 1300258, "unit_id": 13002, "voice_type_id": 58, "voice_text": "その調子だ！", "emotion": ""}
+{"id": 1300259, "unit_id": 13002, "voice_type_id": 59, "voice_text": "くっ……霊夢！ お前はどこにいるんだ……！", "emotion": ""}
+{"id": 1300260, "unit_id": 13002, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 1300261, "unit_id": 13002, "voice_type_id": 61, "voice_text": "いいぜ！", "emotion": ""}
+{"id": 1300262, "unit_id": 13002, "voice_type_id": 62, "voice_text": "やめるのか？", "emotion": ""}
+{"id": 1300263, "unit_id": 13002, "voice_type_id": 63, "voice_text": "すまんなぁ！", "emotion": ""}
+{"id": 1300264, "unit_id": 13002, "voice_type_id": 64, "voice_text": "霊夢、いつかお前を見つけ出してみせる。", "emotion": ""}
+{"id": 1300265, "unit_id": 13002, "voice_type_id": 65, "voice_text": "なあ、霊夢。もしお前がここにいたら、やっぱり笑うか？ ……はは、すまんな。私はこういうやり方しかできないんだ。", "emotion": ""}
 {"id": 1800501, "unit_id": 18005, "voice_type_id": 1, "voice_text": "这里是平行世界吗？ 对我的能力来讲，这种程度的事情没什么不可思议的。但是这个幻想乡的季节看起来很正常，真是令人羡慕啊。你知道异变是怎么解决的吗？我是十六夜咲夜。是红魔馆的女仆。因为漫长的冬天，红魔馆的燃料和粮食都见底了。我必须尽快解决异变。", "emotion": ""}
 {"id": 1800502, "unit_id": 18005, "voice_type_id": 2, "voice_text": "果然在这个世界异变没有长期化呢。", "emotion": "5"}
 {"id": 1800503, "unit_id": 18005, "voice_type_id": 3, "voice_text": "看来让异变长期化的不是幽幽子呢。", "emotion": "9"}

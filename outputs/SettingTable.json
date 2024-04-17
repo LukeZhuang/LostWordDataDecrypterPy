@@ -13,6 +13,11 @@
 {"key": "DECREASING_TRUST_BY_MOTIVATION", "value": "100", "description": "战斗结束时若没有一定的干劲会减少信赖度"}
 {"key": "DEFAULT_HOME_BGM_ID", "value": "1002", "description": "ホーム画面の初期BGMのID"}
 {"key": "DELIVERY_WARNING_REST_DAYS", "value": "5", "description": "出现宅配便警告的剩余日数"}
+{"key": "DESTINY_VALUE_ADD_FOR_MATERIAL_ITEM", "value": "1", "description": "運命鏡での運命値上昇値"}
+{"key": "DESTINY_VALUE_ADD_FOR_PAPER_DOLL", "value": "5", "description": "形代系での運命値上昇値"}
+{"key": "DESTINY_VALUE_DEFAULT", "value": "5", "description": "運命値初期値"}
+{"key": "DESTINY_VALUE_MATERIAL_ID", "value": "802", "description": ""}
+{"key": "DESTINY_VALUE_MAX", "value": "100", "description": "運命値最大値"}
 {"key": "DISPATCH_BAD_POINT", "value": "0", "description": "派遣「糟糕」评价点数"}
 {"key": "DISPATCH_GOOD_POINT", "value": "3", "description": "派遣「良」评价点数"}
 {"key": "DISPATCH_NORMAL_POINT", "value": "1", "description": "派遣「普通」评价点数"}

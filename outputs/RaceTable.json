@@ -190,3 +190,6 @@
 {"id": 190, "name": "消失类型", "description": "-", "alias_name": "对消失类型特别有效。"}
 {"id": 191, "name": "恶灵", "description": "-", "alias_name": "对恶灵特别有效。"}
 {"id": 192, "name": "灵魔殿", "description": "-", "alias_name": "对灵魔殿住民特别有效。"}
+{"id": 193, "name": "红魔塔", "description": "-", "alias_name": "对红魔塔住民特别有效。"}
+{"id": 194, "name": "旧都", "description": "-", "alias_name": "对旧都住民特别有效。"}
+{"id": 195, "name": "龙宫使者", "description": "-", "alias_name": "对龙宫使者特别有效。"}

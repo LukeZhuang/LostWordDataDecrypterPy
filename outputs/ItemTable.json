@@ -91,8 +91,10 @@
 {"id": 702, "name": "绘卷祝词", "description": "可进行特别祈愿的祝词。必定出☆4以上绘卷。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1001}
 {"id": 703, "name": "特別祝詞(期間限定)", "description": "2022年8月15日 13:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1002}
 {"id": 705, "name": "特別祝詞(期間限定)", "description": "2023年6月14日 23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1005}
-{"id": 706, "name": "3.5周年特別祝詞", "description": "2023年12月31日 23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1006}
+{"id": 706, "name": "2.5周年特别祝词", "description": "有效期至2024年06月30日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1006}
+{"id": 707, "name": "3.5周年フェス確定特別祝詞 1", "description": "2023年12月31日 23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1007}
 {"id": 708, "name": "异变的道具", "description": "不明异变产生的未知道具。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 10000}
+{"id": 709, "name": "特別祝詞(期間限定)", "description": "2024年3月29日 10:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1009}
 {"id": 780, "name": "泳装特殊祝词-紫", "description": "有效期至2022年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1080}
 {"id": 781, "name": "泳装特殊祝词-赫卡提亚", "description": "有效期至2022年11月22日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1081}
 {"id": 782, "name": "叙事诗特别祝词-博丽灵梦", "description": "有效期至2022年12月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1082}
@@ -109,120 +111,139 @@
 {"id": 793, "name": "伙伴精选特别祝词", "description": "有效期至2024年01月02日 01:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1093}
 {"id": 794, "name": "泳装特殊祝词-多多良小伞", "description": "有效期至2024年01月09日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1094}
 {"id": 801, "name": "缘环", "description": "连接着少女们拥有的多样可能性，并选取其中之一的道具。", "rare": 5, "type": 8, "effect_type": 1, "display_order": 50}
+{"id": 802, "name": "命运镜", "description": "蕴藏着能增强少女们命运力量的奇妙的镜子。", "rare": 5, "type": 12, "effect_type": 0, "display_order": 80}
 {"id": 900, "name": "无名转生镜", "description": "无主的转生镜。可以作为已记名转生镜使用。", "rare": 5, "type": 8, "effect_type": 0, "display_order": 5901}
-{"id": 1001, "name": "转生镜", "description": "[博丽神社的巫女小姐]博丽灵梦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6001}
-{"id": 1002, "name": "转生镜", "description": "[普通的魔法使]雾雨魔理沙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6002}
-{"id": 1003, "name": "转生镜", "description": "[永远鲜红的幼月]蕾米莉亚·斯卡雷特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6010}
-{"id": 1004, "name": "转生镜", "description": "[恶魔之妹]芙兰朵露·斯卡雷特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6011}
-{"id": 1005, "name": "转生镜", "description": "[红魔馆的女仆]十六夜咲夜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6009}
-{"id": 1006, "name": "转生镜", "description": "[知识与避世的少女]帕秋莉·诺蕾姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6008}
-{"id": 1007, "name": "转生镜", "description": "[华人小姑娘]红美铃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6006}
-{"id": 1008, "name": "转生镜", "description": "[无名的小恶魔]小恶魔(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6007}
-{"id": 1009, "name": "转生镜", "description": "[潜藏于境界内的妖怪]八云紫(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6022}
-{"id": 1010, "name": "转生镜", "description": "[幽冥楼阁的亡灵少女]西行寺幽幽子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6020}
-{"id": 1011, "name": "转生镜", "description": "[半人半灵]魂魄妖梦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6019}
-{"id": 1012, "name": "转生镜", "description": "[运送春天的妖精]莉莉怀特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6015}
-{"id": 1013, "name": "转生镜", "description": "[间隙妖怪的式神]八云蓝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6021}
-{"id": 1014, "name": "转生镜", "description": "[间隙妖怪的式神的式神]橙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6013}
-{"id": 1015, "name": "转生镜", "description": "[狂气的月兔]铃仙·优昙华院·因幡(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6028}
-{"id": 1016, "name": "转生镜", "description": "[连接海与山的月之公主]绵月丰姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6706}
-{"id": 1017, "name": "转生镜", "description": "[神灵附体的月之公主]绵月依姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6707}
-{"id": 1018, "name": "转生镜", "description": "[月之头脑]八意永琳(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6029}
-{"id": 1019, "name": "转生镜", "description": "[永远与须臾的罪人]蓬莱山辉夜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6030}
-{"id": 1020, "name": "转生镜", "description": "[蓬莱的人之形]藤原妹红(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6031}
-{"id": 1021, "name": "转生镜", "description": "[浅葱色的天鹰神兔]清兰(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6080}
-{"id": 1022, "name": "转生镜", "description": "[橘色的天鹰神兔]铃瑚(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6081}
-{"id": 1023, "name": "转生镜", "description": "[普通的月兔]铃仙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6708}
-{"id": 1024, "name": "转生镜", "description": "[被封印的大魔法使]圣白莲(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6060}
-{"id": 1025, "name": "转生镜", "description": "[独臂有角的仙人]茨木华扇(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6709}
-{"id": 1026, "name": "转生镜", "description": "[识文解意的爱书人]本居小铃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6710}
-{"id": 1029, "name": "转生镜", "description": "[幻想乡的记忆]稗田阿求(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6705}
-{"id": 1030, "name": "转生镜", "description": "[湖上的冰精]琪露诺(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6005}
-{"id": 1031, "name": "转生镜", "description": "[无名的大只妖精]大妖精(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6004}
-{"id": 1032, "name": "转生镜", "description": "[七色的人偶师]爱丽丝·玛格特罗伊德(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6014}
-{"id": 1033, "name": "转生镜", "description": "[闪耀的日之光]桑尼米尔克(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6702}
-{"id": 1034, "name": "转生镜", "description": "[静谧的月之光]露娜切露德(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6703}
-{"id": 1035, "name": "转生镜", "description": "[倾泻而下的星之光]斯塔萨菲雅(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6704}
-{"id": 1036, "name": "转生镜", "description": "[小小的甜蜜毒药]梅蒂欣·梅兰可莉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6033}
-{"id": 1037, "name": "转生镜", "description": "[被祭祀的风之人]东风谷早苗(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6042}
-{"id": 1038, "name": "转生镜", "description": "[山坂与湖水的化身]八坂神奈子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6043}
-{"id": 1039, "name": "转生镜", "description": "[土著神的顶点]洩矢诹访子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6044}
-{"id": 1040, "name": "转生镜", "description": "[超妖怪弹头]河城荷取(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6040}
-{"id": 1042, "name": "转生镜", "description": "[地上兔]因幡帝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6027}
-{"id": 1043, "name": "转生镜", "description": "[秘封俱乐部 初代会长]宇佐见堇子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6079}
-{"id": 1044, "name": "转生镜", "description": "[传统的幻想记者]射命丸文(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6032}
-{"id": 1045, "name": "转生镜", "description": "[当代的念写记者]姬海棠果(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6062}
-{"id": 1046, "name": "转生镜", "description": "[下端哨戒天狗]犬走椛(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6041}
-{"id": 1047, "name": "转生镜", "description": "[跨越浮世门关的山姥]坂田合欢(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6090}
-{"id": 1048, "name": "转生镜", "description": "[萃集的梦、虚幻、随后百鬼夜行]伊吹萃香(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6023}
-{"id": 1049, "name": "转生镜", "description": "[人所谈论的怪力乱神]星熊勇仪(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6050}
-{"id": 1050, "name": "转生镜", "description": "[怨灵也为之惧怯的少女]古明地觉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6051}
-{"id": 1051, "name": "转生镜", "description": "[紧闭的恋之瞳]古明地恋(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6054}
-{"id": 1054, "name": "转生镜", "description": "[三途河的引航人]小野塚小町(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6035}
-{"id": 1055, "name": "转生镜", "description": "[乐园的最高审判长]四季映姬·夜摩仙那度(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6036}
-{"id": 1056, "name": "转生镜", "description": "[地狱的女神]赫卡提亚·拉碧斯拉祖利(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6086}
-{"id": 1057, "name": "转生镜", "description": "纯狐(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6085}
-{"id": 1058, "name": "转生镜", "description": "[地狱的妖精]克劳恩皮丝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6084}
-{"id": 1059, "name": "转生镜", "description": "[寂寞与终焉的象征]秋静叶(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6037}
-{"id": 1060, "name": "转生镜", "description": "[丰裕与收成的象征]秋穰子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6038}
-{"id": 1061, "name": "转生镜", "description": "[秘神流雏]键山雏(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6039}
-{"id": 1062, "name": "转生镜", "description": "[喧闹灵小提琴手]露娜萨·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6016}
-{"id": 1063, "name": "转生镜", "description": "[喧闹灵小号手]梅露兰·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6017}
-{"id": 1064, "name": "转生镜", "description": "[喧闹灵键盘手]莉莉卡·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6018}
-{"id": 1065, "name": "转生镜", "description": "[最凶最恶双子之妹]依神女苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6087}
-{"id": 1066, "name": "转生镜", "description": "[最凶最恶双子之姐]依神紫苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6088}
-{"id": 1067, "name": "转生镜", "description": "[古旧琵琶的附丧神]九十九弁弁(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6074}
-{"id": 1068, "name": "转生镜", "description": "[古旧的琴的附丧神]九十九八桥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6075}
-{"id": 1069, "name": "转生镜", "description": "[究极的绝对秘神]摩多罗隐岐奈(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6095}
-{"id": 1070, "name": "转生镜", "description": "[过于危险的背景舞者]尔子田里乃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6093}
-{"id": 1071, "name": "转生镜", "description": "[过于危险的背景舞者]丁礼田舞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6094}
-{"id": 1072, "name": "转生镜", "description": "[知识与历史的半兽 ]上白泽慧音(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6026}
-{"id": 1073, "name": "转生镜", "description": "[宵暗的妖怪]露米娅(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6003}
-{"id": 1074, "name": "转生镜", "description": "[毘沙门天的弟子 ]寅丸星(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6059}
-{"id": 1075, "name": "转生镜", "description": "[水难事故的念缚灵 ]村纱水蜜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6058}
-{"id": 1076, "name": "转生镜", "description": "[愉快的遗忘之伞 ]多多良小伞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6056}
-{"id": 1080, "name": "转生镜", "description": "[梦之支配者 ]哆来咪·苏伊特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6082}
-{"id": 1081, "name": "转生镜", "description": "[招来口舌之祸的女神]稀神探女(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6083}
-{"id": 1082, "name": "转生镜", "description": "[狸猫怪 十变化]二岩猯藏(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6069}
-{"id": 1083, "name": "转生镜", "description": "[醉心神佛的守护神兽]高丽野阿吽(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6091}
-{"id": 1085, "name": "转生镜", "description": "[穿墙的邪仙]霍青娥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6065}
-{"id": 1086, "name": "转生镜", "description": "[忠实的尸体]宫古芳香(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6064}
-{"id": 1087, "name": "转生镜", "description": "[表情丰富的扑克脸]秦心(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6070}
-{"id": 1088, "name": "转生镜", "description": "[冬天的遗忘之物 ]蕾蒂·霍瓦特洛克(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6012}
-{"id": 1091, "name": "转生镜", "description": "[圣德道士]丰聪耳神子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6068}
-{"id": 1092, "name": "转生镜", "description": "[古代日本的尸解仙]物部布都(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6067}
-{"id": 1093, "name": "转生镜", "description": "[神明后裔的亡灵]苏我屠自古(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6066}
-{"id": 1096, "name": "转生镜", "description": "[诵经的山彦]幽谷响子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6063}
-{"id": 1097, "name": "转生镜", "description": "[夜雀妖怪]米斯蒂娅·萝蕾拉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6025}
-{"id": 1098, "name": "转生镜", "description": "[暗中蠢动的光之虫]莉格露·奈特巴格(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6024}
-{"id": 1102, "name": "转生镜", "description": "[探宝的小小大将]娜兹玲(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6055}
-{"id": 1103, "name": "转生镜", "description": "[守护与被守护的大轮]云居一轮(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6057}
-{"id": 1104, "name": "转生镜", "description": "[未确认幻想飞行少女]封兽鵺(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6061}
-{"id": 1105, "name": "转生镜", "description": "[梦幻的打击乐手]堀川雷鼓(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6078}
-{"id": 1110, "name": "转生镜", "description": "[劲牙组组长]骊驹早鬼(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6102}
-{"id": 1111, "name": "转生镜", "description": "[鬼杰组组长]吉吊八千慧(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6099}
-{"id": 1112, "name": "转生镜", "description": "[地狱口岸的守护神]庭渡久侘歌(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 6098}
-{"id": 2002, "name": "转生镜", "description": "[红梦的魔女]雾雨魔理沙(Z1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7002}
-{"id": 2003, "name": "转生镜", "description": "[小小的恶魔千金]蕾米莉亚·斯卡雷特(E9)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7010}
-{"id": 2005, "name": "转生镜", "description": "[传说中的吸血鬼猎人]十六夜咲夜(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7009}
-{"id": 2007, "name": "转生镜", "description": "[坚如磐石的恶魔之门]红美铃(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7006}
-{"id": 2008, "name": "转生镜", "description": "[高等魔法的集大成者]小恶魔(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7007}
-{"id": 2010, "name": "转生镜", "description": "[小小的亡灵楼主]西行寺幽幽子(R2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7020}
-{"id": 2011, "name": "转生镜", "description": "[幽玄的剑圣]魂魄妖梦(R8)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7019}
-{"id": 2016, "name": "转生镜", "description": "[丰富与平等的润泽院]绵月丰姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7706}
-{"id": 2017, "name": "转生镜", "description": "[温和与虔诚的平和院]绵月依姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7707}
-{"id": 2019, "name": "转生镜", "description": "[善意与良心的慈爱院]蓬莱山辉夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7030}
-{"id": 2081, "name": "转生镜", "description": "[正统与清廉的真理院]稀神探女(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 7083}
-{"id": 3001, "name": "转生镜", "description": "[月战型萨满]博丽灵梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8001}
-{"id": 3002, "name": "转生镜", "description": "[月战型魔术师]雾雨魔理沙(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8002}
-{"id": 3004, "name": "转生镜", "description": "[狩猎猎人的吸血鬼]芙兰朵露·斯卡雷特(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8011}
-{"id": 3005, "name": "转生镜", "description": "[月战型从者]十六夜咲夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8009}
-{"id": 3006, "name": "转生镜", "description": "[千金陪伴的元素魔法使]帕秋莉·诺蕾姬(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8008}
-{"id": 3011, "name": "转生镜", "description": "[月战型园丁]魂魄妖梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8019}
-{"id": 3015, "name": "转生镜", "description": "[月战型士兵]铃仙·优昙华院·因幡(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8028}
-{"id": 3037, "name": "转生镜", "description": "[月战型祭司]东风谷早苗(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 8042}
+{"id": 1001, "name": "转生镜", "description": "[博丽神社的巫女小姐]博丽灵梦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10001}
+{"id": 1002, "name": "转生镜", "description": "[普通的魔法使]雾雨魔理沙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10002}
+{"id": 1003, "name": "转生镜", "description": "[永远鲜红的幼月]蕾米莉亚·斯卡雷特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10010}
+{"id": 1004, "name": "转生镜", "description": "[恶魔之妹]芙兰朵露·斯卡雷特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10011}
+{"id": 1005, "name": "转生镜", "description": "[红魔馆的女仆]十六夜咲夜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10009}
+{"id": 1006, "name": "转生镜", "description": "[知识与避世的少女]帕秋莉·诺蕾姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10008}
+{"id": 1007, "name": "转生镜", "description": "[华人小姑娘]红美铃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10006}
+{"id": 1008, "name": "转生镜", "description": "[无名的小恶魔]小恶魔(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10007}
+{"id": 1009, "name": "转生镜", "description": "[潜藏于境界内的妖怪]八云紫(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10022}
+{"id": 1010, "name": "转生镜", "description": "[幽冥楼阁的亡灵少女]西行寺幽幽子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10020}
+{"id": 1011, "name": "转生镜", "description": "[半人半灵]魂魄妖梦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10019}
+{"id": 1012, "name": "转生镜", "description": "[运送春天的妖精]莉莉怀特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10015}
+{"id": 1013, "name": "转生镜", "description": "[间隙妖怪的式神]八云蓝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10021}
+{"id": 1014, "name": "转生镜", "description": "[间隙妖怪的式神的式神]橙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10013}
+{"id": 1015, "name": "转生镜", "description": "[狂气的月兔]铃仙·优昙华院·因幡(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10028}
+{"id": 1016, "name": "转生镜", "description": "[连接海与山的月之公主]绵月丰姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10706}
+{"id": 1017, "name": "转生镜", "description": "[神灵附体的月之公主]绵月依姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10707}
+{"id": 1018, "name": "转生镜", "description": "[月之头脑]八意永琳(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10029}
+{"id": 1019, "name": "转生镜", "description": "[永远与须臾的罪人]蓬莱山辉夜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10030}
+{"id": 1020, "name": "转生镜", "description": "[蓬莱的人之形]藤原妹红(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10031}
+{"id": 1021, "name": "转生镜", "description": "[浅葱色的天鹰神兔]清兰(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10080}
+{"id": 1022, "name": "转生镜", "description": "[橘色的天鹰神兔]铃瑚(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10081}
+{"id": 1023, "name": "转生镜", "description": "[普通的月兔]铃仙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10708}
+{"id": 1024, "name": "转生镜", "description": "[被封印的大魔法使]圣白莲(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10060}
+{"id": 1025, "name": "转生镜", "description": "[独臂有角的仙人]茨木华扇(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10709}
+{"id": 1026, "name": "转生镜", "description": "[识文解意的爱书人]本居小铃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10710}
+{"id": 1029, "name": "转生镜", "description": "[幻想乡的记忆]稗田阿求(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10705}
+{"id": 1030, "name": "转生镜", "description": "[湖上的冰精]琪露诺(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10005}
+{"id": 1031, "name": "转生镜", "description": "[无名的大只妖精]大妖精(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10004}
+{"id": 1032, "name": "转生镜", "description": "[七色的人偶师]爱丽丝·玛格特罗伊德(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10014}
+{"id": 1033, "name": "转生镜", "description": "[闪耀的日之光]桑尼米尔克(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10702}
+{"id": 1034, "name": "转生镜", "description": "[静谧的月之光]露娜切露德(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10703}
+{"id": 1035, "name": "转生镜", "description": "[倾泻而下的星之光]斯塔萨菲雅(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10704}
+{"id": 1036, "name": "转生镜", "description": "[小小的甜蜜毒药]梅蒂欣·梅兰可莉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10033}
+{"id": 1037, "name": "转生镜", "description": "[被祭祀的风之人]东风谷早苗(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10042}
+{"id": 1038, "name": "转生镜", "description": "[山坂与湖水的化身]八坂神奈子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10043}
+{"id": 1039, "name": "转生镜", "description": "[土著神的顶点]洩矢诹访子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10044}
+{"id": 1040, "name": "转生镜", "description": "[超妖怪弹头]河城荷取(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10040}
+{"id": 1042, "name": "转生镜", "description": "[地上兔]因幡帝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10027}
+{"id": 1043, "name": "转生镜", "description": "[秘封俱乐部 初代会长]宇佐见堇子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10079}
+{"id": 1044, "name": "转生镜", "description": "[传统的幻想记者]射命丸文(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10032}
+{"id": 1045, "name": "转生镜", "description": "[当代的念写记者]姬海棠果(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10062}
+{"id": 1046, "name": "转生镜", "description": "[下端哨戒天狗]犬走椛(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10041}
+{"id": 1047, "name": "转生镜", "description": "[跨越浮世门关的山姥]坂田合欢(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10090}
+{"id": 1048, "name": "转生镜", "description": "[萃集的梦、虚幻、随后百鬼夜行]伊吹萃香(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10023}
+{"id": 1049, "name": "转生镜", "description": "[人所谈论的怪力乱神]星熊勇仪(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10050}
+{"id": 1050, "name": "转生镜", "description": "[怨灵也为之惧怯的少女]古明地觉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10051}
+{"id": 1051, "name": "转生镜", "description": "[紧闭的恋之瞳]古明地恋(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10054}
+{"id": 1052, "name": "转生镜", "description": "[地狱的车祸]火焰猫燐(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10052}
+{"id": 1053, "name": "转生镜", "description": "[难以驾驭的神之火]灵乌路空(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10053}
+{"id": 1054, "name": "转生镜", "description": "[三途河的引航人]小野塚小町(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10035}
+{"id": 1055, "name": "转生镜", "description": "[乐园的最高审判长]四季映姬·夜摩仙那度(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10036}
+{"id": 1056, "name": "转生镜", "description": "[地狱的女神]赫卡提亚·拉碧斯拉祖利(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10086}
+{"id": 1057, "name": "转生镜", "description": "纯狐(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10085}
+{"id": 1058, "name": "转生镜", "description": "[地狱的妖精]克劳恩皮丝(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10084}
+{"id": 1059, "name": "转生镜", "description": "[寂寞与终焉的象征]秋静叶(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10037}
+{"id": 1060, "name": "转生镜", "description": "[丰裕与收成的象征]秋穰子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10038}
+{"id": 1061, "name": "转生镜", "description": "[秘神流雏]键山雏(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10039}
+{"id": 1062, "name": "转生镜", "description": "[喧闹灵小提琴手]露娜萨·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10016}
+{"id": 1063, "name": "转生镜", "description": "[喧闹灵小号手]梅露兰·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10017}
+{"id": 1064, "name": "转生镜", "description": "[喧闹灵键盘手]莉莉卡·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10018}
+{"id": 1065, "name": "转生镜", "description": "[最凶最恶双子之妹]依神女苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10087}
+{"id": 1066, "name": "转生镜", "description": "[最凶最恶双子之姐]依神紫苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10088}
+{"id": 1067, "name": "转生镜", "description": "[古旧琵琶的附丧神]九十九弁弁(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10074}
+{"id": 1068, "name": "转生镜", "description": "[古旧的琴的附丧神]九十九八桥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10075}
+{"id": 1069, "name": "转生镜", "description": "[究极的绝对秘神]摩多罗隐岐奈(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10095}
+{"id": 1070, "name": "转生镜", "description": "[过于危险的背景舞者]尔子田里乃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10093}
+{"id": 1071, "name": "转生镜", "description": "[过于危险的背景舞者]丁礼田舞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10094}
+{"id": 1072, "name": "转生镜", "description": "[知识与历史的半兽]上白泽慧音(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10026}
+{"id": 1073, "name": "转生镜", "description": "[宵暗的妖怪]露米娅(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10003}
+{"id": 1074, "name": "转生镜", "description": "[毘沙门天的弟子]寅丸星(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10059}
+{"id": 1075, "name": "转生镜", "description": "[水难事故的念缚灵]村纱水蜜(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10058}
+{"id": 1076, "name": "转生镜", "description": "[愉快的遗忘之伞]多多良小伞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10056}
+{"id": 1077, "name": "转生镜", "description": "[栖息于淡水的人鱼]若鹭姬(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10071}
+{"id": 1078, "name": "转生镜", "description": "[竹林的狼人]今泉影狼(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10073}
+{"id": 1079, "name": "转生镜", "description": "[轱辘首的怪奇]赤蛮奇(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10072}
+{"id": 1080, "name": "转生镜", "description": "[梦之支配者]哆来咪·苏伊特(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10082}
+{"id": 1081, "name": "转生镜", "description": "[招来口舌之祸的女神]稀神探女(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10083}
+{"id": 1082, "name": "转生镜", "description": "[狸猫怪 十变化]二岩猯藏(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10069}
+{"id": 1083, "name": "转生镜", "description": "[醉心神佛的守护神兽]高丽野阿吽(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10091}
+{"id": 1085, "name": "转生镜", "description": "[穿墙的邪仙]霍青娥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10065}
+{"id": 1086, "name": "转生镜", "description": "[忠实的尸体]宫古芳香(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10064}
+{"id": 1087, "name": "转生镜", "description": "[表情丰富的扑克脸]秦心(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10070}
+{"id": 1088, "name": "转生镜", "description": "[冬天的遗忘之物]蕾蒂·霍瓦特洛克(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10012}
+{"id": 1089, "name": "转生镜", "description": "[非想非非想天之女]比那名居天子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10046}
+{"id": 1090, "name": "转生镜", "description": "[美丽的绯衣]永江衣玖(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10045}
+{"id": 1091, "name": "转生镜", "description": "[圣德道士]丰聪耳神子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10068}
+{"id": 1092, "name": "转生镜", "description": "[古代日本的尸解仙]物部布都(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10067}
+{"id": 1093, "name": "转生镜", "description": "[神明后裔的亡灵]苏我屠自古(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10066}
+{"id": 1094, "name": "转生镜", "description": "[逆袭的天邪鬼]鬼人正邪(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10076}
+{"id": 1095, "name": "转生镜", "description": "[小人的末裔]少名针妙丸(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10077}
+{"id": 1096, "name": "转生镜", "description": "[诵经的山彦]幽谷响子(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10063}
+{"id": 1097, "name": "转生镜", "description": "[夜雀妖怪]米斯蒂娅·萝蕾拉(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10025}
+{"id": 1098, "name": "转生镜", "description": "[暗中蠢动的光之虫]莉格露·奈特巴格(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10024}
+{"id": 1099, "name": "转生镜", "description": "[地壳下的嫉妒心]水桥帕露西(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10049}
+{"id": 1100, "name": "转生镜", "description": "[黑暗洞窟中的明亮之网]黑谷山女(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10048}
+{"id": 1101, "name": "转生镜", "description": "[可怕的水井妖怪]琪斯美(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10047}
+{"id": 1102, "name": "转生镜", "description": "[探宝的小小大将]娜兹玲(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10055}
+{"id": 1103, "name": "转生镜", "description": "[守护与被守护的大轮]云居一轮(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10057}
+{"id": 1104, "name": "转生镜", "description": "[未确认幻想飞行少女]封兽鵺(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10061}
+{"id": 1105, "name": "转生镜", "description": "[梦幻的打击乐手]堀川雷鼓(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10078}
+{"id": 1110, "name": "转生镜", "description": "[劲牙组组长]骊驹早鬼(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10102}
+{"id": 1111, "name": "转生镜", "description": "[鬼杰组组长]吉吊八千慧(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10099}
+{"id": 1112, "name": "转生镜", "description": "[地狱口岸的守护神]庭渡久侘歌(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10098}
+{"id": 2002, "name": "转生镜", "description": "[红梦的魔女]雾雨魔理沙(Z1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 260010002}
+{"id": 2003, "name": "转生镜", "description": "[小小的恶魔千金]蕾米莉亚·斯卡雷特(E9)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50090010}
+{"id": 2005, "name": "转生镜", "description": "[传说中的吸血鬼猎人]十六夜咲夜(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010009}
+{"id": 2007, "name": "转生镜", "description": "[坚如磐石的恶魔之门]红美铃(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010006}
+{"id": 2008, "name": "转生镜", "description": "[高等魔法的集大成者]小恶魔(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010007}
+{"id": 2010, "name": "转生镜", "description": "[小小的亡灵楼主]西行寺幽幽子(R2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 180020020}
+{"id": 2011, "name": "转生镜", "description": "[幽玄的剑圣]魂魄妖梦(R8)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 180080019}
+{"id": 2015, "name": "转生镜", "description": "[狂气的宇宙怪兽]铃仙·优昙华院·因幡(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050028}
+{"id": 2016, "name": "转生镜", "description": "[丰富与平等的润泽院]绵月丰姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030706}
+{"id": 2017, "name": "转生镜", "description": "[温和与虔诚的平和院]绵月依姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030707}
+{"id": 2019, "name": "转生镜", "description": "[善意与良心的慈爱院]蓬莱山辉夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030030}
+{"id": 2021, "name": "转生镜", "description": "[帝都的思想搜查官]清兰(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030080}
+{"id": 2022, "name": "转生镜", "description": "[帝都的熟练刑警]铃瑚(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030081}
+{"id": 2023, "name": "转生镜", "description": "[帝都的和平维持队员]铃仙(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030708}
+{"id": 2057, "name": "转生镜", "description": "[无名的宇宙恐怖]纯狐(B2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20020085}
+{"id": 2081, "name": "转生镜", "description": "[正统与清廉的真理院]稀神探女(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030083}
+{"id": 3001, "name": "转生镜", "description": "[月战型萨满]博丽灵梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030001}
+{"id": 3002, "name": "转生镜", "description": "[月战型魔术师]雾雨魔理沙(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030002}
+{"id": 3004, "name": "转生镜", "description": "[狩猎猎人的吸血鬼]芙兰朵露·斯卡雷特(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010011}
+{"id": 3005, "name": "转生镜", "description": "[月战型从者]十六夜咲夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030009}
+{"id": 3006, "name": "转生镜", "description": "[千金陪伴的元素魔法使]帕秋莉·诺蕾姬(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010008}
+{"id": 3011, "name": "转生镜", "description": "[月战型园丁]魂魄妖梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030019}
+{"id": 3015, "name": "转生镜", "description": "[月战型士兵]铃仙·优昙华院·因幡(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030028}
+{"id": 3037, "name": "转生镜", "description": "[月战型祭司]东风谷早苗(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030042}
 {"id": 100001, "name": "初始祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 100}
 {"id": 100003, "name": "超FES祭绘马", "description": "有效期至2023年11月30日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 101}
 {"id": 100004, "name": "超FES祭绘马", "description": "有效期至2024年03月11日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 102}
 {"id": 100005, "name": "2.5周年欢迎归来 超FES祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 103}
 {"id": 100006, "name": "2.5周年庆纪念A系列祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 104}
+{"id": 100007, "name": "少女転生超フェス祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 103}

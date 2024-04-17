@@ -9,4 +9,4 @@
 {"id": 9, "week_times": 2, "round_num": 1000, "exp": 150, "task_title": "【灵点消耗】({0}/2)", "task_type": 0, "task_desc": "消耗{0}/1000灵点"}
 {"id": 10, "week_times": 2, "round_num": 10, "exp": 150, "task_title": "【食物补充】({0}/2)", "task_type": 6, "task_desc": "寺子屋补充食物{0}/10次"}
 {"id": 11, "week_times": 1, "round_num": 10, "exp": 300, "task_title": "【道场特训】", "task_type": 7, "task_desc": "道场特训{0}/10次"}
-{"id": 12, "week_times": 3, "round_num": 20, "exp": 150, "task_title": "【赛钱赠送】({0}/3)", "task_type": 8, "task_desc": "赠送好友{0}/20次赛钱"}
+{"id": 12, "week_times": 3, "round_num": 20, "exp": 150, "task_title": "【赛钱赠送】({0}/3)", "task_type": 8, "task_desc": "赠送密友{0}/20次赛钱"}

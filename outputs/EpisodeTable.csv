@@ -2059,6 +2059,35 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 208400103,2084,2084001,在面子游戏听到了轰鸣声！！,特别篇·第2回！！,3,0,208435,208438,208441,Event35/Extra/Episode2.asset,1,(empty),0
 208400104,2084,2084001,见到了门卫的那个持有物的出场顺序！！,特别篇·第3回！！,4,0,208436,208439,208442,Event35/Extra/Episode3.asset,1,(empty),0
 208400105,2084,2084001,这里也有传说的结局！！,终幕！！,5,1,0,0,0,Event35/Extra/Episode4.asset,1,(empty),0
+208500001,2085,2085000,飞翔吧，少女们,序幕,1,1,0,0,0,Event24/Episode0.asset,0,(empty),1
+208500002,2085,2085000,反转的波乱,第一战,2,0,208501,208520,208539,Event24/Episode1.asset,1,(empty),1
+208500003,2085,2085000,暂时的游戏,第二战,3,0,208502,208521,208540,Event24/Episode2.asset,1,(empty),1
+208500004,2085,2085000,天邪鬼伴随着前进,第三战,4,0,208503,208522,208541,Event24/Episode3.asset,1,(empty),1
+208500005,2085,2085000,贪婪的无数只手,第四战,5,1,0,0,0,Event24/Episode4.asset,1,(empty),1
+208500006,2085,2085000,秋风又是春风,第五战,6,0,208504,208523,208542,Event24/Episode5.asset,2,{"start_at":"2024-04-24 00:00:00"},1
+208500007,2085,2085000,比试其1,自由战斗,7,0,208505,208524,208543,Event24/FreeBattle1.asset,1,(empty),1
+208500008,2085,2085000,随跳舞人偶的意,第六战,8,0,208506,208525,208544,Event24/Episode6.asset,1,(empty),1
+208500009,2085,2085000,比试其2,自由战斗,9,0,208507,208526,208545,Event24/FreeBattle2.asset,1,(empty),1
+208500010,2085,2085000,四天王战·八云紫的熏陶,第七战,10,0,208508,208527,208546,Event24/Episode7.asset,1,(empty),1
+208500011,2085,2085000,四天王战·纯狐的宇宙,第八战,11,0,208509,208528,208547,Event24/Episode8.asset,2,{"start_at":"2024-04-25 00:00:00"},1
+208500012,2085,2085000,四天王战·摩多罗隐岐奈的天佑,第九战,12,0,208510,208529,208548,Event24/Episode9.asset,1,(empty),1
+208500013,2085,2085000,四天王战·博丽灵梦的幻影,第十战,13,0,208511,208530,208549,Event24/Episode10.asset,1,(empty),1
+208500014,2085,2085000,不可饶恕的禁忌,第十一战,14,0,208512,208531,208550,Event24/Episode11.asset,1,(empty),1
+208500015,2085,2085000,对微笑的月亮施展空手入白刃,第十二战,15,0,208513,208532,208551,Event24/Episode12.asset,1,(empty),1
+208500016,2085,2085000,比试其3,自由战斗,16,0,208514,208533,208552,Event24/FreeBattle3.asset,1,(empty),1
+208500017,2085,2085000,钻规则的空子！,第十三战,17,0,208515,208534,208553,Event24/Episode13.asset,2,{"start_at":"2024-04-26 00:00:00"},1
+208500018,2085,2085000,比试其4,自由战斗,18,0,208516,208535,208554,Event24/FreeBattle4.asset,1,(empty),1
+208500019,2085,2085000,加强&笔误,第十四战,19,1,0,0,0,Event24/Episode14.asset,1,(empty),1
+208500020,2085,2085000,正确&错误,第十五战,20,0,208517,208536,208555,Event24/Episode15.asset,1,(empty),1
+208500021,2085,2085000,逆反的「邪正」！逃走的女少,第十六战,21,0,208518,208537,208556,Event24/Episode16.asset,1,(empty),1
+208500022,2085,2085000,玉响的女神们,第十七战,22,1,0,0,0,Event24/Episode17.asset,1,(empty),1
+208500023,2085,2085000,通向反叛的反叛,第十八战,23,0,208519,208538,208557,Event24/Episode18.asset,1,(empty),1
+208500024,2085,2085000,梦与，冒险,终幕,24,1,0,0,0,Event24/Episode19.asset,1,(empty),1
+208500101,2085,2085001,重开与再会,序幕,1,1,0,0,0,Event24/Extra/Episode0.asset,0,(empty),0
+208500102,2085,2085001,最新的才神,战斗！1,2,0,208558,208561,208564,Event24/Extra/Episode1.asset,1,(empty),0
+208500103,2085,2085001,天启的典型,战斗！2,3,0,208559,208562,208565,Event24/Extra/Episode2.asset,1,(empty),0
+208500104,2085,2085001,造型的造诣,战斗！3,4,0,208560,208563,208566,Event24/Extra/Episode3.asset,1,(empty),0
+208500105,2085,2085001,少女的肖像,终幕,5,1,0,0,0,Event24/Extra/Episode4.asset,1,(empty),0
 208600001,2086,2086000,就这样传说开始了,游戏开始,1,1,0,0,0,Event36/Episode0.asset,0,(empty),1
 208600002,2086,2086000,最开始是在恶魔的宅院,历程1,2,1,0,0,0,Event36/Episode1.asset,1,(empty),1
 208600003,2086,2086000,然后在启程之时,历程2,3,0,208601,208620,208639,Event36/Episode2.asset,1,(empty),1
@@ -2117,6 +2146,7 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 208900104,2089,2089001,让我见识一下你无底洞的欲望,再来一碗３,4,0,208948,208951,208954,Event37/Extra/Episode3.asset,1,(empty),0
 208900105,2089,2089001,从这里开始的兽道,终幕,5,1,0,0,0,Event37/Extra/Episode4.asset,1,(empty),0
 210600001,2106,2106000,宇佐见莲子体验探索,体验探索,1,0,210564,0,0,Daily/Wave1.asset,0,(empty),0
+210700001,2107,2107000,玛艾露贝莉·赫恩体验探索,体验探索,1,0,210565,0,0,Daily/Wave1.asset,0,(empty),0
 300100101,3001,3001001,一个人的茶会？ 第1话,记号B3·第1节,1,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode1.asset,0,(empty),1
 300100102,3001,3001001,一个人的茶会？ 第2话,记号B3·第1节,2,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode2.asset,1,(empty),1
 300100103,3001,3001001,一个人的茶会？ 第3话,记号B3·第1节,3,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode3.asset,1,(empty),1
@@ -2192,6 +2222,17 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 300300302,3003,3003003,Ｍ文书「少女奇迹」Ｃ,记号L?·第3节,11,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section03/Episode2.asset,1,(empty),1
 300300303,3003,3003003,ＣＲ＋ＬＦ,记号L?·第3节,12,0,300303,300306,300309,Daily/Wave3.asset,1,(empty),1
 300300304,3003,3003003,喝茶时间,记号L?·第3节,13,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section03/Episode4.asset,1,(empty),1
+300300401,3004,3004001,Ｒ文书「少女奇迹」４,记号L?·第4节,1,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section04/Episode1.asset,0,(empty),1
+300300402,3004,3004001,Ｍ文书「少女奇迹」Ｄ,记号L?·第4节,2,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section04/Episode2.asset,1,(empty),1
+300300403,3004,3004001,Ｒ文书「少女奇迹」５,记号L?·第4节,3,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section04/Episode3.asset,1,(empty),1
+300300404,3004,3004001,Ｍ文书「少女奇迹」Ｅ,记号L?·第4节,4,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section04/Episode4.asset,1,(empty),1
+300300405,3004,3004001,ＣＲ＋ＬＦ,记号L?·第4节,5,0,300401,300403,300405,Daily/Wave1.asset,1,(empty),1
+300300406,3004,3004001,喝茶时间,记号L?·第4节,6,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section04/Episode6.asset,1,(empty),1
+300300501,3004,3004002,Ｍ文书「少女奇迹」Ｆ,记号L?·第5节,7,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section05/Episode1.asset,1,(empty),1
+300300502,3004,3004002,Ｒ文书「少女奇迹」６,记号L?·第5节,8,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section05/Episode2.asset,1,(empty),1
+300300503,3004,3004002,喝茶时间,记号L?·第5节,9,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section05/Episode3.asset,1,(empty),1
+300300504,3004,3004002,？文书「少女奇迹」终,记号L?·第5节,10,0,300402,300404,300406,Another/St0020_SecretSealing_SymbolLquestion/Section05/Episode4.asset,1,(empty),1
+300300505,3004,3004002,纸张放出,记号L?·第5节,11,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Section05/Episode5.asset,1,(empty),1
 500300001,5003,5003000,「序」,第1话,1,0,500301,0,0,Special/HalfAnniversary2020/Episode1.asset,0,(empty),1
 500300002,5003,5003000,「破」,第2话,2,0,500302,0,0,Special/HalfAnniversary2020/Episode2.asset,1,(empty),1
 500300003,5003,5003000,「急」,第3话,3,0,500303,0,0,Special/HalfAnniversary2020/Episode3.asset,1,(empty),1

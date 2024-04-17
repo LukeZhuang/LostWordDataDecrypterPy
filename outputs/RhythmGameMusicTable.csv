@@ -1,5 +1,6 @@
 id,title,info,jacket_path,bgm_path,preview_start_time,preview_play_time,normal_score_path,hard_score_path,lunatic_score_path,display_order
 1001,導きの調べ,乐曲：導きの調べ<ret>编曲：Foxtail-Grass Studio<ret>原曲：東方妖怪小町,Music_Jacket_000.png,rhythm_music_1001.ogg,13450,39200,1001_normal.json,1001_hard.json,1001_lunatic.json,1001
+1002,木漏れ日の縁側,乐曲：木漏れ日の縁側<ret>編曲：Hachimitsu-Lemon<ret>原曲：神々が恋した幻想郷,Music_Jacket_000.png,rhythm_music_1002.ogg,45800,77800,1002_normal.json,1002_hard.json,1002_lunatic.json,1002
 1012,Greenwich Debris,乐曲：Greenwich Debris<ret>编曲：ジュクチョー(COOL&CREATE)<ret>原曲：天空のグリニッジ,Music_Jacket_000.png,rhythm_music_1012.ogg,14500,52400,1012_normal.json,1012_hard.json,1012_lunatic.json,1012
 1013,α崩壊,乐曲：α崩壊<ret>编曲：梶迫小道具店<ret>原曲：シュレディンガーの化猫,Music_Jacket_000.png,rhythm_music_1013.ogg,53088,44000,1013_normal.json,1013_hard.json,1013_lunatic.json,1013
 199001,ロストワードクロニカル,乐曲：ロストワードクロニカル<ret>艺术家：いとうかなこ × 豚乙女<ret>原曲：東方妖怪小町,Music_Jacket_001.png,rhythm_music_199001.ogg,59950,26050,199001_normal.json,199001_hard.json,199001_lunatic.json,1
@@ -11,3 +12,6 @@ id,title,info,jacket_path,bgm_path,preview_start_time,preview_play_time,normal_s
 199007,サヨナラはどこか蒼い,乐曲：サヨナラはどこか蒼い<ret>艺术家：东方归言录 feat.田原俊彦 × 豚乙女<ret>原曲：神さびた古戦場　～ Suwa Foughten Field,Music_Jacket_007.png,rhythm_music_199007.ogg,62350,28650,199007_normal.json,199007_hard.json,199007_lunatic.json,7
 199008,Disillusion,乐曲：Disillusion<ret>艺术家：东方归言录 feat.Faylan × Alstroemeria Records<ret>原曲：東方妖々夢　～ Ancient Temple,Music_Jacket_008.png,rhythm_music_199008.ogg,102500,28500,199008_normal.json,199008_hard.json,199008_lunatic.json,8
 199009,I'm Alright!,乐曲：I'm Alright!<ret>艺术家：东方归言录 feat.KIHOW from MYTH & ROID × A-One<ret>原曲：U.N.オーエンは彼女なのか？,Music_Jacket_009.png,rhythm_music_199009.ogg,73500,27500,199009_normal.json,199009_hard.json,199009_lunatic.json,9
+199010,夜に裂く光,乐曲：夜に裂く光<ret>艺术家：东方归言录 feat.影山ヒロノブ × 豚乙女<ret>原曲：メイガスナイト,Music_Jacket_010.png,rhythm_music_199010.ogg,35600,28150,199010_normal.json,199010_hard.json,199010_lunatic.json,10
+199011,祭月夜,乐曲：祭月夜<ret>艺术家：东方归言录 feat.成瀬瑛美＋恋汐りんこ from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS<ret>原曲：狂気の瞳　～ Invisible Full Moon / 竹取飛翔　～ Lunatic Princess,Music_Jacket_011.png,rhythm_music_199011.ogg,78700,33800,199011_normal.json,199011_hard.json,199011_lunatic.json,11
+199012,その手に触れるキセキまで,乐曲：その手に触れるキセキまで<ret>艺术家：东方归言录 feat.根本凪(でんぱ組.inc/虹のコンキスタドール) × TUMENECO<ret>原曲：信仰は儚き人間の為に,Music_Jacket_012.png,rhythm_music_199012.ogg,88260,26400,199012_normal.json,199012_hard.json,199012_lunatic.json,12
