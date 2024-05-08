@@ -16183,71 +16183,71 @@
 {"id": 1200463, "unit_id": 12004, "voice_type_id": 63, "voice_text": "ありがとう～", "emotion": ""}
 {"id": 1200464, "unit_id": 12004, "voice_type_id": 64, "voice_text": "秘神の童子でスターになれるとか、話がうますぎたわ。", "emotion": ""}
 {"id": 1200465, "unit_id": 12004, "voice_type_id": 65, "voice_text": "『我ら二童子は秘神様と一心同体、すなわち爾子多と丁禮多だ。』", "emotion": ""}
-{"id": 1300201, "unit_id": 13002, "voice_type_id": 1, "voice_text": "赤い方の霧雨魔理沙だぜ。今から真夏の弾幕特訓を開始する。今すぐ並べ！ ……ああん？ 「異界渡りしちゃってますよ」だと？ だからどうした？ こちとら伊達に紅魔塔で千年過ごしちゃあいないんだよ。ほっほーう、つべこべ言う余裕があるか。貴様はビーチダッシュ、もうワンセッ！ ――いやあ、キツくあたって悪かったな。鬼教官で行けとの依頼なんだ。ほら、ホットドッグ奢ってやるから。", "emotion": ""}
-{"id": 1300202, "unit_id": 13002, "voice_type_id": 2, "voice_text": "千年も生きていれば、多少は背格好が成長する。ちょっとの違いだがな。", "emotion": "10"}
-{"id": 1300203, "unit_id": 13002, "voice_type_id": 3, "voice_text": "異変解決の鍵は、いつでもどこでも『弾幕』。では、訓練開始だ。", "emotion": "7"}
-{"id": 1300204, "unit_id": 13002, "voice_type_id": 4, "voice_text": "ああ、この傷跡か？ これは魔女に転化した時に、爆熱が吹き出した痕だぜ。戒めでもあるが、思い出だとも思っている。", "emotion": "5"}
-{"id": 1300205, "unit_id": 13002, "voice_type_id": 5, "voice_text": "黒幕と接触したことがある私なら、はっきり分かる。貴様らには修行が必要だ。さあ、フルパワーでかかってこい！ 力の使い方を教えてやるぜ。それと激辛ホットドッグをバカにした者は、後で説教だ。", "emotion": "9"}
-{"id": 1300206, "unit_id": 13002, "voice_type_id": 6, "voice_text": "大異変を解決すれば、私の霊夢は帰ってくるかもしれない。もしくは、大異変を追えば再会できるかも。そのためなら……貴様ら、まだまだ弾幕が薄いぞ、何やってんだ！ ビーチランニング追加！ 私も行くッ！", "emotion": "4"}
-{"id": 1300207, "unit_id": 13002, "voice_type_id": 7, "voice_text": "私の霊夢を見つけ、大異変を解決するには、皆が『弾幕』の力を合わせる必要がある。弾幕こそ、大異変解決の鍵だぜ。私が全員を鍛え上げる。そのためなら私は燃え尽きても……いや、そうだな。お前の言うとおり、私も全員に含まれている。必ず旅を終わらせよう。私たちの旅を。", "emotion": "1"}
-{"id": 1300208, "unit_id": 13002, "voice_type_id": 8, "voice_text": "辛いものは好きか？ そうかそうか、じゃあコレをかけてやるよ。", "emotion": ""}
-{"id": 1300209, "unit_id": 13002, "voice_type_id": 9, "voice_text": "これは、ミニ八卦炉にスナイパーソケットを装着した水鉄砲だ。……ん？ もちろん水鉄砲だが？ ああ、鉄板くらいは撃ち抜ける。", "emotion": "5"}
-{"id": 1300210, "unit_id": 13002, "voice_type_id": 10, "voice_text": "紅魔塔でできることが一段落したんでな。私の霊夢を捜す旅に出たいと話したら、レミリアたちは喜んで送り出してくれたぜ。", "emotion": "3"}
-{"id": 1300211, "unit_id": 13002, "voice_type_id": 11, "voice_text": "ああ、でも……パチュリーだけは、研究終わってないのにって怒ってたな。旅先で珍しい物を見つけたら、持ち帰ってやるか。", "emotion": "2"}
-{"id": 1300212, "unit_id": 13002, "voice_type_id": 12, "voice_text": "あっ……そういえばアリスも、後から追いかけるからとか怨み節っぽく言ってたような……。だが、あの鎧で海は無理だろうなあ。", "emotion": "8"}
-{"id": 1300213, "unit_id": 13002, "voice_type_id": 13, "voice_text": "桜の舞う神社……春になると、あいつを思い出すな。誰かって？ そりゃあ、私の霊夢のことだぜ。霊夢もやっぱり、背が伸びたのかな。", "emotion": "7"}
-{"id": 1300214, "unit_id": 13002, "voice_type_id": 14, "voice_text": "夏だ！ 水着だ！ 海遊びだ～！ って、貴様らはしゃぎ過ぎだ！ だが今日は許す。特製激辛ホットドッグを用意したので遠慮なく食え！", "emotion": "3"}
-{"id": 1300215, "unit_id": 13002, "voice_type_id": 15, "voice_text": "秋の味覚にホットソースをかけまくってたら、妹の方の秋神に怒られちまった。美味しいのに。でもまあ、素材の味もいいものだぜ。", "emotion": "2"}
-{"id": 1300216, "unit_id": 13002, "voice_type_id": 16, "voice_text": "辛い物を食べると体が温まるが、お前にはまだ早いな。……そうだ。私は体に星の魔法を宿しているから、体温が高めなんだぜ。ほら、ぎゅ～ってしてやる。", "emotion": "10"}
-{"id": 1300217, "unit_id": 13002, "voice_type_id": 17, "voice_text": "課題か。苦しい時こそ努力する。それがお前の力になるんだぜ。", "emotion": "1"}
-{"id": 1300218, "unit_id": 13002, "voice_type_id": 18, "voice_text": "ほら、ご褒美のホットドッグだ。お前のは、辛いの無しにしといたぜ？", "emotion": "7"}
-{"id": 1300219, "unit_id": 13002, "voice_type_id": 19, "voice_text": "エアメールか。一体どこから……まさか、異界を渡ってきたのか？", "emotion": "5"}
-{"id": 1300220, "unit_id": 13002, "voice_type_id": 20, "voice_text": "いい特訓だったな。お前への褒美は……ほら。私からハグだ。", "emotion": "3"}
-{"id": 1300221, "unit_id": 13002, "voice_type_id": 21, "voice_text": "使いの者が帰ったな。レッドホットチリソースは手に入っただろうか？", "emotion": "6"}
-{"id": 1300222, "unit_id": 13002, "voice_type_id": 22, "voice_text": "『無間地獄ホットソース』新発売……だと！？", "emotion": "4"}
-{"id": 1300223, "unit_id": 13002, "voice_type_id": 23, "voice_text": "ホットドッグを平らげたら、眠っちまったか。", "emotion": "9"}
-{"id": 1300224, "unit_id": 13002, "voice_type_id": 24, "voice_text": "ほら、膝でお眠り。よしよし……なでなで。", "emotion": "6"}
-{"id": 1300225, "unit_id": 13002, "voice_type_id": 25, "voice_text": "弾幕訓練キャンプへようこそ、ひよっ子ども！", "emotion": ""}
-{"id": 1300226, "unit_id": 13002, "voice_type_id": 26, "voice_text": "ついて来い！ やり遂げるんだろう？", "emotion": ""}
-{"id": 1300227, "unit_id": 13002, "voice_type_id": 27, "voice_text": "浮かれるんじゃあない、半人前ども！ ……だが？ 今だけは？ ビクトリー！", "emotion": ""}
-{"id": 1300228, "unit_id": 13002, "voice_type_id": 28, "voice_text": "訓練生に手を出したら、タダじゃおかん。私を、倒してからにしろっ！", "emotion": ""}
-{"id": 1300229, "unit_id": 13002, "voice_type_id": 29, "voice_text": "たぎれ！", "emotion": ""}
-{"id": 1300230, "unit_id": 13002, "voice_type_id": 30, "voice_text": "燃え上がれ！", "emotion": ""}
-{"id": 1300231, "unit_id": 13002, "voice_type_id": 31, "voice_text": "もうワンセッ、だ！", "emotion": ""}
-{"id": 1300232, "unit_id": 13002, "voice_type_id": 32, "voice_text": "声を出せ！", "emotion": ""}
-{"id": 1300233, "unit_id": 13002, "voice_type_id": 33, "voice_text": "聞こえないな！", "emotion": ""}
-{"id": 1300234, "unit_id": 13002, "voice_type_id": 34, "voice_text": "もう音を上げたのか？", "emotion": ""}
-{"id": 1300235, "unit_id": 13002, "voice_type_id": 35, "voice_text": "貴様ならできる！", "emotion": ""}
-{"id": 1300236, "unit_id": 13002, "voice_type_id": 36, "voice_text": "お遊び気分か？", "emotion": ""}
-{"id": 1300237, "unit_id": 13002, "voice_type_id": 37, "voice_text": "力を見せろ", "emotion": ""}
-{"id": 1300238, "unit_id": 13002, "voice_type_id": 38, "voice_text": "捨て身になれよ", "emotion": ""}
-{"id": 1300239, "unit_id": 13002, "voice_type_id": 39, "voice_text": "自信を持つことだぜ", "emotion": ""}
-{"id": 1300240, "unit_id": 13002, "voice_type_id": 40, "voice_text": "痛みなくして得るものなどない！", "emotion": ""}
-{"id": 1300241, "unit_id": 13002, "voice_type_id": 41, "voice_text": "3分休憩をやろう", "emotion": ""}
-{"id": 1300242, "unit_id": 13002, "voice_type_id": 42, "voice_text": "訓練再開だ", "emotion": ""}
-{"id": 1300243, "unit_id": 13002, "voice_type_id": 43, "voice_text": "これが力だ！", "emotion": ""}
-{"id": 1300244, "unit_id": 13002, "voice_type_id": 44, "voice_text": "クールダウンだぜ", "emotion": ""}
-{"id": 1300245, "unit_id": 13002, "voice_type_id": 45, "voice_text": "異変解決など　\nお前にはまだ早い", "emotion": ""}
-{"id": 1300246, "unit_id": 13002, "voice_type_id": 46, "voice_text": "立てよ　ひよっ子　\nそれが最初の一歩だぜ", "emotion": ""}
-{"id": 1300247, "unit_id": 13002, "voice_type_id": 47, "voice_text": "儀符「オーレリーズレッドサン」", "emotion": ""}
-{"id": 1300248, "unit_id": 13002, "voice_type_id": 48, "voice_text": "力は内面に眠っている　\n弾幕はその現れだ", "emotion": ""}
-{"id": 1300249, "unit_id": 13002, "voice_type_id": 49, "voice_text": "あの十字星に誓え　\n新しく生まれ変わると！", "emotion": ""}
-{"id": 1300250, "unit_id": 13002, "voice_type_id": 50, "voice_text": "赤魔十字「ホットサザンクロス」", "emotion": ""}
-{"id": 1300251, "unit_id": 13002, "voice_type_id": 51, "voice_text": "訓練だけで夏が終わる　だと？　\n甘えたことを言うな！", "emotion": ""}
-{"id": 1300252, "unit_id": 13002, "voice_type_id": 52, "voice_text": "私が隣にいる限り　ここは\n永遠のサマーキャンプだ！", "emotion": ""}
-{"id": 1300253, "unit_id": 13002, "voice_type_id": 53, "voice_text": "「ファイナルサマースパーク」", "emotion": ""}
-{"id": 1300254, "unit_id": 13002, "voice_type_id": 54, "voice_text": "うぐっ", "emotion": ""}
-{"id": 1300255, "unit_id": 13002, "voice_type_id": 55, "voice_text": "こ、根性だっ！", "emotion": ""}
-{"id": 1300256, "unit_id": 13002, "voice_type_id": 56, "voice_text": "本気か？", "emotion": ""}
-{"id": 1300257, "unit_id": 13002, "voice_type_id": 57, "voice_text": "ぬるいぜ", "emotion": ""}
-{"id": 1300258, "unit_id": 13002, "voice_type_id": 58, "voice_text": "その調子だ！", "emotion": ""}
-{"id": 1300259, "unit_id": 13002, "voice_type_id": 59, "voice_text": "くっ……霊夢！ お前はどこにいるんだ……！", "emotion": ""}
-{"id": 1300260, "unit_id": 13002, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
-{"id": 1300261, "unit_id": 13002, "voice_type_id": 61, "voice_text": "いいぜ！", "emotion": ""}
-{"id": 1300262, "unit_id": 13002, "voice_type_id": 62, "voice_text": "やめるのか？", "emotion": ""}
-{"id": 1300263, "unit_id": 13002, "voice_type_id": 63, "voice_text": "すまんなぁ！", "emotion": ""}
-{"id": 1300264, "unit_id": 13002, "voice_type_id": 64, "voice_text": "霊夢、いつかお前を見つけ出してみせる。", "emotion": ""}
-{"id": 1300265, "unit_id": 13002, "voice_type_id": 65, "voice_text": "なあ、霊夢。もしお前がここにいたら、やっぱり笑うか？ ……はは、すまんな。私はこういうやり方しかできないんだ。", "emotion": ""}
+{"id": 1300201, "unit_id": 13002, "voice_type_id": 1, "voice_text": "我是红色魔理沙。现在开始进行盛夏的弹幕特训！立刻给我排好队！ ……什么？ 我穿越异界了？ 那又如何？ 我可没白在红魔塔呆了一千年。这样吗，你还有说闲话的余力啊。在沙滩上再跑一圈吧！ ――抱歉，我不该这么过分。因为委托内容是让我当魔鬼教练。我请你吃热狗吧。", "emotion": ""}
+{"id": 1300202, "unit_id": 13002, "voice_type_id": 2, "voice_text": "活了一千年是会长高些。虽然基本是误差吧。", "emotion": "10"}
+{"id": 1300203, "unit_id": 13002, "voice_type_id": 3, "voice_text": "无论何时异变解决的关键都是“弹幕”。那我们开始训练吧。", "emotion": "7"}
+{"id": 1300204, "unit_id": 13002, "voice_type_id": 4, "voice_text": "你问这个伤痕是怎么回事？ 这是我转化成魔女时喷出的热气留下的伤痕。对我来讲是惩罚，也是一种回忆。", "emotion": "5"}
+{"id": 1300205, "unit_id": 13002, "voice_type_id": 5, "voice_text": "我和黑幕接触过，所以我可以确定你们需要修行。全力放马过来吧！ 我来告诉你们怎么使用力量。还有，我待会儿会教育教育说超辣热狗坏话的人。", "emotion": "9"}
+{"id": 1300206, "unit_id": 13002, "voice_type_id": 6, "voice_text": "只要能解决大异变，我的灵梦说不定就会回来了。如果追查大异变的话我也可能能与她重逢。为此……你们的弹幕量根本不够！ 在沙滩上再跑一圈！ 我也一起跑！", "emotion": "4"}
+{"id": 1300207, "unit_id": 13002, "voice_type_id": 7, "voice_text": "要想找到我的灵梦并解决大异变，需要让大家的“弹幕”力量融为一体。弹幕正是解决大异变的关键。我会锻炼你们所有人。即使我因此燃烧殆尽……不，你说得没错。我也包含在“所有人”里面。我们一定要终结我们的旅途。", "emotion": "1"}
+{"id": 1300208, "unit_id": 13002, "voice_type_id": 8, "voice_text": "你喜欢吃辣的吗？ 这样这样，那我就把它浇上去了。", "emotion": ""}
+{"id": 1300209, "unit_id": 13002, "voice_type_id": 9, "voice_text": "这是用迷你八卦炉和狙击枪做的水枪。……什么？ 它当然是水枪。 虽然能击穿铁板吧。", "emotion": "5"}
+{"id": 1300210, "unit_id": 13002, "voice_type_id": 10, "voice_text": "在红魔塔能做的事情已经告一段落了。我和蕾米莉亚她们说我想去找灵梦，她们就开开心心地把我送出来了。", "emotion": "3"}
+{"id": 1300211, "unit_id": 13002, "voice_type_id": 11, "voice_text": "但是……只有帕秋莉有些生气。她说研究还没有结束。我就把在旅途中找到的珍贵物品带给她吧。", "emotion": "2"}
+{"id": 1300212, "unit_id": 13002, "voice_type_id": 12, "voice_text": "对了……说起来爱丽丝也有些生气呢。她说她会来追我……。但是她的那身铠甲没法在海里游吧。", "emotion": "8"}
+{"id": 1300213, "unit_id": 13002, "voice_type_id": 13, "voice_text": "樱花飞舞的神社……一到春天我就会想起她。你问想起谁？ 当然是我的灵梦了。灵梦她是不是也长高了？", "emotion": "7"}
+{"id": 1300214, "unit_id": 13002, "voice_type_id": 14, "voice_text": "夏天！ 泳装！ 大海！ 你们有点闹过头了！ 但今天就放你们一马吧。我准备了特制超辣热狗！你们不用客气！", "emotion": "3"}
+{"id": 1300215, "unit_id": 13002, "voice_type_id": 15, "voice_text": "我往秋季美食上浇了一堆辣椒酱，结果被秋神妹妹训了一顿。明明很好吃。但是素材原本的味道也很不错。", "emotion": "2"}
+{"id": 1300216, "unit_id": 13002, "voice_type_id": 16, "voice_text": "吃辣的能让身体变暖和……但对你来讲还太早了。……对了。我的体内寄宿着星之魔法，所以体温比较高。我来抱紧你吧。", "emotion": "10"}
+{"id": 1300217, "unit_id": 13002, "voice_type_id": 17, "voice_text": "作业吗。艰苦时期才应该努力。这会化作你的力量。", "emotion": "1"}
+{"id": 1300218, "unit_id": 13002, "voice_type_id": 18, "voice_text": "这个热狗是给你的奖励。你的不辣哦。", "emotion": "7"}
+{"id": 1300219, "unit_id": 13002, "voice_type_id": 19, "voice_text": "航空信吗。到底是从哪里寄过来的……难道是穿越了异界吗？", "emotion": "5"}
+{"id": 1300220, "unit_id": 13002, "voice_type_id": 20, "voice_text": "这个特训真不错。你的奖励……是我的拥抱。", "emotion": "3"}
+{"id": 1300221, "unit_id": 13002, "voice_type_id": 21, "voice_text": "使者回来了。有没有买到辛红辣椒酱？", "emotion": "6"}
+{"id": 1300222, "unit_id": 13002, "voice_type_id": 22, "voice_text": "新发售的“无间地狱辣椒酱”……！？", "emotion": "4"}
+{"id": 1300223, "unit_id": 13002, "voice_type_id": 23, "voice_text": "吃完热狗就睡着了吗。", "emotion": "9"}
+{"id": 1300224, "unit_id": 13002, "voice_type_id": 24, "voice_text": "在我的膝盖上好好睡一觉吧。乖孩子乖孩子……。", "emotion": "6"}
+{"id": 1300225, "unit_id": 13002, "voice_type_id": 25, "voice_text": "欢迎来到弹幕训练夏令营！菜鸟们！", "emotion": ""}
+{"id": 1300226, "unit_id": 13002, "voice_type_id": 26, "voice_text": "跟上我！ 你们不是要做到底吗？", "emotion": ""}
+{"id": 1300227, "unit_id": 13002, "voice_type_id": 27, "voice_text": "不要得意忘形！这群半吊子！ ……但是？ 只有现在？ 庆祝我们的胜利吧ー！", "emotion": ""}
+{"id": 1300228, "unit_id": 13002, "voice_type_id": 28, "voice_text": "敢对训练生出手的话……我可不会放过你。先过我这一关吧！", "emotion": ""}
+{"id": 1300229, "unit_id": 13002, "voice_type_id": 29, "voice_text": "激昂吧！", "emotion": ""}
+{"id": 1300230, "unit_id": 13002, "voice_type_id": 30, "voice_text": "燃烧吧！", "emotion": ""}
+{"id": 1300231, "unit_id": 13002, "voice_type_id": 31, "voice_text": "再来一次！", "emotion": ""}
+{"id": 1300232, "unit_id": 13002, "voice_type_id": 32, "voice_text": "大声点！", "emotion": ""}
+{"id": 1300233, "unit_id": 13002, "voice_type_id": 33, "voice_text": "听不见！", "emotion": ""}
+{"id": 1300234, "unit_id": 13002, "voice_type_id": 34, "voice_text": "已经不行了吗？", "emotion": ""}
+{"id": 1300235, "unit_id": 13002, "voice_type_id": 35, "voice_text": "你能行！", "emotion": ""}
+{"id": 1300236, "unit_id": 13002, "voice_type_id": 36, "voice_text": "你是在玩吗？", "emotion": ""}
+{"id": 1300237, "unit_id": 13002, "voice_type_id": 37, "voice_text": "展现你的力量吧", "emotion": ""}
+{"id": 1300238, "unit_id": 13002, "voice_type_id": 38, "voice_text": "奋不顾身吧", "emotion": ""}
+{"id": 1300239, "unit_id": 13002, "voice_type_id": 39, "voice_text": "要有自信", "emotion": ""}
+{"id": 1300240, "unit_id": 13002, "voice_type_id": 40, "voice_text": "没有痛苦就没有收获！", "emotion": ""}
+{"id": 1300241, "unit_id": 13002, "voice_type_id": 41, "voice_text": "休息三分钟吧", "emotion": ""}
+{"id": 1300242, "unit_id": 13002, "voice_type_id": 42, "voice_text": "训练再开", "emotion": ""}
+{"id": 1300243, "unit_id": 13002, "voice_type_id": 43, "voice_text": "这就是力量！", "emotion": ""}
+{"id": 1300244, "unit_id": 13002, "voice_type_id": 44, "voice_text": "现在是冷却时间", "emotion": ""}
+{"id": 1300245, "unit_id": 13002, "voice_type_id": 45, "voice_text": "异变解决什么的　\n对你来讲还太早了", "emotion": ""}
+{"id": 1300246, "unit_id": 13002, "voice_type_id": 46, "voice_text": "站起来吧　菜鸟　\n这就是最初的一步", "emotion": ""}
+{"id": 1300247, "unit_id": 13002, "voice_type_id": 47, "voice_text": "仪符「天球仪的辛红太阳」", "emotion": ""}
+{"id": 1300248, "unit_id": 13002, "voice_type_id": 48, "voice_text": "弹幕正是\n沉睡于内侧的力量", "emotion": ""}
+{"id": 1300249, "unit_id": 13002, "voice_type_id": 49, "voice_text": "向十字星发誓　\n你会重新做人吧！", "emotion": ""}
+{"id": 1300250, "unit_id": 13002, "voice_type_id": 50, "voice_text": "赤魔十字「辛红南十字座」", "emotion": ""}
+{"id": 1300251, "unit_id": 13002, "voice_type_id": 51, "voice_text": "你以为我只会在夏天训练你？　\n太天真了！", "emotion": ""}
+{"id": 1300252, "unit_id": 13002, "voice_type_id": 52, "voice_text": "只要我在你的身边　这里就是\n永远的夏令营！", "emotion": ""}
+{"id": 1300253, "unit_id": 13002, "voice_type_id": 53, "voice_text": "「最终夏日火花」", "emotion": ""}
+{"id": 1300254, "unit_id": 13002, "voice_type_id": 54, "voice_text": "呜", "emotion": ""}
+{"id": 1300255, "unit_id": 13002, "voice_type_id": 55, "voice_text": "看我的毅力！", "emotion": ""}
+{"id": 1300256, "unit_id": 13002, "voice_type_id": 56, "voice_text": "你是认真的吗？", "emotion": ""}
+{"id": 1300257, "unit_id": 13002, "voice_type_id": 57, "voice_text": "不够劲", "emotion": ""}
+{"id": 1300258, "unit_id": 13002, "voice_type_id": 58, "voice_text": "就是这股劲！", "emotion": ""}
+{"id": 1300259, "unit_id": 13002, "voice_type_id": 59, "voice_text": "可恶……灵梦！ 你到底在哪里……！", "emotion": ""}
+{"id": 1300260, "unit_id": 13002, "voice_type_id": 60, "voice_text": "东方归言录", "emotion": ""}
+{"id": 1300261, "unit_id": 13002, "voice_type_id": 61, "voice_text": "没问题！", "emotion": ""}
+{"id": 1300262, "unit_id": 13002, "voice_type_id": 62, "voice_text": "那算了？", "emotion": ""}
+{"id": 1300263, "unit_id": 13002, "voice_type_id": 63, "voice_text": "抱歉了！", "emotion": ""}
+{"id": 1300264, "unit_id": 13002, "voice_type_id": 64, "voice_text": "灵梦，我总有一天会找到你。", "emotion": ""}
+{"id": 1300265, "unit_id": 13002, "voice_type_id": 65, "voice_text": "灵梦……如果你在这里的话会嘲笑我吗？ ……抱歉了。我只知道这种做法。", "emotion": ""}
 {"id": 1800501, "unit_id": 18005, "voice_type_id": 1, "voice_text": "这里是平行世界吗？ 对我的能力来讲，这种程度的事情没什么不可思议的。但是这个幻想乡的季节看起来很正常，真是令人羡慕啊。你知道异变是怎么解决的吗？我是十六夜咲夜。是红魔馆的女仆。因为漫长的冬天，红魔馆的燃料和粮食都见底了。我必须尽快解决异变。", "emotion": ""}
 {"id": 1800502, "unit_id": 18005, "voice_type_id": 2, "voice_text": "果然在这个世界异变没有长期化呢。", "emotion": "5"}
 {"id": 1800503, "unit_id": 18005, "voice_type_id": 3, "voice_text": "看来让异变长期化的不是幽幽子呢。", "emotion": "9"}

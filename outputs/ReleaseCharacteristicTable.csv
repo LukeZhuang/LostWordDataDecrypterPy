@@ -103,7 +103,7 @@ id,characteristic_name,characteristic_description,characteristic_type,characteri
 1047013,耐心的追踪者,被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率85%],4,1,3,85,1,characteristic_icon_3
 1050011,觉悟,被攻击后，自身<color=#CCAA00>回避</color><color=#FF6600>上升</color>1等级 (3回合) [发生率75%],4,1,7,75,1,characteristic_icon_7
 1050012,感情看破,被攻击时，受到来自<color=#CCAA00>阴性</color>的伤害<color=#0066FF>下降</color>100% [发生率40%],3,11,3,40,100,characteristic_icon_37
-1050013,思考看破,被攻击时，受到来自<color=#CCAA00>阳性</color>的伤害</color><color=#0066FF>下降</color>100% [发生率40%],3,11,2,40,100,characteristic_icon_36
+1050013,思考看破,被攻击时，受到来自<color=#CCAA00>阳性</color>的伤害<color=#0066FF>下降</color>100% [发生率40%],3,11,2,40,100,characteristic_icon_36
 1051011,条件反射,被攻击后，自身<color=#CCAA00>会心攻击</color><color=#FF6600>上升</color>1等级 (3回合) [发生率70%],4,1,8,70,1,characteristic_icon_8
 1051012,心头灭却,被攻击时，受到来自<color=#CCAA00>日属性</color>的伤害<color=#0066FF>下降</color>25% [发生率100%],3,13,1,100,25,characteristic_icon_48
 1051013,情绪高涨,回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>1.00  [发生率25%],2,5,0,25,20,characteristic_icon_31
