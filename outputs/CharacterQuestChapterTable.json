@@ -56,7 +56,11 @@
 {"id": 108001, "target_name": "哆来咪·苏伊特", "target_unit_id": 1080, "priority": 37, "costume_id": 108001, "unit_speech_group_id": 338}
 {"id": 108101, "target_name": "稀神探女", "target_unit_id": 1081, "priority": 36, "costume_id": 108101, "unit_speech_group_id": 337}
 {"id": 108201, "target_name": "二岩猯藏", "target_unit_id": 1082, "priority": 46, "costume_id": 108201, "unit_speech_group_id": 373}
+{"id": 108701, "target_name": "秦心", "target_unit_id": 1087, "priority": 74, "costume_id": 108701, "unit_speech_group_id": 724}
 {"id": 108801, "target_name": "蕾蒂·霍瓦特洛克", "target_unit_id": 1088, "priority": 61, "costume_id": 108801, "unit_speech_group_id": 574}
+{"id": 109101, "target_name": "丰聪耳神子", "target_unit_id": 1091, "priority": 71, "costume_id": 109101, "unit_speech_group_id": 721}
+{"id": 109201, "target_name": "物部布都", "target_unit_id": 1092, "priority": 72, "costume_id": 109201, "unit_speech_group_id": 722}
+{"id": 109301, "target_name": "苏我屠自古", "target_unit_id": 1093, "priority": 73, "costume_id": 109301, "unit_speech_group_id": 723}
 {"id": 110501, "target_name": "堀川雷鼓", "target_unit_id": 1105, "priority": 55, "costume_id": 110501, "unit_speech_group_id": 523}
 {"id": 200201, "target_name": "雾雨魔理沙", "target_unit_id": 2002, "priority": 62, "costume_id": 200201, "unit_speech_group_id": 621}
 {"id": 200301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 2003, "priority": 99, "costume_id": 200301, "unit_speech_group_id": 972}

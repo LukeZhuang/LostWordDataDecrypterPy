@@ -389,3 +389,13 @@ id,floor,title,comic_title,battle_id,comic_filepath,preview_type,clear_type,boss
 1388,388,红魔塔388层,(empty),50388,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001388,0,0,0,0,0,0,0
 1389,389,红魔塔389层,(empty),50389,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001389,0,0,0,0,0,0,0
 1390,390,红魔塔390层,「是妈妈吗？」,50390,Tower/ScarletDevilTower/Floor390.asset,0,1,1,floor_select_banner_0001,floor_background_0001,5001390,0,0,0,5001031,5001032,5001033,0
+1391,391,红魔塔391层,(empty),50391,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001391,5101391,0,0,0,0,0,0
+1392,392,红魔塔392层,(empty),50392,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001392,5101392,0,0,0,0,0,0
+1393,393,红魔塔393层,(empty),50393,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001393,5101393,0,0,0,0,0,0
+1394,394,红魔塔394层,(empty),50394,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001394,5101394,0,0,0,0,0,0
+1395,395,红魔塔395层,(empty),50395,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001395,5101395,0,0,0,0,0,0
+1396,396,红魔塔396层,(empty),50396,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001396,5101396,0,0,0,0,0,0
+1397,397,红魔塔397层,(empty),50397,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001397,5101397,0,0,0,0,0,0
+1398,398,红魔塔398层,(empty),50398,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001398,5101398,0,0,0,0,0,0
+1399,399,红魔塔399层,(empty),50399,Daily/Wave1.asset,0,0,0,floor_select_banner_0001,floor_background_0001,5001399,5101399,0,0,0,0,0,0
+1400,400,红魔塔400层,「祝·四百层」,50400,Tower/ScarletDevilTower/Floor400.asset,0,1,1,floor_select_banner_0001,floor_background_0001,5001400,0,0,0,5001031,5001032,5001033,0
