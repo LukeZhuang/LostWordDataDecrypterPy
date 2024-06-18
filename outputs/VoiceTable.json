@@ -9345,7 +9345,7 @@
 {"id": 203250, "unit_id": 2032, "voice_type_id": 50, "voice_text": "诅咒「上吊的蓬莱人偶」", "emotion": ""}
 {"id": 203251, "unit_id": 2032, "voice_type_id": 51, "voice_text": "来吧 人偶们\n我们去寻找春天吧", "emotion": ""}
 {"id": 203252, "unit_id": 2032, "voice_type_id": 52, "voice_text": "为了给予偷走了春天的 无良之人\n与之相应的命运铁锤", "emotion": ""}
-{"id": 203253, "unit_id": 2032, "voice_type_id": 53, "voice_text": "「大吉尼奥尔剧院的怪人　春之幕」", "emotion": ""}
+{"id": 203253, "unit_id": 2032, "voice_type_id": 53, "voice_text": "「猎奇剧团里的怪人　春之幕」", "emotion": ""}
 {"id": 203254, "unit_id": 2032, "voice_type_id": 54, "voice_text": "可恶！", "emotion": ""}
 {"id": 203255, "unit_id": 2032, "voice_type_id": 55, "voice_text": "喂！", "emotion": ""}
 {"id": 203256, "unit_id": 2032, "voice_type_id": 56, "voice_text": "没什么大不了的", "emotion": ""}
@@ -11945,7 +11945,7 @@
 {"id": 303250, "unit_id": 3032, "voice_type_id": 50, "voice_text": "紫符「知识的帕秋莉人偶」", "emotion": ""}
 {"id": 303251, "unit_id": 3032, "voice_type_id": 51, "voice_text": "　　爱丽　丝\n也不知 的　故事", "emotion": ""}
 {"id": 303252, "unit_id": 3032, "voice_type_id": 52, "voice_text": "即将 落下帷幕　\n人偶们啊 打声招呼吧", "emotion": ""}
-{"id": 303253, "unit_id": 3032, "voice_type_id": 53, "voice_text": "「大吉尼奥尔剧院的怪人 谢幕 」", "emotion": ""}
+{"id": 303253, "unit_id": 3032, "voice_type_id": 53, "voice_text": "「猎奇剧团里的怪人 谢幕 」", "emotion": ""}
 {"id": 303254, "unit_id": 3032, "voice_type_id": 54, "voice_text": "呜", "emotion": ""}
 {"id": 303255, "unit_id": 3032, "voice_type_id": 55, "voice_text": "不要", "emotion": ""}
 {"id": 303256, "unit_id": 3032, "voice_type_id": 56, "voice_text": "没事……我没事", "emotion": ""}
@@ -13803,7 +13803,7 @@
 {"id": 503723, "unit_id": 5037, "voice_type_id": 23, "voice_text": "你说太硬了？ 那我现在就把它摘下来。", "emotion": "5"}
 {"id": 503724, "unit_id": 5037, "voice_type_id": 24, "voice_text": "乖孩子乖孩子。你睡得真安详。", "emotion": "6"}
 {"id": 503725, "unit_id": 5037, "voice_type_id": 25, "voice_text": "我不会再放开你了。我要抱紧你！", "emotion": ""}
-{"id": 503726, "unit_id": 5037, "voice_type_id": 26, "voice_text": "乘风前往星空的比方吧！", "emotion": ""}
+{"id": 503726, "unit_id": 5037, "voice_type_id": 26, "voice_text": "乘风前往星空的彼方吧！", "emotion": ""}
 {"id": 503727, "unit_id": 5037, "voice_type_id": 27, "voice_text": "祈祷也好许愿也好……我东风谷早苗不会让它们结束。我们前进吧！", "emotion": ""}
 {"id": 503728, "unit_id": 5037, "voice_type_id": 28, "voice_text": "好奇怪—。这身装备应该没问题才对诶", "emotion": ""}
 {"id": 503729, "unit_id": 5037, "voice_type_id": 29, "voice_text": "那么！", "emotion": ""}
@@ -14019,10 +14019,10 @@
 {"id": 505344, "unit_id": 5053, "voice_type_id": 44, "voice_text": "你忍得了吗", "emotion": ""}
 {"id": 505345, "unit_id": 5053, "voice_type_id": 45, "voice_text": "地底的燃料\n尽归我掌控", "emotion": ""}
 {"id": 505346, "unit_id": 5053, "voice_type_id": 46, "voice_text": "现身吧 地底的太阳　\n烧尽一切吧", "emotion": ""}
-{"id": 505347, "unit_id": 5053, "voice_type_id": 47, "voice_text": "「地狱的人造太阳」", "emotion": ""}
+{"id": 505347, "unit_id": 5053, "voice_type_id": 47, "voice_text": "「地底太阳」", "emotion": ""}
 {"id": 505348, "unit_id": 5053, "voice_type_id": 48, "voice_text": "我 正是\n地底的新星", "emotion": ""}
 {"id": 505349, "unit_id": 5053, "voice_type_id": 49, "voice_text": "看吧 星之闪耀　\n不只存在于天空", "emotion": ""}
-{"id": 505350, "unit_id": 5053, "voice_type_id": 50, "voice_text": "「Abyss Nova」", "emotion": ""}
+{"id": 505350, "unit_id": 5053, "voice_type_id": 50, "voice_text": "「深渊新星」", "emotion": ""}
 {"id": 505351, "unit_id": 5053, "voice_type_id": 51, "voice_text": "照亮整个地底的　\n双子太阳", "emotion": ""}
 {"id": 505352, "unit_id": 5053, "voice_type_id": 52, "voice_text": "这正是　\n我真正的身姿", "emotion": ""}
 {"id": 505353, "unit_id": 5053, "voice_type_id": 53, "voice_text": "「地底中心的双子星」", "emotion": ""}
@@ -15598,7 +15598,7 @@
 {"id": 704463, "unit_id": 7044, "voice_type_id": 63, "voice_text": "万分感谢！", "emotion": ""}
 {"id": 704464, "unit_id": 7044, "voice_type_id": 64, "voice_text": "我觉得自己没有发挥出式神的力量。我是被骗了吗？", "emotion": ""}
 {"id": 704465, "unit_id": 7044, "voice_type_id": 65, "voice_text": "“前鬼和后鬼是一心同体的存在。我们的命是主人大人捡来的，所以我们的使命是守护主人大人一辈子。”", "emotion": ""}
-{"id": 706201, "unit_id": 7062, "voice_type_id": 1, "voice_text": "我明明是在经由灵界以及梦之国进行探索，没想到会来到这种世界。我是露娜萨·普莉兹姆利巴，是骚灵音乐家。我在和妹妹们分头寻找解决我的世界的异变的方法。没有人比我们骚灵更擅长追寻连绵不断的音乐记忆。幺乐団也一定会这么做吧。你愿不愿意帮助我？", "emotion": ""}
+{"id": 706201, "unit_id": 7062, "voice_type_id": 1, "voice_text": "我明明是在经由灵界以及梦之国进行探索，没想到会来到这种世界。我是露娜萨·普莉兹姆利巴，是骚灵音乐家。我在和妹妹们分头寻找解决我的世界的异变的方法。没有人比我们骚灵更擅长追寻连绵不断的音乐记忆。幺乐团也一定会这么做吧。你愿不愿意帮助我？", "emotion": ""}
 {"id": 706202, "unit_id": 7062, "voice_type_id": 2, "voice_text": "我记得你手中的乐器是……。对了，我想起来。", "emotion": "5"}
 {"id": 706203, "unit_id": 7062, "voice_type_id": 3, "voice_text": "在外面世界，骚灵会被称为“波尔代热斯现象”。", "emotion": "1"}
 {"id": 706204, "unit_id": 7062, "voice_type_id": 4, "voice_text": "或许有些难以理解，但据说“音乐连锁体”能够跨越世界存在。我是听幽幽子小姐和阎魔大人说的。", "emotion": "10"}
@@ -16053,6 +16053,71 @@
 {"id": 803863, "unit_id": 8038, "voice_type_id": 63, "voice_text": "谢谢姐姐！", "emotion": ""}
 {"id": 803864, "unit_id": 8038, "voice_type_id": 64, "voice_text": "虽然神奈的年龄要大很多吧。", "emotion": ""}
 {"id": 803865, "unit_id": 8038, "voice_type_id": 65, "voice_text": "是小诹访先打的铁。但是后来的神奈和小诹访彻彻底底打了一架。诶嘿嘿。", "emotion": ""}
+{"id": 803901, "unit_id": 8039, "voice_type_id": 1, "voice_text": "あっ、旧人類のお姉ちゃん！ 諏訪、迷子になっちゃいました。でも自力で早苗のところまで帰れるから、心配しなくていいですよ？ 諏訪は、洩矢諏訪子。ちっちゃくたって一人前の神様です。……え？ 心配だからついてくる？ いや、頼んでないし。ちょっ、こっち来んな。それ以上近づかないほうが身のためですよ。ミシャグジ様に通報しちゃいますよ?？", "emotion": ""}
+{"id": 803902, "unit_id": 8039, "voice_type_id": 2, "voice_text": "旧人類は科学を選んだくせに、今さら諏訪に頼られても。", "emotion": ""}
+{"id": 803903, "unit_id": 8039, "voice_type_id": 3, "voice_text": "少ない信仰に適応した省エネモードです。縮んだんじゃあないですよ？", "emotion": ""}
+{"id": 803904, "unit_id": 8039, "voice_type_id": 4, "voice_text": "神様は、胡散臭いから信仰されなくなるんじゃあないんです。神様に頼らなくていいやってなっちゃうのが、不信の原因。幼い頃は散々甘えてたくせに。", "emotion": ""}
+{"id": 803905, "unit_id": 8039, "voice_type_id": 5, "voice_text": "河童や天狗、そして鬼たちは、様々な金属を必要としています。諏訪たちの、製鉄を基礎とした各種冶金技術で、妖怪たちの信仰を稼げるってことですよ。まあ、二束三文な信仰心ですけどね……。", "emotion": ""}
+{"id": 803906, "unit_id": 8039, "voice_type_id": 6, "voice_text": "諏訪と神奈ちゃんが製鉄をやっているのは、本当は早苗のためです。他は副産物みたいなもの。それでも、金属みたいな分かりやすい御利益なら、なけなしの信仰心でも多少は効率がいいので。", "emotion": ""}
+{"id": 803907, "unit_id": 8039, "voice_type_id": 7, "voice_text": "諏訪たちは、鬼を新しい神様に、神様と妖怪を新しい人間に再定義して、信仰を通貨にした精神文明で暮らしてきました。幻想郷という未来もありえたなんて……。せっかく知った、もしもの世界。早苗のためにも、神奈ちゃんと一緒に頑張ってみようって……お姉ちゃんのお陰で思わなくもないかな。", "emotion": ""}
+{"id": 803908, "unit_id": 8039, "voice_type_id": 8, "voice_text": "神奈ちゃんとは喧嘩友達でもあるので、敗けられません！", "emotion": ""}
+{"id": 803909, "unit_id": 8039, "voice_type_id": 9, "voice_text": "早苗が迎えに来るまでは、ここでゆっくりします。『幻想郷』って面白い場所ですね?。……あ、それ以上は近づくな？", "emotion": ""}
+{"id": 803910, "unit_id": 8039, "voice_type_id": 10, "voice_text": "お姉ちゃん、両手出して。いいモノあげます。ほら……ガチャリ。特製鉄輪の手錠で?す。うふふ、と?ってもお似合いですよ！", "emotion": ""}
+{"id": 803911, "unit_id": 8039, "voice_type_id": 11, "voice_text": "今、諏訪が指を掛けている、この小さな鉄輪を引っ張ると……ミシャグジ様がい?っぱい駆けつけてくるんですよ。ちょいちょいっ。ちょいちょいっ！", "emotion": ""}
+{"id": 803912, "unit_id": 8039, "voice_type_id": 12, "voice_text": "神奈ちゃんに手を出したら本気で冗談じゃ済ませませんからねそれだけは絶対にお姉ちゃんの肝に銘じておいて下さいこれマジですから。", "emotion": ""}
+{"id": 803913, "unit_id": 8039, "voice_type_id": 13, "voice_text": "雪解け水が木々を育み、鉄を作る燃料になります。旧人類は、それに甘えて生きるしかないんです。本っ当にダメ人類ですねェ！", "emotion": ""}
+{"id": 803914, "unit_id": 8039, "voice_type_id": 14, "voice_text": "鑪ら場の如き暑い夏こそ、山の木々を生長させるんです。お姉ちゃんはバテバテですか?？ ……ちょ、マジの脱水気味じゃん！ はい、お水！", "emotion": ""}
+{"id": 803915, "unit_id": 8039, "voice_type_id": 15, "voice_text": "幻想郷の人里では、秋の実りを感謝するお祭りが催されるんですね。旧人類にしてはなかなかやる……なんでもないです！", "emotion": ""}
+{"id": 803916, "unit_id": 8039, "voice_type_id": 16, "voice_text": "寒いと動きづらい……。でも、神社には毎日行かないと……！ あのですね、七不思議なんかじゃなくて、努力なんですっ！", "emotion": ""}
+{"id": 803917, "unit_id": 8039, "voice_type_id": 17, "voice_text": "まだ課題終わってないんですか?？ よっわ。よわよわ?！", "emotion": ""}
+{"id": 803918, "unit_id": 8039, "voice_type_id": 18, "voice_text": "課題や?っと終わったんだ？ よしよししてほしい？ ん?？", "emotion": ""}
+{"id": 803919, "unit_id": 8039, "voice_type_id": 19, "voice_text": "はい！ 伝書読んで、お姉ちゃん！", "emotion": ""}
+{"id": 803920, "unit_id": 8039, "voice_type_id": 20, "voice_text": "諏訪を弾幕ごっこに巻き込むなんて……まあ楽しかったですが。", "emotion": ""}
+{"id": 803921, "unit_id": 8039, "voice_type_id": 21, "voice_text": "誰か帰ったね。ドーナツあったかな？ 諏訪、ドーナツだ?いすき！ ……え、幻想郷にあるか微妙なの！？", "emotion": ""}
+{"id": 803922, "unit_id": 8039, "voice_type_id": 22, "voice_text": "さっきからなんでずっと黙ってるんです……？", "emotion": ""}
+{"id": 803923, "unit_id": 8039, "voice_type_id": 23, "voice_text": "ご、ごめんなさい、ちょっと言い過ぎ……なんだ、寝てるだけか。", "emotion": ""}
+{"id": 803924, "unit_id": 8039, "voice_type_id": 24, "voice_text": "しょうがないお姉ちゃんね。膝枕……は無理だから、毛布掛けてあげよっと。", "emotion": ""}
+{"id": 803925, "unit_id": 8039, "voice_type_id": 25, "voice_text": "あっれれ?おかしいな?？ なんで諏訪が戦闘に?？", "emotion": ""}
+{"id": 803926, "unit_id": 8039, "voice_type_id": 26, "voice_text": "うっわ?、大したことな?い！", "emotion": ""}
+{"id": 803927, "unit_id": 8039, "voice_type_id": 27, "voice_text": "悔しい？ こーんなちっちゃい諏訪に敗けちゃって、悔しいんでしょ？", "emotion": ""}
+{"id": 803928, "unit_id": 8039, "voice_type_id": 28, "voice_text": "へ、へえ?、結構やるじゃん。ちょっとビックリしちゃったかも？", "emotion": ""}
+{"id": 803929, "unit_id": 8039, "voice_type_id": 29, "voice_text": "ぼっちなの？", "emotion": ""}
+{"id": 803930, "unit_id": 8039, "voice_type_id": 30, "voice_text": "社会不適合なの?？", "emotion": ""}
+{"id": 803931, "unit_id": 8039, "voice_type_id": 31, "voice_text": "はい通報ぽちィ", "emotion": ""}
+{"id": 803932, "unit_id": 8039, "voice_type_id": 32, "voice_text": "きンも?", "emotion": ""}
+{"id": 803933, "unit_id": 8039, "voice_type_id": 33, "voice_text": "ダッサ?", "emotion": ""}
+{"id": 803934, "unit_id": 8039, "voice_type_id": 34, "voice_text": "うわぁ、こっわ?い！", "emotion": ""}
+{"id": 803935, "unit_id": 8039, "voice_type_id": 35, "voice_text": "これがいいんだ?？", "emotion": ""}
+{"id": 803936, "unit_id": 8039, "voice_type_id": 36, "voice_text": "え、マジでやめて？", "emotion": ""}
+{"id": 803937, "unit_id": 8039, "voice_type_id": 37, "voice_text": "お姉ちゃんなのに頼み事？", "emotion": ""}
+{"id": 803938, "unit_id": 8039, "voice_type_id": 38, "voice_text": "そんなこともできないんだ?", "emotion": ""}
+{"id": 803939, "unit_id": 8039, "voice_type_id": 39, "voice_text": "情けな?い！", "emotion": ""}
+{"id": 803940, "unit_id": 8039, "voice_type_id": 40, "voice_text": "既に終わってるみんな?！", "emotion": ""}
+{"id": 803941, "unit_id": 8039, "voice_type_id": 41, "voice_text": "またね、バイバ?イ", "emotion": ""}
+{"id": 803942, "unit_id": 8039, "voice_type_id": 42, "voice_text": "おぶっ、何、急に！？", "emotion": ""}
+{"id": 803943, "unit_id": 8039, "voice_type_id": 43, "voice_text": "諏訪の湖だよ?", "emotion": ""}
+{"id": 803944, "unit_id": 8039, "voice_type_id": 44, "voice_text": "ぴょーんぴょんっ?", "emotion": ""}
+{"id": 803945, "unit_id": 8039, "voice_type_id": 45, "voice_text": "■■■　■■■■　\n■■■■■■■■　■■■■", "emotion": ""}
+{"id": 803946, "unit_id": 8039, "voice_type_id": 46, "voice_text": "■■■■■■　■■■■■■　\n■■■■■■■　■■■■■■", "emotion": ""}
+{"id": 803947, "unit_id": 8039, "voice_type_id": 47, "voice_text": "源符「諏訪清水」", "emotion": ""}
+{"id": 803948, "unit_id": 8039, "voice_type_id": 48, "voice_text": "■■■■■■　■■■■■■　\n■■■■■■■■■■■？", "emotion": ""}
+{"id": 803949, "unit_id": 8039, "voice_type_id": 49, "voice_text": "■■　■■■■■　\n■■■■　■■■■■■■■！", "emotion": ""}
+{"id": 803950, "unit_id": 8039, "voice_type_id": 50, "voice_text": "土着神「七つの石と七つの木」", "emotion": ""}
+{"id": 803951, "unit_id": 8039, "voice_type_id": 51, "voice_text": "■■■■　■■■■■　\n■■■■■■　■■■■■■■■", "emotion": ""}
+{"id": 803952, "unit_id": 8039, "voice_type_id": 52, "voice_text": "■■■■■■■■■　\n■■■■■■■■■■■■■■■■■！", "emotion": ""}
+{"id": 803953, "unit_id": 8039, "voice_type_id": 53, "voice_text": "「湖沼鉄が実現した原始製鉄」", "emotion": ""}
+{"id": 803954, "unit_id": 8039, "voice_type_id": 54, "voice_text": "うぶっ", "emotion": ""}
+{"id": 803955, "unit_id": 8039, "voice_type_id": 55, "voice_text": "オボァ！？", "emotion": ""}
+{"id": 803956, "unit_id": 8039, "voice_type_id": 56, "voice_text": "おや？ おやおや?？", "emotion": ""}
+{"id": 803957, "unit_id": 8039, "voice_type_id": 57, "voice_text": "救いようがな?い！", "emotion": ""}
+{"id": 803958, "unit_id": 8039, "voice_type_id": 58, "voice_text": "諏訪に貢ぎ物?？", "emotion": ""}
+{"id": 803959, "unit_id": 8039, "voice_type_id": 59, "voice_text": "あーうー、なんで諏訪がやられるのー！？", "emotion": ""}
+{"id": 803960, "unit_id": 8039, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
+{"id": 803961, "unit_id": 8039, "voice_type_id": 61, "voice_text": "いいですよ?", "emotion": ""}
+{"id": 803962, "unit_id": 8039, "voice_type_id": 62, "voice_text": "えーどうしよっかな?", "emotion": ""}
+{"id": 803963, "unit_id": 8039, "voice_type_id": 63, "voice_text": "ありがと、お姉ちゃん?", "emotion": ""}
+{"id": 803964, "unit_id": 8039, "voice_type_id": 64, "voice_text": "諏訪のほうがだいぶお姉ちゃんですけどね。", "emotion": ""}
+{"id": 803965, "unit_id": 8039, "voice_type_id": 65, "voice_text": "神奈ちゃんとの喧嘩遊びは、鉄を使ったガチのやつですから。命が惜しいなら邪魔しないでね！", "emotion": ""}
 {"id": 1100301, "unit_id": 11003, "voice_type_id": 1, "voice_text": "流星的轨迹引导我来到了此地。魔法少女蕾米莉亚·斯卡雷特闪亮登场！魔法少女是这种感觉吧。芙兰喜欢魔法少女，所以我很了解这方面的事情。……什么？ 魔法少女应该更阳光一些？ 别想骗我。我知道最近也有酷酷的魔法少女。那么星之魔物在哪里呢？ 等一下！ 不要碰我的星枪～！", "emotion": ""}
 {"id": 1100302, "unit_id": 11003, "voice_type_id": 2, "voice_text": "这个世界存在拥有实体的月亮吗。这是和平的证据。", "emotion": "7"}
 {"id": 1100303, "unit_id": 11003, "voice_type_id": 3, "voice_text": "你所知道的红梦的魔女看来踏上了不同的命运呢。", "emotion": "5"}

@@ -506,6 +506,10 @@
 {"id": 740002, "event_id": 7400, "step_number": 2, "consume_point": 50, "target_reward_drop_group": 740021, "drop_group": 740022, "total_drop_value": 375}
 {"id": 740003, "event_id": 7400, "step_number": 3, "consume_point": 50, "target_reward_drop_group": 740031, "drop_group": 740032, "total_drop_value": 375}
 {"id": 740004, "event_id": 7400, "step_number": 4, "consume_point": 50, "target_reward_drop_group": 740041, "drop_group": 740042, "total_drop_value": 375}
+{"id": 740005, "event_id": 7400, "step_number": 5, "consume_point": 50, "target_reward_drop_group": 740051, "drop_group": 740052, "total_drop_value": 375}
+{"id": 740006, "event_id": 7400, "step_number": 6, "consume_point": 50, "target_reward_drop_group": 740061, "drop_group": 740062, "total_drop_value": 375}
+{"id": 740007, "event_id": 7400, "step_number": 7, "consume_point": 50, "target_reward_drop_group": 740071, "drop_group": 740072, "total_drop_value": 375}
+{"id": 740008, "event_id": 7400, "step_number": 8, "consume_point": 50, "target_reward_drop_group": 740081, "drop_group": 740082, "total_drop_value": 375}
 {"id": 746001, "event_id": 7460, "step_number": 1, "consume_point": 50, "target_reward_drop_group": 746011, "drop_group": 746012, "total_drop_value": 375}
 {"id": 746002, "event_id": 7460, "step_number": 2, "consume_point": 50, "target_reward_drop_group": 746021, "drop_group": 746022, "total_drop_value": 375}
 {"id": 746003, "event_id": 7460, "step_number": 3, "consume_point": 50, "target_reward_drop_group": 746031, "drop_group": 746032, "total_drop_value": 375}

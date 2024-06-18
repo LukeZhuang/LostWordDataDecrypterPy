@@ -107,7 +107,7 @@
 {"id": 102401, "unit_id": 1024, "stage": 0, "file_id": 1, "name": "被封印的大魔法使", "description": "圣白莲的日常穿着。\n黑白色的哥特风裙子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 102402, "unit_id": 1024, "stage": 0, "file_id": 2, "name": "兔耳摩托兵", "description": "荷取准备的摩托兵制服。\n头盔兔是识别队伍用的标志。", "album_visible": 1, "start_at": "2021-11-11 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 102403, "unit_id": 1024, "stage": 1, "file_id": 3, "name": "带来救济的白莲花", "description": "为白莲少女转生后特意准备的服装。\n以笔记簿中获取的情报为基础，在香霖堂制作完成。", "album_visible": 1, "start_at": "2022-04-25 14:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 102404, "unit_id": 1024, "stage": 0, "file_id": 4, "name": "密严浄土的念佛歌姬", "description": "白莲改造的乐队服装。 \n前往开悟（摇滚）的境界吧！南无三！", "album_visible": 0, "start_at": "2025-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 102404, "unit_id": 1024, "stage": 0, "file_id": 4, "name": "密严浄土的念佛歌姬", "description": "白莲改造的乐队服装。 \n前往开悟（摇滚）的境界吧！南无三！", "album_visible": 1, "start_at": "2024-07-02 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 102501, "unit_id": 1025, "stage": 0, "file_id": 1, "name": "独臂有角的仙人", "description": "茨木华扇的日常穿着。\n荆棘图案的褂布搭配绿色裙子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 102502, "unit_id": 1025, "stage": 0, "file_id": 2, "name": "冥顽不化的风纪委员长", "description": "八云紫参考外界的资料，\n为华扇准备的制服。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 102503, "unit_id": 1025, "stage": 0, "file_id": 3, "name": "神仙的满汉全席", "description": "华扇为料理比赛准备的比赛服。\n剪裁法和料理手法都是从美铃那学来的。", "album_visible": 1, "start_at": "2021-12-16 10:00:00", "end_at": "2030-12-31 23:59:59"}
@@ -211,13 +211,13 @@
 {"id": 105503, "unit_id": 1055, "stage": 0, "file_id": 3, "name": "祈愿健康成长的阎魔", "description": "映姬料理时穿的服装。\n木槌一样的厨具用起来十分顺手。", "album_visible": 1, "start_at": "2023-10-24 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105601, "unit_id": 1056, "stage": 0, "file_id": 1, "name": "地狱的女神", "description": "赫卡提亚·拉碧斯拉祖利的日常穿着。\n黑色时尚露肩上衣搭配三色裙子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105602, "unit_id": 1056, "stage": 0, "file_id": 2, "name": "失败了的话就惩罚你哟", "description": "透过画面的头领服装（赫卡提亚专用）。\n实际帽子上印有骷髅的标志。", "album_visible": 1, "start_at": "2022-02-10 14:00:00", "end_at": "2030-12-31 23:59:00"}
-{"id": 105603, "unit_id": 1056, "stage": 1, "file_id": 3, "name": "三重白色女神", "description": "少女转生的赫卡提亚的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2025-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 105603, "unit_id": 1056, "stage": 1, "file_id": 3, "name": "三重白色女神", "description": "少女转生的赫卡提亚的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-06-17 14:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105701, "unit_id": 1057, "stage": 0, "file_id": 1, "name": "※无名的服装", "description": "纯狐的日常穿着。\n像是袍服一样的红黑长裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105702, "unit_id": 1057, "stage": 0, "file_id": 2, "name": "无冠的女帝", "description": "纯狐的社交场服装。宇宙级的成熟风。 \n追根溯源是紫从香霖堂筹措来的。", "album_visible": 1, "start_at": "2022-01-10 14:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 105703, "unit_id": 1057, "stage": 1, "file_id": 3, "name": "充满狂气的空白", "description": "少女转生的纯狐的服装。 \n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2025-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 105703, "unit_id": 1057, "stage": 1, "file_id": 3, "name": "充满狂气的空白", "description": "少女转生的纯狐的服装。 \n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-06-17 14:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105801, "unit_id": 1058, "stage": 0, "file_id": 1, "name": "地狱的妖精", "description": "克劳恩皮丝的日常穿着。\n星条旗纹样的小丑风服装和长袜。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105802, "unit_id": 1058, "stage": 0, "file_id": 2, "name": "地狱的女神的爱徒", "description": "克劳恩皮丝最华丽的衣服。\n香霖堂出借的服装之一。", "album_visible": 1, "start_at": "2022-03-01 02:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 105803, "unit_id": 1058, "stage": 1, "file_id": 3, "name": "白色地狱妖精", "description": "少女转生的克劳恩皮丝的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2025-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 105803, "unit_id": 1058, "stage": 1, "file_id": 3, "name": "白色地狱妖精", "description": "少女转生的克劳恩皮丝的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-06-17 14:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105901, "unit_id": 1059, "stage": 0, "file_id": 1, "name": "寂寞与终焉的象征", "description": "秋静叶的日常穿着。\n收身的红衬衣配上红叶图案的裙子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105902, "unit_id": 1059, "stage": 1, "file_id": 2, "name": "白金的白色落叶", "description": "少女转生的静叶的服装。\n香霖堂根据由笔记本抽取的信息制成。", "album_visible": 1, "start_at": "2023-06-26 14:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 105903, "unit_id": 1059, "stage": 0, "file_id": 3, "name": "冬天忧郁的红叶艺术家", "description": "静叶冬天出门时的服装。\n你知道吗？静叶其实是天赋异禀的艺术家哦。", "album_visible": 1, "start_at": "2023-12-19 02:00:00", "end_at": "2030-12-31 23:59:59"}
@@ -238,7 +238,7 @@
 {"id": 106403, "unit_id": 1064, "stage": 1, "file_id": 3, "name": "白色的风琴手", "description": "少女转生的莉莉卡的服装。\n香霖堂根据由笔记本抽取的信息制成。", "album_visible": 1, "start_at": "2023-06-05 14:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 106501, "unit_id": 1065, "stage": 0, "file_id": 1, "name": "最凶最恶的双子之妹", "description": "依神女苑的日常穿着。\n名流风的一身搭配。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 106502, "unit_id": 1065, "stage": 0, "file_id": 2, "name": "疫病怪盗女苑", "description": "酝酿赤色之凶兆的怪盗服装（女苑专用）。\n最凶义贼，她名叫公主·女苑！", "album_visible": 1, "start_at": "2022-01-05 02:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 106504, "unit_id": 1065, "stage": 0, "file_id": 4, "name": "贪婪的生意", "description": "女苑的乐队服装。\nT恤上的字是白莲亲手写的。", "album_visible": 0, "start_at": "2025-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 106504, "unit_id": 1065, "stage": 0, "file_id": 4, "name": "贪婪的生意", "description": "女苑的乐队服装。\nT恤上的字是白莲亲手写的。", "album_visible": 1, "start_at": "2024-07-02 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 106601, "unit_id": 1066, "stage": 0, "file_id": 1, "name": "最凶最恶的双子之姐", "description": "依神紫苑的日常穿着。\n不吉利的补丁连帽卫衣搭配迷你裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 106602, "unit_id": 1066, "stage": 0, "file_id": 2, "name": "快支付精力的账单", "description": "引出精力的特殊装束(紫苑用)。 \n按霖之助所说，助威就要戴手套。", "album_visible": 1, "start_at": "2022-01-05 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 106604, "unit_id": 1066, "stage": 0, "file_id": 4, "name": "想在这里建房子", "description": "玩味旧地狱温泉街的服装(紫苑专用)。\n泡完温泉后的牛奶和温泉馒头……真是太幸福了！", "album_visible": 1, "start_at": "2024-05-07 02:00:00", "end_at": "2030-12-31 23:59:59"}

@@ -111,6 +111,7 @@
 {"id": 793, "name": "伙伴精选特别祝词", "description": "有效期至2024年01月02日 01:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1093}
 {"id": 794, "name": "泳装特殊祝词-多多良小伞", "description": "有效期至2024年01月09日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1094}
 {"id": 795, "name": "泳装特殊祝词-红梦的魔女", "description": "有效期至2024年05月28日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1095}
+{"id": 796, "name": "泳装特殊祝词-西行寺幽幽子", "description": "有效期至2024年07月16日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1096}
 {"id": 801, "name": "缘环", "description": "连接着少女们拥有的多样可能性，并选取其中之一的道具。", "rare": 5, "type": 8, "effect_type": 1, "display_order": 50}
 {"id": 802, "name": "命运镜", "description": "蕴藏着能增强少女们命运力量的奇妙的镜子。", "rare": 5, "type": 12, "effect_type": 0, "display_order": 80}
 {"id": 900, "name": "无名转生镜", "description": "无主的转生镜。可以作为已记名转生镜使用。", "rare": 5, "type": 8, "effect_type": 0, "display_order": 5901}

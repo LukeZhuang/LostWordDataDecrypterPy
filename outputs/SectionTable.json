@@ -54,6 +54,8 @@
 {"id": 1013103, "chapter_id": 1013, "mode": 1, "title": "特殊章节3 在3/8岛 幽冥回", "sub_title": "寿司、寿司寿司？寿司寿司！寿司。", "number": 3, "costume_id": 501001, "unit_speech_group_id": 1152, "open_type": 0}
 {"id": 1014001, "chapter_id": 1014, "mode": 0, "title": "第6节 红外线之心", "sub_title": "在帝都的生活很满足。即，幸福。", "number": 1, "costume_id": 600301, "unit_speech_group_id": 878, "open_type": 1}
 {"id": 1014002, "chapter_id": 1014, "mode": 0, "title": "第7节 真正的怪兽", "sub_title": "驯服自己心中的怪兽", "number": 2, "costume_id": 600401, "unit_speech_group_id": 879, "open_type": 1}
+{"id": 1015001, "chapter_id": 1015, "mode": 0, "title": "第8节 卫星都市", "sub_title": "推动帝都的庞大能量到底来自何方？", "number": 1, "costume_id": 203601, "unit_speech_group_id": 1175, "open_type": 1}
+{"id": 1015002, "chapter_id": 1015, "mode": 0, "title": "第9节 欢迎来到温泉乡", "sub_title": "穿过大门，那里便是『温泉之国』。", "number": 2, "costume_id": 208401, "unit_speech_group_id": 1176, "open_type": 1}
 {"id": 2001000, "chapter_id": 2001, "mode": 0, "title": "半人半灵的一日女仆", "sub_title": "", "number": 1, "costume_id": 100201, "unit_speech_group_id": 2, "open_type": 0}
 {"id": 2002000, "chapter_id": 2002, "mode": 0, "title": "玉兔VS河童！大生存游戏祭", "sub_title": "", "number": 1, "costume_id": 104001, "unit_speech_group_id": 36, "open_type": 0}
 {"id": 2003000, "chapter_id": 2003, "mode": 0, "title": "本居小铃的事件簿", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
@@ -187,13 +189,18 @@
 {"id": 2087001, "chapter_id": 2087, "mode": 1, "title": "特殊章节 畅快！犯规解决代理人", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 334, "open_type": 0}
 {"id": 2089000, "chapter_id": 2089, "mode": 0, "title": "野兽梦幻沙龙 欢迎来到！", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 864, "open_type": 0}
 {"id": 2089001, "chapter_id": 2089, "mode": 1, "title": "特殊章节 野兽梦幻沙龙 欢迎来到！", "sub_title": "", "number": 1, "costume_id": 107203, "unit_speech_group_id": 865, "open_type": 0}
+{"id": 2090000, "chapter_id": 2090, "mode": 0, "title": "「[幻想乡派送传]帮帮忙支援者们」", "sub_title": "", "number": 1, "costume_id": 104003, "unit_speech_group_id": 348, "open_type": 0}
+{"id": 2090001, "chapter_id": 2090, "mode": 1, "title": "特殊章节 「[幻想乡派送传]帮帮忙支援者们」", "sub_title": "", "number": 1, "costume_id": 111803, "unit_speech_group_id": 349, "open_type": 0}
 {"id": 2092000, "chapter_id": 2092, "mode": 0, "title": "三宿中有纠纷！？旧地狱暖洋洋温泉纪行", "sub_title": "", "number": 1, "costume_id": 100308, "unit_speech_group_id": 914, "open_type": 0}
 {"id": 2092001, "chapter_id": 2092, "mode": 1, "title": "特殊章节 三宿中有纠纷！？旧地狱暖洋洋温泉纪行", "sub_title": "", "number": 1, "costume_id": 103801, "unit_speech_group_id": 915, "open_type": 0}
 {"id": 2095000, "chapter_id": 2095, "mode": 0, "title": "在哆来咪乐园注入愿望", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 964, "open_type": 0}
 {"id": 2095001, "chapter_id": 2095, "mode": 1, "title": "特殊章节 在哆来咪乐园注入愿望", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 965, "open_type": 0}
+{"id": 2099000, "chapter_id": 2099, "mode": 0, "title": "呐喊", "sub_title": "", "number": 1, "costume_id": 106504, "unit_speech_group_id": 1052, "open_type": 0}
+{"id": 2099001, "chapter_id": 2099, "mode": 1, "title": "特殊章节 呐喊", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1053, "open_type": 0}
 {"id": 2106000, "chapter_id": 2106, "mode": 0, "title": "宇佐见莲子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2107000, "chapter_id": 2107, "mode": 0, "title": "玛艾露贝莉·赫恩体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2111000, "chapter_id": 2111, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2112000, "chapter_id": 2112, "mode": 0, "title": "西行寺幽幽子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
