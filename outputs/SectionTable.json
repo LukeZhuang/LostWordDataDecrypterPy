@@ -52,6 +52,7 @@
 {"id": 1013101, "chapter_id": 1013, "mode": 1, "title": "特殊章节1 在1/8岛 小伞回", "sub_title": "小伞，加油", "number": 1, "costume_id": 207601, "unit_speech_group_id": 978, "open_type": 0}
 {"id": 1013102, "chapter_id": 1013, "mode": 1, "title": "特殊章节2 在2/8岛 魔理沙(？)回", "sub_title": "啊，你……！怎么会在这里！？", "number": 2, "costume_id": 1300201, "unit_speech_group_id": 1133, "open_type": 0}
 {"id": 1013103, "chapter_id": 1013, "mode": 1, "title": "特殊章节3 在3/8岛 幽冥回", "sub_title": "寿司、寿司寿司？寿司寿司！寿司。", "number": 3, "costume_id": 501001, "unit_speech_group_id": 1152, "open_type": 0}
+{"id": 1013104, "chapter_id": 1013, "mode": 1, "title": "特殊章节4 在1/8岛 赤蛮奇回", "sub_title": "但是，并没有说用棒球来决胜负。", "number": 4, "costume_id": 207901, "unit_speech_group_id": 1177, "open_type": 0}
 {"id": 1014001, "chapter_id": 1014, "mode": 0, "title": "第6节 红外线之心", "sub_title": "在帝都的生活很满足。即，幸福。", "number": 1, "costume_id": 600301, "unit_speech_group_id": 878, "open_type": 1}
 {"id": 1014002, "chapter_id": 1014, "mode": 0, "title": "第7节 真正的怪兽", "sub_title": "驯服自己心中的怪兽", "number": 2, "costume_id": 600401, "unit_speech_group_id": 879, "open_type": 1}
 {"id": 1015001, "chapter_id": 1015, "mode": 0, "title": "第8节 卫星都市", "sub_title": "推动帝都的庞大能量到底来自何方？", "number": 1, "costume_id": 203601, "unit_speech_group_id": 1175, "open_type": 1}
@@ -193,6 +194,8 @@
 {"id": 2090001, "chapter_id": 2090, "mode": 1, "title": "特殊章节 「[幻想乡派送传]帮帮忙支援者们」", "sub_title": "", "number": 1, "costume_id": 111803, "unit_speech_group_id": 349, "open_type": 0}
 {"id": 2092000, "chapter_id": 2092, "mode": 0, "title": "三宿中有纠纷！？旧地狱暖洋洋温泉纪行", "sub_title": "", "number": 1, "costume_id": 100308, "unit_speech_group_id": 914, "open_type": 0}
 {"id": 2092001, "chapter_id": 2092, "mode": 1, "title": "特殊章节 三宿中有纠纷！？旧地狱暖洋洋温泉纪行", "sub_title": "", "number": 1, "costume_id": 103801, "unit_speech_group_id": 915, "open_type": 0}
+{"id": 2093000, "chapter_id": 2093, "mode": 0, "title": "「[奔走于夜间]黑衣的摄影师」", "sub_title": "", "number": 1, "costume_id": 104405, "unit_speech_group_id": 366, "open_type": 0}
+{"id": 2093001, "chapter_id": 2093, "mode": 1, "title": "特殊章节 「[奔走于夜间]黑衣的摄影师」", "sub_title": "", "number": 1, "costume_id": 100901, "unit_speech_group_id": 367, "open_type": 0}
 {"id": 2095000, "chapter_id": 2095, "mode": 0, "title": "在哆来咪乐园注入愿望", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 964, "open_type": 0}
 {"id": 2095001, "chapter_id": 2095, "mode": 1, "title": "特殊章节 在哆来咪乐园注入愿望", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 965, "open_type": 0}
 {"id": 2099000, "chapter_id": 2099, "mode": 0, "title": "呐喊", "sub_title": "", "number": 1, "costume_id": 106504, "unit_speech_group_id": 1052, "open_type": 0}
@@ -201,6 +204,7 @@
 {"id": 2107000, "chapter_id": 2107, "mode": 0, "title": "玛艾露贝莉·赫恩体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2111000, "chapter_id": 2111, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2112000, "chapter_id": 2112, "mode": 0, "title": "西行寺幽幽子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2113000, "chapter_id": 2113, "mode": 0, "title": "魂魄妖梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

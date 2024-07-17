@@ -44,6 +44,8 @@
 {"id": 104901, "target_name": "星熊勇仪", "target_unit_id": 1049, "priority": 56, "costume_id": 104901, "unit_speech_group_id": 524}
 {"id": 105001, "target_name": "古明地觉", "target_unit_id": 1050, "priority": 42, "costume_id": 105001, "unit_speech_group_id": 369}
 {"id": 105101, "target_name": "古明地恋", "target_unit_id": 1051, "priority": 43, "costume_id": 105101, "unit_speech_group_id": 370}
+{"id": 105401, "target_name": "小野塚小町", "target_unit_id": 1054, "priority": 68, "costume_id": 105401, "unit_speech_group_id": 674}
+{"id": 105501, "target_name": "四季映姬·夜摩仙那度", "target_unit_id": 1055, "priority": 69, "costume_id": 105501, "unit_speech_group_id": 675}
 {"id": 105601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 1056, "priority": 65, "costume_id": 105601, "unit_speech_group_id": 671}
 {"id": 105701, "target_name": "纯狐", "target_unit_id": 1057, "priority": 66, "costume_id": 105701, "unit_speech_group_id": 672}
 {"id": 105801, "target_name": "克劳恩皮丝", "target_unit_id": 1058, "priority": 67, "costume_id": 105801, "unit_speech_group_id": 673}
@@ -65,6 +67,7 @@
 {"id": 109201, "target_name": "物部布都", "target_unit_id": 1092, "priority": 72, "costume_id": 109201, "unit_speech_group_id": 722}
 {"id": 109301, "target_name": "苏我屠自古", "target_unit_id": 1093, "priority": 73, "costume_id": 109301, "unit_speech_group_id": 723}
 {"id": 110501, "target_name": "堀川雷鼓", "target_unit_id": 1105, "priority": 55, "costume_id": 110501, "unit_speech_group_id": 523}
+{"id": 111201, "target_name": "庭渡久侘歌", "target_unit_id": 1112, "priority": 70, "costume_id": 111201, "unit_speech_group_id": 676}
 {"id": 200201, "target_name": "雾雨魔理沙", "target_unit_id": 2002, "priority": 62, "costume_id": 200201, "unit_speech_group_id": 621}
 {"id": 200301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 2003, "priority": 99, "costume_id": 200301, "unit_speech_group_id": 972}
 {"id": 200501, "target_name": "十六夜咲夜", "target_unit_id": 2005, "priority": 97, "costume_id": 200501, "unit_speech_group_id": 971}

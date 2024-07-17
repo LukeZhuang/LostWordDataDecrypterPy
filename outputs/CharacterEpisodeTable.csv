@@ -45,6 +45,8 @@ id,unit_id,title,sub_title,number,comic_filepath
 104901,1049,衣装解放,转生系谱,59,CharacterQuest/1049/Episode1.asset
 105001,1050,衣装解放,转生系谱,44,CharacterQuest/1050/Episode1.asset
 105101,1051,衣装解放,转生系谱,45,CharacterQuest/1051/Episode1.asset
+105401,1054,衣装解放,转生系谱,70,CharacterQuest/1054/Episode1.asset
+105501,1055,衣装解放,转生系谱,71,CharacterQuest/1055/Episode1.asset
 105601,1056,衣装解放,转生系谱,67,CharacterQuest/1056/Episode1.asset
 105701,1057,衣装解放,转生系谱,66,CharacterQuest/1057/Episode1.asset
 105801,1058,衣装解放,转生系谱,65,CharacterQuest/1058/Episode1.asset
@@ -66,3 +68,4 @@ id,unit_id,title,sub_title,number,comic_filepath
 109201,1092,衣装解放,转生系谱,69,CharacterQuest/1092/Episode1.asset
 109301,1093,衣装解放,转生系谱,68,CharacterQuest/1093/Episode1.asset
 110501,1105,衣装解放,转生系谱,55,CharacterQuest/1105/Episode1.asset
+111201,1112,衣装解放,转生系谱,72,CharacterQuest/1112/Episode1.asset
