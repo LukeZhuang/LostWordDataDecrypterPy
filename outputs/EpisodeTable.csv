@@ -2291,6 +2291,32 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 209500103,2095,2095001,超高速茶会,追加游乐设施 其2,3,0,209547,209550,209553,Event39/Extra/Episode2.asset,1,(empty),0
 209500104,2095,2095001,那是，不存在的,追加游乐设施 其3,4,0,209548,209551,209554,Event39/Extra/Episode3.asset,1,(empty),0
 209500105,2095,2095001,如春梦，如永久,闭幕,5,1,0,0,0,Event39/Extra/Episode4.asset,1,(empty),0
+209800001,2098,2098000,此思念，响彻彼方的VOICE,序幕,1,1,0,0,0,Event28/Episode0.asset,0,(empty),1
+209800002,2098,2098000,别吵了，Two-Piece Band,Tour Day1,2,1,0,0,0,Event28/Episode1.asset,1,(empty),1
+209800003,2098,2098000,遥远地底的，小小的BRAVERY,Tour Day2,3,0,209801,209816,209831,Event28/Episode2.asset,1,(empty),1
+209800004,2098,2098000,相遇总会伴随ACCIDENT,Tour Day3,4,1,0,0,0,Event28/Episode3.asset,1,(empty),1
+209800005,2098,2098000,开演的，优美OPERETTA,Tour Day4,5,0,209802,209817,209832,Event28/Episode4.asset,1,(empty),1
+209800006,2098,2098000,在这个世界，华丽歌唱,MC 第1回,6,0,209803,209818,209833,Event28/FreeBattle1.asset,1,(empty),1
+209800007,2098,2098000,蔓延开的不安，就像Sound Wave,Tour Day5,7,1,0,0,0,Event28/Episode5.asset,2,{"start_at":"2024-08-14 00:00:00"},1
+209800008,2098,2098000,此勇气，萌发MOMENT,Tour Day6,8,1,0,0,0,Event28/Episode6.asset,1,(empty),1
+209800009,2098,2098000,觉醒吧！ 踢开吧！ 向内心Shooting！,Tour Day7,9,0,209804,209819,209834,Event28/Episode7.asset,1,(empty),1
+209800010,2098,2098000,到来的是，无可救药的TRAGEDY,Tour Day8,10,0,209805,209820,209835,Event28/Episode8.asset,1,(empty),1
+209800011,2098,2098000,觉醒，Rocking VOICE！！,Tour Day9,11,0,209806,209821,209836,Event28/Episode9.asset,1,(empty),1
+209800012,2098,2098000,黎明，开始的LEGEND,Tour Day10,12,0,209807,209822,209837,Event28/Episode10.asset,1,(empty),1
+209800013,2098,2098000,邂逅，然后LIVE or LIVE,Tour Day11,13,0,209808,209823,209838,Event28/Episode11.asset,2,{"start_at":"2024-08-15 00:00:00"},1
+209800014,2098,2098000,旋转吧，起舞吧，华丽地,MC 第2回,14,0,209809,209824,209839,Event28/FreeBattle2.asset,1,(empty),1
+209800015,2098,2098000,山野震响，炽热Aesthetic,Tour Day12,15,0,209810,209825,209840,Event28/Episode12.asset,1,(empty),1
+209800016,2098,2098000,跑起来，永不停息止的SOUL！,Tour Day13,16,0,209811,209826,209841,Event28/Episode13.asset,1,(empty),1
+209800017,2098,2098000,呐喊吧，登上去，明天空的Stage！,Tour Day14,17,0,209812,209827,209842,Event28/Episode14.asset,1,(empty),1
+209800018,2098,2098000,Finale后的痛苦，还为时过早,Tour Day15,18,0,209813,209828,209843,Event28/Episode15.asset,2,{"start_at":"2024-08-16 00:00:00"},1
+209800019,2098,2098000,继续挣扎，朝向未来的Shout,Tour Day16,19,0,209814,209829,209844,Event28/Episode16.asset,1,(empty),1
+209800020,2098,2098000,铭刻，响彻世间，决战的Beat,Tour Day17,20,0,209815,209830,209845,Event28/Episode17.asset,1,(empty),1
+209800021,2098,2098000,没有尽头，Endless Live！！,终幕,21,1,0,0,0,Event28/Episode18.asset,1,(empty),1
+209800101,2098,2098001,开始，Rocking History,序幕,1,1,0,0,0,Event28/Extra/Episode0.asset,0,(empty),0
+209800102,2098,2098001,说服是靠，Power or Power,追加公演第1日,2,0,209846,209849,209852,Event28/Extra/Episode1.asset,1,(empty),0
+209800103,2098,2098001,视线前方的，OVERHEAT,追加公演第2日,3,0,209847,209850,209853,Event28/Extra/Episode2.asset,1,(empty),0
+209800104,2098,2098001,「现在是演出时间。请回到座位。」,追加公演第3日,4,0,209848,209851,209854,Event28/Extra/Episode3.asset,1,(empty),0
+209800105,2098,2098001,不会结束，Rocking Night,终幕,5,1,0,0,0,Event28/Extra/Episode4.asset,1,(empty),0
 209900001,2099,2099000,自在摩天楼,开演,1,1,0,0,0,Event40/Episode0.asset,0,(empty),1
 209900002,2099,2099000,由来的旋律 ～开端,第一曲,2,1,0,0,0,Event40/Episode1.asset,1,(empty),1
 209900003,2099,2099000,由来的旋律 ～彷徨之物,第二曲,3,0,209901,209916,209931,Event40/Episode2.asset,1,(empty),1
@@ -2318,11 +2344,40 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 209900103,2099,2099001,即便是微不足道的东西,追加说法会 in 现场二,3,0,209947,209950,209953,Event40/Extra/Episode2.asset,1,(empty),0
 209900104,2099,2099001,某种协同作用,追加说法会 in 现场三,4,0,209948,209951,209954,Event40/Extra/Episode3.asset,1,(empty),0
 209900105,2099,2099001,小小的，闪耀的摩天楼,Epilogue!!,5,1,0,0,0,Event40/Extra/Episode4.asset,1,(empty),0
+210200001,2102,2102000,新『物语』之页,开幕,1,1,0,0,0,Event41/Episode0.asset,0,(empty),1
+210200002,2102,2102000,外部游戏参加者,物语之页：1,2,0,210201,210214,210227,Event41/Episode1.asset,1,(empty),1
+210200003,2102,2102000,五条尾巴,物语之页：2,3,1,0,0,0,Event41/Episode2.asset,1,(empty),1
+210200004,2102,2102000,接触,物语之页：3,4,0,210202,210215,210228,Event41/Episode3.asset,1,(empty),1
+210200005,2102,2102000,委托人,物语之页：4,5,1,0,0,0,Event41/Episode4.asset,1,(empty),1
+210200006,2102,2102000,预告信,物语之页：5,6,0,210203,210216,210229,Event41/Episode5.asset,1,(empty),1
+210200007,2102,2102000,邂逅，再次,物语之页：6,7,0,210204,210217,210230,Event41/Episode6.asset,2,{"start_at":"2024-07-31 00:00:00"},1
+210200008,2102,2102000,突发性宣言,物语之页：7,8,1,0,0,0,Event41/Episode7.asset,1,(empty),1
+210200009,2102,2102000,预兆,物语之页：8,9,1,0,0,0,Event41/Episode8.asset,1,(empty),1
+210200010,2102,2102000,必然的接触原委,物语之页：9,10,0,210205,210218,210231,Event41/Episode9.asset,1,(empty),1
+210200011,2102,2102000,作战开始,物语之页：10,11,0,210206,210219,210232,Event41/Episode10.asset,1,(empty),1
+210200012,2102,2102000,实力相当的对手,物语之页：11,12,0,210207,210220,210233,Event41/Episode11.asset,1,(empty),1
+210200013,2102,2102000,404或500,物语之页：12,13,1,0,0,0,Event41/Episode12.asset,1,(empty),1
+210200014,2102,2102000,无法切断之物,物语之页：13,14,0,210208,210221,210234,Event41/Episode13.asset,2,{"start_at":"2024-08-01 00:00:00"},1
+210200015,2102,2102000,握住那只手,物语之页：14,15,0,210209,210222,210235,Event41/Episode14.asset,1,(empty),1
+210200016,2102,2102000,繧医≧縺薙◎，向宝藏所在,物语之页：15,16,0,210210,210223,210236,Event41/Episode15.asset,1,(empty),1
+210200017,2102,2102000,證I襍-,物语之页：16,17,0,210211,210224,210237,Event41/Episode16.asset,1,(empty),1
+210200018,2102,2102000,良机,物语之页：17,18,1,0,0,0,Event41/Episode17.asset,1,(empty),1
+210200019,2102,2102000,奇迹终幕,物语之页：18,19,1,0,0,0,Event41/Episode18.asset,1,(empty),1
+210200020,2102,2102000,解答：结局,验证答案：1,20,1,0,0,0,Event41/Episode19.asset,2,{"start_at":"2024-08-02 00:00:00"},1
+210200021,2102,2102000,解答：开端与背面,验证答案：2,21,0,210212,210225,210238,Event41/Episode20.asset,1,(empty),1
+210200022,2102,2102000,解答：未知的限制,验证答案：3,22,0,210213,210226,210239,Event41/Episode21.asset,1,(empty),1
+210200023,2102,2102000,『物语』结束之时,闭幕,23,1,0,0,0,Event41/Episode22.asset,1,(empty),1
+210200101,2102,2102001,翻开下一页『物语』,开幕,1,1,0,0,0,Event41/Extra/Episode0.asset,0,(empty),0
+210200102,2102,2102001,计划、存在都改变的话,续章之页：1,2,0,210240,210243,210246,Event41/Extra/Episode1.asset,1,(empty),0
+210200103,2102,2102001,追击者与被追击者与,续章之页：2,3,0,210241,210244,210247,Event41/Extra/Episode2.asset,1,(empty),0
+210200104,2102,2102001,影于黑暗起舞，于夜晚起舞,续章之页：3,4,0,210242,210245,210248,Event41/Extra/Episode3.asset,1,(empty),0
+210200105,2102,2102001,我会一直关注的,闭幕,5,1,0,0,0,Event41/Extra/Episode4.asset,1,(empty),0
 210600001,2106,2106000,宇佐见莲子体验探索,体验探索,1,0,210564,0,0,Daily/Wave1.asset,0,(empty),0
 210700001,2107,2107000,玛艾露贝莉·赫恩体验探索,体验探索,1,0,210565,0,0,Daily/Wave1.asset,0,(empty),0
 211100001,2111,2111000,雾雨魔理沙体验探索,体验探索,1,0,211101,0,0,Daily/Wave1.asset,0,(empty),0
 211200001,2112,2112000,西行寺幽幽子体验探索,体验探索,1,0,211201,0,0,Daily/Wave1.asset,0,(empty),0
 211300001,2113,2113000,魂魄妖梦体验探索,体验探索,1,0,211301,0,0,Daily/Wave1.asset,0,(empty),0
+212000001,2120,2120000,赤蛮奇体验探索,体验探索,1,0,212001,0,0,Daily/Wave1.asset,0,(empty),0
 300100101,3001,3001001,一个人的茶会？ 第1话,记号B3·第1节,1,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode1.asset,0,(empty),1
 300100102,3001,3001001,一个人的茶会？ 第2话,记号B3·第1节,2,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode2.asset,1,(empty),1
 300100103,3001,3001001,一个人的茶会？ 第3话,记号B3·第1节,3,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode3.asset,1,(empty),1

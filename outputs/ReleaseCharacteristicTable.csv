@@ -131,7 +131,7 @@ id,characteristic_name,characteristic_description,characteristic_type,characteri
 1061011,灾害收藏家,战斗开始时，敌方单体<color=#CCAA00>命中</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],1,2,6,100,1,characteristic_icon_18
 1061012,溢出的厄,战斗开始时，敌方单体<color=#CCAA00>回避</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%],1,2,7,100,1,characteristic_icon_19
 1061013,牺牲,被攻击时，受到来自<color=#CCAA00>阴性</color>的伤害<color=#0066FF>下降</color>100% [发生率50%],3,11,3,50,100,characteristic_icon_37
-1067011,目标成为最强附丧神,被攻击时，受到来自<color=#CCAA00>付丧神</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,14,23,100,50,characteristic_icon_56
+1067011,目标成为最强付丧神,被攻击时，受到来自<color=#CCAA00>付丧神</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,14,23,100,50,characteristic_icon_56
 1067012,八多罗灭多罗,战斗开始时，敌方单体<color=#CCAA00>速度</color><color=#0066FF>下降</color>1等级 (3回合) [发生率80%],1,2,5,80,1,characteristic_icon_17
 1067013,逢坂关,回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color>  [发生率100%],2,10,0,100,1,characteristic_icon_33
 1068011,付丧之乐,被攻击时，受到来自<color=#CCAA00>付丧神</color>的伤害<color=#0066FF>下降</color>50% [发生率100%],3,14,23,100,50,characteristic_icon_56

@@ -190,7 +190,7 @@
 {"id": 106701, "unit_id": 1067, "file_id": 1, "name": "琵琶的付丧神程度的声音", "cast_name": "鈴代紗弓", "display_order": 1}
 {"id": 106702, "unit_id": 1067, "file_id": 2, "name": "成熟的姐姐程度的声音", "cast_name": "桑原由気", "display_order": 2}
 {"id": 106703, "unit_id": 1067, "file_id": 3, "name": "盛者必衰之理程度的声音", "cast_name": "橋本ちなみ", "display_order": 3}
-{"id": 106801, "unit_id": 1068, "file_id": 1, "name": "琴的附丧神程度的声音", "cast_name": "松田颯水", "display_order": 1}
+{"id": 106801, "unit_id": 1068, "file_id": 1, "name": "琴的付丧神程度的声音", "cast_name": "松田颯水", "display_order": 1}
 {"id": 106802, "unit_id": 1068, "file_id": 2, "name": "愉快的妹妹程度的声音", "cast_name": "小澤亜李", "display_order": 2}
 {"id": 106803, "unit_id": 1068, "file_id": 3, "name": "诸行无常之音程度的声音", "cast_name": "長縄まりあ", "display_order": 3}
 {"id": 106901, "unit_id": 1069, "file_id": 1, "name": "隐于后户的神明程度的声音", "cast_name": "矢作紗友里", "display_order": 1}
@@ -248,7 +248,7 @@
 {"id": 108602, "unit_id": 1086, "file_id": 2, "name": "充满活力的僵尸程度的声音", "cast_name": "近藤玲奈", "display_order": 2}
 {"id": 108603, "unit_id": 1086, "file_id": 3, "name": "偏偏喜欢乱动的尸体程度的声音", "cast_name": "石見舞菜香", "display_order": 3}
 {"id": 108701, "unit_id": 1087, "file_id": 1, "name": "远古的面灵气程度的声音", "cast_name": "伊瀬茉莉也", "display_order": 1}
-{"id": 108702, "unit_id": 1087, "file_id": 2, "name": "面具的附丧神程度的声音", "cast_name": "石見舞菜香", "display_order": 2}
+{"id": 108702, "unit_id": 1087, "file_id": 2, "name": "面具的付丧神程度的声音", "cast_name": "石見舞菜香", "display_order": 2}
 {"id": 108703, "unit_id": 1087, "file_id": 3, "name": "感情丰富的无表情程度的声音", "cast_name": "安野希世乃", "display_order": 3}
 {"id": 108801, "unit_id": 1088, "file_id": 1, "name": "隆冬的幻影程度的声音", "cast_name": "花守ゆみり", "display_order": 1}
 {"id": 108802, "unit_id": 1088, "file_id": 2, "name": "雪女怪谈程度的声音", "cast_name": "楠木ともり", "display_order": 2}

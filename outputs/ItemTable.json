@@ -113,6 +113,7 @@
 {"id": 795, "name": "泳装特殊祝词-红梦的魔女", "description": "有效期至2024年05月28日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1095}
 {"id": 796, "name": "泳装特殊祝词-西行寺幽幽子", "description": "有效期至2024年07月16日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1096}
 {"id": 797, "name": "泳装特殊祝词-魂魄妖梦", "description": "有效期至2024年07月30日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1097}
+{"id": 798, "name": "泳装特殊祝词-赤蛮奇", "description": "有效期至2024年08月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1098}
 {"id": 801, "name": "缘环", "description": "连接着少女们拥有的多样可能性，并选取其中之一的道具。", "rare": 5, "type": 8, "effect_type": 1, "display_order": 50}
 {"id": 802, "name": "命运镜", "description": "蕴藏着能增强少女们命运力量的奇妙的镜子。", "rare": 5, "type": 12, "effect_type": 0, "display_order": 80}
 {"id": 900, "name": "无名转生镜", "description": "无主的转生镜。可以作为已记名转生镜使用。", "rare": 5, "type": 8, "effect_type": 0, "display_order": 5901}
@@ -179,8 +180,8 @@
 {"id": 1064, "name": "转生镜", "description": "[喧闹灵键盘手]莉莉卡·普莉兹姆利巴(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10018}
 {"id": 1065, "name": "转生镜", "description": "[最凶最恶双子之妹]依神女苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10087}
 {"id": 1066, "name": "转生镜", "description": "[最凶最恶双子之姐]依神紫苑(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10088}
-{"id": 1067, "name": "转生镜", "description": "[古旧琵琶的附丧神]九十九弁弁(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10074}
-{"id": 1068, "name": "转生镜", "description": "[古旧的琴的附丧神]九十九八桥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10075}
+{"id": 1067, "name": "转生镜", "description": "[古旧琵琶的付丧神]九十九弁弁(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10074}
+{"id": 1068, "name": "转生镜", "description": "[古旧的琴的付丧神]九十九八桥(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10075}
 {"id": 1069, "name": "转生镜", "description": "[究极的绝对秘神]摩多罗隐岐奈(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10095}
 {"id": 1070, "name": "转生镜", "description": "[过于危险的背景舞者]尔子田里乃(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10093}
 {"id": 1071, "name": "转生镜", "description": "[过于危险的背景舞者]丁礼田舞(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10094}
@@ -250,3 +251,4 @@
 {"id": 100005, "name": "2.5周年欢迎归来 超FES祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 103}
 {"id": 100006, "name": "2.5周年庆纪念A系列祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 104}
 {"id": 100007, "name": "夏日特典Relic限定祭绘马", "description": "有效期至2024年07月23日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 105}
+{"id": 100008, "name": "夏日特典Epic限定祭绘马", "description": "有效期至2024年08月20日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 106}
