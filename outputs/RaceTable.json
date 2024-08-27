@@ -193,3 +193,8 @@
 {"id": 193, "name": "红魔塔", "description": "-", "alias_name": "对红魔塔住民特别有效。"}
 {"id": 194, "name": "旧都", "description": "-", "alias_name": "对旧都住民特别有效。"}
 {"id": 195, "name": "龙宫使者", "description": "-", "alias_name": "对龙宫使者特别有效。"}
+{"id": 196, "name": "学生服", "description": "-", "alias_name": "对学生服特别有效。"}
+{"id": 197, "name": "猿", "description": "-", "alias_name": "对猿特别有效。"}
+{"id": 198, "name": "远点存在", "description": "-", "alias_name": "对远点存在特别有效。"}
+{"id": 199, "name": "蛇", "description": "-", "alias_name": "对蛇特别有效。"}
+{"id": 200, "name": "鬼之国", "description": "-", "alias_name": "对鬼之国住民特别有效。"}

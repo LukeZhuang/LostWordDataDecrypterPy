@@ -163,6 +163,7 @@
 {"id": 1054, "name": "小野塚小町(2)", "description": ""}
 {"id": 1055, "name": "四季映姫·ヤマザナドゥ(2)", "description": ""}
 {"id": 1057, "name": "純狐(2)", "description": ""}
+{"id": 1066, "name": "依神紫苑(2)", "description": ""}
 {"id": 1072, "name": "上白沢慧音(2)", "description": ""}
 {"id": 1073, "name": "ルーミア(2)", "description": ""}
 {"id": 1076, "name": "多々良小傘(2)", "description": ""}
@@ -192,6 +193,7 @@
 {"id": 2018, "name": "八意永琳(3)", "description": ""}
 {"id": 2019, "name": "蓬莱山輝夜(3)", "description": ""}
 {"id": 2020, "name": "藤原妹紅(3)", "description": ""}
+{"id": 2024, "name": "聖白蓮(3)", "description": ""}
 {"id": 2032, "name": "アリス·マーガトロイド(3)", "description": ""}
 {"id": 2037, "name": "東風谷早苗(3)", "description": ""}
 {"id": 2038, "name": "八坂神奈子(3)", "description": ""}
@@ -205,6 +207,7 @@
 {"id": 3003, "name": "レミリア·スカーレット(4)", "description": ""}
 {"id": 3004, "name": "フランドール·スカーレット(4)", "description": ""}
 {"id": 3005, "name": "十六夜咲夜(4)", "description": ""}
+{"id": 3007, "name": "紅美鈴(4)", "description": ""}
 {"id": 3009, "name": "八雲紫(4)", "description": ""}
 {"id": 3010, "name": "西行寺幽々子(8)", "description": ""}
 {"id": 3011, "name": "魂魄妖夢(4)", "description": ""}
@@ -225,6 +228,7 @@
 {"id": 4025, "name": "茨木華扇(5)", "description": ""}
 {"id": 4037, "name": "東風谷早苗(5)", "description": ""}
 {"id": 4050, "name": "古明地さとり(5)", "description": ""}
+{"id": 4051, "name": "古明地こいし(5)", "description": ""}
 {"id": 4052, "name": "火焔猫燐(5)", "description": ""}
 {"id": 4053, "name": "霊烏路空(5)", "description": ""}
 {"id": 4056, "name": "ヘカーティア·ラピスラズリ(5)", "description": ""}
@@ -238,12 +242,14 @@
 {"id": 5011, "name": "魂魄妖夢(6)", "description": ""}
 {"id": 5024, "name": "聖白蓮(6)", "description": ""}
 {"id": 5025, "name": "茨木華扇(6)", "description": ""}
+{"id": 5039, "name": "洩矢諏訪子（6）", "description": ""}
 {"id": 5040, "name": "河城にとり(6)", "description": ""}
 {"id": 5049, "name": "星熊勇儀(6)", "description": ""}
 {"id": 5056, "name": "ヘカーティア·ラピスラズリ(6)", "description": ""}
 {"id": 5062, "name": "ルナサ·プリズムリバー(6)", "description": ""}
 {"id": 5063, "name": "メルラン·プリズムリバー(6)", "description": ""}
 {"id": 5064, "name": "リリカ·プリズムリバー(6)", "description": ""}
+{"id": 5086, "name": "宮古芳香(6)", "description": ""}
 {"id": 5087, "name": "秦こころ(6)", "description": ""}
 {"id": 5089, "name": "比那名居天子(6)", "description": ""}
 {"id": 5094, "name": "鬼人正邪(6)", "description": ""}
@@ -257,6 +263,8 @@
 {"id": 6062, "name": "ルナサ·プリズムリバー(7)", "description": ""}
 {"id": 6063, "name": "メルラン·プリズムリバー(7)", "description": ""}
 {"id": 6064, "name": "リリカ·プリズムリバー(7)", "description": ""}
+{"id": 6085, "name": "霍青娥(7)", "description": ""}
+{"id": 6095, "name": "少名針妙丸(7)", "description": ""}
 {"id": 7001, "name": "博麗霊夢(8)", "description": ""}
 {"id": 7002, "name": "霧雨魔理沙(8)", "description": ""}
 {"id": 7032, "name": "アリス·マーガトロイド(8)", "description": ""}
@@ -264,9 +272,13 @@
 {"id": 7039, "name": "洩矢諏訪子(8)", "description": ""}
 {"id": 8037, "name": "東風谷早苗(9)", "description": ""}
 {"id": 9002, "name": "霧雨魔理沙(10)", "description": ""}
+{"id": 9107, "name": "エタニティラルバ（10）", "description": ""}
 {"id": 10003, "name": "レミリア·スカーレット(11)", "description": ""}
 {"id": 11004, "name": "フランドール·スカーレット(12)", "description": ""}
+{"id": 11104, "name": "封獣ぬえ(12)", "description": ""}
 {"id": 12002, "name": "霧雨魔理沙(13)", "description": ""}
+{"id": 14004, "name": "フランドール·スカーレット(15)", "description": ""}
+{"id": 14051, "name": "古明地こいし(15)", "description": ""}
 {"id": 17005, "name": "十六夜咲夜(18)", "description": ""}
 {"id": 18001, "name": "博麗霊夢(19)", "description": ""}
 {"id": 18002, "name": "霧雨魔理沙(19)", "description": ""}

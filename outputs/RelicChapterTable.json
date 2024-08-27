@@ -2,6 +2,7 @@
 {"id": 302001, "title": "「白银之风」", "display_order": 4, "costume_id": 302001, "unit_speech_group_id": 566}
 {"id": 303201, "title": "「斑驳木春菊」", "display_order": 1, "costume_id": 303201, "unit_speech_group_id": 401}
 {"id": 303801, "title": "「道别淡染天青」", "display_order": 6, "costume_id": 303801, "unit_speech_group_id": 616}
+{"id": 401001, "title": "「时间界限」", "display_order": 14, "costume_id": 401001, "unit_speech_group_id": 1179}
 {"id": 405001, "title": "「NAЯAKA」", "display_order": 5, "costume_id": 405001, "unit_speech_group_id": 567}
 {"id": 500301, "title": "「暖热的指尖」", "display_order": 0, "costume_id": 500301, "unit_speech_group_id": 386}
 {"id": 500401, "title": "「I'm Alright!」", "display_order": 8, "costume_id": 500401, "unit_speech_group_id": 766}
@@ -9,5 +10,6 @@
 {"id": 501501, "title": "「祭月夜 SIDE铃仙」", "display_order": 11, "costume_id": 501501, "unit_speech_group_id": 1088}
 {"id": 503701, "title": "「与你重逢的奇迹之日」", "display_order": 12, "costume_id": 503701, "unit_speech_group_id": 1134}
 {"id": 600501, "title": "「月与十六夜」", "display_order": 1, "costume_id": 600501, "unit_speech_group_id": 516}
+{"id": 602501, "title": "「PHANTOM PAIN」", "display_order": 15, "costume_id": 602501, "unit_speech_group_id": 1200}
 {"id": 800101, "title": "「业速」", "display_order": 13, "costume_id": 800101, "unit_speech_group_id": 1178}
 {"id": 800201, "title": "「划破夜空的光」", "display_order": 9, "costume_id": 800201, "unit_speech_group_id": 916}

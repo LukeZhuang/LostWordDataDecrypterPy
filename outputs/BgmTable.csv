@@ -25,7 +25,7 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 1024,Fly up higher!,イザナギオブジェクト,Hachimitsu-Lemon,900001024,Music_Jacket_000.png,乐曲：Fly up higher!<ret>编曲：Hachimitsu-Lemon<ret>原曲：イザナギオブジェクト,1
 1025,Pilgrim,衛星トリフネ,Hachimitsu-Lemon,900001025,Music_Jacket_000.png,乐曲：Pilgrim<ret>编曲：Hachimitsu-Lemon<ret>原曲：衛星トリフネ,1
 1026,花の色は此処に眠る,此岸の塚,Hachimitsu-Lemon,900001026,Music_Jacket_000.png,乐曲：花の色は此処に眠る<ret>编曲：Hachimitsu-Lemon<ret>原曲：此岸の塚,1
-1027,色とりどりのお花のサラダ,花は幻想のままに,豚乙女,900001027,Music_Jacket_000.png,乐曲：色とりどりのお花のサラダ<ret>编曲：豚乙女<ret>原曲：花は幻想のままに,0
+1027,色とりどりのお花のサラダ,花は幻想のままに,豚乙女,900001027,Music_Jacket_000.png,乐曲：色とりどりのお花のサラダ<ret>编曲：豚乙女<ret>原曲：花は幻想のままに,1
 1028,Starlight Illumination,妖精大戦争　～ Fairy Wars,IOSYS,900001028,Music_Jacket_000.png,乐曲：Starlight Illumination<ret>编曲：IOSYS<ret>原曲：妖精大戦争　～ Fairy Wars,1
 1029,道中メドレー塾·天 STAGE 6,イントゥ·バックドア,ジュクチョー(COOL&CREATE),900001029,Music_Jacket_000.png,乐曲：道中メドレー塾·天 STAGE 6<ret>编曲：ジュクチョー(COOL&CREATE)<ret>原曲：イントゥ·バックドア,1
 1030,ヴォヤージュ1969,ヴォヤージュ1969,Amateras Records,900001030,Music_Jacket_000.png,乐曲：ヴォヤージュ1969<ret>编曲：Amateras Records<ret>原曲：ヴォヤージュ1969,1
@@ -60,12 +60,15 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 1071,ミラクルオブジェクト,イザナギオブジェクト,豚乙女,910001071,Music_Jacket_000.png,乐曲：ミラクルオブジェクト<ret>编曲：豚乙女<ret>原曲：イザナギオブジェクト,1
 1075,シアンカラーメモリー,プラスチックマインド,オーライフジャパン,900001075,Music_Jacket_000.png,乐曲：シアンカラーメモリー<ret>编曲：オーライフジャパン<ret>原曲：プラスチックマインド,1
 1076,涼夏,53ミニッツの青い海,TUMENECO,900001076,Music_Jacket_000.png,乐曲：涼夏<ret>编曲：TUMENECO<ret>原曲：53ミニッツの青い海,1
-1077,Grabmarkierung,旧世界の冒険酒場,梶迫小道具店,910001077,Music_Jacket_000.png,乐曲：Grabmarkierung<ret>艺术家：梶迫小道具店<ret>原曲：旧世界の冒険酒場,0
+1077,Grabmarkierung,旧世界の冒険酒場,梶迫小道具店,910001077,Music_Jacket_000.png,乐曲：Grabmarkierung<ret>编曲：梶迫小道具店<ret>原曲：旧世界の冒険酒場,0
 1081,？？？,なし,？？？,1081,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
 1082,？？？,なし,？？？,1082,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
 1087,？？？,なし,？？？,1087,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
 1088,？？？,なし,？？？,1088,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
 1089,？？？,なし,？？？,1089,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
+1090,？？？,なし,？？？,1090,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
+1091,？？？,なし,？？？,1091,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
+1092,？？？,なし,？？？,1092,Music_Jacket_000.png,乐曲：？？？<ret>编曲：？？？<ret>原曲：なし,1
 2001,幻想テレグノシス,春色小径　～ Colorful Path,Hachimitsu-Lemon,10001,Music_Jacket_000.png,乐曲：幻想テレグノシス<ret>编曲：Hachimitsu-Lemon<ret>原曲：春色小径　～ Colorful Path,1001
 2002,恋色マスタースパーク,恋色マスタースパーク,東京アクティブNEETs,10002,Music_Jacket_000.png,乐曲：恋色マスタースパーク<ret>编曲：東京アクティブNEETs<ret>原曲：恋色マスタースパーク,1002
 2003,神紅,亡き王女の為のセプテット / ツェペシュの幼き末裔,Hachimitsu-Lemon,10010,Music_Jacket_000.png,乐曲：神紅<ret>编曲：Hachimitsu-Lemon<ret>原曲：亡き王女の為のセプテット / ツェペシュの幼き末裔,1003
@@ -252,7 +255,8 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 199022,Holy Again,感情の摩天楼 ~ Cosmic Mind,东方归言录 feat.Teresa × 発熱巫女～ず,1021,Music_Jacket_022.png,乐曲：Holy Again<ret>艺术家：东方归言录 feat.Teresa × 発熱巫女～ず<ret>原曲：感情の摩天楼 ~ Cosmic Mind,0
 199023,感傷のシグナル,聖徳伝説　～ True Administrator,东方归言录 feat.花守ゆみり × 東方事変,1022,Music_Jacket_023.png,乐曲：感傷のシグナル<ret>艺术家：东方归言录 feat.花守ゆみり × 東方事変<ret>原曲：聖徳伝説　～ True Administrator,0
 199024,追想の愛,今宵は飄逸なエゴイスト(Live ver) ~ Egoistic Flowers.,东方归言录 feat.大槻ケンヂ × 豚乙女,1023,Music_Jacket_024.png,乐曲：追想の愛<ret>艺术家：东方归言录 feat.大槻ケンヂ × 豚乙女<ret>原曲：今宵は飄逸なエゴイスト(Live ver) ~ Egoistic Flowers.,0
-199025,世界一位,芥川龍之介の河童　～ Candid Friend,东方归言录 feat.徳井青空 × Alstroemeria Records,1025,Music_Jacket_025.png,乐曲：世界一位<ret>编曲：东方归言录 feat.徳井青空 × Alstroemeria Records<ret>原曲：芥川龍之介の河童　～ Candid Friend,0
+199025,世界一位,芥川龍之介の河童　～ Candid Friend,东方归言录 feat.徳井青空 × Alstroemeria Records,1024,Music_Jacket_025.png,乐曲：世界一位<ret>艺术家：东方归言录 feat.徳井青空 × Alstroemeria Records<ret>原曲：芥川龍之介の河童　～ Candid Friend,0
+199026,Spread your Wings,亡失のエモーション,东方归言录 feat.cluppo × TUMENECO,1025,Music_Jacket_026.png,乐曲：Spread your Wings<ret>艺术家：东方归言录 feat.cluppo × TUMENECO<ret>原曲：亡失のエモーション,0
 20108801,WHITE WIREPULLER,クリスタライズシルバー,ビートまりお(COOL&CREATE),10012,Music_Jacket_000.png,乐曲：WHITE WIREPULLER<ret>编曲：ビートまりお(COOL&CREATE)<ret>原曲：クリスタライズシルバー,1088
 20108901,有頂天変でメタルっぽい何か,有頂天変　～ Wonderful Heaven,オーライフジャパン,10046,Music_Jacket_000.png,乐曲：有頂天変でメタルっぽい何か<ret>编曲：オーライフジャパン<ret>原曲：有頂天変　～ Wonderful Heaven,1089
 20109001,Flame from the Black Sea,黒い海に紅く　～ Legendary Fish,IRON ATTACK!,10045,Music_Jacket_000.png,乐曲：Flame from the Black Sea<ret>编曲：IRON ATTACK!<ret>原曲：黒い海に紅く　～ Legendary Fish,1090
@@ -314,16 +318,19 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 20203201,人形裁判,人形裁判　～ 人の形弄びし少女,まらしぃ,10700014,Music_Jacket_000.png,乐曲：人形裁判<ret>编曲：まらしぃ<ret>原曲：人形裁判　～ 人の形弄びし少女,2032
 20203301,来光 -らいこう-,サニーミルクの紅霧異変,SOUND HOLIC,10600702,Music_Jacket_000.png,乐曲：来光 -らいこう-<ret>编曲：SOUND HOLIC<ret>原曲：サニーミルクの紅霧異変,2033
 20203601,Typhoid Mary,ポイズンボディ　～ Forsaken Doll,荒御霊,20050033,Music_Jacket_000.png,乐曲：Typhoid Mary<ret>编曲：荒御霊<ret>原曲：ポイズンボディ　～ Forsaken Doll,2036
+20203701,荒野に蒸気の風が吹く,信仰は儚き人間の為に,k-waves LAB,230050042,Music_Jacket_000.png,乐曲：荒野に蒸気の風が吹く<ret>编曲：k-waves LAB<ret>原曲：信仰は儚き人間の為に,2037
 20203801,IS THERE A GOD？,神さびた古戦場　～ Suwa Foughten Field,Melodic taste,11000043,Music_Jacket_000.png,乐曲：IS THERE A GOD？<ret>编曲：Melodic taste<ret>原曲：神さびた古戦場　～ Suwa Foughten Field,2038
 20203901,日出ずる国の神語り,ネイティブフェイス,Foxtail-Grass Studio,11000044,Music_Jacket_000.png,乐曲：日出ずる国の神語り<ret>编曲：Foxtail-Grass Studio<ret>原曲：ネイティブフェイス,2039
 20204001,かっぱっぱ考え中,芥川龍之介の河童　～ Candid Friend,オーライフジャパン,11000040,Music_Jacket_000.png,乐曲：かっぱっぱ考え中<ret>编曲：オーライフジャパン<ret>原曲：芥川龍之介の河童　～ Candid Friend,2040
 20204201,シンデレラケージ,シンデレラケージ　～ Kagome-Kagome,Melodic Taste,250050027,Music_Jacket_000.png,乐曲：シンデレラケージ<ret>编曲：Melodic Taste<ret>原曲：シンデレラケージ　～ Kagome-Kagome,2042
 20204401,つむじ風のサウダージ,風神少女　(Short Version),豚乙女,10900032,Music_Jacket_000.png,乐曲：つむじ風のサウダージ<ret>编曲：豚乙女<ret>原曲：風神少女　(Short Version),2044
+20204801,鬼は酒香とともに,御伽の国の鬼が島　～ Missing Power,狐夢想屋,230010023,Music_Jacket_000.png,乐曲：鬼は酒香とともに<ret>编曲：狐夢想屋<ret>原曲：御伽の国の鬼が島　～ Missing Power,2048
 20205001,瞳の中で踊り踊られ,少女さとり　～ 3rd eye,Foxtail-Grass Studio,190020051,Music_Jacket_000.png,乐曲：瞳の中で踊り踊られ<ret>编曲：Foxtail-Grass Studio<ret>原曲：少女さとり　～ 3rd eye,2050
 20205101,ハルトマンの妖怪少女,ハルトマンの妖怪少女,まらしぃ,60010054,Music_Jacket_000.png,乐曲：ハルトマンの妖怪少女<ret>编曲：まらしぃ<ret>原曲：ハルトマンの妖怪少女,2051
 20205401,彼岸帰航でメタルっぽい何か,彼岸帰航　～ Riverside View,オーライフジャパン,20030035,Music_Jacket_000.png,乐曲：彼岸帰航でメタルっぽい何か<ret>编曲：オーライフジャパン<ret>原曲：彼岸帰航　～ Riverside View,2054
 20205501,Dead or Alive,六十年目の東方裁判　～ Fate of Sixty Years,Amateras Records,20030036,Music_Jacket_000.png,乐曲：Dead or Alive<ret>编曲：Amateras Records<ret>原曲：六十年目の東方裁判　～ Fate of Sixty Years,2055
 20205701,Pure Furies (ALR REMIX),ピュアヒューリーズ　～ 心の在処,DiGiTAL WiNG,20020085,Music_Jacket_000.png,乐曲：Pure Furies (ALR REMIX)<ret>编曲：DiGiTAL WiNG<ret>原曲：ピュアヒューリーズ　～ 心の在処,2057
+20206601,BILLION $ GIRL,今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.,SOUND HOLIC,30030088,Music_Jacket_000.png,乐曲：BILLION $ GIRL<ret>编曲：SOUND HOLIC<ret>原曲：今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.,2066
 20207201,ENDLESS?MAZE　-instrumental-,エクステンドアッシュ　～ 蓬莱人,ちょこふぁん,80050026,Music_Jacket_000.png,乐曲：ENDLESS MAZE　-instrumental-<ret>编曲：ちょこふぁん<ret>原曲：エクステンドアッシュ　～ 蓬莱人,2072
 20207301,ザクロ症候群,妖魔夜行,非可逆リズム,10600003,Music_Jacket_000.png,乐曲：ザクロ症候群<ret>编曲：非可逆リズム<ret>原曲：妖魔夜行,2073
 20207601,Droplet,万年置き傘にご注意を,給食頭蛮,30030056,Music_Jacket_000.png,乐曲：Droplet<ret>编曲：給食頭蛮<ret>原曲：万年置き傘にご注意を,2076
@@ -349,6 +356,7 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 20301101,黄昏寺院の夢,東方妖々夢　～ Ancient Temple,IOSYS,20030019,Music_Jacket_000.png,乐曲：黄昏寺院の夢<ret>编曲：IOSYS<ret>原曲：東方妖々夢　～ Ancient Temple,3011
 20301501,患部で止まってすぐ溶ける ～ 狂気の優曇華院(カラオケVer),狂気の瞳　～ Invisible Full Moon,IOSYS,20030028,Music_Jacket_000.png,乐曲：患部で止まってすぐ溶ける ～ 狂気の優曇華院(カラオケVer)<ret>编曲：IOSYS<ret>原曲：狂気の瞳　～ Invisible Full Moon,3015
 20301801,千年幻想郷 ～ History of the Moon,千年幻想郷　～ History of the Moon,まらしぃ,10800029,Music_Jacket_000.png,乐曲：千年幻想郷 ～ History of the Moon<ret>编曲：まらしぃ<ret>原曲：千年幻想郷　～ History of the Moon,3018
+20302401,夢の中の幻でも,感情の摩天楼　～ Cosmic Mind,幽閉サテライト,30030060,Music_Jacket_000.png,乐曲：夢の中の幻でも<ret>编曲：幽閉サテライト<ret>原曲：感情の摩天楼　～ Cosmic Mind,3024
 20303701,Judgement Star,信仰は儚き人間の為に,IOSYS,20030042,Music_Jacket_000.png,乐曲：Judgement Star<ret>编曲：IOSYS<ret>原曲：信仰は儚き人間の為に,3037
 20305001,少女さとり,少女さとり　～ 3rd eye,交響アクティブNEETs,11100051,Music_Jacket_000.png,乐曲：少女さとり<ret>编曲：交響アクティブNEETs<ret>原曲：少女さとり　～ 3rd eye,3050
 20305101,ハルトマンの妖怪少女,ハルトマンの妖怪少女,東京アクティブNEETs,11100054,Music_Jacket_000.png,乐曲：ハルトマンの妖怪少女<ret>编曲：東京アクティブNEETs<ret>原曲：ハルトマンの妖怪少女,3051
@@ -388,18 +396,23 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 20606201,Stairs to Heaven,幽霊楽団　～ Phantom Ensemble,Foxtail-Grass Studio,20050016,Music_Jacket_000.png,乐曲：Stairs to Heaven<ret>编曲：Foxtail-Grass Studio<ret>原曲：幽霊楽団　～ Phantom Ensemble,6062
 20606301,プリズムリバー三姉妹のUKハードコアにハマってる方,幽霊楽団　～ Phantom Ensemble,Astral Sky vs. 非可逆リズム,20050017,Music_Jacket_000.png,乐曲：プリズムリバー三姉妹のUKハードコアにハマってる方<ret>编曲：Astral Sky vs. 非可逆リズム<ret>原曲：幽霊楽団　～ Phantom Ensemble,6063
 20606401,疾走あんさんぶる,幽霊楽団　～ Phantom Ensemble,ビートまりお(COOL&CREATE),20050018,Music_Jacket_000.png,乐曲：疾走あんさんぶる<ret>编曲：ビートまりお(COOL&CREATE)<ret>原曲：幽霊楽団　～ Phantom Ensemble,6064
+20608601,Mausoleum Custos,リジッドパラダイス,IRON ATTACK!,11300064,Music_Jacket_000.png,乐曲：Mausoleum Custos<ret>编曲：IRON ATTACK!<ret>原曲：リジッドパラダイス,6086
 20608701,感情のエフュージョン,亡失のエモーション,Melodic Taste,1280070,Music_Jacket_000.png,乐曲：感情のエフュージョン<ret>编曲：Melodic Taste<ret>原曲：亡失のエモーション,6087
 20608901,有頂天変,有頂天変　～ Wonderful Heaven,Melodic Taste,200050046,Music_Jacket_000.png,乐曲：有頂天変<ret>编曲：Melodic Taste<ret>原曲：有頂天変　～ Wonderful Heaven,6089
 20609401,SAKASAMA Traveler,リバースイデオロギー,給食頭蛮(ぱらどっと),11400076,Music_Jacket_000.png,乐曲：SAKASAMA Traveler<ret>编曲：給食頭蛮(ぱらどっと)<ret>原曲：リバースイデオロギー,6094
 20611201,Echo Peak,セラフィックチキン,荒御霊,20030098,Music_Jacket_000.png,乐曲：Echo Peak<ret>编曲：荒御霊<ret>原曲：セラフィックチキン,6112
 20701101,Ancient Groove,東方妖々夢　～ Ancient Temple,Amateras Records,10600019,Music_Jacket_000.png,乐曲：Ancient Groove<ret>编曲：Amateras Records<ret>原曲：東方妖々夢　～ Ancient Temple,7011
+20703701,君とまた夢の中で,Foxtail-Grass Studio,信仰は儚き人間の為に,9170042,Music_Jacket_000.png,乐曲：君とまた夢の中で<ret>编曲：Foxtail-Grass Studio<ret>原曲：信仰は儚き人間の為に,7037
 20704201,お宇佐さまの素い幡,お宇佐さまの素い幡,まらしぃ,10800027,Music_Jacket_000.png,乐曲：お宇佐さまの素い幡<ret>编曲：まらしぃ<ret>原曲：お宇佐さまの素い幡,7042
 20704401,flutter,風神少女,Hachimitsu-Lemon,1280032,Music_Jacket_000.png,乐曲：flutter<ret>编曲：Hachimitsu-Lemon<ret>原曲：風神少女,7044
 20706201,Gig the Alternative,幽霊楽団　～ Phantom Ensemble,IOSYS,10600016,Music_Jacket_000.png,乐曲：Gig the Alternative<ret>编曲：IOSYS<ret>原曲：幽霊楽団　～ Phantom Ensemble,7062
 20706301,Phantom Phannk Orchestra,幽霊楽団　～ Phantom Ensemble,IRON ATTACK!,10600017,Music_Jacket_000.png,乐曲：Phantom Phannk Orchestra<ret>编曲：IRON ATTACK!<ret>原曲：幽霊楽団　～ Phantom Ensemble,7063
 20706401,ナナヒカリ音アソビ,幽霊楽団　～ Phantom Ensemble,東京アクティブNEETs,10600018,Music_Jacket_000.png,乐曲：ナナヒカリ音アソビ<ret>编曲：東京アクティブNEETs<ret>原曲：幽霊楽団　～ Phantom Ensemble,7064
+20708501,いつかの桃源郷,古きユアンシェン,K2E?Cradle,11300065,Music_Jacket_000.png,乐曲：いつかの桃源郷<ret>编曲：K2E?Cradle<ret>原曲：古きユアンシェン,7085
+20709501,EINE KLEINE NADEL MUSIK,輝く針の小人族　～ Little Princess,ZYTOKINE,11400077,Music_Jacket_000.png,乐曲：EINE KLEINE NADEL MUSIK<ret>编曲：ZYTOKINE<ret>原曲：輝く針の小人族　～ Little Princess,7095
 20803201,魔理沙は大変なものを盗んでいきました(KARAOKE Ver),人形裁判　～ 人の形弄びし少女,IOSYS,260030014,Music_Jacket_000.png,乐曲：魔理沙は大変なものを盗んでいきました(KARAOKE Ver)<ret>编曲：IOSYS<ret>原曲：人形裁判　～ 人の形弄びし少女,8032
 20803801,Just on bust it up!,御柱の墓場　～ Grave of Being,東京アクティブNEETs,230020043,Music_Jacket_000.png,乐曲：Just on bust it up!<ret>编曲：東京アクティブNEETs<ret>原曲：御柱の墓場　～ Grave of Being,8038
+20803901,土着神の遊び心,明日ハレの日、ケの昨日,オーライフジャパン,20803901,Music_Jacket_000.png,乐曲：土着神の遊び心<ret>编曲：オーライフジャパン<ret>原曲：明日ハレの日、ケの昨日,8039
 21000201,magic evolve,メイガスナイト,DiGiTAL WiNG,270080002,Music_Jacket_000.png,乐曲：magic evolve<ret>编曲：DiGiTAL WiNG<ret>原曲：メイガスナイト,10002
 21900101,響縁,少女綺想曲　～ Dream Battle,豚乙女,30030001,Music_Jacket_000.png,乐曲：響縁<ret>编曲：豚乙女<ret>原曲：少女綺想曲　～ Dream Battle,19001
 21900201,流星スペクトラ,恋色マスタースパーク,FoxTail-Grass Studio,30030002,Music_Jacket_000.png,乐曲：流星スペクトラ<ret>编曲：FoxTail-Grass Studio<ret>原曲：恋色マスタースパーク,19002
@@ -465,16 +478,19 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 30203201,人形裁判,人形裁判　～ 人の形弄びし少女,まらしぃ,10700014,Music_Jacket_000.png,乐曲：人形裁判<ret>编曲：まらしぃ<ret>原曲：人形裁判　～ 人の形弄びし少女,2032
 30203301,来光 -らいこう-,サニーミルクの紅霧異変,SOUND HOLIC,10600702,Music_Jacket_000.png,乐曲：来光 -らいこう-<ret>编曲：SOUND HOLIC<ret>原曲：サニーミルクの紅霧異変,2033
 30203601,Typhoid Mary,ポイズンボディ　～ Forsaken Doll,荒御霊,20050033,Music_Jacket_000.png,乐曲：Typhoid Mary<ret>编曲：荒御霊<ret>原曲：ポイズンボディ　～ Forsaken Doll,2036
+30203701,荒野に蒸気の風が吹く,信仰は儚き人間の為に,k-waves LAB,230050042,Music_Jacket_000.png,乐曲：荒野に蒸気の風が吹く<ret>编曲：k-waves LAB<ret>原曲：信仰は儚き人間の為に,2037
 30203801,IS THERE A GOD？,神さびた古戦場　～ Suwa Foughten Field,Melodic taste,11000043,Music_Jacket_000.png,乐曲：IS THERE A GOD？<ret>编曲：Melodic taste<ret>原曲：神さびた古戦場　～ Suwa Foughten Field,2038
 30203901,日出ずる国の神語り,ネイティブフェイス,Foxtail-Grass Studio,11000044,Music_Jacket_000.png,乐曲：日出ずる国の神語り<ret>编曲：Foxtail-Grass Studio<ret>原曲：ネイティブフェイス,2039
 30204001,かっぱっぱ考え中,芥川龍之介の河童　～ Candid Friend,オーライフジャパン,11000040,Music_Jacket_000.png,乐曲：かっぱっぱ考え中<ret>编曲：オーライフジャパン<ret>原曲：芥川龍之介の河童　～ Candid Friend,2040
 30204201,シンデレラケージ,シンデレラケージ　～ Kagome-Kagome,Melodic Taste,250050027,Music_Jacket_000.png,乐曲：シンデレラケージ<ret>编曲：Melodic Taste<ret>原曲：シンデレラケージ　～ Kagome-Kagome,2042
 30204401,つむじ風のサウダージ,風神少女　(Short Version),豚乙女,10900032,Music_Jacket_000.png,乐曲：つむじ風のサウダージ<ret>编曲：豚乙女<ret>原曲：風神少女　(Short Version),2044
+30204801,鬼は酒香とともに,御伽の国の鬼が島　～ Missing Power,狐夢想屋,230010023,Music_Jacket_000.png,乐曲：鬼は酒香とともに<ret>编曲：狐夢想屋<ret>原曲：御伽の国の鬼が島　～ Missing Power,2048
 30205001,瞳の中で踊り踊られ,少女さとり　～ 3rd eye,Foxtail-Grass Studio,190020051,Music_Jacket_000.png,乐曲：瞳の中で踊り踊られ<ret>编曲：Foxtail-Grass Studio<ret>原曲：少女さとり　～ 3rd eye,2050
 30205101,ハルトマンの妖怪少女,ハルトマンの妖怪少女,まらしぃ,60010054,Music_Jacket_000.png,乐曲：ハルトマンの妖怪少女<ret>编曲：まらしぃ<ret>原曲：ハルトマンの妖怪少女,2051
 30205401,彼岸帰航でメタルっぽい何か,彼岸帰航　～ Riverside View,オーライフジャパン,20030035,Music_Jacket_000.png,乐曲：彼岸帰航でメタルっぽい何か<ret>编曲：オーライフジャパン<ret>原曲：彼岸帰航　～ Riverside View,2054
 30205501,Dead or Alive,六十年目の東方裁判　～ Fate of Sixty Years,Amateras Records,20030036,Music_Jacket_000.png,乐曲：Dead or Alive<ret>编曲：Amateras Records<ret>原曲：六十年目の東方裁判　～ Fate of Sixty Years,2055
 30205701,Pure Furies (ALR REMIX),ピュアヒューリーズ　～ 心の在処,DiGiTAL WiNG,20020085,Music_Jacket_000.png,乐曲：Pure Furies (ALR REMIX)<ret>编曲：DiGiTAL WiNG<ret>原曲：ピュアヒューリーズ　～ 心の在処,2057
+30206601,BILLION $ GIRL,今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.,SOUND HOLIC,30030088,Music_Jacket_000.png,乐曲：BILLION $ GIRL<ret>编曲：SOUND HOLIC<ret>原曲：今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.,2066
 30207201,ENDLESS?MAZE　-instrumental-,エクステンドアッシュ　～ 蓬莱人,ちょこふぁん,80050026,Music_Jacket_000.png,乐曲：ENDLESS MAZE　-instrumental-<ret>编曲：ちょこふぁん<ret>原曲：エクステンドアッシュ　～ 蓬莱人,2072
 30207301,ザクロ症候群,妖魔夜行,非可逆リズム,10600003,Music_Jacket_000.png,乐曲：ザクロ症候群<ret>编曲：非可逆リズム<ret>原曲：妖魔夜行,2073
 30207601,Droplet,万年置き傘にご注意を,給食頭蛮,30030056,Music_Jacket_000.png,乐曲：Droplet<ret>编曲：給食頭蛮<ret>原曲：万年置き傘にご注意を,2076
@@ -502,6 +518,7 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 30301801,千年幻想郷 ～ History of the Moon,千年幻想郷　～ History of the Moon,まらしぃ,10800029,Music_Jacket_000.png,乐曲：千年幻想郷 ～ History of the Moon<ret>编曲：まらしぃ<ret>原曲：千年幻想郷　～ History of the Moon,3018
 30301901,祭月夜,狂気の瞳 ～ Invisible Full Moon  / 竹取飛翔 ～ Lunatic Princess,东方归言录 feat.成瀬瑛美＋恋汐りんご from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS,1010,Music_Jacket_011.png,乐曲：祭月夜<ret>艺术家：东方归言录 feat.成瀬瑛美＋恋汐りんご from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS<ret>原曲：狂気の瞳 ～ Invisible Full Moon  / 竹取飛翔 ～ Lunatic Princess,3019
 30302001,白銀の風,月まで届け、不死の煙,东方归言录 feat.相川七瀬 × 豚乙女 ,1004,Music_Jacket_006.png,乐曲：白銀の風<ret>艺术家：东方归言录 feat.相川七瀬 × 豚乙女 <ret>原曲：月まで届け、不死の煙,3020
+30302401,夢の中の幻でも,感情の摩天楼　～ Cosmic Mind,幽閉サテライト,30030060,Music_Jacket_000.png,乐曲：夢の中の幻でも<ret>编曲：幽閉サテライト<ret>原曲：感情の摩天楼　～ Cosmic Mind,3024
 30303201,斑にマーガレット,人形裁判　～ 人の形弄びし少女,东方归言录 feat.konoco × 森羅万象,1002,Music_Jacket_003.png,乐曲：斑にマーガレット<ret>艺术家：东方归言录 feat.konoco × 森羅万象<ret>原曲：人形裁判　～ 人の形弄びし少女,3032
 30303701,Judgement Star,信仰は儚き人間の為に,IOSYS,20030042,Music_Jacket_000.png,乐曲：Judgement Star<ret>编曲：IOSYS<ret>原曲：信仰は儚き人間の為に,3037
 30303801,サヨナラはどこか蒼い,神さびた古戦場　～ Suwa Foughten Field,东方归言录 feat.田原俊彦 × 豚乙女,1006,Music_Jacket_007.png,乐曲：サヨナラはどこか蒼い<ret>艺术家：东方归言录 feat.田原俊彦 × 豚乙女<ret>原曲：神さびた古戦場　～ Suwa Foughten Field,3038
@@ -514,6 +531,7 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 30400301,Overwhelm,亡き王女の為のセプテット,Melodic Taste,10600010,Music_Jacket_000.png,乐曲：Overwhelm<ret>编曲：Melodic Taste<ret>原曲：亡き王女の為のセプテット,4003
 30400401,Unfound,U.N.オーエンは彼女なのか？,非可逆リズム,10600011,Music_Jacket_000.png,乐曲：Unfound<ret>编曲：非可逆リズム<ret>原曲：U.N.オーエンは彼女なのか？,4004
 30400501,illusion,月時計　～ ルナ·ダイアル,Hachimitsu-Lemon,10600009,Music_Jacket_000.png,乐曲：illusion<ret>编曲：Hachimitsu-Lemon<ret>原曲：月時計　～ ルナ·ダイアル,4005
+30400701,Be the change,明治十七年の上海アリス,东方归言录 feat.大坪由佳 × DiGiTAL WiNG,800710,Music_Jacket_000.png,乐曲：Be the change<ret>艺术家：东方归言录 feat.大坪由佳 × DiGiTAL WiNG<ret>原曲：明治十七年の上海アリス,4007
 30400901,たったひとつの小さな嘘,ネクロファンタジア,Foxtail-Grass Studio,30030022,Music_Jacket_000.png,乐曲：たったひとつの小さな嘘<ret>编曲：Foxtail-Grass Studio<ret>原曲：ネクロファンタジア,4009
 30401001,刻の境界,幽雅に咲かせ、墨染の桜　～ Border of Life,东方归言录 feat.いとうかなこ × 東京アクティブNEETs,800020,Music_Jacket_014.png,乐曲：刻の境界<ret>艺术家：东方归言录 feat.いとうかなこ × 東京アクティブNEETs<ret>原曲：幽雅に咲かせ、墨染の桜　～ Border of Life,4010
 30401101,Perfect Cherry Blossom 2014 V3,東方妖々夢 ～ Ancient Temple / 広有射怪鳥事 ～ Till When?,非可逆リズム,10700019,Music_Jacket_000.png,乐曲：Perfect Cherry Blossom 2014 V3<ret>编曲：非可逆リズム<ret>原曲：東方妖々夢 ～ Ancient Temple / 広有射怪鳥事 ～ Till When?,4011
@@ -529,10 +547,11 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 30500401,I'm Alright!,U.N.オーエンは彼女なのか？,东方归言录 feat.KIHOW from MYTH & ROID × A-One,1008,Music_Jacket_009.png,乐曲：I'm Alright!<ret>艺术家：东方归言录 feat.KIHOW from MYTH & ROID × A-One<ret>原曲：U.N.オーエンは彼女なのか？,5004
 30501001,真夏のチェリーブロッサム,幽雅に咲かせ、墨染の桜　～ Border of Life,フーリンキャットマーク,30030020,Music_Jacket_000.png,乐曲：真夏のチェリーブロッサム<ret>编曲：フーリンキャットマーク<ret>原曲：幽雅に咲かせ、墨染の桜　～ Border of Life,5010
 30501101,Disillusion,東方妖々夢　～ Ancient Temple,东方归言录 feat.Faylan × Alstroemeria Records,1007,Music_Jacket_008.png,乐曲：Disillusion<ret>艺术家：东方归言录 feat.Faylan × Alstroemeria Records<ret>原曲：東方妖々夢　～ Ancient Temple,5011
-30501501,祭月夜,狂気の瞳　～ Invisible Full Moon / 竹取飛翔　～ Lunatic Princess,东方归言录 feat.成瀬瑛美＋恋汐りんご from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS,1010,Music_Jacket_011.png,乐曲：祭月夜<ret>艺术家：东方归言录 feat.成瀬瑛美＋恋汐りんこ? from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS<ret>原曲：狂気の瞳　～ Invisible Full Moon / 竹取飛翔　～ Lunatic Princess,5015
+30501501,祭月夜,狂気の瞳　～ Invisible Full Moon / 竹取飛翔　～ Lunatic Princess,东方归言录 feat.成瀬瑛美＋恋汐りんご from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS,1010,Music_Jacket_011.png,乐曲：祭月夜<ret>艺术家：东方归言录 feat.成瀬瑛美＋恋汐りんこ? from バンドじゃないもん！MAXX NAKAYOSHI × IOSYS<ret>原曲：狂気の瞳 ～ Invisible Full Moon  / 竹取飛翔 ～ Lunatic Princess,5015
 30502501,破風破り,華狭間のバトルフィールド,梶迫小道具店,230050709,Music_Jacket_000.png,乐曲：破風破り<ret>编曲：梶迫小道具店<ret>原曲：華狭間のバトルフィールド,5025
 30503701,その手に触れるキセキまで,信仰は儚き人間の為に,东方归言录 feat.根本凪(でんぱ組.inc/虹のコンキスタドール) × TUMENECO,800042,Music_Jacket_012.png,乐曲：その手に触れるキセキまで<ret>艺术家：东方归言录 feat.根本凪(でんぱ組.inc/虹のコンキスタドール) × TUMENECO<ret>原曲：信仰は儚き人間の為に,5037
 30505001,地下要塞,ハートフェルトファンシー,豚乙女,30030051,Music_Jacket_000.png,乐曲：地下要塞<ret>编曲：豚乙女<ret>原曲：ハートフェルトファンシー,5050
+30505101,月、想ふ時,ハルトマンの妖怪少女,东方归言录 feat.宮村優子 × 幽閉サテライト,1016,Music_Jacket_000.png,乐曲：月、想ふ時<ret>艺术家：东方归言录 feat.宮村優子 × 幽閉サテライト<ret>原曲：ハルトマンの妖怪少女,5051
 30505201,誘いの猫の鎮魂火,廃獄ララバイ,Foxtail-Grass Studio,190050052,Music_Jacket_000.png,乐曲：誘いの猫の鎮魂火<ret>编曲：Foxtail-Grass Studio<ret>原曲：廃獄ララバイ,5052
 30505301,「地獄の人工太陽」,霊知の太陽信仰　～ Nuclear Fusion,豚乙女,190050053,Music_Jacket_000.png,乐曲：「地獄の人工太陽」<ret>编曲：豚乙女<ret>原曲：霊知の太陽信仰　～ Nuclear Fusion,5053
 30505601,Hell,パンデモニックプラネット,荒御霊,20030086,Music_Jacket_000.png,乐曲：Hell<ret>编曲：荒御霊<ret>原曲：パンデモニックプラネット,5056
@@ -546,40 +565,54 @@ id,name,original_name,artist_name,display_order,jacket_image,detail_text,unit_id
 30601101,狂気の世界で謳わねば,広有射怪鳥事　～ Till When?,イノライ,30030019,Music_Jacket_000.png,乐曲：狂気の世界で謳わねば<ret>编曲：イノライ<ret>原曲：広有射怪鳥事　～ Till When?,6011
 30602401,ヴァイローチャナの呪い,感情の摩天楼　～ Cosmic Mind,IRON ATTACK!,200050060,Music_Jacket_000.png,乐曲：ヴァイローチャナの呪い<ret>编曲：IRON ATTACK!<ret>原曲：感情の摩天楼　～ Cosmic Mind,6024
 30602501,PHANTOM PAIN,華狭間のバトルフィールド,东方归言录 feat.KOTOKO × ZYTOKINE,800709,Music_Jacket_015.png,乐曲：PHANTOM PAIN<ret>艺术家：东方归言录 feat.KOTOKO × ZYTOKINE<ret>原曲：華狭間のバトルフィールド,6025
+30603901,タタエロスト,ネイティブフェイス,东方归言录 feat.岸田メル × 石鹸屋,800044,Music_Jacket_018.png,乐曲：タタエロスト<ret>艺术家：东方归言录 feat.岸田メル × 石鹸屋<ret>原曲：ネイティブフェイス,6039
 30604001,PROPELLER (take2),芥川龍之介の河童　～ Candid Friend,flap+frog,1280040,Music_Jacket_000.png,乐曲：PROPELLER (take2)<ret>编曲：flap+frog<ret>原曲：芥川龍之介の河童　～ Candid Friend,6040
 30604901,ONITRIBE,華のさかづき大江山,荒御霊,230050050,Music_Jacket_000.png,乐曲：ONITRIBE<ret>编曲：荒御霊<ret>原曲：華のさかづき大江山,6049
 30605601,ここは楽園ではないけれど,パンデモニックプラネット,豚乙女,30030086,Music_Jacket_000.png,乐曲：ここは楽園ではないけれど<ret>编曲：豚乙女<ret>原曲：パンデモニックプラネット,6056
 30606201,Stairs to Heaven,幽霊楽団　～ Phantom Ensemble,Foxtail-Grass Studio,20050016,Music_Jacket_000.png,乐曲：Stairs to Heaven<ret>编曲：Foxtail-Grass Studio<ret>原曲：幽霊楽団　～ Phantom Ensemble,6062
 30606301,プリズムリバー三姉妹のUKハードコアにハマってる方,幽霊楽団　～ Phantom Ensemble,Astral Sky vs. 非可逆リズム,20050017,Music_Jacket_000.png,乐曲：プリズムリバー三姉妹のUKハードコアにハマってる方<ret>编曲：Astral Sky vs. 非可逆リズム<ret>原曲：幽霊楽団　～ Phantom Ensemble,6063
 30606401,疾走あんさんぶる,幽霊楽団　～ Phantom Ensemble,ビートまりお(COOL&CREATE),20050018,Music_Jacket_000.png,乐曲：疾走あんさんぶる<ret>编曲：ビートまりお(COOL&CREATE)<ret>原曲：幽霊楽団　～ Phantom Ensemble,6064
+30608601,Mausoleum Custos,リジッドパラダイス,IRON ATTACK!,11300064,Music_Jacket_000.png,乐曲：Mausoleum Custos<ret>编曲：IRON ATTACK!<ret>原曲：リジッドパラダイス,6086
 30608701,感情のエフュージョン,亡失のエモーション,Melodic Taste,1280070,Music_Jacket_000.png,乐曲：感情のエフュージョン<ret>编曲：Melodic Taste<ret>原曲：亡失のエモーション,6087
 30608901,有頂天変,有頂天変　～ Wonderful Heaven,Melodic Taste,200050046,Music_Jacket_000.png,乐曲：有頂天変<ret>编曲：Melodic Taste<ret>原曲：有頂天変　～ Wonderful Heaven,6089
 30609401,SAKASAMA Traveler,リバースイデオロギー,給食頭蛮(ぱらどっと),11400076,Music_Jacket_000.png,乐曲：SAKASAMA Traveler<ret>编曲：給食頭蛮(ぱらどっと)<ret>原曲：リバースイデオロギー,6094
 30611201,Echo Peak,セラフィックチキン,荒御霊,20030098,Music_Jacket_000.png,乐曲：Echo Peak<ret>编曲：荒御霊<ret>原曲：セラフィックチキン,6112
 30701101,Ancient Groove,東方妖々夢　～ Ancient Temple,Amateras Records,10600019,Music_Jacket_000.png,乐曲：Ancient Groove<ret>编曲：Amateras Records<ret>原曲：東方妖々夢　～ Ancient Temple,7011
+30703701,君とまた夢の中で,Foxtail-Grass Studio,信仰は儚き人間の為に,9170042,Music_Jacket_000.png,乐曲：君とまた夢の中で<ret>编曲：Foxtail-Grass Studio<ret>原曲：信仰は儚き人間の為に,7037
 30704201,お宇佐さまの素い幡,お宇佐さまの素い幡,まらしぃ,10800027,Music_Jacket_000.png,乐曲：お宇佐さまの素い幡<ret>编曲：まらしぃ<ret>原曲：お宇佐さまの素い幡,7042
 30704401,flutter,風神少女,Hachimitsu-Lemon,1280032,Music_Jacket_000.png,乐曲：flutter<ret>编曲：Hachimitsu-Lemon<ret>原曲：風神少女,7044
 30706201,Gig the Alternative,幽霊楽団　～ Phantom Ensemble,IOSYS,10600016,Music_Jacket_000.png,乐曲：Gig the Alternative<ret>编曲：IOSYS<ret>原曲：幽霊楽団　～ Phantom Ensemble,7062
 30706301,Phantom Phannk Orchestra,幽霊楽団　～ Phantom Ensemble,IRON ATTACK!,10600017,Music_Jacket_000.png,乐曲：Phantom Phannk Orchestra<ret>编曲：IRON ATTACK!<ret>原曲：幽霊楽団　～ Phantom Ensemble,7063
 30706401,ナナヒカリ音アソビ,幽霊楽団　～ Phantom Ensemble,東京アクティブNEETs,10600018,Music_Jacket_000.png,乐曲：ナナヒカリ音アソビ<ret>编曲：東京アクティブNEETs<ret>原曲：幽霊楽団　～ Phantom Ensemble,7064
+30708501,いつかの桃源郷,古きユアンシェン,K2E?Cradle,11300065,Music_Jacket_000.png,乐曲：いつかの桃源郷<ret>编曲：K2E?Cradle<ret>原曲：古きユアンシェン,7085
+30709501,EINE KLEINE NADEL MUSIK,輝く針の小人族　～ Little Princess,ZYTOKINE,11400077,Music_Jacket_000.png,乐曲：EINE KLEINE NADEL MUSIK<ret>编曲：ZYTOKINE<ret>原曲：輝く針の小人族　～ Little Princess,7095
 30800101,カルマスピード,少女綺想曲　～ Dream Battle / 春色小径　～ Colorful Path,东方归言录 feat.及川光博 × 豚乙女,800001,Music_Jacket_013.png,乐曲：カルマスピード<ret>艺术家：东方归言录 feat.及川光博 × 豚乙女<ret>原曲：少女綺想曲　～ Dream Battle / 春色小径　～ Colorful Path,8001
 30800201,夜に裂く光,メイガスナイト,东方归言录 feat.影山ヒロノブ × 豚乙女,1009,Music_Jacket_010.png,乐曲：夜に裂く光<ret>艺术家：东方归言录 feat.影山ヒロノブ × 豚乙女<ret>原曲：メイガスナイト,8002
 30803201,魔理沙は大変なものを盗んでいきました(KARAOKE Ver),人形裁判　～ 人の形弄びし少女,IOSYS,260030014,Music_Jacket_000.png,乐曲：魔理沙は大変なものを盗んでいきました(KARAOKE Ver)<ret>编曲：IOSYS<ret>原曲：人形裁判　～ 人の形弄びし少女,8032
 30803801,Just on bust it up!,御柱の墓場　～ Grave of Being,東京アクティブNEETs,230020043,Music_Jacket_000.png,乐曲：Just on bust it up!<ret>编曲：東京アクティブNEETs<ret>原曲：御柱の墓場　～ Grave of Being,8038
+30803901,土着神の遊び心,明日ハレの日、ケの昨日,オーライフジャパン,20803901,Music_Jacket_000.png,乐曲：土着神の遊び心<ret>编曲：オーライフジャパン<ret>原曲：明日ハレの日、ケの昨日,8039
 31000201,magic evolve,メイガスナイト,DiGiTAL WiNG,270080002,Music_Jacket_000.png,乐曲：magic evolve<ret>编曲：DiGiTAL WiNG<ret>原曲：メイガスナイト,10002
 31900101,響縁,少女綺想曲　～ Dream Battle,豚乙女,30030001,Music_Jacket_000.png,乐曲：響縁<ret>编曲：豚乙女<ret>原曲：少女綺想曲　～ Dream Battle,19001
 31900201,流星スペクトラ,恋色マスタースパーク,FoxTail-Grass Studio,30030002,Music_Jacket_000.png,乐曲：流星スペクトラ<ret>编曲：FoxTail-Grass Studio<ret>原曲：恋色マスタースパーク,19002
 31903701,サナエ to ラブ,少女が見た日本の原風景 / 信仰は儚き人間の為に,ジュクチョー,60010042,Music_Jacket_000.png,乐曲：サナエ to ラブ<ret>编曲：ジュクチョー<ret>原曲：少女が見た日本の原風景 / 信仰は儚き人間の為に,19037
+201010701,エタニティラルバの夢の中,真夏の妖精の夢,TAMUSIC,11608089,Music_Jacket_000.png,乐曲：エタニティラルバの夢の中<ret>编曲：TAMUSIC<ret>原曲：真夏の妖精の夢,10107
 201100301,運命狂サディスティック(カラオケVer),亡き王女の為のセプテット,IOSYS,260030010,Music_Jacket_000.png,乐曲：運命狂サディスティック(カラオケVer)<ret>编曲：IOSYS<ret>原曲：亡き王女の為のセプテット,11003
 201200401,Akaku Somarina,U.N.オーエンは彼女なのか？,ジュクチョー,1280011,Music_Jacket_000.png,乐曲：Akaku Somarina<ret>编曲：ジュクチョー<ret>原曲：U.N.オーエンは彼女なのか？,12004
+201210401,令和のAlien,平安のエイリアン,AbsoЯute Zero,11208061,Music_Jacket_000.png,乐曲：令和のAlien<ret>编曲：AbsoЯute Zero<ret>原曲：平安のエイリアン,12104
 201300201,MARRY SUN (Game Size),恋色マスタースパーク,A-One,34610002,Music_Jacket_000.png,乐曲：MARRY SUN (Game Size)<ret>编曲：A-One<ret>原曲：恋色マスタースパーク,13002
+201500401,春触れ,U.N.オーエンは彼女なのか？,少女理論観測所,30053011,Music_Jacket_000.png,乐曲：春触れ<ret>编曲：少女理論観測所<ret>原曲：U.N.オーエンは彼女なのか？,15004
+201505101,Innocent Malice,ハルトマンの妖怪少女,GET IN THE RING,30053054,Music_Jacket_000.png,乐曲：Innocent Malice<ret>编曲：GET IN THE RING<ret>原曲：ハルトマンの妖怪少女,15051
 201800501,パリピサクヤ,メイドと血の懐中時計,Astral Sky vs. 非可逆リズム,10701009,Music_Jacket_000.png,乐曲：パリピサクヤ<ret>编曲：Astral Sky vs. 非可逆リズム<ret>原曲：メイドと血の懐中時計,18005
 201900501,メイドと血の懐中時計 (MRM REMIX),メイドと血の懐中時計,非可逆リズム,10702009,Music_Jacket_000.png,乐曲：メイドと血の懐中時計 (MRM REMIX)<ret>编曲：非可逆リズム<ret>原曲：メイドと血の懐中時計,19005
 201900901,Dynamite,ネクロファンタジア,Amateras Records,10600022,Music_Jacket_000.png,乐曲：Dynamite<ret>编曲：Amateras Records<ret>原曲：ネクロファンタジア,19009
 201903201,Alice of Alice,ブクレシュティの人形師 / 人形裁判　～ 人の形弄びし少女,Melodic Taste,10600014,Music_Jacket_000.png,乐曲：Alice of Alice<ret>编曲：Melodic Taste<ret>原曲：ブクレシュティの人形師 / 人形裁判　～ 人の形弄びし少女,19032
+301010701,エタニティラルバの夢の中,真夏の妖精の夢,TAMUSIC,11608089,Music_Jacket_000.png,乐曲：エタニティラルバの夢の中<ret>编曲：TAMUSIC<ret>原曲：真夏の妖精の夢,10107
 301100301,運命狂サディスティック(カラオケVer),亡き王女の為のセプテット,IOSYS,260030010,Music_Jacket_000.png,乐曲：運命狂サディスティック(カラオケVer)<ret>编曲：IOSYS<ret>原曲：亡き王女の為のセプテット,11003
 301200401,Akaku Somarina,U.N.オーエンは彼女なのか？,ジュクチョー,1280011,Music_Jacket_000.png,乐曲：Akaku Somarina<ret>编曲：ジュクチョー<ret>原曲：U.N.オーエンは彼女なのか？,12004
+301210401,令和のAlien,平安のエイリアン,AbsoЯute Zero,11208061,Music_Jacket_000.png,乐曲：令和のAlien<ret>编曲：AbsoЯute Zero<ret>原曲：平安のエイリアン,12104
 301300201,MARRY SUN (Game Size),恋色マスタースパーク,A-One,34610002,Music_Jacket_000.png,乐曲：MARRY SUN (Game Size)<ret>编曲：A-One<ret>原曲：恋色マスタースパーク,13002
+301500401,春触れ,U.N.オーエンは彼女なのか？,少女理論観測所,30053011,Music_Jacket_000.png,乐曲：春触れ<ret>编曲：少女理論観測所<ret>原曲：U.N.オーエンは彼女なのか？,15004
+301505101,Innocent Malice,ハルトマンの妖怪少女,GET IN THE RING,30053054,Music_Jacket_000.png,乐曲：Innocent Malice<ret>编曲：GET IN THE RING<ret>原曲：ハルトマンの妖怪少女,15051
 301800501,パリピサクヤ,メイドと血の懐中時計,Astral Sky vs. 非可逆リズム,10701009,Music_Jacket_000.png,乐曲：パリピサクヤ<ret>编曲：Astral Sky vs. 非可逆リズム<ret>原曲：メイドと血の懐中時計,18005
 301900501,メイドと血の懐中時計 (MRM REMIX),メイドと血の懐中時計,非可逆リズム,10702009,Music_Jacket_000.png,乐曲：メイドと血の懐中時計 (MRM REMIX)<ret>编曲：非可逆リズム<ret>原曲：メイドと血の懐中時計,19005
 301900901,Dynamite,ネクロファンタジア,Amateras Records,10600022,Music_Jacket_000.png,乐曲：Dynamite<ret>编曲：Amateras Records<ret>原曲：ネクロファンタジア,19009
