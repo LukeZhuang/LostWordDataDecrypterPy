@@ -2,6 +2,7 @@
 {"id": 302001, "relic_chapter_id": 302001, "title": "「白银之风」", "normal_battle_id": 30200101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/302001/Episode1.asset"}
 {"id": 303201, "relic_chapter_id": 303201, "title": "「斑驳木春菊」", "normal_battle_id": 30320101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/303201/Episode1.asset"}
 {"id": 303801, "relic_chapter_id": 303801, "title": "「道别淡染天青」", "normal_battle_id": 30380101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/303801/Episode1.asset"}
+{"id": 400701, "relic_chapter_id": 400701, "title": "「Be the change」", "normal_battle_id": 40070101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/400701/Episode1.asset"}
 {"id": 401001, "relic_chapter_id": 401001, "title": "「时间界限」", "normal_battle_id": 40100101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/401001/Episode1.asset"}
 {"id": 405001, "relic_chapter_id": 405001, "title": "「NAЯAKA」", "normal_battle_id": 40500101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/405001/Episode1.asset"}
 {"id": 500301, "relic_chapter_id": 500301, "title": "「暖热的指尖」", "normal_battle_id": 50030101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/500301/Episode1.asset"}
@@ -9,6 +10,7 @@
 {"id": 501101, "relic_chapter_id": 501101, "title": "「Disillusion」", "normal_battle_id": 50110101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/501101/Episode1.asset"}
 {"id": 501501, "relic_chapter_id": 501501, "title": "「祭月夜 SIDE铃仙」", "normal_battle_id": 50150101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/501501/Episode1.asset"}
 {"id": 503701, "relic_chapter_id": 503701, "title": "「与你重逢的奇迹之日」", "normal_battle_id": 50370101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/503701/Episode1.asset"}
+{"id": 505101, "relic_chapter_id": 505101, "title": "「举头思月」", "normal_battle_id": 50510101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/505101/Episode1.asset"}
 {"id": 600501, "relic_chapter_id": 600501, "title": "「月与十六夜」", "normal_battle_id": 60050101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/600501/Episode1.asset"}
 {"id": 602501, "relic_chapter_id": 602501, "title": "「PHANTOM PAIN」", "normal_battle_id": 60250101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/602501/Episode1.asset"}
 {"id": 800101, "relic_chapter_id": 800101, "title": "「业速」", "normal_battle_id": 80010101, "hard_battle_id": 0, "lunatic_battle_id": 0, "comic_filepath": "RelicQuest/800101/Episode1.asset"}

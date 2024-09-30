@@ -79,9 +79,14 @@
 {"id": 200801, "target_name": "小恶魔", "target_unit_id": 2008, "priority": 95, "costume_id": 200801, "unit_speech_group_id": 976}
 {"id": 201001, "target_name": "西行寺幽幽子", "target_unit_id": 2010, "priority": 64, "costume_id": 201001, "unit_speech_group_id": 623}
 {"id": 201101, "target_name": "魂魄妖梦", "target_unit_id": 2011, "priority": 63, "costume_id": 201101, "unit_speech_group_id": 622}
+{"id": 201501, "target_name": "铃仙·优昙华院·因幡", "target_unit_id": 2015, "priority": 118, "costume_id": 201501, "unit_speech_group_id": 1149}
 {"id": 201601, "target_name": "绵月丰姬", "target_unit_id": 2016, "priority": 109, "costume_id": 201601, "unit_speech_group_id": 1101}
 {"id": 201701, "target_name": "绵月依姬", "target_unit_id": 2017, "priority": 110, "costume_id": 201701, "unit_speech_group_id": 1102}
 {"id": 201901, "target_name": "蓬莱山辉夜", "target_unit_id": 2019, "priority": 107, "costume_id": 201901, "unit_speech_group_id": 1099}
+{"id": 202101, "target_name": "清兰", "target_unit_id": 2021, "priority": 115, "costume_id": 202101, "unit_speech_group_id": 1146}
+{"id": 202201, "target_name": "铃瑚", "target_unit_id": 2022, "priority": 116, "costume_id": 202201, "unit_speech_group_id": 1147}
+{"id": 202301, "target_name": "铃仙", "target_unit_id": 2023, "priority": 117, "costume_id": 202301, "unit_speech_group_id": 1148}
+{"id": 205701, "target_name": "纯狐", "target_unit_id": 2057, "priority": 114, "costume_id": 205701, "unit_speech_group_id": 1145}
 {"id": 208101, "target_name": "稀神探女", "target_unit_id": 2081, "priority": 108, "costume_id": 208101, "unit_speech_group_id": 1100}
 {"id": 300101, "target_name": "博丽灵梦", "target_unit_id": 3001, "priority": 79, "costume_id": 300101, "unit_speech_group_id": 821}
 {"id": 300201, "target_name": "雾雨魔理沙", "target_unit_id": 3002, "priority": 80, "costume_id": 300201, "unit_speech_group_id": 822}
