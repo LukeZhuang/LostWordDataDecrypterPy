@@ -214,6 +214,8 @@
 {"id": 2105001, "chapter_id": 2105, "mode": 1, "title": "特殊章节 麦饭Ｑ THE·GOLDEN", "sub_title": "", "number": 1, "costume_id": 112203, "unit_speech_group_id": 1097, "open_type": 0}
 {"id": 2106000, "chapter_id": 2106, "mode": 0, "title": "宇佐见莲子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2107000, "chapter_id": 2107, "mode": 0, "title": "玛艾露贝莉·赫恩体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2109000, "chapter_id": 2109, "mode": 0, "title": "乐园的健康烹饪 ～添加祈祷与心愿～", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
+{"id": 2109001, "chapter_id": 2109, "mode": 1, "title": "特殊章节 乐园的健康烹饪 ～添加祈祷与心愿～", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 565, "open_type": 0}
 {"id": 2110000, "chapter_id": 2110, "mode": 0, "title": "「新释怪物话 毛茸茸的表演者！」", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1120, "open_type": 0}
 {"id": 2110001, "chapter_id": 2110, "mode": 1, "title": "特殊章节 「新释怪物话 毛茸茸的表演者！」", "sub_title": "", "number": 1, "costume_id": 101304, "unit_speech_group_id": 1121, "open_type": 0}
 {"id": 2111000, "chapter_id": 2111, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
@@ -222,8 +224,12 @@
 {"id": 2120000, "chapter_id": 2120, "mode": 0, "title": "赤蛮奇体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2124000, "chapter_id": 2124, "mode": 0, "title": "比那名居天子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2128000, "chapter_id": 2128, "mode": 0, "title": "依神紫苑体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2131000, "chapter_id": 2131, "mode": 0, "title": "平行世界！ ～新次元并行录", "sub_title": "", "number": 1, "costume_id": 200901, "unit_speech_group_id": 1230, "open_type": 0}
+{"id": 2131001, "chapter_id": 2131, "mode": 1, "title": "特殊章节 平行世界！ ～新次元并行录", "sub_title": "", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1231, "open_type": 1}
 {"id": 2132000, "chapter_id": 2132, "mode": 0, "title": "东风谷早苗体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2133000, "chapter_id": 2133, "mode": 0, "title": "芙兰朵露·斯卡雷特体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2134000, "chapter_id": 2134, "mode": 0, "title": "古明地恋体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2136000, "chapter_id": 2136, "mode": 0, "title": "高难度挑战", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

@@ -86,6 +86,7 @@
 {"id": 202101, "target_name": "清兰", "target_unit_id": 2021, "priority": 115, "costume_id": 202101, "unit_speech_group_id": 1146}
 {"id": 202201, "target_name": "铃瑚", "target_unit_id": 2022, "priority": 116, "costume_id": 202201, "unit_speech_group_id": 1147}
 {"id": 202301, "target_name": "铃仙", "target_unit_id": 2023, "priority": 117, "costume_id": 202301, "unit_speech_group_id": 1148}
+{"id": 205001, "target_name": "古明地觉", "target_unit_id": 2050, "priority": 131, "costume_id": 205001, "unit_speech_group_id": 1233}
 {"id": 205701, "target_name": "纯狐", "target_unit_id": 2057, "priority": 114, "costume_id": 205701, "unit_speech_group_id": 1145}
 {"id": 208101, "target_name": "稀神探女", "target_unit_id": 2081, "priority": 108, "costume_id": 208101, "unit_speech_group_id": 1100}
 {"id": 300101, "target_name": "博丽灵梦", "target_unit_id": 3001, "priority": 79, "costume_id": 300101, "unit_speech_group_id": 821}
@@ -96,3 +97,5 @@
 {"id": 301101, "target_name": "魂魄妖梦", "target_unit_id": 3011, "priority": 82, "costume_id": 301101, "unit_speech_group_id": 824}
 {"id": 301501, "target_name": "铃仙·优昙华院·因幡", "target_unit_id": 3015, "priority": 83, "costume_id": 301501, "unit_speech_group_id": 825}
 {"id": 303701, "target_name": "东风谷早苗", "target_unit_id": 3037, "priority": 84, "costume_id": 303701, "unit_speech_group_id": 826}
+{"id": 505201, "target_name": "火焰猫燐", "target_unit_id": 5052, "priority": 132, "costume_id": 505201, "unit_speech_group_id": 1234}
+{"id": 505301, "target_name": "灵乌路空", "target_unit_id": 5053, "priority": 133, "costume_id": 505301, "unit_speech_group_id": 1235}
