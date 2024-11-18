@@ -198,3 +198,7 @@
 {"id": 198, "name": "远点存在", "description": "-", "alias_name": "对远点存在特别有效。"}
 {"id": 199, "name": "蛇", "description": "-", "alias_name": "对蛇特别有效。"}
 {"id": 200, "name": "鬼之国", "description": "-", "alias_name": "对鬼之国住民特别有效。"}
+{"id": 201, "name": "梦幻馆", "description": "-", "alias_name": "对梦幻馆特别有效。"}
+{"id": 202, "name": "梦幻世界", "description": "-", "alias_name": "对梦幻世界特别有效。"}
+{"id": 203, "name": "极点存在", "description": "-", "alias_name": "对极点存在特别有效。"}
+{"id": 204, "name": "油库里", "description": "-", "alias_name": "对油库里特别有效。"}

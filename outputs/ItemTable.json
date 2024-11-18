@@ -95,8 +95,10 @@
 {"id": 706, "name": "2.5周年特别祝词", "description": "有效期至2024年06月30日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1006}
 {"id": 707, "name": "史诗祈愿特别祝词-古明地恋", "description": "有效期至2024年11月19日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1007}
 {"id": 708, "name": "异变的道具", "description": "不明异变产生的未知道具。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 10000}
-{"id": 709, "name": "特別祝詞(期間限定)", "description": "2024年3月29日 10:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1009}
+{"id": 709, "name": "泳装特殊祝词-圣白莲", "description": "有效期至2024年12月03日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1009}
 {"id": 710, "name": "3周年特别祝词", "description": "有效期至2024年11月30日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1010}
+{"id": 711, "name": "サマーキャンペーン特別祝詞", "description": "2024年8月30日 10:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1011}
+{"id": 712, "name": "ゆっくり祝詞", "description": "特別なおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1012}
 {"id": 780, "name": "泳装特殊祝词-紫", "description": "有效期至2022年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1080}
 {"id": 781, "name": "泳装特殊祝词-赫卡提亚", "description": "有效期至2022年11月22日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1081}
 {"id": 782, "name": "叙事诗特别祝词-博丽灵梦", "description": "有效期至2022年12月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1082}
@@ -231,6 +233,16 @@
 {"id": 1112, "name": "转生镜", "description": "[地狱口岸的守护神]庭渡久侘歌(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10098}
 {"id": 1113, "name": "转生镜", "description": "[古代鱼的携子护卫]牛崎润美(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10097}
 {"id": 1114, "name": "转生镜", "description": "[河原的偶像水子]戎璎花(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10096}
+{"id": 1116, "name": "转生镜", "description": "[战无不胜的刚欲同盟盟主]饕餮尤魔(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10103}
+{"id": 1117, "name": "转生镜", "description": "[生意兴隆的吉祥物]豪德寺三花(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10104}
+{"id": 1118, "name": "转生镜", "description": "[深山的经商妖怪]山城高岭(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10105}
+{"id": 1119, "name": "转生镜", "description": "[栖息于高地的山女郎]驹草山如(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10106}
+{"id": 1120, "name": "转生镜", "description": "[真正的勾玉匠人]玉造魅须丸(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10107}
+{"id": 1121, "name": "转生镜", "description": "[耳边低语的邪恶白狐]菅牧典(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10108}
+{"id": 1122, "name": "转生镜", "description": "[鸦天狗的首领]饭纲丸龙(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10109}
+{"id": 1123, "name": "转生镜", "description": "[无主物之神]天弓千亦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10110}
+{"id": 1124, "name": "转生镜", "description": "[漆黑的噬龙者]姬虫百百世(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10111}
+{"id": 1125, "name": "转生镜", "description": "[断善修恶的怪臂]茨木童子之臂(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10751}
 {"id": 2002, "name": "转生镜", "description": "[红梦的魔女]雾雨魔理沙(Z1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 260010002}
 {"id": 2003, "name": "转生镜", "description": "[小小的恶魔千金]蕾米莉亚·斯卡雷特(E9)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50090010}
 {"id": 2005, "name": "转生镜", "description": "[传说中的吸血鬼猎人]十六夜咲夜(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010009}
@@ -242,9 +254,11 @@
 {"id": 2016, "name": "转生镜", "description": "[丰富与平等的润泽院]绵月丰姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030706}
 {"id": 2017, "name": "转生镜", "description": "[温和与虔诚的平和院]绵月依姬(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030707}
 {"id": 2019, "name": "转生镜", "description": "[善意与良心的慈爱院]蓬莱山辉夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030030}
+{"id": 2020, "name": "转生镜", "description": "[反骨的蓝色不死鸟]藤原妹红(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050031}
 {"id": 2021, "name": "转生镜", "description": "[帝都的思想搜查官]清兰(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030080}
 {"id": 2022, "name": "转生镜", "description": "[帝都的熟练刑警]铃瑚(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030081}
 {"id": 2023, "name": "转生镜", "description": "[帝都的和平维持队员]铃仙(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030708}
+{"id": 2042, "name": "转生镜", "description": "[宇佐的反叛参谋]因幡帝(Y5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 250050027}
 {"id": 2050, "name": "转生镜", "description": "[小小的地底巨头]古明地觉(S2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 190020051}
 {"id": 2057, "name": "转生镜", "description": "[无名的宇宙恐怖]纯狐(B2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20020085}
 {"id": 2081, "name": "转生镜", "description": "[正统与清廉的真理院]稀神探女(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030083}
@@ -256,8 +270,11 @@
 {"id": 3011, "name": "转生镜", "description": "[月战型园丁]魂魄妖梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030019}
 {"id": 3015, "name": "转生镜", "description": "[月战型士兵]铃仙·优昙华院·因幡(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030028}
 {"id": 3037, "name": "转生镜", "description": "[月战型祭司]东风谷早苗(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030042}
+{"id": 4001, "name": "转生镜", "description": "[[红]永远之巫女]博丽灵梦(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600001}
+{"id": 4002, "name": "转生镜", "description": "[[红]奇妙的魔法使]雾雨魔理沙(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600002}
 {"id": 5052, "name": "转生镜", "description": "[侍奉千金的保姆护士]火焰猫燐(S5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 190050052}
 {"id": 5053, "name": "转生镜", "description": "[侍奉千金的烧炭工匠]灵乌路空(S5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 190050053}
+{"id": 5056, "name": "转生镜", "description": "[传送门管理者]赫卡提亚·拉碧斯拉祖利(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030086}
 {"id": 100001, "name": "初始祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 100}
 {"id": 100003, "name": "超FES祭绘马", "description": "有效期至2023年11月30日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 101}
 {"id": 100004, "name": "超FES祭绘马", "description": "有效期至2024年03月11日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 102}
@@ -268,3 +285,10 @@
 {"id": 100009, "name": "白FES祭绘马", "description": "有效期至2024年10月22日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 105}
 {"id": 100010, "name": "3周年欢迎归来 超FES祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 106}
 {"id": 100011, "name": "3周年庆纪念超FES限定祭绘马", "description": "有效期至2024年10月31日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 107}
+{"id": 100012, "name": "永遠戦線 早期開催 祭絵馬 Part2", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 110}
+{"id": 100013, "name": "永遠戦線 早期開催 祭絵馬 Part3", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 111}
+{"id": 100014, "name": "永遠戦線 クリア報酬 超フェス祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 112}
+{"id": 100015, "name": "チャレンジ達成記念ステップアップ祭絵馬1", "description": "2024年10月29日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 113}
+{"id": 100016, "name": "チャレンジ達成記念ステップアップ祭絵馬2", "description": "2024年10月29日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 114}
+{"id": 100017, "name": "チャレンジ達成記念ステップアップ祭絵馬3", "description": "2024年10月29日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 115}
+{"id": 100018, "name": "チャレンジ達成記念ステップアップ祭絵馬4", "description": "2024年10月29日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 116}

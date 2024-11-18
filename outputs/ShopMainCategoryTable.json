@@ -6,4 +6,5 @@
 {"id": 6, "shop_type": 1, "main_category_type": 4, "display_name": "指南书", "display_order": 6, "daily_gift_flag": 0, "delivery_flag": 0}
 {"id": 7, "shop_type": 1, "main_category_type": 5, "display_name": "其他", "display_order": 7, "daily_gift_flag": 0, "delivery_flag": 0}
 {"id": 8, "shop_type": 6, "main_category_type": 0, "display_name": "神结晶\n购入", "display_order": 8, "daily_gift_flag": 0, "delivery_flag": 1}
+{"id": 9, "shop_type": 13, "main_category_type": 0, "display_name": "シーズン", "display_order": 1, "daily_gift_flag": 0, "delivery_flag": 0}
 {"id": 20, "shop_type": 0, "main_category_type": 0, "display_name": "杂货屋", "display_order": 20, "daily_gift_flag": 0, "delivery_flag": 0}

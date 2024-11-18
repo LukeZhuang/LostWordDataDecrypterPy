@@ -13,6 +13,7 @@
 {"id": 1025, "type": 1, "long_bgm_id": 1025, "short_bgm_id": 0}
 {"id": 1026, "type": 1, "long_bgm_id": 1026, "short_bgm_id": 0}
 {"id": 1027, "type": 1, "long_bgm_id": 1027, "short_bgm_id": 0}
+{"id": 1030, "type": 1, "long_bgm_id": 1030, "short_bgm_id": 0}
 {"id": 1031, "type": 1, "long_bgm_id": 1031, "short_bgm_id": 0}
 {"id": 1032, "type": 1, "long_bgm_id": 1032, "short_bgm_id": 0}
 {"id": 1033, "type": 1, "long_bgm_id": 1033, "short_bgm_id": 0}
@@ -133,6 +134,8 @@
 {"id": 199024, "type": 1, "long_bgm_id": 199024, "short_bgm_id": 0}
 {"id": 199025, "type": 1, "long_bgm_id": 199025, "short_bgm_id": 0}
 {"id": 199026, "type": 1, "long_bgm_id": 199026, "short_bgm_id": 0}
+{"id": 199027, "type": 1, "long_bgm_id": 199027, "short_bgm_id": 0}
+{"id": 199028, "type": 1, "long_bgm_id": 199028, "short_bgm_id": 0}
 {"id": 20108801, "type": 0, "long_bgm_id": 20108801, "short_bgm_id": 30108801}
 {"id": 20108901, "type": 0, "long_bgm_id": 20108901, "short_bgm_id": 30108901}
 {"id": 20109001, "type": 0, "long_bgm_id": 20109001, "short_bgm_id": 30109001}

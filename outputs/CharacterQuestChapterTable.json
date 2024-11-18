@@ -55,8 +55,11 @@
 {"id": 106201, "target_name": "露娜萨·普莉兹姆利巴", "target_unit_id": 1062, "priority": 39, "costume_id": 106201, "unit_speech_group_id": 352}
 {"id": 106301, "target_name": "梅露兰·普莉兹姆利巴", "target_unit_id": 1063, "priority": 40, "costume_id": 106301, "unit_speech_group_id": 353}
 {"id": 106401, "target_name": "莉莉卡·普莉兹姆利巴", "target_unit_id": 1064, "priority": 41, "costume_id": 106401, "unit_speech_group_id": 354}
+{"id": 106501, "target_name": "依神女苑", "target_unit_id": 1065, "priority": 85, "costume_id": 106501, "unit_speech_group_id": 871}
+{"id": 106601, "target_name": "依神紫苑", "target_unit_id": 1066, "priority": 86, "costume_id": 106601, "unit_speech_group_id": 872}
 {"id": 106701, "target_name": "九十九弁弁", "target_unit_id": 1067, "priority": 53, "costume_id": 106701, "unit_speech_group_id": 521}
 {"id": 106801, "target_name": "九十九八桥", "target_unit_id": 1068, "priority": 54, "costume_id": 106801, "unit_speech_group_id": 522}
+{"id": 107201, "target_name": "上白泽慧音", "target_unit_id": 1072, "priority": 87, "costume_id": 107201, "unit_speech_group_id": 873}
 {"id": 107301, "target_name": "露米娅", "target_unit_id": 1073, "priority": 45, "costume_id": 107301, "unit_speech_group_id": 372}
 {"id": 108001, "target_name": "哆来咪·苏伊特", "target_unit_id": 1080, "priority": 37, "costume_id": 108001, "unit_speech_group_id": 338}
 {"id": 108101, "target_name": "稀神探女", "target_unit_id": 1081, "priority": 36, "costume_id": 108101, "unit_speech_group_id": 337}
@@ -68,6 +71,8 @@
 {"id": 109101, "target_name": "丰聪耳神子", "target_unit_id": 1091, "priority": 71, "costume_id": 109101, "unit_speech_group_id": 721}
 {"id": 109201, "target_name": "物部布都", "target_unit_id": 1092, "priority": 72, "costume_id": 109201, "unit_speech_group_id": 722}
 {"id": 109301, "target_name": "苏我屠自古", "target_unit_id": 1093, "priority": 73, "costume_id": 109301, "unit_speech_group_id": 723}
+{"id": 109701, "target_name": "米斯蒂娅·萝蕾拉", "target_unit_id": 1097, "priority": 88, "costume_id": 109701, "unit_speech_group_id": 874}
+{"id": 109801, "target_name": "莉格露·奈特巴格", "target_unit_id": 1098, "priority": 89, "costume_id": 109801, "unit_speech_group_id": 875}
 {"id": 110501, "target_name": "堀川雷鼓", "target_unit_id": 1105, "priority": 55, "costume_id": 110501, "unit_speech_group_id": 523}
 {"id": 111001, "target_name": "骊驹早鬼", "target_unit_id": 1110, "priority": 77, "costume_id": 111001, "unit_speech_group_id": 773}
 {"id": 111101, "target_name": "吉吊八千慧", "target_unit_id": 1111, "priority": 78, "costume_id": 111101, "unit_speech_group_id": 774}

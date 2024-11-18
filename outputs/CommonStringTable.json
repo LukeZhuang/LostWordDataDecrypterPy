@@ -776,6 +776,8 @@
 {"text_key": "ELEMENT_NAME_8", "japanese_value": "星属性", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ERRAND_TITLE", "japanese_value": "派遣", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "EVENT_TITLE", "japanese_value": "活动", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "EXCHANGE_WHITE_FESTIVAL_SANAE_MESSAGE", "japanese_value": "已过交换期限的白FES祭绘马，会变换为「失传的荒废仪式 东风谷早苗（L0g）」。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "EXCHANGE_WHITE_FESTIVAL_SANAE_SUBJECT", "japanese_value": "过期白FES祭绘马变换", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "FORMATION_TITLE", "japanese_value": "编队", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "FORMATION_WEEKLY_ARENA_MULTI_UNIT_ERROR", "japanese_value": "伙伴已在其他擂台出发", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "FRIEND_TITLE_NAME", "japanese_value": "密友", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -790,6 +792,7 @@
 {"text_key": "GACHA_POINT_INFO_EX_LIMIT_R5", "japanese_value": "祈愿后，可以获得交换P。\n同时期开放同角色的概率提升祈愿时，交换P可在两种祈愿中通用。\n交换P可以交换登场概率提升的角色或绘卷， 使用{1}交换P可交换角色，使用{2}交换P可交换☆5绘卷。\n并且角色可以交换{3}次，绘卷可以交换{4}次。\n※交换P有使用期限。交换P过使用期限后，将变换为灵点并通过邮件发放。\n\n交换期限{0}", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_POINT_INFO_EX_R5", "japanese_value": "祈愿后，可以获得交换P。\n同时期开放同角色的概率提升祈愿时，交换P可在两种祈愿中通用。\n交换P可以交换登场概率提升的角色或绘卷， 使用{1}交换P可交换角色，使用50交换P可交换☆5绘卷。\n※交换P有使用期限。交换P过使用期限后，将变换为灵点并通过邮件发放。\n\n交换期限{0}", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_POINT_INFO_LIMIT", "japanese_value": "祈愿后，可以获得交换P。\n同时期开放同角色的概率提升祈愿时，交换P可在两种祈愿中通用。\n使用{1}交换P可以交换{2}次登场概率提升角色。\n※交换P有使用期限。交换P过使用期限后，将变换为灵点并通过邮件发放。\n\n交换期限{0}", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "GACHA_POINT_INFO_NOLIMIT", "japanese_value": "祈愿后，可以获得交换P。\n使用交换P可以在交换栏中进行交换。\n※交换P有使用期限。交换P过使用期限后，将变换为灵点并通过邮件发放。\n<color=#ff0000>同时期开放同角色的概率提升祈愿时，交换P可在两种祈愿中通用。</color>\n※部分祈愿交换列表中设有交换上限。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_POINT_INFO_PICT", "japanese_value": "祈愿后，可以获得交换P。\n使用{1}交换P，可以交换概率提升的绘卷。\n※。该祈愿中交换P无法交换角色。\n※交换P有使用期限。期限过后交换P将变换为灵点并发送至邮件。\n\n交换期限至 {0}", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_POINT_INFO_PICT_LIMIT", "japanese_value": "祈愿后，可以获得交换P。\n同时期开放同角色的概率提升祈愿时，交换P可在两种祈愿中通用。\n交换P可以交换登场概率提升的绘卷，使用{1}交换P可交换☆5绘卷，使用{2}交换P可交换☆4绘卷。\n并且可以交换{3}次。\n※交换P有使用期限。交换P过使用期限后，将变换为灵点并通过邮件发放。\n\n交换期限{0}", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_POINT_INFO_PICT_LIMIT_R5", "japanese_value": "祈愿后，可以获得交换P。\n同时期开放同角色的概率提升祈愿时，交换P可在两种祈愿中通用。\n交换P可以交换登场概率提升的绘卷，使用{1}交换P可以交换☆5绘卷。\n并且可以交换{2}次。\n※交换P有使用期限。交换P过使用期限后，将变换为灵点并通过邮件发放。\n\n交换期限{0}", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -803,6 +806,7 @@
 {"text_key": "LOGINBONUS_MAIL_MESSAGE", "japanese_value": "「{name}」第{day}日的报酬", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LOGINBONUS_MAIL_SENDER", "japanese_value": "归言录", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LOGINBONUS_NAME", "japanese_value": "签到表", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "LOST_WORD_LIVE_URL", "japanese_value": "https://www.youtube.com/playlist?list=PLV57JtRB_HZugMmOLq5pgAd7JR6rD0AAs", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "MEMBER_TITLE", "japanese_value": "伙伴一览", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "MENU_CONFIG_TITLE", "japanese_value": "设定", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "MENU_GET_SWITCH_CODE_TITLE", "japanese_value": "继承", "english_value": "", "chinese_value": "", "french_value": ""}

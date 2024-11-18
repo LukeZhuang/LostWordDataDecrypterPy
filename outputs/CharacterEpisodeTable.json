@@ -55,8 +55,11 @@
 {"id": 106201, "unit_id": 1062, "title": "衣装解放", "sub_title": "转生系谱", "number": 39, "comic_filepath": "CharacterQuest/1062/Episode1.asset"}
 {"id": 106301, "unit_id": 1063, "title": "衣装解放", "sub_title": "转生系谱", "number": 40, "comic_filepath": "CharacterQuest/1063/Episode1.asset"}
 {"id": 106401, "unit_id": 1064, "title": "衣装解放", "sub_title": "转生系谱", "number": 41, "comic_filepath": "CharacterQuest/1064/Episode1.asset"}
+{"id": 106501, "unit_id": 1065, "title": "衣装解放", "sub_title": "转生系谱", "number": 77, "comic_filepath": "CharacterQuest/1065/Episode1.asset"}
+{"id": 106601, "unit_id": 1066, "title": "衣装解放", "sub_title": "转生系谱", "number": 78, "comic_filepath": "CharacterQuest/1066/Episode1.asset"}
 {"id": 106701, "unit_id": 1067, "title": "衣装解放", "sub_title": "转生系谱", "number": 57, "comic_filepath": "CharacterQuest/1067/Episode1.asset"}
 {"id": 106801, "unit_id": 1068, "title": "衣装解放", "sub_title": "转生系谱", "number": 58, "comic_filepath": "CharacterQuest/1068/Episode1.asset"}
+{"id": 107201, "unit_id": 1072, "title": "衣装解放", "sub_title": "转生系谱", "number": 79, "comic_filepath": "CharacterQuest/1072/Episode1.asset"}
 {"id": 107301, "unit_id": 1073, "title": "衣装解放", "sub_title": "转生系谱", "number": 51, "comic_filepath": "CharacterQuest/1073/Episode1.asset"}
 {"id": 108001, "unit_id": 1080, "title": "衣装解放", "sub_title": "转生系谱", "number": 38, "comic_filepath": "CharacterQuest/1080/Episode1.asset"}
 {"id": 108101, "unit_id": 1081, "title": "衣装解放", "sub_title": "转生系谱", "number": 37, "comic_filepath": "CharacterQuest/1081/Episode1.asset"}
@@ -68,6 +71,8 @@
 {"id": 109101, "unit_id": 1091, "title": "衣装解放", "sub_title": "转生系谱", "number": 63, "comic_filepath": "CharacterQuest/1091/Episode1.asset"}
 {"id": 109201, "unit_id": 1092, "title": "衣装解放", "sub_title": "转生系谱", "number": 69, "comic_filepath": "CharacterQuest/1092/Episode1.asset"}
 {"id": 109301, "unit_id": 1093, "title": "衣装解放", "sub_title": "转生系谱", "number": 68, "comic_filepath": "CharacterQuest/1093/Episode1.asset"}
+{"id": 109701, "unit_id": 1097, "title": "衣装解放", "sub_title": "转生系谱", "number": 80, "comic_filepath": "CharacterQuest/1097/Episode1.asset"}
+{"id": 109801, "unit_id": 1098, "title": "衣装解放", "sub_title": "转生系谱", "number": 81, "comic_filepath": "CharacterQuest/1098/Episode1.asset"}
 {"id": 110501, "unit_id": 1105, "title": "衣装解放", "sub_title": "转生系谱", "number": 55, "comic_filepath": "CharacterQuest/1105/Episode1.asset"}
 {"id": 111001, "unit_id": 1110, "title": "衣装解放", "sub_title": "转生系谱", "number": 75, "comic_filepath": "CharacterQuest/1110/Episode1.asset"}
 {"id": 111101, "unit_id": 1111, "title": "衣装解放", "sub_title": "转生系谱", "number": 76, "comic_filepath": "CharacterQuest/1111/Episode1.asset"}

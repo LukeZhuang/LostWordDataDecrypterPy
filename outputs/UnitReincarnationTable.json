@@ -109,6 +109,16 @@
 {"id": 111201, "unit_id": 1112, "stage": 1, "life_point": 7000, "yang_attack": 1700, "yang_defense": 1120, "yin_attack": 860, "yin_defense": 740, "speed": 1200, "performance_type": 0}
 {"id": 111301, "unit_id": 1113, "stage": 1, "life_point": 5350, "yang_attack": 1200, "yang_defense": 950, "yin_attack": 1700, "yin_defense": 1100, "speed": 1000, "performance_type": 0}
 {"id": 111401, "unit_id": 1114, "stage": 1, "life_point": 5225, "yang_attack": 975, "yang_defense": 700, "yin_attack": 1800, "yin_defense": 1500, "speed": 1000, "performance_type": 0}
+{"id": 111601, "unit_id": 1116, "stage": 1, "life_point": 5250, "yang_attack": 1160, "yang_defense": 1000, "yin_attack": 1920, "yin_defense": 1200, "speed": 960, "performance_type": 0}
+{"id": 111701, "unit_id": 1117, "stage": 1, "life_point": 5750, "yang_attack": 1650, "yang_defense": 1425, "yin_attack": 835, "yin_defense": 835, "speed": 1125, "performance_type": 0}
+{"id": 111801, "unit_id": 1118, "stage": 1, "life_point": 5300, "yang_attack": 1420, "yang_defense": 1040, "yin_attack": 970, "yin_defense": 960, "speed": 1570, "performance_type": 0}
+{"id": 111901, "unit_id": 1119, "stage": 1, "life_point": 5500, "yang_attack": 1110, "yang_defense": 860, "yin_attack": 1690, "yin_defense": 1300, "speed": 960, "performance_type": 0}
+{"id": 112001, "unit_id": 1120, "stage": 1, "life_point": 5250, "yang_attack": 1635, "yang_defense": 1025, "yin_attack": 1635, "yin_defense": 1025, "speed": 920, "performance_type": 0}
+{"id": 112101, "unit_id": 1121, "stage": 1, "life_point": 4350, "yang_attack": 1050, "yang_defense": 800, "yin_attack": 2000, "yin_defense": 1000, "speed": 1300, "performance_type": 0}
+{"id": 112201, "unit_id": 1122, "stage": 1, "life_point": 4700, "yang_attack": 1550, "yang_defense": 950, "yin_attack": 1550, "yin_defense": 950, "speed": 1350, "performance_type": 0}
+{"id": 112301, "unit_id": 1123, "stage": 1, "life_point": 5950, "yang_attack": 2000, "yang_defense": 900, "yin_attack": 1350, "yin_defense": 750, "speed": 1100, "performance_type": 0}
+{"id": 112401, "unit_id": 1124, "stage": 1, "life_point": 6200, "yang_attack": 1350, "yang_defense": 750, "yin_attack": 2000, "yin_defense": 1050, "speed": 900, "performance_type": 0}
+{"id": 112501, "unit_id": 1125, "stage": 1, "life_point": 5000, "yang_attack": 1560, "yang_defense": 760, "yin_attack": 1950, "yin_defense": 1000, "speed": 1020, "performance_type": 0}
 {"id": 200201, "unit_id": 2002, "stage": 1, "life_point": 5600, "yang_attack": 1500, "yang_defense": 900, "yin_attack": 1900, "yin_defense": 1000, "speed": 1140, "performance_type": 0}
 {"id": 200301, "unit_id": 2003, "stage": 1, "life_point": 5050, "yang_attack": 1250, "yang_defense": 750, "yin_attack": 1880, "yin_defense": 1350, "speed": 1320, "performance_type": 0}
 {"id": 200501, "unit_id": 2005, "stage": 1, "life_point": 5500, "yang_attack": 1950, "yang_defense": 920, "yin_attack": 1250, "yin_defense": 820, "speed": 1520, "performance_type": 0}
@@ -120,9 +130,11 @@
 {"id": 201601, "unit_id": 2016, "stage": 1, "life_point": 8800, "yang_attack": 1900, "yang_defense": 850, "yin_attack": 950, "yin_defense": 850, "speed": 1250, "performance_type": 0}
 {"id": 201701, "unit_id": 2017, "stage": 1, "life_point": 5350, "yang_attack": 1950, "yang_defense": 1050, "yin_attack": 1250, "yin_defense": 890, "speed": 1350, "performance_type": 0}
 {"id": 201901, "unit_id": 2019, "stage": 1, "life_point": 6200, "yang_attack": 1950, "yang_defense": 1060, "yin_attack": 780, "yin_defense": 930, "speed": 1600, "performance_type": 0}
+{"id": 202001, "unit_id": 2020, "stage": 1, "life_point": 5550, "yang_attack": 1900, "yang_defense": 1900, "yin_attack": 700, "yin_defense": 1200, "speed": 750, "performance_type": 0}
 {"id": 202101, "unit_id": 2021, "stage": 1, "life_point": 5600, "yang_attack": 1900, "yang_defense": 850, "yin_attack": 1250, "yin_defense": 800, "speed": 1640, "performance_type": 0}
 {"id": 202201, "unit_id": 2022, "stage": 1, "life_point": 5750, "yang_attack": 1900, "yang_defense": 920, "yin_attack": 1470, "yin_defense": 870, "speed": 1250, "performance_type": 0}
 {"id": 202301, "unit_id": 2023, "stage": 1, "life_point": 5500, "yang_attack": 1800, "yang_defense": 1450, "yin_attack": 1050, "yin_defense": 850, "speed": 1310, "performance_type": 0}
+{"id": 204201, "unit_id": 2042, "stage": 1, "life_point": 8550, "yang_attack": 2000, "yang_defense": 900, "yin_attack": 1250, "yin_defense": 800, "speed": 900, "performance_type": 0}
 {"id": 205001, "unit_id": 2050, "stage": 1, "life_point": 7450, "yang_attack": 1020, "yang_defense": 1500, "yin_attack": 2000, "yin_defense": 750, "speed": 800, "performance_type": 0}
 {"id": 205701, "unit_id": 2057, "stage": 1, "life_point": 4500, "yang_attack": 1400, "yang_defense": 830, "yin_attack": 1900, "yin_defense": 1530, "speed": 1000, "performance_type": 0}
 {"id": 208101, "unit_id": 2081, "stage": 1, "life_point": 5750, "yang_attack": 1950, "yang_defense": 910, "yin_attack": 1320, "yin_defense": 930, "speed": 1300, "performance_type": 0}
@@ -134,5 +146,8 @@
 {"id": 301101, "unit_id": 3011, "stage": 1, "life_point": 5000, "yang_attack": 1780, "yang_defense": 875, "yin_attack": 1780, "yin_defense": 875, "speed": 1250, "performance_type": 0}
 {"id": 301501, "unit_id": 3015, "stage": 1, "life_point": 5000, "yang_attack": 1800, "yang_defense": 850, "yin_attack": 1560, "yin_defense": 1100, "speed": 1250, "performance_type": 0}
 {"id": 303701, "unit_id": 3037, "stage": 1, "life_point": 6800, "yang_attack": 1800, "yang_defense": 900, "yin_attack": 1400, "yin_defense": 900, "speed": 1200, "performance_type": 0}
+{"id": 400101, "unit_id": 4001, "stage": 1, "life_point": 5200, "yang_attack": 1700, "yang_defense": 1165, "yin_attack": 1235, "yin_defense": 1040, "speed": 1110, "performance_type": 0}
+{"id": 400201, "unit_id": 4002, "stage": 1, "life_point": 5100, "yang_attack": 1680, "yang_defense": 945, "yin_attack": 1185, "yin_defense": 860, "speed": 1600, "performance_type": 0}
 {"id": 505201, "unit_id": 5052, "stage": 1, "life_point": 5050, "yang_attack": 1100, "yang_defense": 900, "yin_attack": 2000, "yin_defense": 1150, "speed": 1400, "performance_type": 0}
 {"id": 505301, "unit_id": 5053, "stage": 1, "life_point": 5050, "yang_attack": 2000, "yang_defense": 1300, "yin_attack": 1050, "yin_defense": 1000, "speed": 1200, "performance_type": 0}
+{"id": 505601, "unit_id": 5056, "stage": 1, "life_point": 5300, "yang_attack": 2000, "yang_defense": 850, "yin_attack": 2000, "yin_defense": 850, "speed": 800, "performance_type": 0}
