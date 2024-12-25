@@ -1800,132 +1800,132 @@
 {"id": 2811, "group_id": 1266, "number": 1, "speech_text": "什么？ 你想看这张脸？\n那我暂时就这样吧。\n你这人真怪。", "emotion": "10"}
 {"id": 2812, "group_id": 1266, "number": 2, "speech_text": "我一直以来都是全职神明！\n就是说威严和畏惧我都需要。\n可不要把我和新来的神明们相提并论。", "emotion": "3"}
 {"id": 2813, "group_id": 1266, "number": 3, "speech_text": "你想坐武装拜殿？那就坐吧。\n神社是神明和人类一起玩的地方。\n武术的精髓是防守。我会用它守护一切。", "emotion": "5"}
-{"id": 2826, "group_id": 1272, "number": 1, "speech_text": "いつもと違う衣装で\nライブができるなんて！\nすっごく楽しみだわ！", "emotion": "3"}
-{"id": 2827, "group_id": 1272, "number": 2, "speech_text": "チューニングもばっちり。\nみ～んなまとめて\nハッピーにしちゃうわよ～！", "emotion": "7"}
-{"id": 2828, "group_id": 1273, "number": 1, "speech_text": "今日は私たちの演奏を\n聞きに来てくれてありがと。\n全力で盛り上げるからね！", "emotion": "3"}
-{"id": 2829, "group_id": 1273, "number": 2, "speech_text": "どう？ 楽しめたかな？\nプリズマティックガールズの\n音楽も悪くなかったでしょ。", "emotion": "1"}
-{"id": 2830, "group_id": 1274, "number": 1, "speech_text": "よく来たなー。音楽を愛する者よ。\nここは舞台袖、またの名を控室。\nしばらく休んできなー。", "emotion": "1"}
-{"id": 2831, "group_id": 1274, "number": 2, "speech_text": "ポテチ、ジュース、なんでもあるぞ。\nそうだ、一緒にゲームでもするか？\n……今はいい？ お前は真面目だなー。", "emotion": "10"}
-{"id": 2832, "group_id": 1274, "number": 3, "speech_text": "九十九姉妹の演奏はすごいなぁ。\nもちろん、私の映像もすごいけどな！\nふふ、ダンスも褒めてくれていいんだぞ？", "emotion": "3"}
-{"id": 2833, "group_id": 1275, "number": 1, "speech_text": "アンコール、張り切っていくわよ！\nアンタもそこでへばってないで\n最後まで気を抜かないことね！", "emotion": "4"}
-{"id": 2834, "group_id": 1275, "number": 2, "speech_text": "三姉妹の登場には驚かされたけど、\nサプライズも演出として悪くないわ。\nやっぱり彼女たちの音楽も最高ね！", "emotion": "7"}
-{"id": 2835, "group_id": 1275, "number": 3, "speech_text": "音楽ってのはね、一種の共通言語。\nどんな相手にも想いを伝えることが出来る。\nそれこそ……心の境界すら超えちゃうの。", "emotion": "6"}
-{"id": 2836, "group_id": 1276, "number": 1, "speech_text": "そこの貴方！\n『鏡』を授けましょう。\nこれを集めてください。", "emotion": "5"}
-{"id": 2837, "group_id": 1276, "number": 2, "speech_text": "私の作る円形と違い、\n味気ない形状ですが、\nこれはこれで役に立ちます。", "emotion": "3"}
-{"id": 2838, "group_id": 1277, "number": 1, "speech_text": "ほーう、これがウワサの『転生鏡』ね。\nなるほど。私の顔が映っているわ。\nなんだか変な気持ちになるわね。", "emotion": "6"}
-{"id": 2839, "group_id": 1277, "number": 2, "speech_text": "儲けをかっさらわれないか、\n我ながら心配になるわ。\nフーッ、一銭もやらないよ。", "emotion": "9"}
-{"id": 2840, "group_id": 1277, "number": 3, "speech_text": "ハッ。鏡の私に客を集めさせて、\n私が富を集めればいいじゃない！\n我ながら名案！ もっと集めましょ！", "emotion": "7"}
-{"id": 2841, "group_id": 1278, "number": 1, "speech_text": "おー、これが『転生鏡』なんだね。\nえ？ これは弾幕ごっこで手に入るの？\nなんだ、お金じゃ買えないのか。", "emotion": "2"}
-{"id": 2842, "group_id": 1278, "number": 2, "speech_text": "手放しても惜しくないってことかな。\n私以外に効果がないんじゃ仕方ないね。\nでも、それって本当かな？", "emotion": "10"}
-{"id": 2843, "group_id": 1278, "number": 3, "speech_text": "ビジネスは情報戦だよ。\n私たちはもっと知る必要がある！\n『転生鏡』を片っ端から集めよう！", "emotion": "3"}
-{"id": 2844, "group_id": 1279, "number": 1, "speech_text": "これがネムノが言ってた『転生鏡』か。\nなるほど。私の顔が映ったままだ。\n不思議なアイテムだね。魔力も感じる。", "emotion": "1"}
-{"id": 2845, "group_id": 1279, "number": 2, "speech_text": "もしかして、伊弉諾物質ってやつかい？\nまぁ、材料なんて何でもいいか。\nこれを集めろってんだね？", "emotion": "7"}
-{"id": 2846, "group_id": 1279, "number": 3, "speech_text": "私とお前でどっちが多く入手できるか、\nせっかくなら賭けてみないかい？\nさぁ、張った張った！ 勝負開始だ！", "emotion": "3"}
-{"id": 2847, "group_id": 1280, "number": 1, "speech_text": "ほう、『転生鏡』は正八角形なんですね。\n正円のほうが私は好みなんですが……。\nこの形、どこかで見たような？", "emotion": "10"}
-{"id": 2848, "group_id": 1280, "number": 2, "speech_text": "ああ、思い出しました。\n霧雨魔理沙くんが使っていたものが、\nこれと同じ形状をしていましたね。", "emotion": "1"}
-{"id": 2849, "group_id": 1280, "number": 3, "speech_text": "作り手のこだわりが詰まったものは、\n人々の記憶に深く残るものです。\nさて、この『鏡』は、どうでしょうか。", "emotion": "7"}
-{"id": 2859, "group_id": 1284, "number": 1, "speech_text": "国民一般には詳しく知られていないが、\n『縮約国家政策』というものがある。\n国をあげての省エネとでも言おうか。", "emotion": "1"}
-{"id": 2860, "group_id": 1284, "number": 2, "speech_text": "自然は守らねばならないし、\n歴史的文化も捨てるのはもったいない。\n総人口は減りつつ都市の人口密度は上がる。", "emotion": "1"}
-{"id": 2861, "group_id": 1284, "number": 3, "speech_text": "すなわち、『縮約』が必要になってくる。\n国家のあらゆる側面において、である。\n『最終区』もその一環だと考えていたが。", "emotion": "1"}
-{"id": 2862, "group_id": 1285, "number": 1, "speech_text": "高度に発達した文明は小型化する。\n恐竜的進化は袋小路だからだ。\n無駄を排し、価値のあるものだけを残す。", "emotion": "1"}
-{"id": 2863, "group_id": 1285, "number": 2, "speech_text": "問題は、価値の測定方法である。\n価値観は、不変のものではない。\n価値は変動するし、一様でもない。", "emotion": "1"}
-{"id": 2864, "group_id": 1285, "number": 3, "speech_text": "だが文化物や自然物に対しては、\n『保存』が求められるのである。\n価値観とのズレを修正するのは難しい。", "emotion": "1"}
-{"id": 2871, "group_id": 1288, "number": 1, "speech_text": "ほら、いいだろう？ この椅子。\nここで生活のすべてを賄えるのだ。\nこれこそが賢者の知恵というものである。", "emotion": "1"}
-{"id": 2872, "group_id": 1288, "number": 2, "speech_text": "ははは、冗談だよ、冗談。\nだが、道具とは身体機能を補助するものだ。\n道具が強力になるほど、体は楽になる。", "emotion": "6"}
-{"id": 2873, "group_id": 1288, "number": 3, "speech_text": "……えっ、この椅子にそんなゲームが？\n隠し機能があるなんて、聞いてない……！\nお前、よく見つけたな。正直感心したぞ。", "emotion": "5"}
-{"id": 2877, "group_id": 1290, "number": 1, "speech_text": "あーあー、聞こえてるか？\nこれからリハが始まるから\nもう少しだけ待っててな。", "emotion": "7"}
-{"id": 2878, "group_id": 1290, "number": 2, "speech_text": "ライブ、楽しみだな。\n準備もあと少しで終わるから\n期待しててくれよ！", "emotion": "3"}
-{"id": 2879, "group_id": 1291, "number": 1, "speech_text": "『音盤』を見つけたわ。\n私よりは、貴方が持っていた\nほうがいいと思ったの。", "emotion": "6"}
-{"id": 2886, "group_id": 1294, "number": 1, "speech_text": "ようこそドレミーランドへ！\n楽しい夢の体験を、\nそこの貴方にもおすそ分け！", "emotion": "6"}
-{"id": 2887, "group_id": 1294, "number": 2, "speech_text": "思い出の一枚をご所望なら、\nぜひドレミー写真館へ！\n来場お待ちしておりますよ。", "emotion": "7"}
-{"id": 2888, "group_id": 1295, "number": 1, "speech_text": "アイスはもう食べた？\nあら、これからなの？\nじゃあ、はい、あーん", "emotion": "3"}
-{"id": 2889, "group_id": 1295, "number": 2, "speech_text": "どう、美味しい？\nえ、おかわりが欲しいの？\nふふ、また明日ね。", "emotion": "7"}
-{"id": 2890, "group_id": 1296, "number": 1, "speech_text": "久しぶり～！\nよい子のみんな～！ どれみんだよ～！\n今夜も、ぐっすり楽しんでいってね～。", "emotion": "3"}
-{"id": 2891, "group_id": 1296, "number": 2, "speech_text": "ふっふっふ、今回呼んだ助っ人は、\nどれみんが特別に声をかけてきたからね。\nサイコーの新メンバーになってくれるよ！", "emotion": "7"}
-{"id": 2892, "group_id": 1296, "number": 3, "speech_text": "豪華アトラクションに、充実したサービス。\nお客様満足度ナンバーワンを目指して、\nドレミーランドは今日も今日とて開園中！", "emotion": "6"}
-{"id": 2893, "group_id": 1297, "number": 1, "speech_text": "文とレティにはずいぶん助けられたから、\nお茶会を開いたの。\nふたりとも楽しんでくれたわ。", "emotion": "3"}
-{"id": 2894, "group_id": 1297, "number": 2, "speech_text": "そしたら帰り際の妖精たちに見つかって、\n結局みんなで遊ぶことになったの。\nもう、はしゃいじゃって仕方ないんだから。", "emotion": "6"}
-{"id": 2895, "group_id": 1297, "number": 3, "speech_text": "特にクラウンピースには手を焼いたわね。\n力がうんと強いみたいだし、\n何より地上の妖精と勝手が違いすぎるのよ。", "emotion": "9"}
-{"id": 2896, "group_id": 1298, "number": 1, "speech_text": "『鏡』を探しているのよね？\nだと思って、最適なルートを\n用意しておいたわよん。", "emotion": "1"}
-{"id": 2897, "group_id": 1298, "number": 2, "speech_text": "さぁ、ゲートの前へおいで。\n貴方にとってサイコーな\n地獄体験をさせてあげる！", "emotion": "7"}
-{"id": 2898, "group_id": 1299, "number": 1, "speech_text": "我々の識別子を持つ『転生鏡』を確認した。\n通常の演習と並行して、探索と収集を\n始めよう――ああ。もちろん私も対象だ。", "emotion": "1"}
-{"id": 2899, "group_id": 1299, "number": 2, "speech_text": "形状や構造についての分析は、\nこちらでも進めるよ。一先ずこういうのは、\n『専門家』に任せるのが良いだろう。", "emotion": "3"}
-{"id": 2900, "group_id": 1299, "number": 3, "speech_text": "失ったものを、取り戻すことができるのか。\nそれはわからないな。だが……\n縋れるものは、多い方が良いだろう？", "emotion": "7"}
-{"id": 2901, "group_id": 1300, "number": 1, "speech_text": "最初に言っておこう。\n私の個別訓練はそう甘くない……！\nどころか、結構厳しいよ。覚悟しておいて。", "emotion": "6"}
-{"id": 2902, "group_id": 1300, "number": 2, "speech_text": "『鏡』については、こちらで分析中だよ。\n各々、好き勝手に考察しているようだけど、\n妄想の域を出ないんじゃあ、まだまだねェ。", "emotion": "3"}
-{"id": 2903, "group_id": 1300, "number": 3, "speech_text": "砥石に使おうとしてたヤツがいたから、\n慌てて止めたけど……いや、そもそも、\n「レーザー剣」のどこを研ごうとしたのさ！", "emotion": "10"}
-{"id": 2904, "group_id": 1301, "number": 1, "speech_text": "Welcome aboard, Please Get in Line! \nようこそ私のゲートへ。\nもう少し、ここで待っていてね。", "emotion": "1"}
-{"id": 2905, "group_id": 1301, "number": 2, "speech_text": "おっと、待ちくたびれたかしら？\nちゃんと順番を守れて偉いわね！\nとはいっても、今日のゲストは貴方だけね。", "emotion": "6"}
-{"id": 2906, "group_id": 1301, "number": 3, "speech_text": "『鏡』についてのデータを基に、\n最適な探索先を用意しておいたわ。\nワープの準備はいつでもOKよん！", "emotion": "7"}
-{"id": 2919, "group_id": 1306, "number": 1, "speech_text": "医療技術が発達した結果、長寿が実現し、\nついでに人類が手に入れたのは、\n『ネオテニー化』という呪いだった。", "emotion": "1"}
-{"id": 2920, "group_id": 1306, "number": 2, "speech_text": "成人年齢とは関係なく、『実質の成人』と\nでも呼ぶべきタイミングは高齢化する。\n16歳だったものが20歳、30歳、40歳と。", "emotion": "1"}
-{"id": 2921, "group_id": 1306, "number": 3, "speech_text": "しかしそれは社会の豊かさの現れでもある。\n次世代育成に最も時間を割く動物、\nそれが『ヒト』なのだから。", "emotion": "1"}
-{"id": 2922, "group_id": 1307, "number": 1, "speech_text": "神社は、なぜ建てられたのか。\nそれについて説明するのは難しい。\n誰も当時のことを知らないからである。", "emotion": "1"}
-{"id": 2923, "group_id": 1307, "number": 2, "speech_text": "はじめは、立てられた柵や、並べられた石\nのような姿だったのかもしれない。\n境界を示すための、記号だったのだろう。", "emotion": "1"}
-{"id": 2924, "group_id": 1307, "number": 3, "speech_text": "呪術的な意味は、必ず後から付加される。\n本来の意味は、もっとシンプルで合理的だ。\nたとえばそれは……『立入禁止』とか。", "emotion": "1"}
-{"id": 2946, "group_id": 1316, "number": 1, "speech_text": "旧地獄って、恐ろしい所だと\n思っていたのだけれど、\n案外明るくて楽しいわね！", "emotion": "1"}
-{"id": 2947, "group_id": 1316, "number": 2, "speech_text": "次は温泉に行きましょ！\nこの温泉の効能は……えっ？\n厄落とし！？ 本当かしら！？", "emotion": "3"}
-{"id": 2948, "group_id": 1317, "number": 1, "speech_text": "温泉って、飲めるものもある\nってさっき聞いたんだけど。\n何で教えてくれなかったの！", "emotion": "9"}
-{"id": 2949, "group_id": 1317, "number": 2, "speech_text": "飲めるものか判らないから、\n言わなかったってこと？\n……余計なお世話だわ。", "emotion": "10"}
-{"id": 2950, "group_id": 1318, "number": 1, "speech_text": "三途の河の幅を知っているかい？\nあたいは知らないね。関係ないからさ。\nなんせ、私の世界には『海』があった。", "emotion": "7"}
-{"id": 2951, "group_id": 1318, "number": 2, "speech_text": "海は、全部を受け止めれるくらい広かった。\nあたいの能力さえ、ちっぽけに思える程に。\n母なる海、って言葉もあるらしいね。", "emotion": "10"}
-{"id": 2952, "group_id": 1318, "number": 3, "speech_text": "それに、海は際限なく自由でもあったよ。\nお前さんも、ちょっとは羽を伸ばしてさぁ、\nバカンスとでもしゃれ込んだらどうだい？", "emotion": "3"}
-{"id": 2953, "group_id": 1319, "number": 1, "speech_text": "ど、どうも。キスメでしゅ。\nあの～。ここって、どこですか……？\nもしかしてウワサの、異界、ってやつ……？", "emotion": "2"}
-{"id": 2954, "group_id": 1319, "number": 2, "speech_text": "地底も、幻想郷から見たら別の世界だ、って\n地上の誰かが言ってたような気がする……\nで、でも、それとこれとは話が違うよぉ～！", "emotion": "8"}
-{"id": 2955, "group_id": 1319, "number": 3, "speech_text": "でっでも、貴方がいるなら、ここだけは、\n元の世界、って感じが少しだけするんです。\n――あと、私の桶の中も。", "emotion": "6"}
-{"id": 2956, "group_id": 1320, "number": 1, "speech_text": "『鏡』？ なんです、それ？\nあんまり与太話ばかり\n信じるもんじゃあないです。", "emotion": "10"}
-{"id": 2957, "group_id": 1320, "number": 2, "speech_text": "ふにゅ！？ 伊弉諾物質！？\n流れが変わりました！\n今すぐ掘りにいきましょう！", "emotion": "7"}
-{"id": 2958, "group_id": 1321, "number": 1, "speech_text": "おやあ？ おやおやおやあ？\nコソコソと何をされているんですう？\n一枚噛ませて頂いてもよろしいですかあ？", "emotion": "7"}
-{"id": 2959, "group_id": 1321, "number": 2, "speech_text": "ああ、嬉しい。私は嬉しいですよ。\n貴方がこうして、自分から『美味い話』を\n嗅ぎつけてくれるようになって！", "emotion": "6"}
-{"id": 2960, "group_id": 1321, "number": 3, "speech_text": "……ふにゅ？ これ、本当に伊弉諾物質？\n『鏡』？ なんです、それって。\n飯綱丸様に報告すべきかしら……？", "emotion": "10"}
-{"id": 2961, "group_id": 1322, "number": 1, "speech_text": "『鏡』？ ああ、もちろん聞き及んでいる。\nさっそく採りに行くか？ ああ、いいとも。\n麦飯おにぎりを、たんまり作っておいたわ。", "emotion": "7"}
-{"id": 2962, "group_id": 1322, "number": 2, "speech_text": "もう食べられない！？ まだ十分の一も\nなくなってないわよ！？ まさか味が！？\n……お腹いっぱい？ ふう、びっくりした。", "emotion": "6"}
-{"id": 2963, "group_id": 1322, "number": 3, "speech_text": "人間でも、たくさん食べないとダメよ？\nえっ？ 射命丸や姫海棠？ そういえば、\nいつも少しだけ残すわね。……はて？", "emotion": "3"}
-{"id": 2964, "group_id": 1323, "number": 1, "speech_text": "ええ！？ 伊弉諾物質っぽいアイテム！？\nいいじゃな～い！ 私そういうの好き。\nぜひ市場に流して、盛り上げましょう！", "emotion": "3"}
-{"id": 2965, "group_id": 1323, "number": 2, "speech_text": "所有権は流動させてなんぼです。\n価値あるものを、求める者の手へ！\nいざいざ、市場を開かん！ やーっ！", "emotion": "7"}
-{"id": 2966, "group_id": 1323, "number": 3, "speech_text": "落ち着け？ んー、なんとなく不敬ですが、\nふむー、言われてみればそれもそうだわ。\n無用な騒動は控えなきゃ。隠密、隠密っと。", "emotion": "10"}
-{"id": 2967, "group_id": 1324, "number": 1, "speech_text": "伊弉諾物質モドキ？ どこから出た？\n飯綱丸は知ってるのか？ 典は？ 千亦は？\n玉の野郎は？ 俺とお前で一番乗りするぞ。", "emotion": "5"}
-{"id": 2968, "group_id": 1324, "number": 2, "speech_text": "食えるタイプじゃあなくても、構わないさ。\n食えるタイプの奴と交換すればいいだけだ。\n価値の高いものなら、なんでも掘ったるぜ。", "emotion": "3"}
-{"id": 2969, "group_id": 1324, "number": 3, "speech_text": "俺以上に採掘が上手いヤツなんて、幻想郷、\nいや、この世にいやしねえよ！ へへっ！\n今日も張り切って、レッツディガップ！", "emotion": "7"}
-{"id": 2979, "group_id": 1328, "number": 1, "speech_text": "私たちゆっくりと交流したいなら、\nここに来るといいわ。\nまんまるスローライフの幕開けよ。", "emotion": "1"}
-{"id": 2980, "group_id": 1328, "number": 2, "speech_text": "まじめにやってる連中にばれないように、\nここではひっそりゆっくりと\nみんなで悪ふざけをしましょ。わーい！", "emotion": "3"}
-{"id": 2981, "group_id": 1328, "number": 3, "speech_text": "ゆっ、ゆっ、ゆゆゆ～\nゆっくりしていってね！", "emotion": "6"}
-{"id": 2982, "group_id": 1329, "number": 1, "speech_text": "しかしこりゃ、とんでもない事になったな。\n私たち、ゆっくりにとっても。\nお前にとっても。", "emotion": "1"}
-{"id": 2983, "group_id": 1329, "number": 2, "speech_text": "いま私たちに降りかかってる問題について\n解説していきたいところだが、\nれいむもいないからやめておくぜ。", "emotion": "3"}
-{"id": 2984, "group_id": 1329, "number": 3, "speech_text": "またいつか、会えるといいな。\n……いつでも会えるって？\nはは……そうだな……。", "emotion": "9"}
-{"id": 2997, "group_id": 1334, "number": 1, "speech_text": "幻想郷が大変なことに\nなっちゃったんだよ！\nうわーん！ たすけてー！", "emotion": "5"}
-{"id": 2998, "group_id": 1334, "number": 2, "speech_text": "……って感じのお話かどうか\n私もよくしらないんだぜ。\nゆっくりしていってね！", "emotion": "7"}
-{"id": 2999, "group_id": 1335, "number": 1, "speech_text": "これが噂の『音盤』ですか！\nいやはや実に素晴らしい。\nきっと特ダネ間違いなし！", "emotion": "3"}
-{"id": 3006, "group_id": 1338, "number": 1, "speech_text": "心に大きな目標定めて、\n月夜に跳ねる怪盗ロマン！\nミッションスタートだよ！", "emotion": "7"}
-{"id": 3007, "group_id": 1338, "number": 2, "speech_text": "……っていうのはどう！？\n怪盗っぽかった？\nうまくできてるといいなぁ。", "emotion": "6"}
-{"id": 3008, "group_id": 1339, "number": 1, "speech_text": "ジェットが楽しいというか、\nママが作ってくれたのが、\n心の底から嬉しいんだ。", "emotion": "6"}
-{"id": 3009, "group_id": 1339, "number": 2, "speech_text": "だから今日もかっ飛ばす！\n行こうぜ！\n水平線の彼方へ！！", "emotion": "1"}
-{"id": 3010, "group_id": 1340, "number": 1, "speech_text": "この世界では配送サービスが人気らしいわ。\n動物たちの遊び道具を運んでもらえたら、\nちょっと嬉しいかもね。", "emotion": "7"}
-{"id": 3011, "group_id": 1340, "number": 2, "speech_text": "噂をすれば何か届いたわ、って水槽ごと！？\nわ、なんて活きのいいお魚たちなの！\n万歳楽、食べる？ って聞くまでもないか。", "emotion": "5"}
-{"id": 3012, "group_id": 1340, "number": 3, "speech_text": "この前は野良猫軍団が入ってて、\n私のアイテムを咥えて遊び出すし、\nどうして私宛に変な荷物が届くのかしら？", "emotion": "6"}
-{"id": 3013, "group_id": 1341, "number": 1, "speech_text": "季節の野菜と果物。肉と魚と八目鰻。\n異世界の食事も悪くないな。\nそれに、チャイヴとマンダリンもいる。", "emotion": "6"}
-{"id": 3014, "group_id": 1341, "number": 2, "speech_text": "彼奴等、おかずの質や大きさで競うんだ。\n「私のほうが美味しかった」と言うために。\n……なんとも可愛らしいやつらだ。", "emotion": "7"}
-{"id": 3015, "group_id": 1341, "number": 3, "speech_text": "この一時を夢幻にしないように、\n必ず三人で元の世界へ帰還してみせる。\n私にも、リーダーとして矜持があるのだ。", "emotion": "10"}
-{"id": 3016, "group_id": 1342, "number": 1, "speech_text": "珍しいアイテムを探す？\nへえ。いいわね、それ。\nロマンティックだし！", "emotion": "3"}
-{"id": 3017, "group_id": 1342, "number": 2, "speech_text": "そういうのにも、\nパターンがあるのよ。\n私の得意分野だわ。", "emotion": "7"}
-{"id": 3018, "group_id": 1343, "number": 1, "speech_text": "おい、なんでついて来るんだ？\nさすがにオフの日まで、お前のごっこ遊びに\n付き合ってはいられないぞ。", "emotion": "10"}
-{"id": 3019, "group_id": 1343, "number": 2, "speech_text": "だから！ なんで人喰い鬼が、わざわざ\nお前の面倒を見ないといけないんだよ！\n自分で来たんだろ、帰るならひとりで帰れ！", "emotion": "4"}
-{"id": 3020, "group_id": 1343, "number": 3, "speech_text": "分かった、分ぁーかぁーったって！\n危ない妖怪がいるかもしれないもんな！\n私に引っ付いてろ！ 手を離すなよ！", "emotion": "6"}
-{"id": 3021, "group_id": 1344, "number": 1, "speech_text": "珍しい鉱物資源だって？ なんだそれ、\n美味いのか？ ……ムカデみたいなことを\n言ってる？ オイあんなのと一緒にするな！", "emotion": "3"}
-{"id": 3022, "group_id": 1344, "number": 2, "speech_text": "食ってみたら、今までにない効果を\n得られるかもしれないだろう？\n食えなそうならやめればいいだけだ。", "emotion": "5"}
-{"id": 3023, "group_id": 1344, "number": 3, "speech_text": "吉弔や驪駒が掘っている鉱石も、\nあとでまとめて総取りしてやればいい。\n……まあ、そんなにあっても食い切れんが。", "emotion": "8"}
-{"id": 3024, "group_id": 1345, "number": 1, "speech_text": "パワーアップアイテム？ いいじゃあない。\n手早く集めて、さっさと強くなりましょ。\n妖怪退治に、やりすぎなんてないし。", "emotion": "1"}
-{"id": 3025, "group_id": 1345, "number": 2, "speech_text": "私はね、神社で静かに暮らしたいのよ。\n妖怪変化だの異変だの、お断りだわ。\n生計を立てるためでなければね。", "emotion": "7"}
-{"id": 3026, "group_id": 1345, "number": 3, "speech_text": "ん？ 妖怪たちもこの方法で次々と\nパワーアップしていってる？\n聞き捨てならないわね。私も急がなきゃ。", "emotion": "9"}
-{"id": 3027, "group_id": 1346, "number": 1, "speech_text": "珍しいアイテムだって？\nそいつは聞き捨てならないぜ。\n今すぐ行くぞ。キビキビ行くぞ。", "emotion": "4"}
-{"id": 3028, "group_id": 1346, "number": 2, "speech_text": "まあ、お前は安心しろ。私はこれでも、\nマジックアイテムの専門家なんだ。\n知り合いに質屋モドキもいる。安心だろ？", "emotion": "1"}
-{"id": 3029, "group_id": 1346, "number": 3, "speech_text": "珍しいアイテムともなれば、\n決まって貴重な能力を持つのが相場だ。\n見つけ次第、よく調べてみようぜ！", "emotion": "7"}
-{"id": 3051, "group_id": 1354, "number": 1, "speech_text": "これは私のグリモワールだけれど、\n同時に私の体の一部でもあるわ。\n私の知識を参照する、特殊なアイテムなの。", "emotion": "9"}
-{"id": 3052, "group_id": 1354, "number": 2, "speech_text": "勝手に鍵盤に触れちゃあダメだからね。\n何が起きるかわからないし、それに……\n私の体の一部だって言っているでしょう！", "emotion": "4"}
-{"id": 3053, "group_id": 1354, "number": 3, "speech_text": "あぅ……なるほど。他人に触れさせると、\n密談みたいな使い方ができるのね。\n何かに有効活用できそうな気がするわ。", "emotion": "5"}
-{"id": 3111, "group_id": 1376, "number": 1, "speech_text": "えっ、おはじき遊びをしたい？ \nこの『純化秘石』はダメよ。大切なものだか\nらね。はい、よく似たガラス玉にしなさい。", "emotion": "5"}
-{"id": 3112, "group_id": 1376, "number": 2, "speech_text": "本当のお母さんみたい……？ たしかに今、\n少しばかり、そういう話し方になっていた。\nまだそんな感覚が、私に残っているなんて。", "emotion": "6"}
-{"id": 3113, "group_id": 1376, "number": 3, "speech_text": "だがそういうのは、大切な本当のお母さんの\nために取っておけ。そして、それはそうと、\nしばらく頭を撫でてもいいか？ 我が子よ。", "emotion": "1"}
+{"id": 2826, "group_id": 1272, "number": 1, "speech_text": "竟然能一边穿和平时不同的服装\n一边开演唱会！\n我已经等不及了！", "emotion": "3"}
+{"id": 2827, "group_id": 1272, "number": 2, "speech_text": "调音完毕。\n我要让所有人都\n快快乐乐的～！", "emotion": "7"}
+{"id": 2828, "group_id": 1273, "number": 1, "speech_text": "感谢大家\n来听我们的演奏。\n我们会全力满足你们！", "emotion": "3"}
+{"id": 2829, "group_id": 1273, "number": 2, "speech_text": "怎么样？满意吗？\n普莉兹姆女孩的音乐\n是不是也很棒。", "emotion": "1"}
+{"id": 2830, "group_id": 1274, "number": 1, "speech_text": "欢迎光临—。热爱音乐的人类啊。\n这里是休息室。\n好好休息吧—。", "emotion": "1"}
+{"id": 2831, "group_id": 1274, "number": 2, "speech_text": "薯片、果汁、这里什么都有。\n对了，要不要一起打游戏？\n……现在就算了？ 你好认真啊—。", "emotion": "10"}
+{"id": 2832, "group_id": 1274, "number": 3, "speech_text": "九十九姐妹的演奏真厉害。\n当然了，我的视频也很厉害！\n哼哼，你也可以夸奖夸奖我的舞蹈哦？", "emotion": "3"}
+{"id": 2833, "group_id": 1275, "number": 1, "speech_text": "再来一首！\n你也要打起精神\n直到最后为止都不能大意！", "emotion": "4"}
+{"id": 2834, "group_id": 1275, "number": 2, "speech_text": "三姐妹的登场吓了我一跳\n但这个惊喜作为演出效果来讲蛮不错的。\n她们的音乐果然也棒级了！", "emotion": "7"}
+{"id": 2835, "group_id": 1275, "number": 3, "speech_text": "音乐是一种共同语言。\n可以将自己的想法传达给任何人。\n音乐……能够超越内心的境界。", "emotion": "6"}
+{"id": 2836, "group_id": 1276, "number": 1, "speech_text": "你停一下！\n我把“镜子”给你。\n帮我收集这个东西。", "emotion": "5"}
+{"id": 2837, "group_id": 1276, "number": 2, "speech_text": "和我做的圆形的物品相比，\n有些枯燥无味。\n但也能派上用场。", "emotion": "3"}
+{"id": 2838, "group_id": 1277, "number": 1, "speech_text": "这就是传闻中的“转生镜”吗。\n原来如此。上面映着我的脸。\n感觉怪怪的。", "emotion": "6"}
+{"id": 2839, "group_id": 1277, "number": 2, "speech_text": "我有些担心\n我赚的钱会不会被抢走。\n哼，我一分钱都不会让给别人。", "emotion": "9"}
+{"id": 2840, "group_id": 1277, "number": 3, "speech_text": "对了，让镜子中的我收集客人\n我来收集钱就行了！\n我真是个天才！ 我们得多收集点镜子！", "emotion": "7"}
+{"id": 2841, "group_id": 1278, "number": 1, "speech_text": "这就是“转生镜”吗。\n什么？ 入手方式是玩弹幕游戏？\n什么啊，用钱买不到吗。", "emotion": "2"}
+{"id": 2842, "group_id": 1278, "number": 2, "speech_text": "就是说丢掉也不可惜吗？\n既然对我以外的人没有效果，这也没办法。\n但真的是这样吗？", "emotion": "10"}
+{"id": 2843, "group_id": 1278, "number": 3, "speech_text": "做生意是信息战。\n我们需要更了解“转生镜”！\n尽可能多收集点吧！", "emotion": "3"}
+{"id": 2844, "group_id": 1279, "number": 1, "speech_text": "这就是合欢说的“转生镜”吗。\n原来如此。上面映着我的脸。\n真是不可思议的道具。我也能感觉到魔力。", "emotion": "1"}
+{"id": 2845, "group_id": 1279, "number": 2, "speech_text": "该不会……这是所谓的伊弉诺物质？\n但材料怎样都好。\n收集它就行了吧？", "emotion": "7"}
+{"id": 2846, "group_id": 1279, "number": 3, "speech_text": "我们要不要赌赌看\n谁收集的转生镜更多？\n下注吧！ 比赛开始！", "emotion": "3"}
+{"id": 2847, "group_id": 1280, "number": 1, "speech_text": "“转生镜”是正八角形吗。\n但我更喜欢正圆形……。\n我好像在哪里看到过这个形状诶？", "emotion": "10"}
+{"id": 2848, "group_id": 1280, "number": 2, "speech_text": "我想起来了。\n雾雨魔理沙小姐使用的道具，\n和它是一个形状。", "emotion": "1"}
+{"id": 2849, "group_id": 1280, "number": 3, "speech_text": "用心制作的道具，\n会深深留在人们的记忆之中。\n这张“镜子”又是怎样呢。", "emotion": "7"}
+{"id": 2859, "group_id": 1284, "number": 1, "speech_text": "国民并不知道\n“国家紧缩政策”的具体内容。\n可以是国家规模的节能政策。", "emotion": "1"}
+{"id": 2860, "group_id": 1284, "number": 2, "speech_text": "我们必须保护大自然，\n但丢弃历史文化也太可惜了。\n总人口明明在减少，都市的人口密度却在提升。", "emotion": "1"}
+{"id": 2861, "group_id": 1284, "number": 3, "speech_text": "所以国家的所有部分\n都需要“紧缩”。\n我以为“最终区”也是其中一个环节。", "emotion": "1"}
+{"id": 2862, "group_id": 1285, "number": 1, "speech_text": "高度发达的文明会小型化。\n因为恐龙般的进化会走上绝路。\n除去多余的部分，只留下有价值的事物。", "emotion": "1"}
+{"id": 2863, "group_id": 1285, "number": 2, "speech_text": "问题在于价值的衡量方式。\n价值观不是固定的。\n价值会改变，而且因人而异。", "emotion": "1"}
+{"id": 2864, "group_id": 1285, "number": 3, "speech_text": "然而人们却想要“保存”\n文物与自然。\n修正和价值观之间的差异十分困难。", "emotion": "1"}
+{"id": 2871, "group_id": 1288, "number": 1, "speech_text": "这把椅子是不是很棒？\n坐在上面我能解决生活中的一切问题。\n这正是贤者的智慧。", "emotion": "1"}
+{"id": 2872, "group_id": 1288, "number": 2, "speech_text": "开个玩笑。\n但道具的用途是辅助身体。\n道具越强，身体越轻松。", "emotion": "6"}
+{"id": 2873, "group_id": 1288, "number": 3, "speech_text": "……什么，这把椅子能玩这种游戏？\n我不知道还有这种隐藏功能……！\n你竟然能找到。真是了不起。", "emotion": "5"}
+{"id": 2877, "group_id": 1290, "number": 1, "speech_text": "你能听见吗？\n彩排就要开始了\n再稍微等一下。", "emotion": "7"}
+{"id": 2878, "group_id": 1290, "number": 2, "speech_text": "好想快点开演唱会。\n准备工作马上就要结束了\n一定要期待哦！", "emotion": "3"}
+{"id": 2879, "group_id": 1291, "number": 1, "speech_text": "我找到了“唱片”。\n我觉得比起我，\n你拿着它更合适。", "emotion": "6"}
+{"id": 2886, "group_id": 1294, "number": 1, "speech_text": "欢迎来到哆来咪乐园！\n您也来品味品味\n美好的梦境吧！", "emotion": "6"}
+{"id": 2887, "group_id": 1294, "number": 2, "speech_text": "如果想拍照留念的话，\n请前往哆来咪照相馆！\n期待您的光临。", "emotion": "7"}
+{"id": 2888, "group_id": 1295, "number": 1, "speech_text": "你已经吃完冰激凌了？\n还没吃吗？\n那张嘴。", "emotion": "3"}
+{"id": 2889, "group_id": 1295, "number": 2, "speech_text": "怎么样，好吃吗？\n你还想吃？\n哼哼，明天再说吧。", "emotion": "7"}
+{"id": 2890, "group_id": 1296, "number": 1, "speech_text": "好久不见～！\n好孩子们～！ 我是哆来美～！\n今晚也要玩得开心哦～。", "emotion": "3"}
+{"id": 2891, "group_id": 1296, "number": 2, "speech_text": "哼哼哼，这次的帮手可是\n哆来美特意请过来的。\n一定会是最棒的新成员！", "emotion": "7"}
+{"id": 2892, "group_id": 1296, "number": 3, "speech_text": "豪华游乐设施与充实的服务。\n哆来咪乐园的目标正是\n顾客满足度第一名！", "emotion": "6"}
+{"id": 2893, "group_id": 1297, "number": 1, "speech_text": "文和蕾蒂帮了我不少忙，\n所以我开了茶会。\n她们两个都很满意。", "emotion": "3"}
+{"id": 2894, "group_id": 1297, "number": 2, "speech_text": "结果被准备回家的妖精们找到了，\n于是决定大家一起玩。\n她们可真能闹。", "emotion": "6"}
+{"id": 2895, "group_id": 1297, "number": 3, "speech_text": "克劳恩皮丝尤其是棘手。\n她的力量十分强大，\n最重要的是做事风格跟地上的妖精差太多了。", "emotion": "9"}
+{"id": 2896, "group_id": 1298, "number": 1, "speech_text": "你是在找“镜子”吧？\n哼哼，我已经\n准备好了最佳路线哦。", "emotion": "1"}
+{"id": 2897, "group_id": 1298, "number": 2, "speech_text": "站在传送门的前面吧。\n我来让你体验体验\n最棒的地狱！", "emotion": "7"}
+{"id": 2898, "group_id": 1299, "number": 1, "speech_text": "已发现上面有我们的识别码的“转生镜”。\n在进行通常演习的同时，我们将寻找收集镜子\n――当然了，我的镜子也一样。", "emotion": "1"}
+{"id": 2899, "group_id": 1299, "number": 2, "speech_text": "我们也会分析形状和结构。\n这种问题姑且就先\n交给“专家”吧。", "emotion": "3"}
+{"id": 2900, "group_id": 1299, "number": 3, "speech_text": "能否取回失去的东西。\n我不知道这个问题的答案。但是……\n能依赖的东西当然越多越好。", "emotion": "7"}
+{"id": 2901, "group_id": 1300, "number": 1, "speech_text": "我先说好了。\n我的一对一指导可不轻松……！\n应该说相当严格。做好觉悟吧。", "emotion": "6"}
+{"id": 2902, "group_id": 1300, "number": 2, "speech_text": "我们正在分析“镜子”。\n每个人都有各自的结论，但都不过是妄想。\n还差得太远了。", "emotion": "3"}
+{"id": 2903, "group_id": 1300, "number": 3, "speech_text": "有人试图用镜子磨刀，\n于是我赶紧阻止了她……\n也不知道她打算怎么磨“激光剑”！", "emotion": "10"}
+{"id": 2904, "group_id": 1301, "number": 1, "speech_text": "Welcome aboard, Please Get in Line! \n欢迎来到我的传送门。\n你在这里再等一会儿。", "emotion": "1"}
+{"id": 2905, "group_id": 1301, "number": 2, "speech_text": "你是不是等得不耐烦了？\n排队辛苦了！\n虽说今天的嘉宾只有你一个人吧。", "emotion": "6"}
+{"id": 2906, "group_id": 1301, "number": 3, "speech_text": "我用“镜子”相关的数据\n选定了最合适的探索地点。\n随时都可以开始传送哦！", "emotion": "7"}
+{"id": 2919, "group_id": 1306, "number": 1, "speech_text": "医疗技术的发展让人类变得长寿。\n顺便说人类也获得了\n名为“幼态持续”现象的诅咒。", "emotion": "1"}
+{"id": 2920, "group_id": 1306, "number": 2, "speech_text": "“事实上的成年年龄”\n在不断高龄化。\n从16岁到20岁、30岁、40岁。", "emotion": "1"}
+{"id": 2921, "group_id": 1306, "number": 3, "speech_text": "但这是社会富足的表现。\n因为在所有生物中，\n“人类”花在培养后代上的时间最长。", "emotion": "1"}
+{"id": 2922, "group_id": 1307, "number": 1, "speech_text": "我们很难说明\n为什么要建立神社。\n因为没有人知道当时的事情。", "emotion": "1"}
+{"id": 2923, "group_id": 1307, "number": 2, "speech_text": "一开始的神社可能只是\n立着栏杆，摆着石头。\n恐怕是为了划分境界的符号。", "emotion": "1"}
+{"id": 2924, "group_id": 1307, "number": 3, "speech_text": "咒术性的意义一定是后加的。\n原本的含义一定更加简单合理。\n比如说……“禁止进入”什么的。", "emotion": "1"}
+{"id": 2946, "group_id": 1316, "number": 1, "speech_text": "我以为旧地狱\n是很可怕的地方，\n没想到这么亮这么有趣！", "emotion": "1"}
+{"id": 2947, "group_id": 1316, "number": 2, "speech_text": "接下来我们去温泉吧！\n这个温泉的效果是……什么？\n除厄！？ 真的假的！？", "emotion": "3"}
+{"id": 2948, "group_id": 1317, "number": 1, "speech_text": "我刚刚听说\n有的温泉能喝。\n你为什么不告诉我！", "emotion": "9"}
+{"id": 2949, "group_id": 1317, "number": 2, "speech_text": "因为你不知道能不能喝，\n所以才没说？\n……多管闲事。", "emotion": "10"}
+{"id": 2950, "group_id": 1318, "number": 1, "speech_text": "你知道三途河有多宽吗？\n我不知道。因为与我无关。\n因为我的世界有“大海”。", "emotion": "7"}
+{"id": 2951, "group_id": 1318, "number": 2, "speech_text": "大海广阔到仿佛能接纳一切。\n甚至连我的能力都显得无足挂齿。\n怪不得有人说大海是母亲。", "emotion": "10"}
+{"id": 2952, "group_id": 1318, "number": 3, "speech_text": "而且大海无比自由。\n你也就当是度假，\n稍微放松放松吧。", "emotion": "3"}
+{"id": 2953, "group_id": 1319, "number": 1, "speech_text": "你，你好。我是琪斯美。\n那个～。这里是什么地方……？\n难道是……传闻中的异界吗？", "emotion": "2"}
+{"id": 2954, "group_id": 1319, "number": 2, "speech_text": "我记得有一位地上人说过\n地底对幻想乡的居民来讲是异世界……\n但这根本不是一回事情啊～！", "emotion": "8"}
+{"id": 2955, "group_id": 1319, "number": 3, "speech_text": "但，但是有你在地方，\n我觉得有点像原本的世界。\n――还有，我的桶里也是。", "emotion": "6"}
+{"id": 2956, "group_id": 1320, "number": 1, "speech_text": "“镜子”？ 那是什么？\n不要总相信\n这种无聊的假消息。", "emotion": "10"}
+{"id": 2957, "group_id": 1320, "number": 2, "speech_text": "噗啾！？ 伊弉诺物质！？\n那就另说了！\n我们立刻去挖吧！", "emotion": "7"}
+{"id": 2958, "group_id": 1321, "number": 1, "speech_text": "嗯嗯嗯？ 嗯嗯嗯嗯嗯？\n你在偷偷摸摸搞什么？\n能不能带我一个？", "emotion": "7"}
+{"id": 2959, "group_id": 1321, "number": 2, "speech_text": "我好开心啊！\n你竟然会主动寻找\n“有油水”的事情！", "emotion": "6"}
+{"id": 2960, "group_id": 1321, "number": 3, "speech_text": "……噗啾？ 这真的是伊弉诺物质吗？\n“镜子”？ 那是什么？\n我是不是该向饭纲丸大人汇报……？", "emotion": "10"}
+{"id": 2961, "group_id": 1322, "number": 1, "speech_text": "“镜子”？ 我当然听说了。\n你想这就去挖？ 没问题。\n我捏了好多麦饭饭团。", "emotion": "7"}
+{"id": 2962, "group_id": 1322, "number": 2, "speech_text": "你已经吃不下了！？\n才吃了十分之一不到诶！？ 难道说不好吃！？\n……你吃饱了？ 呼，吓我一跳。", "emotion": "6"}
+{"id": 2963, "group_id": 1322, "number": 3, "speech_text": "人类也应该多吃点哦？\n什么？ 射命丸和姬海棠吃得下吗？\n说起来她们每次都会剩下一点。……嗯？", "emotion": "3"}
+{"id": 2964, "group_id": 1323, "number": 1, "speech_text": "什么！？ 看着像伊弉诺物质的道具！？\n我就喜欢这种东西～！\n就让它们在集市流通吧！", "emotion": "3"}
+{"id": 2965, "group_id": 1323, "number": 2, "speech_text": "所有权就得流动起来才行。\n就让有需求的人获得有价值的东西吧！\n那就开集市吧！", "emotion": "7"}
+{"id": 2966, "group_id": 1323, "number": 3, "speech_text": "我得冷静点？ 感觉你有点不尊敬我，\n但这么一说也是。\n我不能引发不必要的问题，所以得偷偷干。", "emotion": "10"}
+{"id": 2967, "group_id": 1324, "number": 1, "speech_text": "看着像伊弉诺物质的玩意儿？ 是在哪找到的？\n饭纲丸知道这件事吗？ 典呢？ 千亦呢？\n玉那个家伙呢？ 那我们第一个过去。", "emotion": "5"}
+{"id": 2968, "group_id": 1324, "number": 2, "speech_text": "不能吃的镜子我也不介意。\n只要和能吃的镜子交换就行了。\n但凡是有价值的东西，我什么都愿意挖。", "emotion": "3"}
+{"id": 2969, "group_id": 1324, "number": 3, "speech_text": "整个幻想乡，不，全世界\n都没有比我更会挖东西的人！ 嘿嘿！\n今天也要挖个痛快！", "emotion": "7"}
+{"id": 2979, "group_id": 1328, "number": 1, "speech_text": "想和我们油库里交流的话，\n你就来这里吧。\n圆圆的养老生活开始喽。", "emotion": "1"}
+{"id": 2980, "group_id": 1328, "number": 2, "speech_text": "为了不被认真干活的家伙们发现\n我们就偷偷地，慢慢地\n大家一起搞事吧。耶—！", "emotion": "3"}
+{"id": 2981, "group_id": 1328, "number": 3, "speech_text": "慢，慢，慢慢～\n慢慢来吧！", "emotion": "6"}
+{"id": 2982, "group_id": 1329, "number": 1, "speech_text": "这下可麻烦了。\n对我们油库里来讲也好，\n对你来讲也好。", "emotion": "1"}
+{"id": 2983, "group_id": 1329, "number": 2, "speech_text": "我想解说一下\n我们现在面临的问题。\n但灵梦也不在，所以算了。", "emotion": "3"}
+{"id": 2984, "group_id": 1329, "number": 3, "speech_text": "希望我们有朝一日还能见面。\n……你说我们随时都能见面？\n哈哈……你说得对……。", "emotion": "9"}
+{"id": 2997, "group_id": 1334, "number": 1, "speech_text": "幻想乡发生了\n不得了的事情！\n哇—！ 救命—！", "emotion": "5"}
+{"id": 2998, "group_id": 1334, "number": 2, "speech_text": "……我也不知道\n是不是这么一个状况。\n总之就慢慢来吧！", "emotion": "7"}
+{"id": 2999, "group_id": 1335, "number": 1, "speech_text": "这就是传闻中的“唱片”吗！\n实在是太棒了。\n一定能搞一个大新闻！", "emotion": "3"}
+{"id": 3006, "group_id": 1338, "number": 1, "speech_text": "胸怀大志\n在月夜中飞舞的怪盗！\n任务开始！", "emotion": "7"}
+{"id": 3007, "group_id": 1338, "number": 2, "speech_text": "……怎么样！？\n像不像怪盗？浪漫不浪漫？\n如果像就好了。", "emotion": "6"}
+{"id": 3008, "group_id": 1339, "number": 1, "speech_text": "与其说开水上摩托车让我开心\n是妈妈为我做了水上摩托车这件事\n让我发自心底开心。", "emotion": "6"}
+{"id": 3009, "group_id": 1339, "number": 2, "speech_text": "所以今天我也要全速前进！\n我们一起出发吧！\n目的地是水平线的彼方！！", "emotion": "1"}
+{"id": 3010, "group_id": 1340, "number": 1, "speech_text": "听说这个世界流行快递服务\n如果能帮我搬运动物们的玩具，\n那我就轻松了。", "emotion": "7"}
+{"id": 3011, "group_id": 1340, "number": 2, "speech_text": "刚说完就来东西了。不是吧，鱼缸！？\n这些鱼也太新鲜了！\n万岁乐你吃吗？ 虽说我知道答案吧。", "emotion": "5"}
+{"id": 3012, "group_id": 1340, "number": 3, "speech_text": "之前来了一群野猫\n叼着我的道具玩。\n我为什么会收到奇怪的快递呢？", "emotion": "6"}
+{"id": 3013, "group_id": 1341, "number": 1, "speech_text": "当季的蔬菜水果。肉、鱼、八目鳗。\n异世界的食物也不差呢。\n而且清兰和铃瑚也在。", "emotion": "6"}
+{"id": 3014, "group_id": 1341, "number": 2, "speech_text": "她们两个在比\n谁做的团子更好吃。\n……真可爱。", "emotion": "7"}
+{"id": 3015, "group_id": 1341, "number": 3, "speech_text": "为了不让这个瞬间化作梦幻，\n我们三个人一定要回到原本的世界。\n这就是身为团长的我的矜持。", "emotion": "10"}
+{"id": 3016, "group_id": 1342, "number": 1, "speech_text": "你要寻找稀有的道具？\n这个主意不错。\n而且很浪漫！", "emotion": "3"}
+{"id": 3017, "group_id": 1342, "number": 2, "speech_text": "寻找宝物\n是有套路的。\n这是我的专业领域。", "emotion": "7"}
+{"id": 3018, "group_id": 1343, "number": 1, "speech_text": "你为什么要跟上来？\n不上班的日子\n我可不想陪你玩过家家。", "emotion": "10"}
+{"id": 3019, "group_id": 1343, "number": 2, "speech_text": "所以说！ 为什么我这个食人鬼\n得照顾你这个人类！\n你是自己来的，那就自己回去吧！", "emotion": "4"}
+{"id": 3020, "group_id": 1343, "number": 3, "speech_text": "好的好的我知道了！\n路上可能有危险的妖怪是不是！\n抓紧我的手！", "emotion": "6"}
+{"id": 3021, "group_id": 1344, "number": 1, "speech_text": "稀有的矿物资源？ 你在说什么？\n好吃吗？ ……这话像是蜈蚣的台词？\n不要把我和她相提并论！", "emotion": "3"}
+{"id": 3022, "group_id": 1344, "number": 2, "speech_text": "吃掉之后说不定\n会有前所未有的效果不是吗？\n吃不了的话不吃就完了。", "emotion": "5"}
+{"id": 3023, "group_id": 1344, "number": 3, "speech_text": "吉弔和骊驹挖的矿石\n最后统统都夺走就行了。\n……虽然这么多矿石我吃不下吧。", "emotion": "8"}
+{"id": 3024, "group_id": 1345, "number": 1, "speech_text": "提升力量的道具？ 有意思。\n我们就尽快收集尽快变强吧。\n妖怪退治没有做过头一说。", "emotion": "1"}
+{"id": 3025, "group_id": 1345, "number": 2, "speech_text": "我想在神社安安静静地生活。\n才不想和妖怪啊异变啊什么的打交道。\n除非是为了糊口。", "emotion": "7"}
+{"id": 3026, "group_id": 1345, "number": 3, "speech_text": "什么？ 妖怪们也在用这个方法\n不断变强？\n这可不行，那我得提升速度。", "emotion": "9"}
+{"id": 3027, "group_id": 1346, "number": 1, "speech_text": "稀有道具？\n这我可不能当作没听见。\n我们立刻出发。", "emotion": "4"}
+{"id": 3028, "group_id": 1346, "number": 2, "speech_text": "放心吧。别看我这样，\n我可是魔法道具专家。\n而且我的熟人还有开当铺的。是不是放心了？", "emotion": "1"}
+{"id": 3029, "group_id": 1346, "number": 3, "speech_text": "稀有道具一定会有\n宝贵的能力。\n找到之后可得好好调查一番！", "emotion": "7"}
+{"id": 3051, "group_id": 1354, "number": 1, "speech_text": "这是我的魔导书，\n同时也是我身体的一部分。\n这是参照我的知识的，特殊的道具。", "emotion": "9"}
+{"id": 3052, "group_id": 1354, "number": 2, "speech_text": "不要擅自碰键盘。\n我不知道会发生什么事情，而且……\n都说了这是我身体的一部分！", "emotion": "4"}
+{"id": 3053, "group_id": 1354, "number": 3, "speech_text": "原来如此……。让其他人碰它\n就能讲悄悄话吗。\n感觉能用来做些什么事情呢。", "emotion": "5"}
+{"id": 3111, "group_id": 1376, "number": 1, "speech_text": "你想弹东西玩？ \n你不能弹“纯化秘石”。它对我来讲很重要。\n你就弹玻璃球玩吧。", "emotion": "5"}
+{"id": 3112, "group_id": 1376, "number": 2, "speech_text": "你说我像真正的母亲……？ 我刚刚的说法方式\n确实有那么一点像母亲。\n没想到我还残留着这样的一面。", "emotion": "6"}
+{"id": 3113, "group_id": 1376, "number": 3, "speech_text": "但是这句话你应该说给真正的母亲听。\n话是这么说……\n我能摸一会儿你的头吗？ 我的孩子啊。", "emotion": "1"}
 {"id": 10001, "group_id": 10001, "number": 1, "speech_text": "完成任务也是一种修行！", "emotion": "1"}
 {"id": 10002, "group_id": 10001, "number": 2, "speech_text": "我们每天都要刻苦锻炼！", "emotion": "3"}
 {"id": 10003, "group_id": 10002, "number": 1, "speech_text": "我迫不及待地想看看咲夜给我带来了什么新宠物...哦，对了，这是你的印章。", "emotion": "1"}

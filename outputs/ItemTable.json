@@ -97,8 +97,9 @@
 {"id": 708, "name": "异变的道具", "description": "不明异变产生的未知道具。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 10000}
 {"id": 709, "name": "泳装特殊祝词-圣白莲", "description": "有效期至2024年12月03日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1009}
 {"id": 710, "name": "3周年特别祝词", "description": "有效期至2024年11月30日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1010}
-{"id": 711, "name": "サマーキャンペーン特別祝詞", "description": "2024年8月30日 10:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1011}
-{"id": 712, "name": "ゆっくり祝詞", "description": "特別なおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1012}
+{"id": 711, "name": "LIVE 2024特别祝词-博丽灵梦", "description": "有效期至2024年12月17日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1011}
+{"id": 712, "name": "油库里祝词", "description": "可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1012}
+{"id": 713, "name": "LIVE 2024特别祝词-雾雨魔理沙", "description": "有效期至2024年12月31日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1013}
 {"id": 780, "name": "泳装特殊祝词-紫", "description": "有效期至2022年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1080}
 {"id": 781, "name": "泳装特殊祝词-赫卡提亚", "description": "有效期至2022年11月22日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1081}
 {"id": 782, "name": "叙事诗特别祝词-博丽灵梦", "description": "有效期至2022年12月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1082}

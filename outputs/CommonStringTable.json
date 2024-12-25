@@ -60,6 +60,7 @@
 {"text_key": "APP_BATTLE_COMMAND_SKILL_DEFENSE", "japanese_value": "防御技能", "english_value": "APP_BATTLE_COMMAND_SKILL_DEFENSE", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_BATTLE_COMMAND_SKILL_SUPPORT", "japanese_value": "辅助技能", "english_value": "APP_BATTLE_COMMAND_SKILL_SUPPORT", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_BATTLE_EXPANSION_PICTURE_MESSAGE", "japanese_value": "超过了绘卷持有数的上限。", "english_value": "APP_BATTLE_EXPANSION_PICTURE_MESSAGE", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_BATTLE_PASS_TITLE", "japanese_value": "文的特刊新闻帖", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_BATTLE_RETIRE_MESSAGE", "japanese_value": "要放弃吗？", "english_value": "APP_BATTLE_RETIRE_MESSAGE", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_BATTLE_SKILL_TIME_FORMAT", "japanese_value": "再次使用回合数{0}(还剩{1})", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_BATTLE_SPELL_CARD_AFTER_ATTACK", "japanese_value": "攻击后符卡效果", "english_value": "APP_BATTLE_SPELL_CARD_AFTER_ATTACK", "chinese_value": "", "french_value": ""}

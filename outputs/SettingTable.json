@@ -3,6 +3,8 @@
 {"key": "ANNIVERSARY_PRESENT_LOGIN_COUNT", "value": "30", "description": "応募条件に必要なログイン数"}
 {"key": "ARENA_DAILY_DAY_COUNT_START_AT", "value": "2021-07-30 00:00:00", "description": "アリーナ日次報酬カウント開始日時"}
 {"key": "BEGINNER_TIME", "value": "72", "description": "初心者时间"}
+{"key": "BEST_LIMIT_UNIT_LEN", "value": "2", "description": "战斗履历个人best显示人数限制小于等于"}
+{"key": "BEST_MAX_DAMAGE", "value": "8", "description": "战斗履历个人best显示最大伤害限制大于"}
 {"key": "CLEAR_HISTORY_PUBLISH", "value": "1", "description": "クリア履歴公開フラグ　0:非公開　1:公開"}
 {"key": "CLOSE_EXTERNAL_LINK_MIRRATIV", "value": "1", "description": "Mirrativ"}
 {"key": "CONVERT_AVATAR_TO_GOLD", "value": "1500", "description": "头像框已经获得时，给予赛钱的量"}
@@ -41,6 +43,8 @@
 {"key": "INSANITY_DIVIDE", "value": "435", "description": "狂化の除算値"}
 {"key": "IS_IP_CHECK", "value": "1", "description": "用户注册时的的IP地址检测"}
 {"key": "ITEM_MAX", "value": "9999", "description": "最大所持道具数"}
+{"key": "JUSTNOW_LIMIT_UNIT_LEN", "value": "2", "description": "战斗履历最近显示人数限制小于等于"}
+{"key": "JUSTNOW_MAX_DAMAGE", "value": "8", "description": "战斗履历最近显示最大伤害限制大于"}
 {"key": "LECTURE_EXP_ADD_TIME", "value": "15", "description": "寺子屋经验值追加时间(秒)"}
 {"key": "LECTURE_EXP_PARAM_1", "value": "0.05", "description": "寺子屋经验值计算参数有食物第1"}
 {"key": "LECTURE_EXP_PARAM_2", "value": "1", "description": "寺子屋经验值计算参数有食物第2"}
@@ -75,6 +79,8 @@
 {"key": "QUEST_ANOTHER_BACKGROUND", "value": "11320101", "description": "秘封TOP画面の背景のID"}
 {"key": "QUEST_ANOTHER_BGM", "value": "1043", "description": "秘封TOP画面のBGMのID"}
 {"key": "QUEST_RELEASE_EPISODE_ID", "value": "100100501", "description": "秘封开启关卡"}
+{"key": "RAKING_LIMIT_UNIT_LEN", "value": "2", "description": "战斗履历top10显示人数限制小于等于"}
+{"key": "RAKING_MAX_DAMAGE", "value": "8", "description": "战斗履历top10显示最大伤害限制大于"}
 {"key": "REINCARNATION_AFTER_TRUST", "value": "10000", "description": "転生後の固定信頼度"}
 {"key": "REINCARNATION_LEVEL", "value": "100", "description": "転生可能レベル"}
 {"key": "REINCARNATION_MATERIAL_CONSUME_COUNT", "value": "1000", "description": "無名の転生鏡交換時消費数"}
