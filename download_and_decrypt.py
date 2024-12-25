@@ -89,6 +89,29 @@ def decrypt(src: bytes, table_name: str) -> bytes:
     return decrypted_bytes
 
 
+def new_decrypt(src: bytes, table_name: str) -> bytes:
+    if table_name == "GachaTable":
+        enc_key = 9
+    elif table_name == "UnitTable":
+        enc_key = 15
+    elif table_name == "PriceTable":
+        enc_key = 12
+    else:
+        enc_key = -1
+    src = shuffle_src(src, enc_key)
+    key_bytes = bytes.fromhex("7F0605410D1F7935202A1B543F0C2344")
+    iv_bytes = bytes.fromhex("272F3E472E44254A1D31000A32252F20")
+    aes = AES.new(key_bytes, AES.MODE_CBC, iv=iv_bytes)
+    try:
+        decrypted_bytes = aes.decrypt(src)
+        decrypted_bytes = unpad(decrypted_bytes, 16)
+    except Exception:
+        print("decrypt " + table_name + " failed")
+        return bytearray()
+    return decrypted_bytes
+
+
+
 def unpack(decrypted_bytes: bytes, table_name: str) -> dict[Any, tuple[Any]]:
     try:
         unpacked_dict = msgpack.unpackb(
@@ -189,7 +212,8 @@ for asset_info in asset_infos:
     src_bytes = src_file.read()
     src_file.close()
     os.remove(file_path)
-    decrypted_bytes = decrypt(src_bytes, table_name)
+    #decrypted_bytes = decrypt(src_bytes, table_name)
+    decrypted_bytes = new_decrypt(src_bytes, table_name)
     unpacked_dict = unpack(decrypted_bytes, table_name)
     refined, unpacked_dict = refine_unpacked_dict(
         table_name, unpacked_dict, class_contents
