@@ -221,6 +221,10 @@
 {"id": 2111000, "chapter_id": 2111, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2112000, "chapter_id": 2112, "mode": 0, "title": "西行寺幽幽子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2113000, "chapter_id": 2113, "mode": 0, "title": "魂魄妖梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2114000, "chapter_id": 2114, "mode": 0, "title": "一年又一年弹幕家族", "sub_title": "", "number": 1, "costume_id": 112303, "unit_speech_group_id": 614, "open_type": 0}
+{"id": 2114001, "chapter_id": 2114, "mode": 1, "title": "特殊章节 一年又一年弹幕家族", "sub_title": "", "number": 1, "costume_id": 100504, "unit_speech_group_id": 615, "open_type": 1}
+{"id": 2116000, "chapter_id": 2116, "mode": 0, "title": "「一年又一年 弹幕破碎者」", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 1142, "open_type": 0}
+{"id": 2116001, "chapter_id": 2116, "mode": 1, "title": "特殊章节 「一年又一年 弹幕破碎者」", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 1143, "open_type": 1}
 {"id": 2120000, "chapter_id": 2120, "mode": 0, "title": "赤蛮奇体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2122000, "chapter_id": 2122, "mode": 0, "title": "启蛰的秘神游戏", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 714, "open_type": 0}
 {"id": 2122001, "chapter_id": 2122, "mode": 1, "title": "特殊章节 启蛰的秘神游戏", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 1}
@@ -241,6 +245,8 @@
 {"id": 2140001, "chapter_id": 2140, "mode": 1, "title": "特殊章节 LOST&FOUND 2024～旋律跨越境界", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1275, "open_type": 1}
 {"id": 2141000, "chapter_id": 2141, "mode": 0, "title": "博丽灵梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2142000, "chapter_id": 2142, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2143000, "chapter_id": 2143, "mode": 0, "title": "宇佐见莲子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2146000, "chapter_id": 2146, "mode": 0, "title": "依神女苑体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
@@ -267,7 +273,9 @@
 {"id": 3003003, "chapter_id": 3003, "mode": 0, "title": "记号L?·第3节", "sub_title": "在最终区，追寻结界消失事件的真相", "number": 3, "costume_id": 0, "unit_speech_group_id": 1107, "open_type": 0}
 {"id": 3004001, "chapter_id": 3004, "mode": 0, "title": "记号L?·第4节", "sub_title": "完美无瑕的人格者，奇迹的天使大人", "number": 1, "costume_id": 0, "unit_speech_group_id": 1131, "open_type": 0}
 {"id": 3004002, "chapter_id": 3004, "mode": 0, "title": "记号L?·第5节", "sub_title": "那份奇迹是能力，亦或是。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1132, "open_type": 0}
-{"id": 3004101, "chapter_id": 3004, "mode": 1, "title": "特殊章节 记号LR?「东京散步 莲子篇」", "sub_title": "去调查下隧道吧……一个人去。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1285, "open_type": 1}
+{"id": 3004101, "chapter_id": 3004, "mode": 1, "title": "特殊章节1 记号LR?「东京散步 莲子篇」", "sub_title": "去调查下隧道吧……一个人去。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1285, "open_type": 1}
+{"id": 3004102, "chapter_id": 3004, "mode": 1, "title": "特殊章节2 记号LM?「东京散步 梅莉篇」", "sub_title": "去调查下隧道吧……两个人去。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1306, "open_type": 1}
+{"id": 3004103, "chapter_id": 3004, "mode": 1, "title": "特殊章节2 记号LM?「东京散步 梅莉篇补」", "sub_title": "隧道调查结束了。", "number": 3, "costume_id": 0, "unit_speech_group_id": 1307, "open_type": 1}
 {"id": 5003000, "chapter_id": 5003, "mode": 0, "title": "望乡的红色巨星", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
 {"id": 7001000, "chapter_id": 7001, "mode": 0, "title": "八云的野望", "sub_title": "", "number": 3, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
 {"id": 7001001, "chapter_id": 7001, "mode": 1, "title": "特殊章节 八云的野望", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
@@ -278,4 +286,5 @@
 {"id": 7006000, "chapter_id": 7006, "mode": 0, "title": "本居小铃的事件簿", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
 {"id": 7007000, "chapter_id": 7007, "mode": 0, "title": "幻想乡妹大赛七番胜负！", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
 {"id": 7007100, "chapter_id": 7007, "mode": 1, "title": "特殊章节 幻想乡妹大赛七番胜负！", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 1}
+{"id": 8002000, "chapter_id": 8002, "mode": 0, "title": "永远战线 提前举办", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 9001001, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，油库里", "sub_title": "", "number": 1, "costume_id": 5000201, "unit_speech_group_id": 1329, "open_type": 0}

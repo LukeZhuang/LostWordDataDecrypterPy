@@ -2512,6 +2512,61 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 211100001,2111,2111000,雾雨魔理沙体验探索,体验探索,1,0,211101,0,0,Daily/Wave1.asset,0,(empty),0,0
 211200001,2112,2112000,西行寺幽幽子体验探索,体验探索,1,0,211201,0,0,Daily/Wave1.asset,0,(empty),0,0
 211300001,2113,2113000,魂魄妖梦体验探索,体验探索,1,0,211301,0,0,Daily/Wave1.asset,0,(empty),0,0
+211400001,2114,2114000,神之所见，你之所见,序幕,1,1,0,0,0,Event32/Episode0.asset,0,(empty),0,1
+211400002,2114,2114000,那是，往常那般热闹的一幕,第1夜,2,1,0,0,0,Event32/Episode1.asset,1,(empty),0,1
+211400003,2114,2114000,在晴天的市场集合,第2夜,3,0,211401,211410,211419,Event32/Episode2.asset,1,(empty),0,1
+211400004,2114,2114000,记忆在雾中,第3夜,4,1,0,0,0,Event32/Episode3.asset,1,(empty),0,1
+211400005,2114,2114000,比较对照不会使判断迟钝吗？,第4夜,5,0,211402,211411,211420,Event32/Episode4.asset,1,(empty),0,1
+211400006,2114,2114000,各自眼中映照的东西,第5夜,6,1,0,0,0,Event32/Episode5.asset,2,{"start_at":"2025-01-29 00:00:00"},0,1
+211400007,2114,2114000,这些那些，都是惊喜,第6夜,7,0,211403,211412,211421,Event32/Episode6.asset,1,(empty),0,1
+211400008,2114,2114000,神说，是漂亮的东西,第7夜,8,1,0,0,0,Event32/Episode7.asset,1,(empty),0,1
+211400009,2114,2114000,晴天的赎罪,第8夜,9,0,211404,211413,211422,Event32/Episode8.asset,1,(empty),0,1
+211400010,2114,2114000,这也是美丽的东西,第9夜,10,0,211405,211414,211423,Event32/Episode9.asset,2,{"start_at":"2025-01-30 00:00:00"},0,1
+211400011,2114,2114000,被秋色包围,第10夜,11,0,211406,211415,211424,Event32/Episode10.asset,1,(empty),0,1
+211400012,2114,2114000,我想要的东西是,第11夜,12,1,0,0,0,Event32/Episode11.asset,1,(empty),0,1
+211400013,2114,2114000,作为神，做正确的事,第12夜,13,1,0,0,0,Event32/Episode12.asset,1,(empty),0,1
+211400014,2114,2114000,然后，风向变了,第13夜,14,0,211407,211416,211425,Event32/Episode13.asset,1,(empty),0,1
+211400015,2114,2114000,稍稍，收集一点光,第14夜,15,1,0,0,0,Event32/Episode14.asset,2,{"start_at":"2025-01-31 00:00:00"},0,1
+211400016,2114,2114000,各自视线的前方,第15夜,16,1,0,0,0,Event32/Episode15.asset,1,(empty),0,1
+211400017,2114,2114000,因为，看起来很寂寞啊,第16夜,17,0,211408,211417,211426,Event32/Episode16.asset,1,(empty),0,1
+211400018,2114,2114000,寒空之下闪耀的东西,第17夜,18,0,211409,211418,211427,Event32/Episode17.asset,1,(empty),0,1
+211400019,2114,2114000,给你的赠礼,终幕,19,1,0,0,0,Event32/Episode18.asset,1,(empty),0,1
+211400101,2114,2114001,盛装晴朗的清晨,序幕,1,1,0,0,0,Event32/Extra/Episode0.asset,0,(empty),0,0
+211400102,2114,2114001,那就和骤雨一样,抽签第1回,2,0,211428,211431,211434,Event32/Extra/Episode1.asset,1,(empty),0,0
+211400103,2114,2114001,荒凉的追逐,抽签第2回,3,1,0,0,0,Event32/Extra/Episode2.asset,1,(empty),0,0
+211400104,2114,2114001,在雨天，内心有股凉意,抽签第3回,4,0,211429,211432,211435,Event32/Extra/Episode3.asset,1,(empty),0,0
+211400105,2114,2114001,停雪时的希望,抽签第4回,5,1,0,0,0,Event32/Extra/Episode4.asset,1,(empty),0,0
+211400106,2114,2114001,淡雪，日照,抽签第5回,6,0,211430,211433,211436,Event32/Extra/Episode5.asset,1,(empty),0,0
+211400107,2114,2114001,祈祷天晴,终幕,7,1,0,0,0,Event32/Extra/Episode6.asset,1,(empty),0,0
+211600001,2116,2116000,凋零的早花,序幕,1,1,0,0,0,Event44/Episode0.asset,0,(empty),0,1
+211600002,2116,2116000,雪晴，繁盛的市场,某个冬日：昼之一,2,0,211601,211614,211627,Event44/Episode1.asset,1,(empty),0,1
+211600003,2116,2116000,骚动与冬之虹,某个冬日：昼之二,3,0,211602,211615,211628,Event44/Episode2.asset,1,(empty),0,1
+211600004,2116,2116000,风月的言语,某个冬日：昼之三,4,0,211603,211616,211629,Event44/Episode3.asset,1,(empty),0,1
+211600005,2116,2116000,开幕的圣诞夜,某个冬日：夜之一,5,1,0,0,0,Event44/Episode4.asset,1,(empty),0,1
+211600006,2116,2116000,回想的白天,某个冬日：昼之四,6,1,0,0,0,Event44/Episode5.asset,1,(empty),0,1
+211600007,2116,2116000,闪现之球,某个冬日：昼之五,7,0,211604,211617,211630,Event44/Episode6.asset,1,(empty),0,1
+211600008,2116,2116000,枯菊面纱,某个冬日：夜之二,8,1,0,0,0,Event44/Episode7.asset,1,(empty),0,1
+211600009,2116,2116000,枯萩之心,某个冬日：昼之六,9,1,0,0,0,Event44/Episode8.asset,1,(empty),0,1
+211600010,2116,2116000,雪兔的追逐,某个冬日：夜之三,10,0,211605,211618,211631,Event44/Episode9.asset,2,{"start_at":"2025-01-15 00:00:00"},0,1
+211600011,2116,2116000,某夜的骚动：一,不会放走冰轮,11,0,211606,211619,211632,Event44/FreeBattle1.asset,1,(empty),0,1
+211600012,2116,2116000,某夜的骚动：二,猎户座的逃走剧,12,0,211607,211620,211633,Event44/FreeBattle2.asset,1,(empty),0,1
+211600013,2116,2116000,雪起爆发,某个冬日：夜之四,13,0,211608,211621,211634,Event44/Episode10.asset,1,(empty),0,1
+211600014,2116,2116000,冬凪还早呢,某个冬日：夜之伍,14,0,211609,211622,211635,Event44/Episode11.asset,2,{"start_at":"2025-01-16 00:00:00"},0,1
+211600015,2116,2116000,邂逅迷星,某个冬日：夜之六,15,1,0,0,0,Event44/Episode12.asset,1,(empty),0,1
+211600016,2116,2116000,自家·恐慌,某个冬日：夜之七,16,0,211610,211623,211636,Event44/Episode13.asset,1,(empty),0,1
+211600017,2116,2116000,像是被雾冰所吸引,某个冬日：夜之八,17,1,0,0,0,Event44/Episode14.asset,1,(empty),0,1
+211600018,2116,2116000,雪时雨迷失的孩童,某个冬日：夜之九,18,1,0,0,0,Event44/Episode15.asset,1,(empty),0,1
+211600019,2116,2116000,在霜夜星星开始转动,某个冬日：夜之十,19,0,211611,211624,211637,Event44/Episode16.asset,2,{"start_at":"2025-01-17 00:00:00"},0,1
+211600020,2116,2116000,流动的雪之花,某个冬日：夜之十一,20,0,211612,211625,211638,Event44/Episode17.asset,1,(empty),0,1
+211600021,2116,2116000,在冬夜奏响心根,某个冬日：夜之十二,21,1,0,0,0,Event44/Episode18.asset,1,(empty),0,1
+211600022,2116,2116000,我回来了,某个冬日：夜之十三,22,0,211613,211626,211639,Event44/Episode19.asset,1,(empty),0,1
+211600023,2116,2116000,圣诞红的微笑,终幕,23,1,0,0,0,Event44/Episode20.asset,1,(empty),0,1
+211600101,2116,2116001,新年惊喜,序幕,1,1,0,0,0,Event44/Extra/Episode0.asset,0,(empty),0,0
+211600102,2116,2116001,新春初骚动（付弹幕游戏）,搜寻物观光 其1,2,0,211640,211643,211646,Event44/Extra/Episode1.asset,1,(empty),0,0
+211600103,2116,2116001,奇怪点心的谎言检测,搜寻物观光 其2,3,1,0,0,0,Event44/Extra/Episode2.asset,1,(empty),0,0
+211600104,2116,2116001,骚乱的奶酪占有,搜寻物观光 其3,4,0,211641,211644,211647,Event44/Extra/Episode3.asset,1,(empty),0,0
+211600105,2116,2116001,＊即便如此，也要吃面烧吗？＊,搜寻物观光 其4,5,0,211642,211645,211648,Event44/Extra/Episode4.asset,1,(empty),0,0
+211600106,2116,2116001,希望,终幕,6,1,0,0,0,Event44/Extra/Episode5.asset,1,(empty),0,0
 212000001,2120,2120000,赤蛮奇体验探索,体验探索,1,0,212001,0,0,Daily/Wave1.asset,0,(empty),0,0
 212200001,2122,2122000,禁断的游戏,开幕,1,1,0,0,0,Event34/Episode0.asset,0,(empty),0,1
 212200002,2122,2122000,在一往如既的日常,开幕前·其一,2,0,212201,212213,212225,Event34/Episode1.asset,1,(empty),0,1
@@ -2660,6 +2715,8 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 214000105,2140,2140001,记号L^3 永不消逝的旋律,终幕,5,1,0,0,0,Event50/Extra/Episode4.asset,1,(empty),0,0
 214100001,2141,2141000,博丽灵梦体验探索,体验探索,1,0,214101,0,0,Daily/Wave1.asset,0,(empty),0,0
 214200001,2142,2142000,雾雨魔理沙体验探索,体验探索,1,0,214201,0,0,Daily/Wave1.asset,0,(empty),0,0
+214300001,2143,2143000,宇佐见莲子体验探索,体验探索,1,0,214301,0,0,Daily/Wave1.asset,0,(empty),0,0
+214600001,2146,2146000,依神女苑体验探索,体验探索,1,0,214601,0,0,Daily/Wave1.asset,0,(empty),0,0
 300100101,3001,3001001,一个人的茶会？ 第1话,记号B3·第1节,1,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode1.asset,0,(empty),0,1
 300100102,3001,3001001,一个人的茶会？ 第2话,记号B3·第1节,2,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode2.asset,1,(empty),0,1
 300100103,3001,3001001,一个人的茶会？ 第3话,记号B3·第1节,3,1,0,0,0,Another/St0000_SecretSealing_MoonBattleType/Section01/Episode3.asset,1,(empty),0,1
@@ -2755,6 +2812,15 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 300410107,3004,3004101,「莲散步 7」,记号LR?·第7话,7,0,300411,300417,300423,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section01/Episode7.asset,1,(empty),0,0
 300410108,3004,3004101,「莲散步 8」,记号LR?·第8话,8,0,300412,300418,300424,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section01/Episode8.asset,1,(empty),0,0
 300410109,3004,3004101,「莲散步 9」,记号LR?·第9话,9,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section01/Episode9.asset,1,(empty),0,0
+300410201,3004,3004102,「梅莉散步 1」,记号LM?·第1话,1,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode1.asset,0,(empty),0,0
+300410202,3004,3004102,「梅莉散步 2」,记号LM?·第2话,2,0,300425,300431,300437,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode2.asset,1,(empty),0,0
+300410203,3004,3004102,「梅莉散步 3」,记号LM?·第3话,3,0,300426,300432,300438,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode3.asset,1,(empty),0,0
+300410204,3004,3004102,「梅莉散步 4」,记号LM?·第4话,4,0,300427,300433,300439,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode4.asset,1,(empty),0,0
+300410205,3004,3004102,「梅莉散步 5」,记号LM?·第5话,5,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode5.asset,1,(empty),0,0
+300410301,3004,3004103,「梅莉散步 6」,记号LM?·第6话,6,0,300428,300434,300440,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode6.asset,1,(empty),0,0
+300410302,3004,3004103,「梅莉散步 7」,记号LM?·第7话,7,0,300429,300435,300441,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode7.asset,1,(empty),0,0
+300410303,3004,3004103,「梅莉散步 8」,记号LM?·第8话,8,0,300430,300436,300442,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode8.asset,1,(empty),0,0
+300410304,3004,3004103,「梅莉散步 9」,记号LM?·第9话,9,1,0,0,0,Another/St0020_SecretSealing_SymbolLquestion/Extra/Section02/Episode9.asset,1,(empty),0,0
 500300001,5003,5003000,「序」,第1话,1,0,500301,0,0,Special/HalfAnniversary2020/Episode1.asset,0,(empty),0,1
 500300002,5003,5003000,「破」,第2话,2,0,500302,0,0,Special/HalfAnniversary2020/Episode2.asset,1,(empty),0,1
 500300003,5003,5003000,「急」,第3话,3,0,500303,0,0,Special/HalfAnniversary2020/Episode3.asset,1,(empty),0,1
@@ -2938,6 +3004,7 @@ id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battl
 700710003,7007,7007100,上镜的妹妹们,第2话,3,0,700777,700780,700783,Event4/Extra/Episode2.asset,1,(empty),0,0
 700710004,7007,7007100,姐妹们的保护者战争,第3话,4,0,700778,700781,700784,Event4/Extra/Episode3.asset,1,(empty),0,0
 700710005,7007,7007100,成千上万的姐姐,终幕,5,1,0,0,0,Event4/Extra/Episode4.asset,1,(empty),0,0
+800200001,8002,8002000,永远战线 提前举办,永远战线,1,0,0,0,0,Daily/Wave1.asset,0,(empty),80021,0
 900100001,9001,9001001,又遇见灵梦和魔理沙了,第一油,1,1,0,0,0,Yukkuri/YuukuriSection1/Episode1.asset,0,(empty),0,0
 900100002,9001,9001001,仙贝和包子,第二油,2,0,900101,900106,900111,Yukkuri/YuukuriSection1/Episode2.asset,1,(empty),0,0
 900100003,9001,9001001,笔记本？,第三油,3,1,0,0,0,Yukkuri/YuukuriSection1/Episode3.asset,1,(empty),0,0

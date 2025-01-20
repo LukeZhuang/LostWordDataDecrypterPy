@@ -92,9 +92,11 @@
 {"id": 201601, "target_name": "绵月丰姬", "target_unit_id": 2016, "priority": 109, "costume_id": 201601, "unit_speech_group_id": 1101}
 {"id": 201701, "target_name": "绵月依姬", "target_unit_id": 2017, "priority": 110, "costume_id": 201701, "unit_speech_group_id": 1102}
 {"id": 201901, "target_name": "蓬莱山辉夜", "target_unit_id": 2019, "priority": 107, "costume_id": 201901, "unit_speech_group_id": 1099}
+{"id": 202001, "target_name": "藤原妹红", "target_unit_id": 2020, "priority": 142, "costume_id": 202001, "unit_speech_group_id": 1299}
 {"id": 202101, "target_name": "清兰", "target_unit_id": 2021, "priority": 115, "costume_id": 202101, "unit_speech_group_id": 1146}
 {"id": 202201, "target_name": "铃瑚", "target_unit_id": 2022, "priority": 116, "costume_id": 202201, "unit_speech_group_id": 1147}
 {"id": 202301, "target_name": "铃仙", "target_unit_id": 2023, "priority": 117, "costume_id": 202301, "unit_speech_group_id": 1148}
+{"id": 204201, "target_name": "因幡帝", "target_unit_id": 2042, "priority": 143, "costume_id": 204201, "unit_speech_group_id": 1300}
 {"id": 205001, "target_name": "古明地觉", "target_unit_id": 2050, "priority": 131, "costume_id": 205001, "unit_speech_group_id": 1233}
 {"id": 205701, "target_name": "纯狐", "target_unit_id": 2057, "priority": 114, "costume_id": 205701, "unit_speech_group_id": 1145}
 {"id": 208101, "target_name": "稀神探女", "target_unit_id": 2081, "priority": 108, "costume_id": 208101, "unit_speech_group_id": 1100}
@@ -108,3 +110,4 @@
 {"id": 303701, "target_name": "东风谷早苗", "target_unit_id": 3037, "priority": 84, "costume_id": 303701, "unit_speech_group_id": 826}
 {"id": 505201, "target_name": "火焰猫燐", "target_unit_id": 5052, "priority": 132, "costume_id": 505201, "unit_speech_group_id": 1234}
 {"id": 505301, "target_name": "灵乌路空", "target_unit_id": 5053, "priority": 133, "costume_id": 505301, "unit_speech_group_id": 1235}
+{"id": 505601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 5056, "priority": 144, "costume_id": 505601, "unit_speech_group_id": 1301}

@@ -14495,7 +14495,7 @@
 {"id": 501565, "unit_id": 5015, "voice_type_id": 65, "voice_text": "师父大人！ 帝！ ……有种如释重负的感觉呢。我们的战争，总算要结束了。", "emotion": ""}
 {"id": 502501, "unit_id": 5025, "voice_type_id": 1, "voice_text": "“酒吞童子的故事是虚构的”？ 说这话的人统统被我干掉了。我总算找到理想中的秘境了。我是茨木童子，是守护酒吞西方的门神，也是吽形之鬼。别名是华扇。柔弱不堪的旧人类小姑娘。这个地方叫什么？ ……“幻想乡”？ 好名字！ 既然我来了，这里就是新的大江山了。", "emotion": ""}
 {"id": 502502, "unit_id": 5025, "voice_type_id": 2, "voice_text": "你实在是太无知了。人类就是不行。", "emotion": "9"}
-{"id": 502503, "unit_id": 5025, "voice_type_id": 3, "voice_text": "旧人类真够无知的。我回头会说叫你一番。做好觉悟吧。", "emotion": "10"}
+{"id": 502503, "unit_id": 5025, "voice_type_id": 3, "voice_text": "旧人类真够无知的。我回头会说教你一番。做好觉悟吧。", "emotion": "10"}
 {"id": 502504, "unit_id": 5025, "voice_type_id": 4, "voice_text": "这里也有书吧？那就一本一本读吧。关于鬼的记载要多少有多少。快点去。", "emotion": "1"}
 {"id": 502505, "unit_id": 5025, "voice_type_id": 5, "voice_text": "……什么？ 所有书你都调查过了？ 这，这样吗。你明明是旧人类却有两下子嘛。你明明还这么小……。我，我一点都不佩服你哦。你只是做了理所当然的事情！", "emotion": "6"}
 {"id": 502506, "unit_id": 5025, "voice_type_id": 6, "voice_text": "凶神、看不见的力量、死灵、刁民、贼徒、地狱的狱卒……鬼的称呼会根据时代和地点改变。这正是我们鬼从太古以来流浪于各地的证据。那是一场为了追寻安息之地而四处徘徊的，永无止境的旅途。", "emotion": "10"}
@@ -15124,13 +15124,13 @@
 {"id": 508744, "unit_id": 5087, "voice_type_id": 44, "voice_text": "自爆吧！我按！", "emotion": ""}
 {"id": 508745, "unit_id": 5087, "voice_type_id": 45, "voice_text": "你也喜欢打游戏吧　\n我也超喜欢打游戏", "emotion": ""}
 {"id": 508746, "unit_id": 5087, "voice_type_id": 46, "voice_text": "但我现在在工作　\n不要随便敲我", "emotion": ""}
-{"id": 508747, "unit_id": 5087, "voice_type_id": 47, "voice_text": "忧符「Sad·Emoticon」", "emotion": ""}
+{"id": 508747, "unit_id": 5087, "voice_type_id": 47, "voice_text": "忧符「悲伤·颜文字」", "emotion": ""}
 {"id": 508748, "unit_id": 5087, "voice_type_id": 48, "voice_text": "愤怒管理？　\n你没睡醒吗？", "emotion": ""}
 {"id": 508749, "unit_id": 5087, "voice_type_id": 49, "voice_text": "愤怒是原初的冲动　\n给我六秒　我一定能搞定", "emotion": ""}
-{"id": 508750, "unit_id": 5087, "voice_type_id": 50, "voice_text": "怒符「Angry·Emoji」", "emotion": ""}
+{"id": 508750, "unit_id": 5087, "voice_type_id": 50, "voice_text": "怒符「愤怒·表情包」", "emotion": ""}
 {"id": 508751, "unit_id": 5087, "voice_type_id": 51, "voice_text": "心理结界　解除成功　\n还好我是暗黑能乐使", "emotion": ""}
 {"id": 508752, "unit_id": 5087, "voice_type_id": 52, "voice_text": "精神网络深处的黑暗世界\n现在可以随便玩喽～", "emotion": ""}
-{"id": 508753, "unit_id": 5087, "voice_type_id": 53, "voice_text": "「Psycho Lost·Dark Zone」", "emotion": ""}
+{"id": 508753, "unit_id": 5087, "voice_type_id": 53, "voice_text": "「精神失落·黑暗领域」", "emotion": ""}
 {"id": 508754, "unit_id": 5087, "voice_type_id": 54, "voice_text": "呜", "emotion": ""}
 {"id": 508755, "unit_id": 5087, "voice_type_id": 55, "voice_text": "是我的失误～", "emotion": ""}
 {"id": 508756, "unit_id": 5087, "voice_type_id": 56, "voice_text": "补救成功～", "emotion": ""}
