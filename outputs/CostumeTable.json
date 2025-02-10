@@ -127,11 +127,11 @@
 {"id": 103001, "unit_id": 1030, "stage": 0, "file_id": 1, "name": "湖上的冰精", "description": "琪露诺的日常穿着。\n白色的衬衫搭配蓝色连衣裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103002, "unit_id": 1030, "stage": 0, "file_id": 2, "name": "棉花糖妖精", "description": "紫送给幻想乡里的妖精的衣服中的一件。\n很适合琪露诺的蓝色四件套。", "album_visible": 1, "start_at": "2021-11-18 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103003, "unit_id": 1030, "stage": 1, "file_id": 3, "name": "绝对零度的白银冰精", "description": "少女转生的琪露诺的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2022-06-20 14:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 103004, "unit_id": 1030, "stage": 0, "file_id": 4, "name": "最强的妖精女仆长", "description": "红魔馆的老熟人琪露诺的女仆装。\n红魔馆冰室的可靠帮手！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 103004, "unit_id": 1030, "stage": 0, "file_id": 4, "name": "最强的妖精女仆长", "description": "红魔馆的老熟人琪露诺的女仆装。\n红魔馆冰室的可靠帮手！", "album_visible": 1, "start_at": "2025-02-11 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103101, "unit_id": 1031, "stage": 0, "file_id": 1, "name": "无名的大只妖精", "description": "大妖精的日常穿着。\n白色衬衫搭配天蓝色连衣裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103102, "unit_id": 1031, "stage": 0, "file_id": 2, "name": "祈求长寿的千岁糖", "description": "紫送给幻想乡里的妖精的衣服中的一件。\n很适合大妖精的桃粉色四件套。", "album_visible": 1, "start_at": "2021-11-18 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103103, "unit_id": 1031, "stage": 1, "file_id": 3, "name": "纯白的大自然", "description": "少女转生的大妖精的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2022-06-20 14:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 103104, "unit_id": 1031, "stage": 0, "file_id": 4, "name": "临时雇佣的妖精女仆", "description": "红魔馆的老熟人大妖精的女仆装。\n大妖精的工作是提供缓解疲劳的最佳果汁担当。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 103104, "unit_id": 1031, "stage": 0, "file_id": 4, "name": "临时雇佣的妖精女仆", "description": "红魔馆的老熟人大妖精的女仆装。\n大妖精的工作是提供缓解疲劳的最佳果汁担当。", "album_visible": 1, "start_at": "2025-02-11 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103201, "unit_id": 1032, "stage": 0, "file_id": 1, "name": "七色的人偶师", "description": "爱丽丝·玛格特罗伊德的日常穿着。\n蓝色的无袖连衣裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103202, "unit_id": 1032, "stage": 0, "file_id": 2, "name": "进出稗田府的人偶师", "description": "从阿求那里借来的书生服饰。\n蕴含了女贞花的意象，看起来楚楚可怜。", "album_visible": 1, "start_at": "2021-12-09 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 103203, "unit_id": 1032, "stage": 0, "file_id": 3, "name": "七色的人偶使", "description": "爱丽丝在家里的日常穿着。\n一般在屋里品茶的时候穿。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
@@ -285,7 +285,7 @@
 {"id": 107301, "unit_id": 1073, "stage": 0, "file_id": 1, "name": "宵暗的妖怪", "description": "露米娅的日常穿着。\n白色衬衫搭配黑色的上衣和短裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 107302, "unit_id": 1073, "stage": 0, "file_id": 2, "name": "小恶魔般的妖怪", "description": "露米娅用妖力编织出的服饰。\n以小恶魔的日常穿着为原型设计。", "album_visible": 1, "start_at": "2021-10-28 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 107303, "unit_id": 1073, "stage": 1, "file_id": 3, "name": "白昼和黑夜的夹缝", "description": "少女转生的露米娅的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2023-11-20 14:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 107304, "unit_id": 1073, "stage": 0, "file_id": 4, "name": "混在妖精里的妖怪女仆", "description": "红魔馆的老熟人露米娅的女仆装。\n工作是为大小姐撑蝙蝠伞。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 107304, "unit_id": 1073, "stage": 0, "file_id": 4, "name": "混在妖精里的妖怪女仆", "description": "红魔馆的老熟人露米娅的女仆装。\n工作是为大小姐撑蝙蝠伞。", "album_visible": 1, "start_at": "2025-02-11 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 107401, "unit_id": 1074, "stage": 0, "file_id": 1, "name": "毘沙门天的弟子", "description": "寅丸星的日常穿着。\n仿照毗沙门天像做成的虎纹腰卷。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 107402, "unit_id": 1074, "stage": 1, "file_id": 2, "name": "谨遵教诲的白虎", "description": "少女转生的星的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 107403, "unit_id": 1074, "stage": 0, "file_id": 3, "name": "名侦探的名助手与主人", "description": "星做侦探助手时的服装。\n拐棍不是装饰，而是武器！", "album_visible": 1, "start_at": "2023-08-29 02:00:00", "end_at": "2030-12-31 23:59:59"}
@@ -430,7 +430,7 @@
 {"id": 112401, "unit_id": 1124, "stage": 0, "file_id": 1, "name": "漆黑的噬龙者", "description": "姬虫百百世的日常穿着。\n黑色的短装与大量缠在手臂和小腿上的橙色蝴蝶结。", "album_visible": 1, "start_at": "2023-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 112403, "unit_id": 1124, "stage": 0, "file_id": 3, "name": "启蛰的蜈蚣", "description": "适合运动的服装（百百世用）。 \n穿着矿石般美丽的服装参加竞技！", "album_visible": 1, "start_at": "2023-11-21 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 112501, "unit_id": 1125, "stage": 0, "file_id": 1, "name": "断善修恶的怪臂", "description": "茨木童子之臂的常服。 \n蓝色荆刺图案的围裙和水色的裙子。", "album_visible": 1, "start_at": "2023-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
-{"id": 112502, "unit_id": 1125, "stage": 0, "file_id": 2, "name": "为什么我是女仆！？", "description": "红魔馆提供的茨木童子手臂的女仆装。\n黑色的女仆装上绽放着红色的牡丹花。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
+{"id": 112502, "unit_id": 1125, "stage": 0, "file_id": 2, "name": "为什么我是女仆！？", "description": "红魔馆提供的茨木童子手臂的女仆装。\n黑色的女仆装上绽放着红色的牡丹花。", "album_visible": 1, "start_at": "2025-02-11 02:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 180101, "unit_id": 1801, "stage": 0, "file_id": 1, "name": "秘封俱乐部", "description": "-", "album_visible": 0, "start_at": "2021-01-01 00:00:00", "end_at": "2030-12-31 23:59:00"}
 {"id": 180201, "unit_id": 1082, "stage": 0, "file_id": 1, "name": "秘封俱乐部", "description": "-", "album_visible": 0, "start_at": "2021-01-01 00:00:00", "end_at": "2030-12-31 23:59:59"}
 {"id": 190101, "unit_id": 1901, "stage": 0, "file_id": 1, "name": "夢と伝統を保守する巫女", "description": "", "album_visible": 0, "start_at": "2021-01-01 00:00:00", "end_at": "2030-12-31 23:59:00"}

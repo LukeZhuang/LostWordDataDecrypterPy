@@ -1,3 +1,4 @@
+{"key": "52_PALYER_ID_BAN_LIST", "value": "[]", "description": "52服玩家战斗履历禁止上榜名单"}
 {"key": "ALREADY_READ_MAX", "value": "30", "description": "伝書既読最大件数"}
 {"key": "ANNIVERSARY_PRESENT_EVENT_ID", "value": "2740", "description": "一周年記念イベントのイベントID"}
 {"key": "ANNIVERSARY_PRESENT_LOGIN_COUNT", "value": "30", "description": "応募条件に必要なログイン数"}
@@ -43,6 +44,7 @@
 {"key": "GOLD_MAX", "value": "9999999", "description": "最大赛钱数"}
 {"key": "INFO_COLLECT_URL", "value": "cn_east_qd", "description": "个人信息收集清单网页地址"}
 {"key": "INSANITY_DIVIDE", "value": "435", "description": "狂化の除算値"}
+{"key": "IOS_PALYER_ID_BAN_LIST", "value": "[]", "description": "IOS服玩家战斗履历禁止上榜名单"}
 {"key": "IS_IP_CHECK", "value": "1", "description": "用户注册时的的IP地址检测"}
 {"key": "ITEM_MAX", "value": "9999", "description": "最大所持道具数"}
 {"key": "JUSTNOW_LIMIT_UNIT_LEN", "value": "2", "description": "战斗履历最近显示人数限制小于等于"}
@@ -61,6 +63,7 @@
 {"key": "LOGIN_BONUS_MAIL_GRACE", "value": "30", "description": "登录奖励的邮件的有效期限"}
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
+{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
 {"key": "MISSION_REWARD_MAIL_GRACE", "value": "14", "description": "课题报酬信箱送付时有效期限"}
 {"key": "MOTIVATION_LOWER_LIMIT_FOR_UNIT_EXP_BONUS", "value": "120", "description": "战斗结束时、附加单位奖励的干劲的上限值"}
@@ -71,6 +74,7 @@
 {"key": "MULTIPLE_SPIRITS_WEEKLY_RELEASE_EPISODE_ID", "value": "100200506", "description": "複霊週次の解放クエストフラグ"}
 {"key": "NAME_LENGTH", "value": "10", "description": "名字文字数"}
 {"key": "ORB_MAX", "value": "999999", "description": "最大神珠数"}
+{"key": "OTHER_PALYER_ID_BAN_LIST", "value": "[]", "description": "OTHER服玩家战斗履历禁止上榜名单"}
 {"key": "PHANTASM_POINT_BUY_BASE", "value": "500", "description": "灵点回复量为初期值500 玩家等级×3"}
 {"key": "PHANTASM_POINT_BUY_CALC_VALUE", "value": "3", "description": "灵点回复量为初期值500 玩家等级×3"}
 {"key": "PHANTASM_POINT_MAX", "value": "999999", "description": "最大灵点数"}
