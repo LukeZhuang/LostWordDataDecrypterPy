@@ -63,7 +63,7 @@
 {"key": "LOGIN_BONUS_MAIL_GRACE", "value": "30", "description": "登录奖励的邮件的有效期限"}
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
-{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
+{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
 {"key": "MISSION_REWARD_MAIL_GRACE", "value": "14", "description": "课题报酬信箱送付时有效期限"}
 {"key": "MOTIVATION_LOWER_LIMIT_FOR_UNIT_EXP_BONUS", "value": "120", "description": "战斗结束时、附加单位奖励的干劲的上限值"}
@@ -74,7 +74,7 @@
 {"key": "MULTIPLE_SPIRITS_WEEKLY_RELEASE_EPISODE_ID", "value": "100200506", "description": "複霊週次の解放クエストフラグ"}
 {"key": "NAME_LENGTH", "value": "10", "description": "名字文字数"}
 {"key": "ORB_MAX", "value": "999999", "description": "最大神珠数"}
-{"key": "OTHER_PALYER_ID_BAN_LIST", "value": "[]", "description": "OTHER服玩家战斗履历禁止上榜名单"}
+{"key": "OTHER_PALYER_ID_BAN_LIST", "value": "[6765899622]", "description": "OTHER服玩家战斗履历禁止上榜名单"}
 {"key": "PHANTASM_POINT_BUY_BASE", "value": "500", "description": "灵点回复量为初期值500 玩家等级×3"}
 {"key": "PHANTASM_POINT_BUY_CALC_VALUE", "value": "3", "description": "灵点回复量为初期值500 玩家等级×3"}
 {"key": "PHANTASM_POINT_MAX", "value": "999999", "description": "最大灵点数"}
@@ -91,6 +91,10 @@
 {"key": "RAKING_LIMIT_UNIT_LEN2", "value": "6", "description": "战斗履历top10显示人数限制2小于等于"}
 {"key": "RAKING_MAX_DAMAGE", "value": "100000000", "description": "战斗履历top10显示最大伤害限制大于"}
 {"key": "RAKING_MAX_DAMAGE2", "value": "10000000000", "description": "战斗履历top10显示最大伤害限制2大于"}
+{"key": "RANKING_SCORE_CALC_VALUE1", "value": "100000", "description": "ランキングスコア不正確認計算値"}
+{"key": "RANKING_SCORE_CALC_VALUE2", "value": "67453", "description": "ランキングスコア不正確認計算値"}
+{"key": "RANKING_SCORE_CALC_VALUE3", "value": "36947", "description": "ランキングスコア不正確認計算値"}
+{"key": "RANKING_SCORE_CALC_VALUE4", "value": "420839", "description": "ランキングスコア不正確認計算値"}
 {"key": "REINCARNATION_AFTER_TRUST", "value": "10000", "description": "転生後の固定信頼度"}
 {"key": "REINCARNATION_LEVEL", "value": "100", "description": "転生可能レベル"}
 {"key": "REINCARNATION_MATERIAL_CONSUME_COUNT", "value": "1000", "description": "無名の転生鏡交換時消費数"}

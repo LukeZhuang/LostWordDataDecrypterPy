@@ -1,3 +1,4 @@
 {"id": 1001, "display_name": "通常", "display_order": 3}
 {"id": 2001, "display_name": "期间限定", "display_order": 1}
 {"id": 3001, "display_name": "活动奖励", "display_order": 2}
+{"id": 4001, "display_name": "セール", "display_order": 4}

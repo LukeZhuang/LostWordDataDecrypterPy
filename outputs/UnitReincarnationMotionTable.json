@@ -36,6 +36,8 @@
 {"id": 103801, "reincarnation_release_id": 86, "unit_id": 1038, "costume_id": 103801, "motion": 1}
 {"id": 103901, "reincarnation_release_id": 156, "unit_id": 1039, "costume_id": 103901, "motion": 1}
 {"id": 104001, "reincarnation_release_id": 64, "unit_id": 1040, "costume_id": 104001, "motion": 1}
+{"id": 104201, "reincarnation_release_id": 361, "unit_id": 1042, "costume_id": 104201, "motion": 1}
+{"id": 104301, "reincarnation_release_id": 362, "unit_id": 1043, "costume_id": 104301, "motion": 1}
 {"id": 104401, "reincarnation_release_id": 297, "unit_id": 1044, "costume_id": 104401, "motion": 1}
 {"id": 104501, "reincarnation_release_id": 298, "unit_id": 1045, "costume_id": 104501, "motion": 1}
 {"id": 104601, "reincarnation_release_id": 299, "unit_id": 1046, "costume_id": 104601, "motion": 1}
@@ -99,7 +101,12 @@
 {"id": 204201, "reincarnation_release_id": 1135, "unit_id": 2042, "costume_id": 204201, "motion": 1}
 {"id": 205001, "reincarnation_release_id": 1053, "unit_id": 2050, "costume_id": 205001, "motion": 1}
 {"id": 205701, "reincarnation_release_id": 999, "unit_id": 2057, "costume_id": 205701, "motion": 1}
+{"id": 207201, "reincarnation_release_id": 1193, "unit_id": 2072, "costume_id": 207201, "motion": 1}
+{"id": 208001, "reincarnation_release_id": 1192, "unit_id": 2080, "costume_id": 208001, "motion": 1}
 {"id": 208101, "reincarnation_release_id": 904, "unit_id": 2081, "costume_id": 208101, "motion": 1}
+{"id": 208401, "reincarnation_release_id": 1196, "unit_id": 2084, "costume_id": 208401, "motion": 1}
+{"id": 209701, "reincarnation_release_id": 1195, "unit_id": 2097, "costume_id": 209701, "motion": 1}
+{"id": 209801, "reincarnation_release_id": 1194, "unit_id": 2098, "costume_id": 209801, "motion": 1}
 {"id": 300101, "reincarnation_release_id": 606, "unit_id": 3001, "costume_id": 300101, "motion": 1}
 {"id": 300201, "reincarnation_release_id": 607, "unit_id": 3002, "costume_id": 300201, "motion": 1}
 {"id": 300401, "reincarnation_release_id": 746, "unit_id": 3004, "costume_id": 300401, "motion": 1}

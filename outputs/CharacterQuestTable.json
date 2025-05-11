@@ -36,6 +36,8 @@
 {"id": 10380101, "character_quest_chapter_id": 103801, "title": "转生镜探索", "normal_battle_id": 10380101, "hard_battle_id": 10380102, "lunatic_battle_id": 10380103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 10390101, "character_quest_chapter_id": 103901, "title": "转生镜探索", "normal_battle_id": 10390101, "hard_battle_id": 10390102, "lunatic_battle_id": 10390103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
 {"id": 10400101, "character_quest_chapter_id": 104001, "title": "转生镜探索", "normal_battle_id": 10400101, "hard_battle_id": 10400102, "lunatic_battle_id": 10400103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
+{"id": 10420101, "character_quest_chapter_id": 104201, "title": "转生镜探索", "normal_battle_id": 10420101, "hard_battle_id": 10420102, "lunatic_battle_id": 10420103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
+{"id": 10430101, "character_quest_chapter_id": 104301, "title": "转生镜探索", "normal_battle_id": 10430101, "hard_battle_id": 10430102, "lunatic_battle_id": 10430103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 10440101, "character_quest_chapter_id": 104401, "title": "转生镜探索", "normal_battle_id": 10440101, "hard_battle_id": 10440102, "lunatic_battle_id": 10440103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 10450101, "character_quest_chapter_id": 104501, "title": "转生镜探索", "normal_battle_id": 10450101, "hard_battle_id": 10450102, "lunatic_battle_id": 10450103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 10460101, "character_quest_chapter_id": 104601, "title": "转生镜探索", "normal_battle_id": 10460101, "hard_battle_id": 10460102, "lunatic_battle_id": 10460103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
@@ -99,7 +101,12 @@
 {"id": 20420101, "character_quest_chapter_id": 204201, "title": "转生镜探索", "normal_battle_id": 20420101, "hard_battle_id": 20420102, "lunatic_battle_id": 20420103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 20500101, "character_quest_chapter_id": 205001, "title": "转生镜探索", "normal_battle_id": 20500101, "hard_battle_id": 20500102, "lunatic_battle_id": 20500103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 20570101, "character_quest_chapter_id": 205701, "title": "转生镜探索", "normal_battle_id": 20570101, "hard_battle_id": 20570102, "lunatic_battle_id": 20570103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
+{"id": 20720101, "character_quest_chapter_id": 207201, "title": "转生镜探索", "normal_battle_id": 20720101, "hard_battle_id": 20720102, "lunatic_battle_id": 20720103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
+{"id": 20800101, "character_quest_chapter_id": 208001, "title": "转生镜探索", "normal_battle_id": 20800101, "hard_battle_id": 20800102, "lunatic_battle_id": 20800103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
 {"id": 20810101, "character_quest_chapter_id": 208101, "title": "转生镜探索", "normal_battle_id": 20810101, "hard_battle_id": 20810102, "lunatic_battle_id": 20810103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
+{"id": 20840101, "character_quest_chapter_id": 208401, "title": "转生镜探索", "normal_battle_id": 20840101, "hard_battle_id": 20840102, "lunatic_battle_id": 20840103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
+{"id": 20970101, "character_quest_chapter_id": 209701, "title": "转生镜探索", "normal_battle_id": 20970101, "hard_battle_id": 20970102, "lunatic_battle_id": 20970103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
+{"id": 20980101, "character_quest_chapter_id": 209801, "title": "转生镜探索", "normal_battle_id": 20980101, "hard_battle_id": 20980102, "lunatic_battle_id": 20980103, "comic_filepath": "Daily/Wave2.asset", "count": 3}
 {"id": 30010101, "character_quest_chapter_id": 300101, "title": "转生镜探索", "normal_battle_id": 30010101, "hard_battle_id": 30010102, "lunatic_battle_id": 30010103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 30020101, "character_quest_chapter_id": 300201, "title": "转生镜探索", "normal_battle_id": 30020101, "hard_battle_id": 30020102, "lunatic_battle_id": 30020103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
 {"id": 30040101, "character_quest_chapter_id": 300401, "title": "转生镜探索", "normal_battle_id": 30040101, "hard_battle_id": 30040102, "lunatic_battle_id": 30040103, "comic_filepath": "Daily/Wave1.asset", "count": 3}
