@@ -6,6 +6,7 @@
 {"id": 1008, "type": 1, "long_bgm_id": 1008, "short_bgm_id": 0}
 {"id": 1009, "type": 1, "long_bgm_id": 1009, "short_bgm_id": 0}
 {"id": 1010, "type": 1, "long_bgm_id": 1010, "short_bgm_id": 0}
+{"id": 1011, "type": 1, "long_bgm_id": 1011, "short_bgm_id": 0}
 {"id": 1012, "type": 1, "long_bgm_id": 1012, "short_bgm_id": 0}
 {"id": 1013, "type": 0, "long_bgm_id": 1013, "short_bgm_id": 0}
 {"id": 1022, "type": 1, "long_bgm_id": 1022, "short_bgm_id": 0}
@@ -31,6 +32,7 @@
 {"id": 1056, "type": 1, "long_bgm_id": 1056, "short_bgm_id": 0}
 {"id": 1060, "type": 1, "long_bgm_id": 1060, "short_bgm_id": 0}
 {"id": 1061, "type": 1, "long_bgm_id": 1061, "short_bgm_id": 0}
+{"id": 1077, "type": 1, "long_bgm_id": 1077, "short_bgm_id": 0}
 {"id": 2001, "type": 0, "long_bgm_id": 2001, "short_bgm_id": 3001}
 {"id": 2002, "type": 0, "long_bgm_id": 2002, "short_bgm_id": 3002}
 {"id": 2003, "type": 0, "long_bgm_id": 2003, "short_bgm_id": 3003}
@@ -141,6 +143,8 @@
 {"id": 199028, "type": 1, "long_bgm_id": 199028, "short_bgm_id": 0}
 {"id": 199029, "type": 1, "long_bgm_id": 199029, "short_bgm_id": 0}
 {"id": 199030, "type": 1, "long_bgm_id": 199030, "short_bgm_id": 0}
+{"id": 199031, "type": 1, "long_bgm_id": 199031, "short_bgm_id": 0}
+{"id": 199032, "type": 1, "long_bgm_id": 199032, "short_bgm_id": 0}
 {"id": 20108801, "type": 0, "long_bgm_id": 20108801, "short_bgm_id": 30108801}
 {"id": 20108901, "type": 0, "long_bgm_id": 20108901, "short_bgm_id": 30108901}
 {"id": 20109001, "type": 0, "long_bgm_id": 20109001, "short_bgm_id": 30109001}
@@ -185,4 +189,6 @@
 {"id": 20113101, "type": 0, "long_bgm_id": 20113101, "short_bgm_id": 30113101}
 {"id": 20200101, "type": 0, "long_bgm_id": 20200101, "short_bgm_id": 30200101}
 {"id": 20201001, "type": 0, "long_bgm_id": 20201001, "short_bgm_id": 30201001}
+{"id": 20203701, "type": 0, "long_bgm_id": 20203701, "short_bgm_id": 30203701}
+{"id": 20204801, "type": 0, "long_bgm_id": 20204801, "short_bgm_id": 30204801}
 {"id": 20300201, "type": 0, "long_bgm_id": 20300201, "short_bgm_id": 30300201}

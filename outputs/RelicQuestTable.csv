@@ -6,6 +6,7 @@ id,relic_chapter_id,title,normal_battle_id,hard_battle_id,lunatic_battle_id,comi
 400701,400701,「Be the change」,40070101,0,0,RelicQuest/400701/Episode1.asset
 401001,401001,「时间界限」,40100101,0,0,RelicQuest/401001/Episode1.asset
 405001,405001,「NAЯAKA」,40500101,0,0,RelicQuest/405001/Episode1.asset
+409101,409101,「感伤的信号」,40910101,0,0,RelicQuest/409101/Episode1.asset
 500301,500301,「暖热的指尖」,50030101,0,0,RelicQuest/500301/Episode1.asset
 500401,500401,「I'm Alright!」,50040101,0,0,RelicQuest/500401/Episode1.asset
 501101,501101,「Disillusion」,50110101,0,0,RelicQuest/501101/Episode1.asset
@@ -15,6 +16,7 @@ id,relic_chapter_id,title,normal_battle_id,hard_battle_id,lunatic_battle_id,comi
 600501,600501,「月与十六夜」,60050101,0,0,RelicQuest/600501/Episode1.asset
 602501,602501,「PHANTOM PAIN」,60250101,0,0,RelicQuest/602501/Episode1.asset
 603901,603901,「失落的祟神」,60390101,0,0,RelicQuest/603901/Episode1.asset
+702401,702401,「Holy Again」,70240101,0,0,RelicQuest/702401/Episode1.asset
 800101,800101,「业速」,80010101,0,0,RelicQuest/800101/Episode1.asset
 800201,800201,「划破夜空的光」,80020101,0,0,RelicQuest/800201/Episode1.asset
 805701,805701,「若要为生命赋名」,80570101,0,0,RelicQuest/805701/Episode1.asset

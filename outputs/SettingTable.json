@@ -63,7 +63,7 @@
 {"key": "LOGIN_BONUS_MAIL_GRACE", "value": "30", "description": "登录奖励的邮件的有效期限"}
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
-{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
+{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653,6762981284]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
 {"key": "MISSION_REWARD_MAIL_GRACE", "value": "14", "description": "课题报酬信箱送付时有效期限"}
 {"key": "MOTIVATION_LOWER_LIMIT_FOR_UNIT_EXP_BONUS", "value": "120", "description": "战斗结束时、附加单位奖励的干劲的上限值"}

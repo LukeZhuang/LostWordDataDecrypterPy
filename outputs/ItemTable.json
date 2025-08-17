@@ -102,6 +102,15 @@
 {"id": 713, "name": "LIVE 2024特别祝词-雾雨魔理沙", "description": "有效期至2024年12月31日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1013}
 {"id": 714, "name": "4.5周年フェス確定特別祝詞 1", "description": "2024年12月31日?23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1014}
 {"id": 715, "name": "4.5周年フェス確定特別祝詞 2", "description": "2024年12月31日?23:59まで有効。期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1015}
+{"id": 716, "name": "特別祝詞(期間限定)", "description": "2025年3月24日?10:59まで有効。\n期間限定のおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1016}
+{"id": 717, "name": "日祓のパワーボール", "description": "2025年3月24日?10:59まで有効。\n縁を接続する消費型マジックアイテム。伊弉諾物質の疑いあり。太陽の輝きが微かに漏れ出る。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1017}
+{"id": 718, "name": "月祓のパワーボール", "description": "2025年3月24日?10:59まで有効。\n縁を接続する消費型マジックアイテム。伊弉諾物質の疑いあり。太陰の囁きが僅かに聞こえる。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1018}
+{"id": 719, "name": "星祓のパワーボール", "description": "2025年3月24日?10:59まで有効。\n縁を接続する消費型マジックアイテム。伊弉諾物質の疑いあり。星辰の気配を少し感じる。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1019}
+{"id": 720, "name": "[複霊絵札]絵札祝詞", "description": "2025年3月24日?10:59まで有効。\n特別なおいのりができる祝詞(のりと)。使うと貴重な絵札が手に入る。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1020}
+{"id": 721, "name": "[エピック絵札含]絵札祝詞", "description": "2025年3月24日?10:59まで有効。\n特別なおいのりができる祝詞(のりと)。珍しい絵札が手に入りやすい。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1021}
+{"id": 722, "name": "アビシ祝詞", "description": "特別なおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1022}
+{"id": 723, "name": "[エピック絵札含]絵札祝詞", "description": "特別なおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1023}
+{"id": 724, "name": "[複霊絵札含]絵札祝詞", "description": "特別なおいのりができる祝詞(のりと)。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1024}
 {"id": 751, "name": "泳装特殊祝词-依神女苑", "description": "有效期至2025年01月21日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1051}
 {"id": 752, "name": "泳装特殊祝词-小野塚小町", "description": "有效期至2025年03月04日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1052}
 {"id": 753, "name": "泳装特殊祝词-秦心", "description": "有效期至2025年03月25日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1053}
@@ -110,6 +119,10 @@
 {"id": 756, "name": "史诗祈愿特别祝词-射命丸文", "description": "有效期至2025年04月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1056}
 {"id": 757, "name": "史诗祈愿特别祝词-爱丽丝", "description": "有效期至2025年04月29日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1057}
 {"id": 758, "name": "史诗祈愿特别祝词-藤原妹红", "description": "有效期至2025年05月20日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1058}
+{"id": 759, "name": "史诗祈愿特别祝词-博丽灵梦", "description": "有效期至2025年06月17日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1059}
+{"id": 760, "name": "史诗祈愿特别祝词-雾雨魔理沙", "description": "有效期至2025年07月01日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1060}
+{"id": 761, "name": "泳装特殊祝词-十六夜咲夜", "description": "有效期至2025年07月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1061}
+{"id": 762, "name": "泳装特殊祝词-东风谷早苗", "description": "有效期至2025年08月05日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1062}
 {"id": 780, "name": "泳装特殊祝词-紫", "description": "有效期至2022年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1080}
 {"id": 781, "name": "泳装特殊祝词-赫卡提亚", "description": "有效期至2022年11月22日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1081}
 {"id": 782, "name": "叙事诗特别祝词-博丽灵梦", "description": "有效期至2022年12月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1082}
@@ -254,9 +267,11 @@
 {"id": 1123, "name": "转生镜", "description": "[无主物之神]天弓千亦(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10110}
 {"id": 1124, "name": "转生镜", "description": "[漆黑的噬龙者]姬虫百百世(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10111}
 {"id": 1125, "name": "转生镜", "description": "[断善修恶的怪臂]茨木童子之臂(L1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10751}
+{"id": 2001, "name": "转生镜", "description": "[降神的祈祷师]博丽灵梦(F1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 60010001}
 {"id": 2002, "name": "转生镜", "description": "[红梦的魔女]雾雨魔理沙(Z1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 260010002}
 {"id": 2003, "name": "转生镜", "description": "[小小的恶魔千金]蕾米莉亚·斯卡雷特(E9)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50090010}
 {"id": 2005, "name": "转生镜", "description": "[传说中的吸血鬼猎人]十六夜咲夜(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010009}
+{"id": 2006, "name": "转生镜", "description": "[[红]知识与避世的少女]帕秋莉·诺蕾姬(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600008}
 {"id": 2007, "name": "转生镜", "description": "[坚如磐石的恶魔之门]红美铃(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010006}
 {"id": 2008, "name": "转生镜", "description": "[高等魔法的集大成者]小恶魔(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010007}
 {"id": 2010, "name": "转生镜", "description": "[小小的亡灵楼主]西行寺幽幽子(R2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 180020020}
@@ -274,6 +289,7 @@
 {"id": 2036, "name": "转生镜", "description": "[医疗用机械人偶]梅蒂欣·梅兰可莉(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050033}
 {"id": 2042, "name": "转生镜", "description": "[宇佐的反叛参谋]因幡帝(Y5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 250050027}
 {"id": 2050, "name": "转生镜", "description": "[小小的地底巨头]古明地觉(S2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 190020051}
+{"id": 2051, "name": "转生镜", "description": "[白皙之无为]古明地恋(F1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 60010054}
 {"id": 2054, "name": "转生镜", "description": "[地下废弃区域的检票员]小野塚小町(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030035}
 {"id": 2055, "name": "转生镜", "description": "[地下废弃区域的站长]四季映姬·夜摩仙那度(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030036}
 {"id": 2057, "name": "转生镜", "description": "[无名的宇宙恐怖]纯狐(B2)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20020085}
@@ -290,19 +306,28 @@
 {"id": 3005, "name": "转生镜", "description": "[月战型从者]十六夜咲夜(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030009}
 {"id": 3006, "name": "转生镜", "description": "[千金陪伴的元素魔法使]帕秋莉·诺蕾姬(E1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 50010008}
 {"id": 3007, "name": "转生镜", "description": "[[红]华人小姑娘]红美铃(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600006}
+{"id": 3008, "name": "转生镜", "description": "[[红]无名的小恶魔]小恶魔(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600007}
 {"id": 3010, "name": "转生镜", "description": "[[妖]幽冥楼阁的亡灵少女]西行寺幽幽子(A7)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10700020}
 {"id": 3011, "name": "转生镜", "description": "[月战型园丁]魂魄妖梦(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030019}
 {"id": 3015, "name": "转生镜", "description": "[月战型士兵]铃仙·优昙华院·因幡(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030028}
+{"id": 3018, "name": "转生镜", "description": "[[永]月之头脑]八意永琳(A8)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10800029}
 {"id": 3037, "name": "转生镜", "description": "[月战型祭司]东风谷早苗(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030042}
 {"id": 4001, "name": "转生镜", "description": "[[红]永远之巫女]博丽灵梦(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600001}
 {"id": 4002, "name": "转生镜", "description": "[[红]奇妙的魔法使]雾雨魔理沙(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600002}
 {"id": 4005, "name": "转生镜", "description": "[[红]红魔馆的女仆]十六夜咲夜(A6)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10600009}
 {"id": 4011, "name": "转生镜", "description": "[[妖]幽人的园艺师]魂魄妖梦(A7)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10700019}
+{"id": 4015, "name": "转生镜", "description": "[[永]狂气的月兔]铃仙·优昙华院·因幡(A8)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10800028}
 {"id": 4032, "name": "转生镜", "description": "[精密自律机器技师]爱丽丝·玛格特罗伊德(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050014}
+{"id": 5003, "name": "转生镜", "description": "[暖热的指尖]蕾米莉亚·斯卡雷特(L80)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 800010}
 {"id": 5052, "name": "转生镜", "description": "[侍奉千金的保姆护士]火焰猫燐(S5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 190050052}
 {"id": 5053, "name": "转生镜", "description": "[侍奉千金的烧炭工匠]灵乌路空(S5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 190050053}
 {"id": 5056, "name": "转生镜", "description": "[传送门管理者]赫卡提亚·拉碧斯拉祖利(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030086}
+{"id": 6062, "name": "转生镜", "description": "[记忆黑客的长女]露娜萨·普莉兹姆利巴(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050016}
+{"id": 6063, "name": "转生镜", "description": "[记忆黑客的次女]梅露兰·普莉兹姆利巴(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050017}
+{"id": 6064, "name": "转生镜", "description": "[记忆黑客的三女]莉莉卡·普莉兹姆利巴(B5)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20050018}
 {"id": 6112, "name": "转生镜", "description": "[地下废弃区域的队伍整理者]庭渡久侘歌(B3)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 20030098}
+{"id": 7042, "name": "转生镜", "description": "[[永]地上的兔子]因幡帝(A8)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 10800027}
+{"id": 19037, "name": "转生镜", "description": "[人类与神明的重合体]东风谷早苗(F1)专用", "rare": 5, "type": 8, "effect_type": 0, "display_order": 60010042}
 {"id": 100001, "name": "初始祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 100}
 {"id": 100003, "name": "超FES祭绘马", "description": "有效期至2023年11月30日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 101}
 {"id": 100004, "name": "超FES祭绘马", "description": "有效期至2024年03月11日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 102}
@@ -327,3 +352,22 @@
 {"id": 100023, "name": "4.5thアニバーサリーAシリーズ祭絵馬", "description": "2024年12月20日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 121}
 {"id": 100024, "name": "白FES祭绘马（东风谷早苗(L0g)）", "description": "有效期至2025年04月29日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 122}
 {"id": 100025, "name": "白FES祭绘马（八坂神奈子(L0g)）", "description": "有效期至2025年04月29日 23:59:59。可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 123}
+{"id": 100026, "name": "1000万DL記念 超フェス祭絵馬A", "description": "2025年3月31日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 124}
+{"id": 100027, "name": "1000万DL記念 超フェス祭絵馬B", "description": "2025年3月31日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 125}
+{"id": 100028, "name": "1000万DL記念 超フェス祭絵馬C", "description": "2025年3月31日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 126}
+{"id": 100029, "name": "1000万DL記念 超フェス祭絵馬D", "description": "2025年3月31日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 127}
+{"id": 100030, "name": "1000万DL記念 Aシリーズ祭絵馬", "description": "2025年3月31日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 128}
+{"id": 100031, "name": "白フェス祭絵馬（東風谷早苗(L0g)）", "description": "2025年6月6日13:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 129}
+{"id": 100032, "name": "白フェス祭絵馬（八坂神奈子(L0g)）", "description": "2025年6月6日13:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 130}
+{"id": 100034, "name": "5thアニバーサリー祭絵馬の欠片", "description": "100個集めると相手を選んで縁を結べる、不思議な絵馬の欠片。", "rare": 3, "type": 99, "effect_type": 0, "display_order": 98}
+{"id": 100035, "name": "白フェス祭絵馬（洩矢諏訪子(L0g)）", "description": "2025年6月6日13:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 131}
+{"id": 100036, "name": "5thアニバーサリー超フェス祭絵馬1", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 134}
+{"id": 100037, "name": "5thアニバーサリー超フェス祭絵馬2", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 135}
+{"id": 100038, "name": "5thアニバーサリー超フェス祭絵馬3", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 136}
+{"id": 100039, "name": "5thアニバーサリー超フェス祭絵馬4", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 137}
+{"id": 100040, "name": "5thアニバーサリー超フェス祭絵馬5", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 138}
+{"id": 100041, "name": "5thアニバーサリーAシリーズ祭絵馬1", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 139}
+{"id": 100042, "name": "5thアニバーサリーAシリーズ祭絵馬2", "description": "2025年7月16日23:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 140}
+{"id": 100043, "name": "複霊祭絵馬α種", "description": "2025年5月23日10:59まで有効。相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 141}
+{"id": 100901, "name": "超FES角色收藏祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 201}
+{"id": 100902, "name": "人替角色收藏祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 202}

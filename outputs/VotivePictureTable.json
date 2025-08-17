@@ -13,3 +13,5 @@
 {"id": 1014, "item_id": 100014, "banner_image": "gacha_euma_014", "start_at": "2025-03-04 02:00:00", "end_at": "2025-04-15 23:59:59"}
 {"id": 1024, "item_id": 100024, "banner_image": "gacha_euma_024", "start_at": "2025-04-15 02:00:00", "end_at": "2025-04-29 23:59:59"}
 {"id": 1025, "item_id": 100025, "banner_image": "gacha_euma_025", "start_at": "2025-04-15 02:00:00", "end_at": "2025-04-29 23:59:59"}
+{"id": 1901, "item_id": 100901, "banner_image": "gacha_euma_901", "start_at": "", "end_at": ""}
+{"id": 1902, "item_id": 100902, "banner_image": "gacha_euma_902", "start_at": "", "end_at": ""}
