@@ -277,6 +277,8 @@
 {"id": 2153001, "chapter_id": 2153, "mode": 1, "title": "特殊章节 去寻找阿姆斯特朗！", "sub_title": "", "number": 1, "costume_id": 105704, "unit_speech_group_id": 1341, "open_type": 1}
 {"id": 2154000, "chapter_id": 2154, "mode": 0, "title": "秦心体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2155000, "chapter_id": 2155, "mode": 0, "title": "茨木华扇体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2156000, "chapter_id": 2156, "mode": 0, "title": "麦饭Ｑ THE·GOLDEN", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 1096, "open_type": 0}
+{"id": 2156001, "chapter_id": 2156, "mode": 1, "title": "特殊章节 麦饭Ｑ THE·GOLDEN", "sub_title": "", "number": 1, "costume_id": 112203, "unit_speech_group_id": 1097, "open_type": 0}
 {"id": 2157000, "chapter_id": 2157, "mode": 0, "title": "第1回　新·月都万象展！", "sub_title": "", "number": 1, "costume_id": 102506, "unit_speech_group_id": 1362, "open_type": 0}
 {"id": 2157001, "chapter_id": 2157, "mode": 1, "title": "特殊章节 第1回　新·月都万象展！", "sub_title": "", "number": 1, "costume_id": 1103201, "unit_speech_group_id": 1363, "open_type": 1}
 {"id": 2158000, "chapter_id": 2158, "mode": 0, "title": "高难度挑战", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
@@ -284,11 +286,14 @@
 {"id": 2160000, "chapter_id": 2160, "mode": 0, "title": "射命丸文体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2161000, "chapter_id": 2161, "mode": 0, "title": "八坂神奈子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2163000, "chapter_id": 2163, "mode": 0, "title": "高难度挑战", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2165000, "chapter_id": 2165, "mode": 0, "title": "雪之花与诅咒的饰品", "sub_title": "", "number": 1, "costume_id": 105604, "unit_speech_group_id": 1384, "open_type": 0}
+{"id": 2165001, "chapter_id": 2165, "mode": 1, "title": "特殊章节 雪之花与诅咒的饰品", "sub_title": "", "number": 1, "costume_id": 601201, "unit_speech_group_id": 1385, "open_type": 1}
 {"id": 2166000, "chapter_id": 2166, "mode": 0, "title": "藤原妹红体验关卡", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2170000, "chapter_id": 2170, "mode": 0, "title": "博丽灵梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2171000, "chapter_id": 2171, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2175000, "chapter_id": 2175, "mode": 0, "title": "十六夜咲夜体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2180000, "chapter_id": 2180, "mode": 0, "title": "东风谷早苗体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2190000, "chapter_id": 2190, "mode": 0, "title": "丰聪耳神子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

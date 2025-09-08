@@ -232,7 +232,7 @@
 {"id": 105601, "unit_id": 1056, "stage": 0, "file_id": 1, "name": "地狱的女神", "description": "赫卡提亚·拉碧斯拉祖利的日常穿着。\n黑色时尚露肩上衣搭配三色裙子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 105602, "unit_id": 1056, "stage": 0, "file_id": 2, "name": "失败了的话就惩罚你哟", "description": "透过画面的头领服装（赫卡提亚专用）。\n实际帽子上印有骷髅的标志。", "album_visible": 1, "start_at": "2022-02-10 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 105603, "unit_id": 1056, "stage": 1, "file_id": 3, "name": "三重白色女神", "description": "少女转生的赫卡提亚的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-06-17 14:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 105604, "unit_id": 1056, "stage": 0, "file_id": 4, "name": "保护八寒地狱妖精的志愿者", "description": "在地狱当志愿者的赫卡提亚的服装。\n地狱处于慢性资金不足状态……！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 105604, "unit_id": 1056, "stage": 0, "file_id": 4, "name": "保护八寒地狱妖精的志愿者", "description": "在地狱当志愿者的赫卡提亚的服装。\n地狱处于慢性资金不足状态……！", "album_visible": 1, "start_at": "2025-08-26 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 105701, "unit_id": 1057, "stage": 0, "file_id": 1, "name": "※无名的服装", "description": "纯狐的日常穿着。\n像是袍服一样的红黑长裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 105702, "unit_id": 1057, "stage": 0, "file_id": 2, "name": "无冠的女帝", "description": "纯狐的社交场服装。宇宙级的成熟风。 \n追根溯源是紫从香霖堂筹措来的。", "album_visible": 1, "start_at": "2022-01-10 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 105703, "unit_id": 1057, "stage": 1, "file_id": 3, "name": "充满狂气的空白", "description": "少女转生的纯狐的服装。 \n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-06-17 14:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -292,7 +292,7 @@
 {"id": 107202, "unit_id": 1072, "stage": 0, "file_id": 2, "name": "聪明睿智的实习生", "description": "八云紫参考外界的资料，\n为慧音准备的制服服装。", "album_visible": 1, "start_at": "2021-11-04 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 107203, "unit_id": 1072, "stage": 0, "file_id": 3, "name": "历史的讲义", "description": "慧音的社交场服装。有历史感的成熟风。\n是紫从香霖堂筹措来的。", "album_visible": 1, "start_at": "2022-06-14 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 107204, "unit_id": 1072, "stage": 1, "file_id": 4, "name": "白色的未来历史撰写者", "description": "少女转生的慧音的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-11-11 14:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 107205, "unit_id": 1072, "stage": 0, "file_id": 5, "name": "师走的师是僧侣的师", "description": "慧音的冬季外出用服装。\n什么！？ 我，我只是有些私事而已！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 107205, "unit_id": 1072, "stage": 0, "file_id": 5, "name": "师走的师是僧侣的师", "description": "慧音的冬季外出用服装。\n什么！？ 我，我只是有些私事而已！", "album_visible": 1, "start_at": "2025-08-26 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 107301, "unit_id": 1073, "stage": 0, "file_id": 1, "name": "宵暗的妖怪", "description": "露米娅的日常穿着。\n白色衬衫搭配黑色的上衣和短裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 107302, "unit_id": 1073, "stage": 0, "file_id": 2, "name": "小恶魔般的妖怪", "description": "露米娅用妖力编织出的服饰。\n以小恶魔的日常穿着为原型设计。", "album_visible": 1, "start_at": "2021-10-28 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 107303, "unit_id": 1073, "stage": 1, "file_id": 3, "name": "白昼和黑夜的夹缝", "description": "少女转生的露米娅的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2023-11-20 14:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -353,7 +353,7 @@
 {"id": 108901, "unit_id": 1089, "stage": 0, "file_id": 1, "name": "非想非非想天之女", "description": "比那名居天子的日常穿着。\n白色短袖衬衫，天蓝色长裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 108902, "unit_id": 1089, "stage": 0, "file_id": 2, "name": "兔葵的专业剑士", "description": "据霖之助所说是能提高剑气的兔子服装(天子用)。 \n二轮车“风火二轮”是天人同伴的所有物？", "album_visible": 1, "start_at": "2022-01-25 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 108903, "unit_id": 1089, "stage": 1, "file_id": 3, "name": "白天花板的天人", "description": "少女转生的天子的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-08-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 108904, "unit_id": 1089, "stage": 0, "file_id": 4, "name": "冬天的气质也不坏", "description": "天子的冬季外出用服装。\n地上也有可爱的衣服诶！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 108904, "unit_id": 1089, "stage": 0, "file_id": 4, "name": "冬天的气质也不坏", "description": "天子的冬季外出用服装。\n地上也有可爱的衣服诶！", "album_visible": 1, "start_at": "2025-08-26 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109001, "unit_id": 1090, "stage": 0, "file_id": 1, "name": "美丽的绯衣", "description": "永江衣玖的日常穿着。\n褶边衬衫搭配羽衣和黑色长裙。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109002, "unit_id": 1090, "stage": 0, "file_id": 2, "name": "天界的灯饰", "description": "为衣玖准备的冬季外出用服装。\n活用修长身材的搭配 by KORINDO。", "album_visible": 1, "start_at": "2022-01-25 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109003, "unit_id": 1090, "stage": 1, "file_id": 3, "name": "白羽衣的传讯者", "description": "少女转生的衣玖的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-08-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -366,7 +366,7 @@
 {"id": 109201, "unit_id": 1092, "stage": 0, "file_id": 1, "name": "古代日本的尸解仙", "description": "物部布都的常服。\n白色水干风格的服装配着蓝色的乌帽子和裙子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109202, "unit_id": 1092, "stage": 0, "file_id": 2, "name": "师范代的兔女郎道士", "description": "据霖之助所说是能够提升斗气的兔服（布都用）。\n这就是所谓道的闪耀吗？", "album_visible": 1, "start_at": "2023-03-14 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109203, "unit_id": 1092, "stage": 1, "file_id": 3, "name": "白色秘术的点火器", "description": "少女转生的布都的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-05-27 14:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 109204, "unit_id": 1092, "stage": 0, "file_id": 4, "name": "玄冬即是水行", "description": "布都的冬季外出用服装。\n怎么样—？ 好不好看—？", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 109204, "unit_id": 1092, "stage": 0, "file_id": 4, "name": "玄冬即是水行", "description": "布都的冬季外出用服装。\n怎么样—？ 好不好看—？", "album_visible": 1, "start_at": "2025-08-26 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109301, "unit_id": 1093, "stage": 0, "file_id": 1, "name": "神明后裔的亡灵", "description": "苏我屠自古的常服。\n绿色的连衣裙配着黑色的乌帽子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109302, "unit_id": 1093, "stage": 0, "file_id": 2, "name": "雷电护士", "description": "在医院中突然出现的碧雳的电疗护士！\n这个麻麻的亡灵，真是贴心……！", "album_visible": 1, "start_at": "2022-07-19 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109303, "unit_id": 1093, "stage": 1, "file_id": 3, "name": "白色亡灵的发电机", "description": "少女转生的屠自古的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-05-27 14:00:00", "end_at": "2050-12-31 23:59:59"}

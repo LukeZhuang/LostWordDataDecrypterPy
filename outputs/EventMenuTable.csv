@@ -542,6 +542,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 7061,7061,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7062,7062,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7063,7063,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
+7064,7064,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7080,7080,1,剧情活动,Event_bg_7080_1,(empty),2
 7081,7081,2,登录奖励,Event_LoginBonus_bg_7081,(empty),3
 7082,7080,3,幸运抽奖,Event_bg_7080_2,(empty),10
@@ -707,7 +708,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 8952,8950,3,幸运抽奖,Event_bg_8950_2,(empty),9
 8953,8950,4,累计点数,Event_bg_8950_3,(empty),10
 8954,8954,2,登录奖励,Event_LoginBonus_bg_8954,(empty),3
-8990,8990,2,ログインボーナス,Event_LoginBonus_bg_8990,(empty),23
+8990,8990,2,登录奖励,Event_LoginBonus_bg_8990,(empty),23
 9050,9050,1,イベント,Event_bg_9050_1,(empty),2
 9052,9050,3,ふくびき,Event_bg_9050_2,(empty),9
 9053,9050,4,累計ポイント,Event_bg_9050_3,(empty),10
@@ -819,9 +820,10 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 10353,10350,4,累计点数,Event_bg_10350_3,(empty),5
 10354,10354,2,登录奖励,Event_LoginBonus_bg_10354,(empty),3
 10390,10390,2,ログインボーナス,Event_LoginBonus_bg_10390,(empty),23
-10450,10450,1,イベント,Event_bg_10450_1,(empty),3
-10452,10450,3,ふくびき,Event_bg_10450_2,(empty),9
-10453,10450,4,累計ポイント,Event_bg_10450_3,(empty),10
+10450,10450,1,剧情活动,Event_bg_10450_1,(empty),2
+10451,10451,2,登录奖励,Event_LoginBonus_bg_8201,(empty),3
+10452,10450,3,幸运抽奖,Event_bg_10450_2,(empty),9
+10453,10450,4,累计点数,Event_bg_10450_3,(empty),10
 10470,10470,2,登录奖励,Event_LoginBonus_bg_10470,(empty),50
 10480,10480,2,ログインボーナス,Event_LoginBonus_bg_10480,(empty),51
 10500,10500,1,剧情活动,Event_bg_10500_1,(empty),10
@@ -842,11 +844,11 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 10720,10720,1,イベント,Event_bg_10720_1,(empty),3
 10722,10720,3,ふくびき,Event_bg_10720_2,(empty),12
 10723,10720,4,累計ポイント,Event_bg_10720_3,(empty),13
-10760,10760,1,イベント,Event_bg_10760_1,(empty),11
-10761,10761,2,ログインボーナス,Event_LoginBonus_bg_10761,(empty),3
-10762,10760,3,ふくびき,Event_bg_10760_2,(empty),14
-10763,10760,4,累計ポイント,Event_bg_10760_3,(empty),15
-10764,10764,2,ログインボーナス,Event_LoginBonus_bg_10764,(empty),3
+10760,10760,1,剧情活动,Event_bg_10760_1,(empty),11
+10761,10761,2,登录奖励,Event_LoginBonus_bg_10761,(empty),3
+10762,10760,3,幸运抽奖,Event_bg_10760_2,(empty),14
+10763,10760,4,累计点数,Event_bg_10760_3,(empty),15
+10764,10764,2,登录奖励,Event_LoginBonus_bg_10764,(empty),3
 10820,10820,2,登录奖励,Event_LoginBonus_bg_10820,(empty),23
 10830,10830,2,ログインボーナス,Event_LoginBonus_bg_10830,(empty),22
 10840,10840,1,イベント,Event_bg_10840_1,(empty),2

@@ -541,6 +541,7 @@
 {"id": 7061, "event_id": 7061, "event_type": 2, "button_name": "登录签到", "banner_image": "Event_LoginBonus_bg_tower", "front_image": "", "display_order": 3}
 {"id": 7062, "event_id": 7062, "event_type": 2, "button_name": "登录签到", "banner_image": "Event_LoginBonus_bg_tower", "front_image": "", "display_order": 3}
 {"id": 7063, "event_id": 7063, "event_type": 2, "button_name": "登录签到", "banner_image": "Event_LoginBonus_bg_tower", "front_image": "", "display_order": 3}
+{"id": 7064, "event_id": 7064, "event_type": 2, "button_name": "登录签到", "banner_image": "Event_LoginBonus_bg_tower", "front_image": "", "display_order": 3}
 {"id": 7080, "event_id": 7080, "event_type": 1, "button_name": "剧情活动", "banner_image": "Event_bg_7080_1", "front_image": "", "display_order": 2}
 {"id": 7081, "event_id": 7081, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_7081", "front_image": "", "display_order": 3}
 {"id": 7082, "event_id": 7080, "event_type": 3, "button_name": "幸运抽奖", "banner_image": "Event_bg_7080_2", "front_image": "", "display_order": 10}
@@ -706,7 +707,7 @@
 {"id": 8952, "event_id": 8950, "event_type": 3, "button_name": "幸运抽奖", "banner_image": "Event_bg_8950_2", "front_image": "", "display_order": 9}
 {"id": 8953, "event_id": 8950, "event_type": 4, "button_name": "累计点数", "banner_image": "Event_bg_8950_3", "front_image": "", "display_order": 10}
 {"id": 8954, "event_id": 8954, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_8954", "front_image": "", "display_order": 3}
-{"id": 8990, "event_id": 8990, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_8990", "front_image": "", "display_order": 23}
+{"id": 8990, "event_id": 8990, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_8990", "front_image": "", "display_order": 23}
 {"id": 9050, "event_id": 9050, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_9050_1", "front_image": "", "display_order": 2}
 {"id": 9052, "event_id": 9050, "event_type": 3, "button_name": "ふくびき", "banner_image": "Event_bg_9050_2", "front_image": "", "display_order": 9}
 {"id": 9053, "event_id": 9050, "event_type": 4, "button_name": "累計ポイント", "banner_image": "Event_bg_9050_3", "front_image": "", "display_order": 10}
@@ -818,9 +819,10 @@
 {"id": 10353, "event_id": 10350, "event_type": 4, "button_name": "累计点数", "banner_image": "Event_bg_10350_3", "front_image": "", "display_order": 5}
 {"id": 10354, "event_id": 10354, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_10354", "front_image": "", "display_order": 3}
 {"id": 10390, "event_id": 10390, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_10390", "front_image": "", "display_order": 23}
-{"id": 10450, "event_id": 10450, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_10450_1", "front_image": "", "display_order": 3}
-{"id": 10452, "event_id": 10450, "event_type": 3, "button_name": "ふくびき", "banner_image": "Event_bg_10450_2", "front_image": "", "display_order": 9}
-{"id": 10453, "event_id": 10450, "event_type": 4, "button_name": "累計ポイント", "banner_image": "Event_bg_10450_3", "front_image": "", "display_order": 10}
+{"id": 10450, "event_id": 10450, "event_type": 1, "button_name": "剧情活动", "banner_image": "Event_bg_10450_1", "front_image": "", "display_order": 2}
+{"id": 10451, "event_id": 10451, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_8201", "front_image": "", "display_order": 3}
+{"id": 10452, "event_id": 10450, "event_type": 3, "button_name": "幸运抽奖", "banner_image": "Event_bg_10450_2", "front_image": "", "display_order": 9}
+{"id": 10453, "event_id": 10450, "event_type": 4, "button_name": "累计点数", "banner_image": "Event_bg_10450_3", "front_image": "", "display_order": 10}
 {"id": 10470, "event_id": 10470, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_10470", "front_image": "", "display_order": 50}
 {"id": 10480, "event_id": 10480, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_10480", "front_image": "", "display_order": 51}
 {"id": 10500, "event_id": 10500, "event_type": 1, "button_name": "剧情活动", "banner_image": "Event_bg_10500_1", "front_image": "", "display_order": 10}
@@ -841,11 +843,11 @@
 {"id": 10720, "event_id": 10720, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_10720_1", "front_image": "", "display_order": 3}
 {"id": 10722, "event_id": 10720, "event_type": 3, "button_name": "ふくびき", "banner_image": "Event_bg_10720_2", "front_image": "", "display_order": 12}
 {"id": 10723, "event_id": 10720, "event_type": 4, "button_name": "累計ポイント", "banner_image": "Event_bg_10720_3", "front_image": "", "display_order": 13}
-{"id": 10760, "event_id": 10760, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_10760_1", "front_image": "", "display_order": 11}
-{"id": 10761, "event_id": 10761, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_10761", "front_image": "", "display_order": 3}
-{"id": 10762, "event_id": 10760, "event_type": 3, "button_name": "ふくびき", "banner_image": "Event_bg_10760_2", "front_image": "", "display_order": 14}
-{"id": 10763, "event_id": 10760, "event_type": 4, "button_name": "累計ポイント", "banner_image": "Event_bg_10760_3", "front_image": "", "display_order": 15}
-{"id": 10764, "event_id": 10764, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_10764", "front_image": "", "display_order": 3}
+{"id": 10760, "event_id": 10760, "event_type": 1, "button_name": "剧情活动", "banner_image": "Event_bg_10760_1", "front_image": "", "display_order": 11}
+{"id": 10761, "event_id": 10761, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_10761", "front_image": "", "display_order": 3}
+{"id": 10762, "event_id": 10760, "event_type": 3, "button_name": "幸运抽奖", "banner_image": "Event_bg_10760_2", "front_image": "", "display_order": 14}
+{"id": 10763, "event_id": 10760, "event_type": 4, "button_name": "累计点数", "banner_image": "Event_bg_10760_3", "front_image": "", "display_order": 15}
+{"id": 10764, "event_id": 10764, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_10764", "front_image": "", "display_order": 3}
 {"id": 10820, "event_id": 10820, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_10820", "front_image": "", "display_order": 23}
 {"id": 10830, "event_id": 10830, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_10830", "front_image": "", "display_order": 22}
 {"id": 10840, "event_id": 10840, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_10840_1", "front_image": "", "display_order": 2}
