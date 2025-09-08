@@ -913,7 +913,7 @@
 {"id": 11530, "event_id": 11530, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_11530_1", "front_image": "", "display_order": 3}
 {"id": 11532, "event_id": 11530, "event_type": 3, "button_name": "ふくびき", "banner_image": "Event_bg_11530_2", "front_image": "", "display_order": 11}
 {"id": 11533, "event_id": 11530, "event_type": 4, "button_name": "累計ポイント", "banner_image": "Event_bg_11530_3", "front_image": "", "display_order": 12}
-{"id": 11560, "event_id": 11560, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_11560", "front_image": "", "display_order": 20}
+{"id": 11560, "event_id": 11560, "event_type": 2, "button_name": "登录奖励", "banner_image": "Event_LoginBonus_bg_11560", "front_image": "", "display_order": 20}
 {"id": 11570, "event_id": 11570, "event_type": 1, "button_name": "イベント", "banner_image": "Event_bg_11570_1", "front_image": "", "display_order": 2}
 {"id": 11571, "event_id": 11571, "event_type": 2, "button_name": "ログインボーナス", "banner_image": "Event_LoginBonus_bg_11571", "front_image": "", "display_order": 3}
 {"id": 11572, "event_id": 11570, "event_type": 3, "button_name": "ふくびき", "banner_image": "Event_bg_11570_2", "front_image": "", "display_order": 4}

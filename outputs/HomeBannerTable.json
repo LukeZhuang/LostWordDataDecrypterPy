@@ -1954,7 +1954,7 @@
 {"id": 1954, "banner_image": "Home_Banner250909_02", "jump_type": 9, "jump_id": 6270, "url": "", "display_order": 8, "start_at": "2025-09-09 02:00:00", "end_at": "2025-09-16 01:59:59", "time_display_flg": 1}
 {"id": 1955, "banner_image": "Home_Banner250909_03", "jump_type": 1, "jump_id": 10450, "url": "", "display_order": 13, "start_at": "2025-09-09 02:00:00", "end_at": "2025-09-23 01:59:59", "time_display_flg": 1}
 {"id": 1956, "banner_image": "Home_Banner250909_04", "jump_type": 6, "jump_id": 1, "url": "[0,1002]", "display_order": 75, "start_at": "2025-09-09 02:00:00", "end_at": "2025-09-23 01:59:59", "time_display_flg": 1}
-{"id": 1957, "banner_image": "Home_Banner250909_05", "jump_type": 1, "jump_id": 8990, "url": "", "display_order": 19, "start_at": "2025-09-09 00:00:00", "end_at": "2025-09-23 23:59:59", "time_display_flg": 1}
+{"id": 1957, "banner_image": "Home_Banner250909_05", "jump_type": 1, "jump_id": 8990, "url": "", "display_order": 19, "start_at": "2025-09-09 00:00:00", "end_at": "2025-09-24 23:59:59", "time_display_flg": 1}
 {"id": 1958, "banner_image": "Home_Banner250909_06", "jump_type": 6, "jump_id": 1, "url": "[0,1001]", "display_order": 64, "start_at": "2025-09-09 02:00:00", "end_at": "2025-09-16 01:59:59", "time_display_flg": 1}
 {"id": 1959, "banner_image": "Home_Banner250909_07", "jump_type": 2, "jump_id": 3, "url": "", "display_order": 51, "start_at": "2025-09-09 02:00:00", "end_at": "2025-09-16 01:59:59", "time_display_flg": 1}
 {"id": 1960, "banner_image": "Home_Banner250910_01", "jump_type": 1, "jump_id": 10451, "url": "", "display_order": 17, "start_at": "2025-09-10 00:00:00", "end_at": "2025-09-23 23:59:59", "time_display_flg": 1}
@@ -1963,3 +1963,4 @@
 {"id": 1963, "banner_image": "Home_Banner250916_03", "jump_type": 4, "jump_id": 2156001, "url": "", "display_order": 35, "start_at": "2025-09-16 00:00:00", "end_at": "2025-09-23 01:59:59", "time_display_flg": 1}
 {"id": 1964, "banner_image": "Home_Banner250916_04", "jump_type": 14, "jump_id": 0, "url": "", "display_order": 45, "start_at": "2025-09-16 02:00:00", "end_at": "2025-09-25 01:59:59", "time_display_flg": 1}
 {"id": 1965, "banner_image": "Home_Banner250916_05", "jump_type": 12, "jump_id": 0, "url": "", "display_order": 51, "start_at": "2025-09-16 02:00:00", "end_at": "2025-09-23 01:59:59", "time_display_flg": 1}
+{"id": 1966, "banner_image": "Home_Banner250917_01", "jump_type": 1, "jump_id": 11560, "url": "", "display_order": 16, "start_at": "2025-09-17 00:00:00", "end_at": "2025-09-29 23:59:59", "time_display_flg": 1}

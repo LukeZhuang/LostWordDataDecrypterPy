@@ -914,7 +914,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 11530,11530,1,イベント,Event_bg_11530_1,(empty),3
 11532,11530,3,ふくびき,Event_bg_11530_2,(empty),11
 11533,11530,4,累計ポイント,Event_bg_11530_3,(empty),12
-11560,11560,2,ログインボーナス,Event_LoginBonus_bg_11560,(empty),20
+11560,11560,2,登录奖励,Event_LoginBonus_bg_11560,(empty),20
 11570,11570,1,イベント,Event_bg_11570_1,(empty),2
 11571,11571,2,ログインボーナス,Event_LoginBonus_bg_11571,(empty),3
 11572,11570,3,ふくびき,Event_bg_11570_2,(empty),4

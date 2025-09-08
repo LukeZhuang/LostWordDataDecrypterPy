@@ -46,6 +46,8 @@
 {"id": 104901, "target_name": "星熊勇仪", "target_unit_id": 1049, "priority": 56, "costume_id": 104901, "unit_speech_group_id": 524}
 {"id": 105001, "target_name": "古明地觉", "target_unit_id": 1050, "priority": 42, "costume_id": 105001, "unit_speech_group_id": 369}
 {"id": 105101, "target_name": "古明地恋", "target_unit_id": 1051, "priority": 43, "costume_id": 105101, "unit_speech_group_id": 370}
+{"id": 105201, "target_name": "火焰猫燐", "target_unit_id": 1052, "priority": 123, "costume_id": 105201, "unit_speech_group_id": 1189}
+{"id": 105301, "target_name": "灵乌路空", "target_unit_id": 1053, "priority": 124, "costume_id": 105301, "unit_speech_group_id": 1190}
 {"id": 105401, "target_name": "小野塚小町", "target_unit_id": 1054, "priority": 68, "costume_id": 105401, "unit_speech_group_id": 674}
 {"id": 105501, "target_name": "四季映姬·夜摩仙那度", "target_unit_id": 1055, "priority": 69, "costume_id": 105501, "unit_speech_group_id": 675}
 {"id": 105601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 1056, "priority": 65, "costume_id": 105601, "unit_speech_group_id": 671}
@@ -85,6 +87,8 @@
 {"id": 109101, "target_name": "丰聪耳神子", "target_unit_id": 1091, "priority": 71, "costume_id": 109101, "unit_speech_group_id": 721}
 {"id": 109201, "target_name": "物部布都", "target_unit_id": 1092, "priority": 72, "costume_id": 109201, "unit_speech_group_id": 722}
 {"id": 109301, "target_name": "苏我屠自古", "target_unit_id": 1093, "priority": 73, "costume_id": 109301, "unit_speech_group_id": 723}
+{"id": 109401, "target_name": "鬼人正邪", "target_unit_id": 1094, "priority": 121, "costume_id": 109401, "unit_speech_group_id": 1169}
+{"id": 109501, "target_name": "少名针妙丸", "target_unit_id": 1095, "priority": 122, "costume_id": 109501, "unit_speech_group_id": 1170}
 {"id": 109601, "target_name": "幽谷响子", "target_unit_id": 1096, "priority": 102, "costume_id": 109601, "unit_speech_group_id": 1057}
 {"id": 109701, "target_name": "米斯蒂娅·萝蕾拉", "target_unit_id": 1097, "priority": 88, "costume_id": 109701, "unit_speech_group_id": 874}
 {"id": 109801, "target_name": "莉格露·奈特巴格", "target_unit_id": 1098, "priority": 89, "costume_id": 109801, "unit_speech_group_id": 875}
