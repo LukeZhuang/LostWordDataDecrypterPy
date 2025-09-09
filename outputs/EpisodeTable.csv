@@ -1,4 +1,4 @@
-id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battle_id,lunatic_battle_id,comic_filepath,open_type,open_param,is_mop_up,anonymous_int1
+id,chapter_id,section_id,title,sub_title,number,type,normal_battle_id,hard_battle_id,lunatic_battle_id,comic_filepath,open_type,open_param,series_battle_stage_group_id,is_mop_up
 100000000,0,0,在朦胧的意识中,冒头,1,0,99994,0,0,Daily/Wave1.asset,0,(empty),0,1
 100000001,0,0,在朦胧的意识中,冒头,2,0,99995,0,0,Daily/Wave1.asset,0,(empty),0,1
 100000002,0,0,在朦胧的意识中,冒头,3,0,99996,0,0,Daily/Wave1.asset,0,(empty),0,1

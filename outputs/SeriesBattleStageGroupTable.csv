@@ -1,0 +1,13 @@
+id,normal_stage_master_id,hard_stage_master_id,lunatic_stage_master_id,background_departure,comic_filepath_1,comic_filepath_2,comic_filepath_3,comic_filepath_4,comic_filepath_5,title,sub_title,display_order,open_type,open_param
+80021,80021,80022,80023,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,0,0,0,0,0,0,0
+80031,80031,80032,80033,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80041,80041,80042,80043,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80051,80051,80052,80053,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80061,80061,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80062,80062,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0
+80071,80071,80072,80073,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,白秋战,二〇二五,1,0,(empty)
+80081,80081,80082,80083,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80091,80091,80092,80093,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80101,80101,80102,80103,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80111,80111,80112,80113,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80121,80121,80122,80123,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave3.asset,玄冬戦,二〇二五,1,0,(empty)
