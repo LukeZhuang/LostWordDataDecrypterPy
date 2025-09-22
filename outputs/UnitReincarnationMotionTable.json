@@ -78,6 +78,7 @@
 {"id": 108101, "reincarnation_release_id": 215, "unit_id": 1081, "costume_id": 108101, "motion": 1}
 {"id": 108201, "reincarnation_release_id": 237, "unit_id": 1082, "costume_id": 108201, "motion": 1}
 {"id": 108301, "reincarnation_release_id": 697, "unit_id": 1083, "costume_id": 108301, "motion": 1}
+{"id": 108401, "reincarnation_release_id": 1056, "unit_id": 1084, "costume_id": 108401, "motion": 1}
 {"id": 108501, "reincarnation_release_id": 542, "unit_id": 1085, "costume_id": 108501, "motion": 1}
 {"id": 108601, "reincarnation_release_id": 543, "unit_id": 1086, "costume_id": 108601, "motion": 1}
 {"id": 108701, "reincarnation_release_id": 496, "unit_id": 1087, "costume_id": 108701, "motion": 1}
@@ -99,6 +100,8 @@
 {"id": 110301, "reincarnation_release_id": 856, "unit_id": 1103, "costume_id": 110301, "motion": 1}
 {"id": 110401, "reincarnation_release_id": 792, "unit_id": 1104, "costume_id": 110401, "motion": 1}
 {"id": 110501, "reincarnation_release_id": 334, "unit_id": 1105, "costume_id": 110501, "motion": 1}
+{"id": 110601, "reincarnation_release_id": 1057, "unit_id": 1106, "costume_id": 110601, "motion": 1}
+{"id": 110701, "reincarnation_release_id": 1058, "unit_id": 1107, "costume_id": 110701, "motion": 1}
 {"id": 111001, "reincarnation_release_id": 544, "unit_id": 1110, "costume_id": 111001, "motion": 1}
 {"id": 111101, "reincarnation_release_id": 545, "unit_id": 1111, "costume_id": 111101, "motion": 1}
 {"id": 111201, "reincarnation_release_id": 455, "unit_id": 1112, "costume_id": 111201, "motion": 1}

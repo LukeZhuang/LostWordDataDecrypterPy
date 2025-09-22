@@ -10,4 +10,10 @@ id,normal_stage_master_id,hard_stage_master_id,lunatic_stage_master_id,backgroun
 80091,80091,80092,80093,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
 80101,80101,80102,80103,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
 80111,80111,80112,80113,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
-80121,80121,80122,80123,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave3.asset,玄冬戦,二〇二五,1,0,(empty)
+80121,80121,80122,80123,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave3.asset,玄冬战,二〇二五,1,0,(empty)
+80131,80131,80132,80133,11740101,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave2.asset,青春戦,二〇二五,1,0,0
+80141,80141,80142,80143,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,(empty),(empty),0,0,0
+80151,80151,80152,80153,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,(empty),(empty),0,0,0
+99901,99901,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,2ステージ,テスト,2,0,0
+99902,99902,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,4ステージ,テスト,3,0,0
+99903,99903,0,0,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave3.asset,Daily/Wave1.asset,Daily/Wave2.asset,5ステージ,テスト,4,0,0

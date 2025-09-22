@@ -17,3 +17,5 @@
 {"id": 200034, "daily_quest_id": 20003, "title": "寻找卷轴4·月之贤者级", "open_level": 35, "battle_id": 200034, "is_mop_up": 1}
 {"id": 200035, "daily_quest_id": 20003, "title": "寻找卷轴5·月之公主级", "open_level": 50, "battle_id": 200035, "is_mop_up": 1}
 {"id": 200036, "daily_quest_id": 20003, "title": "寻找卷轴6·月之都级", "open_level": 70, "battle_id": 200036, "is_mop_up": 1}
+{"id": 200071, "daily_quest_id": 20007, "title": "伙伴经验值强化探索", "open_level": 0, "battle_id": 200001, "is_mop_up": 0}
+{"id": 200081, "daily_quest_id": 20008, "title": "伙伴经验值强化探索", "open_level": 0, "battle_id": 200001, "is_mop_up": 0}

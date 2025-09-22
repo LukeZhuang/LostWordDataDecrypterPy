@@ -157,6 +157,13 @@
 {"id": 3141, "battle_pass_reward_group_id": 716015, "object_type": 12, "object_id": 716, "object_value": 15, "weight": 100, "display_order": 1, "custom_parameter": 0}
 {"id": 3142, "battle_pass_reward_group_id": 10110091, "object_type": 9, "object_id": 11009, "object_value": 1, "weight": 100, "display_order": 1, "custom_parameter": 0}
 {"id": 3143, "battle_pass_reward_group_id": 10110092, "object_type": 9, "object_id": 11009, "object_value": 2, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3144, "battle_pass_reward_group_id": 10270021, "object_type": 9, "object_id": 27002, "object_value": 1, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3145, "battle_pass_reward_group_id": 10270022, "object_type": 9, "object_id": 27002, "object_value": 2, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3146, "battle_pass_reward_group_id": 722001, "object_type": 12, "object_id": 722, "object_value": 1, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3147, "battle_pass_reward_group_id": 9280011, "object_type": 9, "object_id": 28001, "object_value": 1, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3148, "battle_pass_reward_group_id": 9280012, "object_type": 9, "object_id": 28001, "object_value": 2, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3149, "battle_pass_reward_group_id": 9150371, "object_type": 9, "object_id": 15037, "object_value": 1, "weight": 100, "display_order": 1, "custom_parameter": 0}
+{"id": 3150, "battle_pass_reward_group_id": 9150372, "object_type": 9, "object_id": 15037, "object_value": 2, "weight": 100, "display_order": 1, "custom_parameter": 0}
 {"id": 100902, "battle_pass_reward_group_id": 10090201, "object_type": 12, "object_id": 100902, "object_value": 1, "weight": 100, "display_order": 1, "custom_parameter": 0}
 {"id": 104001, "battle_pass_reward_group_id": 10400005, "object_type": 104, "object_id": 0, "object_value": 5, "weight": 100, "display_order": 1, "custom_parameter": 0}
 {"id": 104002, "battle_pass_reward_group_id": 10400010, "object_type": 104, "object_id": 0, "object_value": 10, "weight": 100, "display_order": 1, "custom_parameter": 0}

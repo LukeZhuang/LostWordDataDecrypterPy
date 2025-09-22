@@ -13889,6 +13889,537 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 600170,7,获得上镜的妹妹们所有★,0,4,700782,1,1117988,0,0,0,1010607,{"episode_id":700710002| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
 600171,7,获得姐妹们的保护者战争所有★,0,4,700783,1,1117988,0,0,0,1010608,{"episode_id":700710003| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
 600172,7,获得姐妹初次的共同作业所有★,0,4,700784,1,1117988,0,0,0,1010609,{"episode_id":700710004| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600201,7,完成料理超人吧,0,3,700800001,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600202,7,完成老板娘的事由,0,3,700800002,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600203,7,完成来自淡水之恩惠的丰盛料理吧,0,3,700800003,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600204,7,通关激流勇进食材收集大挑战！吧,0,4,700801,1,1117941,0,0,0,1010701,{"episode_id":700800004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600205,7,通关烹饪时间1吧,0,4,700802,1,1117941,0,0,0,1010701,{"episode_id":700800005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600206,7,通关烹饪时间2吧,0,4,700803,1,1117941,0,0,0,1010701,{"episode_id":700800006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600207,7,完成追加食材：米与味噌吧,0,3,700800007,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600208,7,通关烹饪时间3吧,0,4,700804,1,1117941,0,0,0,1010701,{"episode_id":700800008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600209,7,完成幻之海苔吧,0,3,700800009,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600210,7,通关烹饪时间4吧,0,4,700805,1,1117941,0,0,0,1010701,{"episode_id":700800010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600211,7,通关活下去！生存料理吧,0,4,700806,1,1117941,0,0,0,1010701,{"episode_id":700800011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600212,7,通关烹饪时间5吧,0,4,700807,1,1117941,0,0,0,1010701,{"episode_id":700800012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600213,7,通关烹饪时间6吧,0,4,700808,1,1117941,0,0,0,1010701,{"episode_id":700800013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600214,7,通关迷途竹林的幸存者游戏吧,0,4,700809,1,1117941,0,0,0,1010701,{"episode_id":700800014| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600215,7,通关烹饪时间7吧,0,4,700810,1,1117941,0,0,0,1010701,{"episode_id":700800015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600216,7,通关追加食材：梅干和松子吧,0,4,700811,1,1117941,0,0,0,1010701,{"episode_id":700800016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600217,7,完成生命之粥吧,0,3,700800017,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600218,7,通关烹饪时间8吧,0,4,700812,1,1117941,0,0,0,1010701,{"episode_id":700800018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600219,7,完成使用了发酵食材的甜味吧,0,3,700800019,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600220,7,通关烹饪时间9吧,0,4,700813,1,1117941,0,0,0,1010701,{"episode_id":700800020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600221,7,通关烹饪时间10吧,0,4,700814,1,1117941,0,0,0,1010701,{"episode_id":700800021| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600222,7,通关烹饪时间11吧,0,4,700815,1,1117941,0,0,0,1010701,{"episode_id":700800022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600223,7,通关食材直接争夺战吧,0,4,700816,1,1117941,0,0,0,1010701,{"episode_id":700800023| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600224,7,通关烹饪时间12吧,0,4,700817,1,1117941,0,0,0,1010701,{"episode_id":700800024| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600225,7,通关冥界的发酵之事吧,0,4,700818,1,1117941,0,0,0,1010701,{"episode_id":700800025| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600226,7,完成于死后再进行变化吧,0,3,700800026,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600227,7,通关烹饪时间13吧,0,4,700819,1,1117941,0,0,0,1010701,{"episode_id":700800027| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600228,7,通关烹饪时间14吧,0,4,700820,1,1117941,0,0,0,1010701,{"episode_id":700800028| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600229,7,完成究极的斋菜,0,3,700800029,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600230,7,通关烹饪时间15吧,0,4,700821,1,1117941,0,0,0,1010701,{"episode_id":700800030| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600231,7,通关烹饪时间16吧,0,4,700822,1,1117941,0,0,0,1010701,{"episode_id":700800031| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600232,7,通关了解妖怪之山的人们吧,0,4,700823,1,1117941,0,0,0,1010701,{"episode_id":700800032| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600233,7,完成为圣职者准备的食物是？吧,0,3,700800033,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600234,7,通关烹饪时间17吧,0,4,700824,1,1117941,0,0,0,1010701,{"episode_id":700800034| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600235,7,通关烹饪时间18吧,0,4,700825,1,1117941,0,0,0,1010701,{"episode_id":700800035| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600236,7,完成合欢木吧,0,3,700800036,1,1117941,0,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600237,7,完成小料理屋合欢木，开店！吧,0,3,700800037,1,1117941,5080058,0,0,1010701,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600238,7,通关激流勇进食材收集大挑战！吧,0,4,700826,1,1117941,0,0,0,1010702,{"episode_id":700800004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600239,7,通关烹饪时间1吧,0,4,700827,1,1117941,0,0,0,1010702,{"episode_id":700800005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600240,7,通关烹饪时间2吧,0,4,700828,1,1117941,0,0,0,1010702,{"episode_id":700800006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600241,7,通关烹饪时间3吧,0,4,700829,1,1117941,0,0,0,1010702,{"episode_id":700800008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600242,7,通关烹饪时间4吧,0,4,700830,1,1117941,0,0,0,1010702,{"episode_id":700800010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600243,7,通关活下去！生存料理吧,0,4,700831,1,1117941,0,0,0,1010702,{"episode_id":700800011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600244,7,通关烹饪时间5吧,0,4,700832,1,1117941,0,0,0,1010702,{"episode_id":700800012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600245,7,通关烹饪时间6吧,0,4,700833,1,1117941,0,0,0,1010702,{"episode_id":700800013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600246,7,通关迷途竹林的幸存者游戏吧,0,4,700834,1,1117941,0,0,0,1010702,{"episode_id":700800014| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600247,7,通关烹饪时间7吧,0,4,700835,1,1117941,0,0,0,1010702,{"episode_id":700800015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600248,7,通关追加食材：梅干和松子吧,0,4,700836,1,1117941,0,0,0,1010702,{"episode_id":700800016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600249,7,通关烹饪时间8吧,0,4,700837,1,1117941,0,0,0,1010702,{"episode_id":700800018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600250,7,通关烹饪时间9吧,0,4,700838,1,1117941,0,0,0,1010702,{"episode_id":700800020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600251,7,通关烹饪时间10吧,0,4,700839,1,1117941,0,0,0,1010702,{"episode_id":700800021| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600252,7,通关烹饪时间11吧,0,4,700840,1,1117941,0,0,0,1010702,{"episode_id":700800022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600253,7,通关食材直接争夺战吧,0,4,700841,1,1117941,0,0,0,1010702,{"episode_id":700800023| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600254,7,通关烹饪时间12吧,0,4,700842,1,1117941,0,0,0,1010702,{"episode_id":700800024| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600255,7,通关冥界的发酵之事吧,0,4,700843,1,1117941,0,0,0,1010702,{"episode_id":700800025| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600256,7,通关烹饪时间13吧,0,4,700844,1,1117941,0,0,0,1010702,{"episode_id":700800027| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600257,7,通关烹饪时间14吧,0,4,700845,1,1117941,0,0,0,1010702,{"episode_id":700800028| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600258,7,通关烹饪时间15吧,0,4,700846,1,1117941,0,0,0,1010702,{"episode_id":700800030| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600259,7,通关烹饪时间16吧,0,4,700847,1,1117941,0,0,0,1010702,{"episode_id":700800031| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600260,7,通关了解妖怪之山的人们吧,0,4,700848,1,1117941,0,0,0,1010702,{"episode_id":700800032| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600261,7,通关烹饪时间17吧,0,4,700849,1,1117941,0,0,0,1010702,{"episode_id":700800034| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600262,7,通关烹饪时间18吧,0,4,700850,1,1117941,0,0,0,1010702,{"episode_id":700800035| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600263,7,通关激流勇进食材收集大挑战！吧,0,4,700851,1,1117941,0,0,0,1010703,{"episode_id":700800004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600264,7,通关烹饪时间1吧,0,4,700852,1,1117941,0,0,0,1010703,{"episode_id":700800005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600265,7,通关烹饪时间2吧,0,4,700853,1,1117941,0,0,0,1010703,{"episode_id":700800006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600266,7,通关烹饪时间3吧,0,4,700854,1,1117941,0,0,0,1010703,{"episode_id":700800008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600267,7,通关烹饪时间4吧,0,4,700855,1,1117941,0,0,0,1010703,{"episode_id":700800010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600268,7,通关活下去！生存料理吧,0,4,700856,1,1117941,0,0,0,1010703,{"episode_id":700800011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600269,7,通关烹饪时间5吧,0,4,700857,1,1117941,0,0,0,1010703,{"episode_id":700800012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600270,7,通关烹饪时间6吧,0,4,700858,1,1117941,0,0,0,1010703,{"episode_id":700800013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600271,7,通关迷途竹林的幸存者游戏吧,0,4,700859,1,1117941,0,0,0,1010703,{"episode_id":700800014| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600272,7,通关烹饪时间7吧,0,4,700860,1,1117941,0,0,0,1010703,{"episode_id":700800015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600273,7,通关追加食材：梅干和松子吧,0,4,700861,1,1117941,0,0,0,1010703,{"episode_id":700800016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600274,7,通关烹饪时间8吧,0,4,700862,1,1117941,0,0,0,1010703,{"episode_id":700800018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600275,7,通关烹饪时间9吧,0,4,700863,1,1117941,0,0,0,1010703,{"episode_id":700800020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600276,7,通关烹饪时间10吧,0,4,700864,1,1117941,0,0,0,1010703,{"episode_id":700800021| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600277,7,通关烹饪时间11吧,0,4,700865,1,1117941,0,0,0,1010703,{"episode_id":700800022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600278,7,通关食材直接争夺战吧,0,4,700866,1,1117941,0,0,0,1010703,{"episode_id":700800023| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600279,7,通关烹饪时间12吧,0,4,700867,1,1117941,0,0,0,1010703,{"episode_id":700800024| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600280,7,通关冥界的发酵之事吧,0,4,700868,1,1117941,0,0,0,1010703,{"episode_id":700800025| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600281,7,通关烹饪时间13吧,0,4,700869,1,1117941,0,0,0,1010703,{"episode_id":700800027| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600282,7,通关烹饪时间14吧,0,4,700870,1,1117941,0,0,0,1010703,{"episode_id":700800028| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600283,7,通关烹饪时间15吧,0,4,700871,1,1117941,0,0,0,1010703,{"episode_id":700800030| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600284,7,通关烹饪时间16吧,0,4,700872,1,1117941,0,0,0,1010703,{"episode_id":700800031| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600285,7,通关了解妖怪之山的人们吧,0,4,700873,1,1117941,0,0,0,1010703,{"episode_id":700800032| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600286,7,通关烹饪时间17吧,0,4,700874,1,1117941,0,0,0,1010703,{"episode_id":700800034| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600287,7,通关烹饪时间18吧,0,4,700875,1,1117941,0,0,0,1010703,{"episode_id":700800035| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600288,7,通关今天也很忙呀！吧,0,3,700800101,1,1117941,0,0,0,1010704,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600289,7,通关上下关系可真难受吧,0,4,700876,1,1117941,0,0,0,1010704,{"episode_id":700800102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600290,7,通关别停止上菜！吧,0,4,700877,1,1117941,0,0,0,1010704,{"episode_id":700800103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600291,7,通关飞翔吧媒体人吧,0,4,700878,1,1117941,0,0,0,1010704,{"episode_id":700800104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600292,7,通关明天也很忙！吧,0,3,700800105,1,1117941,0,0,0,1010704,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600293,7,通关上下关系可真难受吧,0,4,700879,1,1117941,0,0,0,1010705,{"episode_id":700800102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600294,7,通关别停止上菜！吧,0,4,700880,1,1117941,0,0,0,1010705,{"episode_id":700800103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600295,7,通关飞翔吧媒体人吧,0,4,700881,1,1117941,0,0,0,1010705,{"episode_id":700800104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600296,7,通关上下关系可真难受吧,0,4,700882,1,1117941,0,0,0,1010706,{"episode_id":700800102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600297,7,通关别停止上菜！吧,0,4,700883,1,1117941,0,0,0,1010706,{"episode_id":700800103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600298,7,通关飞翔吧媒体人吧,0,4,700884,1,1117941,0,0,0,1010706,{"episode_id":700800104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600299,7,获得激流勇进食材收集大挑战！所有★,0,6,700801,1,1117914,0,0,0,1010707,{"episode_id":700800004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600300,7,获得烹饪时间1所有★,0,6,700802,1,1117914,0,0,0,1010707,{"episode_id":700800005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600301,7,获得烹饪时间2所有★,0,6,700803,1,1117914,0,0,0,1010707,{"episode_id":700800006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600302,7,获得烹饪时间3所有★,0,6,700804,1,1117914,0,0,0,1010707,{"episode_id":700800008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600303,7,获得烹饪时间4所有★,0,6,700805,1,1117914,0,0,0,1010707,{"episode_id":700800010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600304,7,获得活下去！生存料理所有★,0,6,700806,1,1117914,0,0,0,1010707,{"episode_id":700800011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600305,7,获得烹饪时间5所有★,0,6,700807,1,1117914,0,0,0,1010707,{"episode_id":700800012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600306,7,获得烹饪时间6所有★,0,6,700808,1,1117914,0,0,0,1010707,{"episode_id":700800013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600307,7,获得迷途竹林的幸存者游戏所有★,0,6,700809,1,1117914,0,0,0,1010707,{"episode_id":700800014| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600308,7,获得烹饪时间7所有★,0,6,700810,1,1117914,0,0,0,1010707,{"episode_id":700800015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600309,7,获得追加食材：梅干和松子所有★,0,6,700811,1,1117914,0,0,0,1010707,{"episode_id":700800016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600310,7,获得烹饪时间8所有★,0,6,700812,1,1117914,0,0,0,1010707,{"episode_id":700800018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600311,7,获得烹饪时间9所有★,0,6,700813,1,1117914,0,0,0,1010707,{"episode_id":700800020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600312,7,获得烹饪时间10所有★,0,6,700814,1,1117914,0,0,0,1010707,{"episode_id":700800021| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600313,7,获得烹饪时间11所有★,0,6,700815,1,1117914,0,0,0,1010707,{"episode_id":700800022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600314,7,获得食材直接争夺战所有★,0,6,700816,1,1117914,0,0,0,1010707,{"episode_id":700800023| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600315,7,获得烹饪时间12所有★,0,6,700817,1,1117914,0,0,0,1010707,{"episode_id":700800024| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600316,7,获得冥界的发酵之事所有★,0,6,700818,1,1117914,0,0,0,1010707,{"episode_id":700800025| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600317,7,获得烹饪时间13所有★,0,6,700819,1,1117914,0,0,0,1010707,{"episode_id":700800027| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600318,7,获得烹饪时间14所有★,0,6,700820,1,1117914,0,0,0,1010707,{"episode_id":700800028| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600319,7,获得烹饪时间15所有★,0,6,700821,1,1117914,0,0,0,1010707,{"episode_id":700800030| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600320,7,获得烹饪时间16所有★,0,6,700822,1,1117914,0,0,0,1010707,{"episode_id":700800031| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600321,7,获得了解妖怪之山的人们所有★,0,6,700823,1,1117914,0,0,0,1010707,{"episode_id":700800032| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600322,7,获得烹饪时间17所有★,0,6,700824,1,1117914,0,0,0,1010707,{"episode_id":700800034| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600323,7,获得烹饪时间18所有★,0,6,700825,1,1117914,0,0,0,1010707,{"episode_id":700800035| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600324,7,获得激流勇进食材收集大挑战！所有★,0,6,700826,1,1117915,0,0,0,1010708,{"episode_id":700800004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600325,7,获得烹饪时间1所有★,0,6,700827,1,1117915,0,0,0,1010708,{"episode_id":700800005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600326,7,获得烹饪时间2所有★,0,6,700828,1,1117915,0,0,0,1010708,{"episode_id":700800006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600327,7,获得烹饪时间3所有★,0,6,700829,1,1117915,0,0,0,1010708,{"episode_id":700800008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600328,7,获得烹饪时间4所有★,0,6,700830,1,1117915,0,0,0,1010708,{"episode_id":700800010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600329,7,获得活下去！生存料理所有★,0,6,700831,1,1117915,0,0,0,1010708,{"episode_id":700800011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600330,7,获得烹饪时间5所有★,0,6,700832,1,1117915,0,0,0,1010708,{"episode_id":700800012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600331,7,获得烹饪时间6所有★,0,6,700833,1,1117915,0,0,0,1010708,{"episode_id":700800013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600332,7,获得迷途竹林的幸存者游戏所有★,0,6,700834,1,1117915,0,0,0,1010708,{"episode_id":700800014| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600333,7,获得烹饪时间7所有★,0,6,700835,1,1117915,0,0,0,1010708,{"episode_id":700800015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600334,7,获得追加食材：梅干和松子所有★,0,6,700836,1,1117915,0,0,0,1010708,{"episode_id":700800016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600335,7,获得烹饪时间8所有★,0,6,700837,1,1117915,0,0,0,1010708,{"episode_id":700800018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600336,7,获得烹饪时间9所有★,0,6,700838,1,1117915,0,0,0,1010708,{"episode_id":700800020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600337,7,获得烹饪时间10所有★,0,6,700839,1,1117915,0,0,0,1010708,{"episode_id":700800021| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600338,7,获得烹饪时间11所有★,0,6,700840,1,1117915,0,0,0,1010708,{"episode_id":700800022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600339,7,获得食材直接争夺战所有★,0,6,700841,1,1117915,0,0,0,1010708,{"episode_id":700800023| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600340,7,获得烹饪时间12所有★,0,6,700842,1,1117915,0,0,0,1010708,{"episode_id":700800024| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600341,7,获得冥界的发酵之事所有★,0,6,700843,1,1117915,0,0,0,1010708,{"episode_id":700800025| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600342,7,获得烹饪时间13所有★,0,6,700844,1,1117915,0,0,0,1010708,{"episode_id":700800027| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600343,7,获得烹饪时间14所有★,0,6,700845,1,1117915,0,0,0,1010708,{"episode_id":700800028| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600344,7,获得烹饪时间15所有★,0,6,700846,1,1117915,0,0,0,1010708,{"episode_id":700800030| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600345,7,获得烹饪时间16所有★,0,6,700847,1,1117915,0,0,0,1010708,{"episode_id":700800031| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600346,7,获得了解妖怪之山的人们所有★,0,6,700848,1,1117915,0,0,0,1010708,{"episode_id":700800032| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600347,7,获得烹饪时间17所有★,0,6,700849,1,1117915,0,0,0,1010708,{"episode_id":700800034| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600348,7,获得烹饪时间18所有★,0,6,700850,1,1117915,0,0,0,1010708,{"episode_id":700800035| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600349,7,获得激流勇进食材收集大挑战！所有★,0,6,700851,1,1117916,0,0,0,1010708,{"episode_id":700800004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600350,7,获得烹饪时间1所有★,0,6,700852,1,1117916,0,0,0,1010708,{"episode_id":700800005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600351,7,获得烹饪时间2所有★,0,6,700853,1,1117916,0,0,0,1010708,{"episode_id":700800006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600352,7,获得烹饪时间3所有★,0,6,700854,1,1117916,0,0,0,1010708,{"episode_id":700800008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600353,7,获得烹饪时间4所有★,0,6,700855,1,1117916,0,0,0,1010708,{"episode_id":700800010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600354,7,获得活下去！生存料理所有★,0,6,700856,1,1117916,0,0,0,1010708,{"episode_id":700800011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600355,7,获得烹饪时间5所有★,0,6,700857,1,1117916,0,0,0,1010708,{"episode_id":700800012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600356,7,获得烹饪时间6所有★,0,6,700858,1,1117916,0,0,0,1010708,{"episode_id":700800013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600357,7,获得迷途竹林的幸存者游戏所有★,0,6,700859,1,1117916,0,0,0,1010708,{"episode_id":700800014| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600358,7,获得烹饪时间7所有★,0,6,700860,1,1117916,0,0,0,1010708,{"episode_id":700800015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600359,7,获得追加食材：梅干和松子所有★,0,6,700861,1,1117916,0,0,0,1010708,{"episode_id":700800016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600360,7,获得烹饪时间8所有★,0,6,700862,1,1117916,0,0,0,1010708,{"episode_id":700800018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600361,7,获得烹饪时间9所有★,0,6,700863,1,1117916,0,0,0,1010708,{"episode_id":700800020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600362,7,获得烹饪时间10所有★,0,6,700864,1,1117916,0,0,0,1010708,{"episode_id":700800021| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600363,7,获得烹饪时间11所有★,0,6,700865,1,1117916,0,0,0,1010708,{"episode_id":700800022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600364,7,获得食材直接争夺战所有★,0,6,700866,1,1117916,0,0,0,1010708,{"episode_id":700800023| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600365,7,获得烹饪时间12所有★,0,6,700867,1,1117916,0,0,0,1010708,{"episode_id":700800024| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600366,7,获得冥界的发酵之事所有★,0,6,700868,1,1117916,0,0,0,1010708,{"episode_id":700800025| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600367,7,获得烹饪时间13所有★,0,6,700869,1,1117916,0,0,0,1010708,{"episode_id":700800027| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600368,7,获得烹饪时间14所有★,0,6,700870,1,1117916,0,0,0,1010708,{"episode_id":700800028| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600369,7,获得烹饪时间15所有★,0,6,700871,1,1117916,0,0,0,1010708,{"episode_id":700800030| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600370,7,获得烹饪时间16所有★,0,6,700872,1,1117916,0,0,0,1010708,{"episode_id":700800031| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600371,7,获得了解妖怪之山的人们所有★,0,6,700873,1,1117916,0,0,0,1010708,{"episode_id":700800032| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600372,7,获得烹饪时间17所有★,0,6,700874,1,1117916,0,0,0,1010708,{"episode_id":700800034| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600373,7,获得烹饪时间18所有★,0,6,700875,1,1117916,0,0,0,1010708,{"episode_id":700800035| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600374,7,获得上下关系可真难受所有★,0,6,700876,1,1117988,0,0,0,1010709,{"episode_id":700800102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600375,7,获得别停止上菜！所有★,0,6,700877,1,1117988,0,0,0,1010709,{"episode_id":700800103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600376,7,获得飞翔吧媒体人所有★,0,6,700878,1,1117988,0,0,0,1010709,{"episode_id":700800104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600377,7,获得上下关系可真难受所有★,0,6,700879,1,1117988,0,0,0,1010710,{"episode_id":700800102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600378,7,获得别停止上菜！所有★,0,6,700880,1,1117988,0,0,0,1010710,{"episode_id":700800103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600379,7,获得飞翔吧媒体人所有★,0,6,700881,1,1117988,0,0,0,1010710,{"episode_id":700800104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600380,7,获得上下关系可真难受所有★,0,6,700882,1,1117988,0,0,0,1010711,{"episode_id":700800102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600381,7,获得别停止上菜！所有★,0,6,700883,1,1117988,0,0,0,1010711,{"episode_id":700800103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600382,7,获得飞翔吧媒体人所有★,0,6,700884,1,1117988,0,0,0,1010711,{"episode_id":700800104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600401,7,完成追寻消失的点心！吧,0,3,700900001,1,1117941,0,0,0,1010721,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600402,7,通关我要恶作剧啦~！诶？吧,0,4,700901,1,1117941,0,0,0,1010721,{"episode_id":700900002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600403,7,完成上古预言书吧,0,3,700900003,1,1117941,0,0,0,1010721,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600404,7,通关不给糖就子弹1吧,0,4,700902,1,1117941,0,0,0,1010721,{"episode_id":700900004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600405,7,通关点心一个，别在腰间吧,0,4,700903,1,1117941,0,0,0,1010721,{"episode_id":700900005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600406,7,通关不给糖就子弹2吧,0,4,700904,1,1117941,0,0,0,1010721,{"episode_id":700900006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600407,7,通关不给糖就子弹3吧,0,4,700905,1,1117941,0,0,0,1010721,{"episode_id":700900007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600408,7,通关恶作剧庆典的主角是妖精！？吧,0,4,700906,1,1117941,0,0,0,1010721,{"episode_id":700900008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600409,7,通关不给糖就子弹4吧,0,4,700907,1,1117941,0,0,0,1010721,{"episode_id":700900009| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600410,7,通关不给糖就子弹5吧,0,4,700908,1,1117941,0,0,0,1010721,{"episode_id":700900010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600411,7,通关过于警戒的白狼天狗警备队吧,0,4,700909,1,1117941,0,0,0,1010721,{"episode_id":700900011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600412,7,通关不给糖就子弹6吧,0,4,700910,1,1117941,0,0,0,1010721,{"episode_id":700900012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600413,7,通关妖怪之山事变吧,0,4,700911,1,1117941,0,0,0,1010721,{"episode_id":700900013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600414,7,通关不给糖就子弹7吧,0,4,700912,1,1117941,0,0,0,1010721,{"episode_id":700900014| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600415,7,通关不给糖就子弹8吧,0,4,700913,1,1117941,0,0,0,1010721,{"episode_id":700900015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600416,7,通关驱除恶灵的咒文与弹幕与小刀吧,0,4,700914,1,1117941,0,0,0,1010721,{"episode_id":700900016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600417,7,通关不给糖就子弹9吧,0,4,700915,1,1117941,0,0,0,1010721,{"episode_id":700900017| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600418,7,通关不给糖就子弹10吧,0,4,700916,1,1117941,0,0,0,1010721,{"episode_id":700900018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600419,7,通关咒文糖还是子弹吧,0,4,700917,1,1117941,0,0,0,1010721,{"episode_id":700900019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600420,7,通关不给糖就子弹11吧,0,4,700918,1,1117941,0,0,0,1010721,{"episode_id":700900020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600421,7,通关不给糖就子弹12吧,0,4,700919,1,1117941,0,0,0,1010721,{"episode_id":700900021| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600422,7,通关流雏和供奉点心？吧,0,4,700920,1,1117941,0,0,0,1010721,{"episode_id":700900022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600423,7,完成被喊来的除厄专家吧,0,3,700900023,1,1117941,0,0,0,1010721,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600424,7,通关不给糖就子弹13吧,0,4,700921,1,1117941,0,0,0,1010721,{"episode_id":700900024| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600425,7,完成请小心试刀园艺师！吧,0,3,700900025,1,1117941,0,0,0,1010721,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600426,7,通关半人半灵嫌疑犯的献身吧,0,4,700922,1,1117941,0,0,0,1010721,{"episode_id":700900026| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600427,7,通关不给糖就子弹14吧,0,4,700923,1,1117941,0,0,0,1010721,{"episode_id":700900027| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600428,7,通关不给糖就子弹15吧,0,4,700924,1,1117941,0,0,0,1010721,{"episode_id":700900028| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600429,7,通关以恶作剧还治恶作剧之身！吧,0,4,700925,1,1117941,0,0,0,1010721,{"episode_id":700900029| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600430,7,完成红魔馆下黑吧,0,3,700900030,1,1117941,5100058,0,0,1010721,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600431,7,通关我要恶作剧啦~！诶？吧,0,4,700926,1,1117941,0,0,0,1010722,{"episode_id":700900002| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600432,7,通关不给糖就子弹1吧,0,4,700927,1,1117941,0,0,0,1010722,{"episode_id":700900004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600433,7,通关点心一个，别在腰间吧,0,4,700928,1,1117941,0,0,0,1010722,{"episode_id":700900005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600434,7,通关不给糖就子弹2吧,0,4,700929,1,1117941,0,0,0,1010722,{"episode_id":700900006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600435,7,通关不给糖就子弹3吧,0,4,700930,1,1117941,0,0,0,1010722,{"episode_id":700900007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600436,7,通关恶作剧庆典的主角是妖精！？吧,0,4,700931,1,1117941,0,0,0,1010722,{"episode_id":700900008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600437,7,通关不给糖就子弹4吧,0,4,700932,1,1117941,0,0,0,1010722,{"episode_id":700900009| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600438,7,通关不给糖就子弹5吧,0,4,700933,1,1117941,0,0,0,1010722,{"episode_id":700900010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600439,7,通关过于警戒的白狼天狗警备队吧,0,4,700934,1,1117941,0,0,0,1010722,{"episode_id":700900011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600440,7,通关不给糖就子弹6吧,0,4,700935,1,1117941,0,0,0,1010722,{"episode_id":700900012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600441,7,通关妖怪之山事变吧,0,4,700936,1,1117941,0,0,0,1010722,{"episode_id":700900013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600442,7,通关不给糖就子弹7吧,0,4,700937,1,1117941,0,0,0,1010722,{"episode_id":700900014| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600443,7,通关不给糖就子弹8吧,0,4,700938,1,1117941,0,0,0,1010722,{"episode_id":700900015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600444,7,通关驱除恶灵的咒文与弹幕与小刀吧,0,4,700939,1,1117941,0,0,0,1010722,{"episode_id":700900016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600445,7,通关不给糖就子弹9吧,0,4,700940,1,1117941,0,0,0,1010722,{"episode_id":700900017| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600446,7,通关不给糖就子弹10吧,0,4,700941,1,1117941,0,0,0,1010722,{"episode_id":700900018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600447,7,通关咒文糖还是子弹吧,0,4,700942,1,1117941,0,0,0,1010722,{"episode_id":700900019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600448,7,通关不给糖就子弹11吧,0,4,700943,1,1117941,0,0,0,1010722,{"episode_id":700900020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600449,7,通关不给糖就子弹12吧,0,4,700944,1,1117941,0,0,0,1010722,{"episode_id":700900021| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600450,7,通关流雏和供奉点心？吧,0,4,700945,1,1117941,0,0,0,1010722,{"episode_id":700900022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600451,7,通关不给糖就子弹13吧,0,4,700946,1,1117941,0,0,0,1010722,{"episode_id":700900024| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600452,7,通关半人半灵嫌疑犯的献身吧,0,4,700947,1,1117941,0,0,0,1010722,{"episode_id":700900026| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600453,7,通关不给糖就子弹14吧,0,4,700948,1,1117941,0,0,0,1010722,{"episode_id":700900027| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600454,7,通关不给糖就子弹15吧,0,4,700949,1,1117941,0,0,0,1010722,{"episode_id":700900028| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600455,7,通关以恶作剧还治恶作剧之身！吧,0,4,700950,1,1117941,0,0,0,1010722,{"episode_id":700900029| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600456,7,通关我要恶作剧啦~！诶？吧,0,4,700951,1,1117941,0,0,0,1010723,{"episode_id":700900002| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600457,7,通关不给糖就子弹1吧,0,4,700952,1,1117941,0,0,0,1010723,{"episode_id":700900004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600458,7,通关点心一个，别在腰间吧,0,4,700953,1,1117941,0,0,0,1010723,{"episode_id":700900005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600459,7,通关不给糖就子弹2吧,0,4,700954,1,1117941,0,0,0,1010723,{"episode_id":700900006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600460,7,通关不给糖就子弹3吧,0,4,700955,1,1117941,0,0,0,1010723,{"episode_id":700900007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600461,7,通关恶作剧庆典的主角是妖精！？吧,0,4,700956,1,1117941,0,0,0,1010723,{"episode_id":700900008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600462,7,通关不给糖就子弹4吧,0,4,700957,1,1117941,0,0,0,1010723,{"episode_id":700900009| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600463,7,通关不给糖就子弹5吧,0,4,700958,1,1117941,0,0,0,1010723,{"episode_id":700900010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600464,7,通关过于警戒的白狼天狗警备队吧,0,4,700959,1,1117941,0,0,0,1010723,{"episode_id":700900011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600465,7,通关不给糖就子弹6吧,0,4,700960,1,1117941,0,0,0,1010723,{"episode_id":700900012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600466,7,通关妖怪之山事变吧,0,4,700961,1,1117941,0,0,0,1010723,{"episode_id":700900013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600467,7,通关不给糖就子弹7吧,0,4,700962,1,1117941,0,0,0,1010723,{"episode_id":700900014| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600468,7,通关不给糖就子弹8吧,0,4,700963,1,1117941,0,0,0,1010723,{"episode_id":700900015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600469,7,通关驱除恶灵的咒文与弹幕与小刀吧,0,4,700964,1,1117941,0,0,0,1010723,{"episode_id":700900016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600470,7,通关不给糖就子弹9吧,0,4,700965,1,1117941,0,0,0,1010723,{"episode_id":700900017| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600471,7,通关不给糖就子弹10吧,0,4,700966,1,1117941,0,0,0,1010723,{"episode_id":700900018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600472,7,通关咒文糖还是子弹吧,0,4,700967,1,1117941,0,0,0,1010723,{"episode_id":700900019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600473,7,通关不给糖就子弹11吧,0,4,700968,1,1117941,0,0,0,1010723,{"episode_id":700900020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600474,7,通关不给糖就子弹12吧,0,4,700969,1,1117941,0,0,0,1010723,{"episode_id":700900021| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600475,7,通关流雏和供奉点心？吧,0,4,700970,1,1117941,0,0,0,1010723,{"episode_id":700900022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600476,7,通关不给糖就子弹13吧,0,4,700971,1,1117941,0,0,0,1010723,{"episode_id":700900024| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600477,7,通关半人半灵嫌疑犯的献身吧,0,4,700972,1,1117941,0,0,0,1010723,{"episode_id":700900026| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600478,7,通关不给糖就子弹14吧,0,4,700973,1,1117941,0,0,0,1010723,{"episode_id":700900027| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600479,7,通关不给糖就子弹15吧,0,4,700974,1,1117941,0,0,0,1010723,{"episode_id":700900028| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600480,7,通关以恶作剧还治恶作剧之身！吧,0,4,700975,1,1117941,0,0,0,1010723,{"episode_id":700900029| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600481,7,完成欢乐弹幕派对吧,0,3,700900101,1,1117941,0,0,0,1010724,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600482,7,通关访问，恶作剧女孩吧,0,4,700976,1,1117941,0,0,0,1010724,{"episode_id":700900102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600483,7,通关玩过火的幸运转盘吧,0,4,700977,1,1117941,0,0,0,1010724,{"episode_id":700900103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600484,7,通关加油，学习恶作剧！吧,0,4,700978,1,1117941,0,0,0,1010724,{"episode_id":700900104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600485,7,完成看来这会是个热烈而愉快的夜晚吧,0,3,700900105,1,1117941,0,0,0,1010724,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600486,7,通关访问，恶作剧女孩吧,0,4,700979,1,1117941,0,0,0,1010725,{"episode_id":700900102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600487,7,通关玩过火的幸运转盘吧,0,4,700980,1,1117941,0,0,0,1010725,{"episode_id":700900103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600488,7,通关加油，学习恶作剧！吧,0,4,700981,1,1117941,0,0,0,1010725,{"episode_id":700900104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600489,7,通关访问，恶作剧女孩吧,0,4,700982,1,1117941,0,0,0,1010726,{"episode_id":700900102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600490,7,通关玩过火的幸运转盘吧,0,4,700983,1,1117941,0,0,0,1010726,{"episode_id":700900103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600491,7,通关加油，学习恶作剧！吧,0,4,700984,1,1117941,0,0,0,1010726,{"episode_id":700900104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600492,7,获得我要恶作剧啦~！诶？所有★,0,6,700901,1,1117914,0,0,0,1010727,{"episode_id":700900002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600493,7,获得不给糖就子弹1所有★,0,6,700902,1,1117914,0,0,0,1010727,{"episode_id":700900004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600494,7,获得点心一个，别在腰间所有★,0,6,700903,1,1117914,0,0,0,1010727,{"episode_id":700900005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600495,7,获得不给糖就子弹2所有★,0,6,700904,1,1117914,0,0,0,1010727,{"episode_id":700900006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600496,7,获得不给糖就子弹3所有★,0,6,700905,1,1117914,0,0,0,1010727,{"episode_id":700900007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600497,7,获得恶作剧庆典的主角是妖精！？所有★,0,6,700906,1,1117914,0,0,0,1010727,{"episode_id":700900008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600498,7,获得不给糖就子弹4所有★,0,6,700907,1,1117914,0,0,0,1010727,{"episode_id":700900009| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600499,7,获得不给糖就子弹5所有★,0,6,700908,1,1117914,0,0,0,1010727,{"episode_id":700900010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600500,7,获得过于警戒的白狼天狗警备队所有★,0,6,700909,1,1117914,0,0,0,1010727,{"episode_id":700900011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600501,7,获得不给糖就子弹6所有★,0,6,700910,1,1117914,0,0,0,1010727,{"episode_id":700900012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600502,7,获得妖怪之山事变所有★,0,6,700911,1,1117914,0,0,0,1010727,{"episode_id":700900013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600503,7,获得不给糖就子弹7所有★,0,6,700912,1,1117914,0,0,0,1010727,{"episode_id":700900014| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600504,7,获得不给糖就子弹8所有★,0,6,700913,1,1117914,0,0,0,1010727,{"episode_id":700900015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600505,7,通关驱除恶灵的咒文与弹幕与小刀吧,0,6,700914,1,1117914,0,0,0,1010727,{"episode_id":700900016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600506,7,获得不给糖就子弹9所有★,0,6,700915,1,1117914,0,0,0,1010727,{"episode_id":700900017| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600507,7,获得不给糖就子弹10所有★,0,6,700916,1,1117914,0,0,0,1010727,{"episode_id":700900018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600508,7,通关咒文糖还是子弹吧,0,6,700917,1,1117914,0,0,0,1010727,{"episode_id":700900019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600509,7,获得不给糖就子弹11所有★,0,6,700918,1,1117914,0,0,0,1010727,{"episode_id":700900020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600510,7,获得不给糖就子弹12所有★,0,6,700919,1,1117914,0,0,0,1010727,{"episode_id":700900021| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600511,7,获得流雏和供奉点心？所有★,0,6,700920,1,1117914,0,0,0,1010727,{"episode_id":700900022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600512,7,获得不给糖就子弹13所有★,0,6,700921,1,1117914,0,0,0,1010727,{"episode_id":700900024| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600513,7,获得半人半灵嫌疑犯的献身所有★,0,6,700922,1,1117914,0,0,0,1010727,{"episode_id":700900026| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600514,7,获得不给糖就子弹14所有★,0,6,700923,1,1117914,0,0,0,1010727,{"episode_id":700900027| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600515,7,获得不给糖就子弹15所有★,0,6,700924,1,1117914,0,0,0,1010727,{"episode_id":700900028| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600516,7,获得以恶作剧还治恶作剧之身！所有★,0,6,700925,1,1117914,0,0,0,1010727,{"episode_id":700900029| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600517,7,获得我要恶作剧啦~！诶？所有★,0,6,700926,1,1117915,0,0,0,1010728,{"episode_id":700900002| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600518,7,获得不给糖就子弹1所有★,0,6,700927,1,1117915,0,0,0,1010728,{"episode_id":700900004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600519,7,获得点心一个，别在腰间所有★,0,6,700928,1,1117915,0,0,0,1010728,{"episode_id":700900005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600520,7,获得不给糖就子弹2所有★,0,6,700929,1,1117915,0,0,0,1010728,{"episode_id":700900006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600521,7,获得不给糖就子弹3所有★,0,6,700930,1,1117915,0,0,0,1010728,{"episode_id":700900007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600522,7,获得恶作剧庆典的主角是妖精！？所有★,0,6,700931,1,1117915,0,0,0,1010728,{"episode_id":700900008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600523,7,获得不给糖就子弹4所有★,0,6,700932,1,1117915,0,0,0,1010728,{"episode_id":700900009| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600524,7,获得不给糖就子弹5所有★,0,6,700933,1,1117915,0,0,0,1010728,{"episode_id":700900010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600525,7,获得过于警戒的白狼天狗警备队所有★,0,6,700934,1,1117915,0,0,0,1010728,{"episode_id":700900011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600526,7,获得不给糖就子弹6所有★,0,6,700935,1,1117915,0,0,0,1010728,{"episode_id":700900012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600527,7,获得妖怪之山事变所有★,0,6,700936,1,1117915,0,0,0,1010728,{"episode_id":700900013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600528,7,获得不给糖就子弹7所有★,0,6,700937,1,1117915,0,0,0,1010728,{"episode_id":700900014| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600529,7,获得不给糖就子弹8所有★,0,6,700938,1,1117915,0,0,0,1010728,{"episode_id":700900015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600530,7,获得驱除恶灵的咒文与弹幕与小刀所有★,0,6,700939,1,1117915,0,0,0,1010728,{"episode_id":700900016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600531,7,获得不给糖就子弹9所有★,0,6,700940,1,1117915,0,0,0,1010728,{"episode_id":700900017| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600532,7,获得不给糖就子弹10所有★,0,6,700941,1,1117915,0,0,0,1010728,{"episode_id":700900018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600533,7,获得咒文糖还是子弹所有★,0,6,700942,1,1117915,0,0,0,1010728,{"episode_id":700900019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600534,7,获得不给糖就子弹11所有★,0,6,700943,1,1117915,0,0,0,1010728,{"episode_id":700900020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600535,7,获得不给糖就子弹12所有★,0,6,700944,1,1117915,0,0,0,1010728,{"episode_id":700900021| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600536,7,获得流雏和供奉点心？所有★,0,6,700945,1,1117915,0,0,0,1010728,{"episode_id":700900022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600537,7,获得不给糖就子弹13所有★,0,6,700946,1,1117915,0,0,0,1010728,{"episode_id":700900024| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600538,7,获得半人半灵嫌疑犯的献身所有★,0,6,700947,1,1117915,0,0,0,1010728,{"episode_id":700900026| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600539,7,获得不给糖就子弹14所有★,0,6,700948,1,1117915,0,0,0,1010728,{"episode_id":700900027| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600540,7,获得不给糖就子弹15所有★,0,6,700949,1,1117915,0,0,0,1010728,{"episode_id":700900028| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600541,7,获得以恶作剧还治恶作剧之身！所有★,0,6,700950,1,1117915,0,0,0,1010728,{"episode_id":700900029| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600542,7,获得我要恶作剧啦~！诶？所有★,0,6,700951,1,1117916,0,0,0,1010728,{"episode_id":700900002| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600543,7,获得不给糖就子弹1所有★,0,6,700952,1,1117916,0,0,0,1010729,{"episode_id":700900004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600544,7,获得点心一个，别在腰间所有★,0,6,700953,1,1117916,0,0,0,1010729,{"episode_id":700900005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600545,7,获得不给糖就子弹2所有★,0,6,700954,1,1117916,0,0,0,1010729,{"episode_id":700900006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600546,7,获得不给糖就子弹3所有★,0,6,700955,1,1117916,0,0,0,1010729,{"episode_id":700900007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600547,7,获得恶作剧庆典的主角是妖精！？所有★,0,6,700956,1,1117916,0,0,0,1010729,{"episode_id":700900008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600548,7,获得不给糖就子弹4所有★,0,6,700957,1,1117916,0,0,0,1010729,{"episode_id":700900009| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600549,7,获得不给糖就子弹5所有★,0,6,700958,1,1117916,0,0,0,1010729,{"episode_id":700900010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600550,7,获得过于警戒的白狼天狗警备队所有★,0,6,700959,1,1117916,0,0,0,1010729,{"episode_id":700900011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600551,7,获得不给糖就子弹6所有★,0,6,700960,1,1117916,0,0,0,1010729,{"episode_id":700900012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600552,7,获得妖怪之山事变所有★,0,6,700961,1,1117916,0,0,0,1010729,{"episode_id":700900013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600553,7,获得不给糖就子弹7所有★,0,6,700962,1,1117916,0,0,0,1010729,{"episode_id":700900014| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600554,7,获得不给糖就子弹8所有★,0,6,700963,1,1117916,0,0,0,1010729,{"episode_id":700900015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600555,7,获得驱除恶灵的咒文与弹幕与小刀所有★,0,6,700964,1,1117916,0,0,0,1010729,{"episode_id":700900016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600556,7,获得不给糖就子弹9所有★,0,6,700965,1,1117916,0,0,0,1010729,{"episode_id":700900017| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600557,7,获得不给糖就子弹10所有★,0,6,700966,1,1117916,0,0,0,1010729,{"episode_id":700900018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600558,7,获得咒文糖还是子弹所有★,0,6,700967,1,1117916,0,0,0,1010729,{"episode_id":700900019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600559,7,获得不给糖就子弹11所有★,0,6,700968,1,1117916,0,0,0,1010729,{"episode_id":700900020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600560,7,获得不给糖就子弹12所有★,0,6,700969,1,1117916,0,0,0,1010729,{"episode_id":700900021| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600561,7,获得流雏和供奉点心？所有★,0,6,700970,1,1117916,0,0,0,1010729,{"episode_id":700900022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600562,7,获得不给糖就子弹13所有★,0,6,700971,1,1117916,0,0,0,1010729,{"episode_id":700900024| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600563,7,获得半人半灵嫌疑犯的献身所有★,0,6,700972,1,1117916,0,0,0,1010729,{"episode_id":700900026| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600564,7,获得不给糖就子弹14所有★,0,6,700973,1,1117916,0,0,0,1010729,{"episode_id":700900027| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600565,7,获得不给糖就子弹15所有★,0,6,700974,1,1117916,0,0,0,1010729,{"episode_id":700900028| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600566,7,获得以恶作剧还治恶作剧之身！所有★,0,6,700975,1,1117916,0,0,0,1010729,{"episode_id":700900029| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600567,7,获得访问，恶作剧女孩所有★,0,6,700976,1,1117988,0,0,0,1010730,{"episode_id":700900102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600568,7,获得玩过火的幸运转盘所有★,0,6,700977,1,1117988,0,0,0,1010730,{"episode_id":700900103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600569,7,获得加油，学习恶作剧！所有★,0,6,700978,1,1117988,0,0,0,1010730,{"episode_id":700900104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600570,7,获得访问，恶作剧女孩所有★,0,6,700979,1,1117988,0,0,0,1010731,{"episode_id":700900102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600571,7,获得玩过火的幸运转盘所有★,0,6,700980,1,1117988,0,0,0,1010731,{"episode_id":700900103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600572,7,获得加油，学习恶作剧！所有★,0,6,700981,1,1117988,0,0,0,1010731,{"episode_id":700900104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600573,7,获得访问，恶作剧女孩所有★,0,6,700982,1,1117988,0,0,0,1010732,{"episode_id":700900102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600574,7,获得玩过火的幸运转盘所有★,0,6,700983,1,1117988,0,0,0,1010732,{"episode_id":700900103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600575,7,获得加油，学习恶作剧！所有★,0,6,700984,1,1117988,0,0,0,1010732,{"episode_id":700900104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600601,7,完成七五三是什么，好吃吗？吧,0,3,701000001,1,1117941,0,0,0,1010735,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600602,7,完成妖精啊，成为成长的守护者吧！吧,0,3,701000002,1,1117941,0,0,0,1010735,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600603,7,通关第一次试炼，恶作剧之魂吧,0,4,701001,1,1117941,0,0,0,1010735,{"episode_id":701000003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600604,7,通关要加紧了1吧,0,4,701002,1,1117941,0,0,0,1010735,{"episode_id":701000004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600605,7,通关要加紧了2吧,0,4,701003,1,1117941,0,0,0,1010735,{"episode_id":701000005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600606,7,通关恶作剧也是力量！吧,0,4,701004,1,1117941,0,0,0,1010735,{"episode_id":701000006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600607,7,通关要加紧了3吧,0,4,701005,1,1117941,0,0,0,1010735,{"episode_id":701000007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600608,7,通关努力与异变只有毫厘之差？吧,0,4,701006,1,1117941,0,0,0,1010735,{"episode_id":701000008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600609,7,通关第二次试炼，修行之鬼吧,0,4,701007,1,1117941,0,0,0,1010735,{"episode_id":701000009| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600610,7,通关要加紧了4吧,0,4,701008,1,1117941,0,0,0,1010735,{"episode_id":701000010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600611,7,通关来自说教组合的授课吧,0,4,701009,1,1117941,0,0,0,1010735,{"episode_id":701000011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600612,7,通关要加紧了5吧,0,4,701010,1,1117941,0,0,0,1010735,{"episode_id":701000012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600613,7,通关要加紧了6吧,0,4,701011,1,1117941,0,0,0,1010735,{"episode_id":701000013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600614,7,完成第三次试炼，挑战之心吧,0,3,701000014,1,1117941,0,0,0,1010735,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600615,7,通关要加紧了7吧,0,4,701012,1,1117941,0,0,0,1010735,{"episode_id":701000015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600616,7,通关要加紧了8吧,0,4,701013,1,1117941,0,0,0,1010735,{"episode_id":701000016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600617,7,通关现人神的梦想机遇！吧,0,4,701014,1,1117941,0,0,0,1010735,{"episode_id":701000017| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600618,7,通关要加紧了9吧,0,4,701015,1,1117941,0,0,0,1010735,{"episode_id":701000018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600619,7,通关要加紧了10吧,0,4,701016,1,1117941,0,0,0,1010735,{"episode_id":701000019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600620,7,通关实验就是尝试与犯错吧,0,4,701017,1,1117941,0,0,0,1010735,{"episode_id":701000020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600621,7,通关爆炸注意，公告中吧,0,4,701018,1,1117941,0,0,0,1010735,{"episode_id":701000021| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600622,7,完成大家都为了同一个幻想乡吧,0,3,701000022,1,1117941,0,0,0,1010735,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600623,7,通关歌颂外宽内明的偷懒兔吧,0,4,701019,1,1117941,0,0,0,1010735,{"episode_id":701000023| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600624,7,通关要加紧了11吧,0,4,701020,1,1117941,0,0,0,1010735,{"episode_id":701000024| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600625,7,通关要加紧了12吧,0,4,701021,1,1117941,0,0,0,1010735,{"episode_id":701000025| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600626,7,通关对孩子们来说游戏就是工作！？吧,0,4,701022,1,1117941,0,0,0,1010735,{"episode_id":701000026| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600627,7,通关要加紧了13吧,0,4,701023,1,1117941,0,0,0,1010735,{"episode_id":701000027| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600628,7,通关要加紧了14吧,0,4,701024,1,1117941,0,0,0,1010735,{"episode_id":701000028| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600629,7,完成全部活动探索吧,0,4,701025,1,1117941,5130058,0,0,1010735,{"episode_id":701000029| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600630,7,通关第一次试炼，恶作剧之魂吧,0,4,701026,1,1117941,0,0,0,1010736,{"episode_id":701000003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600631,7,通关要加紧了1吧,0,4,701027,1,1117941,0,0,0,1010736,{"episode_id":701000004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600632,7,通关要加紧了2吧,0,4,701028,1,1117941,0,0,0,1010736,{"episode_id":701000005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600633,7,通关恶作剧也是力量！吧,0,4,701029,1,1117941,0,0,0,1010736,{"episode_id":701000006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600634,7,通关要加紧了3吧,0,4,701030,1,1117941,0,0,0,1010736,{"episode_id":701000007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600635,7,通关努力与异变只有毫厘之差？吧,0,4,701031,1,1117941,0,0,0,1010736,{"episode_id":701000008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600636,7,通关第二次试炼，修行之鬼吧,0,4,701032,1,1117941,0,0,0,1010736,{"episode_id":701000009| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600637,7,通关要加紧了4吧,0,4,701033,1,1117941,0,0,0,1010736,{"episode_id":701000010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600638,7,通关来自说教组合的授课吧,0,4,701034,1,1117941,0,0,0,1010736,{"episode_id":701000011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600639,7,通关要加紧了5吧,0,4,701035,1,1117941,0,0,0,1010736,{"episode_id":701000012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600640,7,通关要加紧了6吧,0,4,701036,1,1117941,0,0,0,1010736,{"episode_id":701000013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600641,7,通关要加紧了7吧,0,4,701037,1,1117941,0,0,0,1010736,{"episode_id":701000015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600642,7,通关要加紧了8吧,0,4,701038,1,1117941,0,0,0,1010736,{"episode_id":701000016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600643,7,通关现人神的梦想机遇！吧,0,4,701039,1,1117941,0,0,0,1010736,{"episode_id":701000017| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600644,7,通关要加紧了9吧,0,4,701040,1,1117941,0,0,0,1010736,{"episode_id":701000018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600645,7,通关要加紧了10吧,0,4,701041,1,1117941,0,0,0,1010736,{"episode_id":701000019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600646,7,通关实验就是尝试与犯错吧,0,4,701042,1,1117941,0,0,0,1010736,{"episode_id":701000020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600647,7,通关爆炸注意，公告中吧,0,4,701043,1,1117941,0,0,0,1010736,{"episode_id":701000021| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600648,7,通关歌颂外宽内明的偷懒兔吧,0,4,701044,1,1117941,0,0,0,1010736,{"episode_id":701000023| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600649,7,通关要加紧了11吧,0,4,701045,1,1117941,0,0,0,1010736,{"episode_id":701000024| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600650,7,通关要加紧了12吧,0,4,701046,1,1117941,0,0,0,1010736,{"episode_id":701000025| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600651,7,通关对孩子们来说游戏就是工作！？吧,0,4,701047,1,1117941,0,0,0,1010736,{"episode_id":701000026| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600652,7,通关要加紧了13吧,0,4,701048,1,1117941,0,0,0,1010736,{"episode_id":701000027| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600653,7,通关要加紧了14吧,0,4,701049,1,1117941,0,0,0,1010736,{"episode_id":701000028| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600654,7,通关那么、就开始最终考试吧吧？吧,0,4,701050,1,1117941,0,0,0,1010736,{"episode_id":701000029| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600655,7,通关第一次试炼，恶作剧之魂吧,0,4,701051,1,1117941,0,0,0,1010737,{"episode_id":701000003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600656,7,通关要加紧了1吧,0,4,701052,1,1117941,0,0,0,1010737,{"episode_id":701000004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600657,7,通关要加紧了2吧,0,4,701053,1,1117941,0,0,0,1010737,{"episode_id":701000005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600658,7,通关恶作剧也是力量！吧,0,4,701054,1,1117941,0,0,0,1010737,{"episode_id":701000006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600659,7,通关要加紧了3吧,0,4,701055,1,1117941,0,0,0,1010737,{"episode_id":701000007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600660,7,通关努力与异变只有毫厘之差？吧,0,4,701056,1,1117941,0,0,0,1010737,{"episode_id":701000008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600661,7,通关第二次试炼，修行之鬼吧,0,4,701057,1,1117941,0,0,0,1010737,{"episode_id":701000009| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600662,7,通关要加紧了4吧,0,4,701058,1,1117941,0,0,0,1010737,{"episode_id":701000010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600663,7,通关来自说教组合的授课吧,0,4,701059,1,1117941,0,0,0,1010737,{"episode_id":701000011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600664,7,通关要加紧了5吧,0,4,701060,1,1117941,0,0,0,1010737,{"episode_id":701000012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600665,7,通关要加紧了6吧,0,4,701061,1,1117941,0,0,0,1010737,{"episode_id":701000013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600666,7,通关要加紧了7吧,0,4,701062,1,1117941,0,0,0,1010737,{"episode_id":701000015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600667,7,通关要加紧了8吧,0,4,701063,1,1117941,0,0,0,1010737,{"episode_id":701000016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600668,7,通关现人神的梦想机遇！吧,0,4,701064,1,1117941,0,0,0,1010737,{"episode_id":701000017| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600669,7,通关要加紧了9吧,0,4,701065,1,1117941,0,0,0,1010737,{"episode_id":701000018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600670,7,通关要加紧了10吧,0,4,701066,1,1117941,0,0,0,1010737,{"episode_id":701000019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600671,7,通关实验就是尝试与犯错吧,0,4,701067,1,1117941,0,0,0,1010737,{"episode_id":701000020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600672,7,通关爆炸注意，公告中吧,0,4,701068,1,1117941,0,0,0,1010737,{"episode_id":701000021| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600673,7,通关歌颂外宽内明的偷懒兔吧,0,4,701069,1,1117941,0,0,0,1010737,{"episode_id":701000023| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600674,7,通关要加紧了11吧,0,4,701070,1,1117941,0,0,0,1010737,{"episode_id":701000024| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600675,7,通关要加紧了12吧,0,4,701071,1,1117941,0,0,0,1010737,{"episode_id":701000025| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600676,7,通关对孩子们来说游戏就是工作！？吧,0,4,701072,1,1117941,0,0,0,1010737,{"episode_id":701000026| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600677,7,通关要加紧了13吧,0,4,701073,1,1117941,0,0,0,1010737,{"episode_id":701000027| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600678,7,通关要加紧了14吧,0,4,701074,1,1117941,0,0,0,1010737,{"episode_id":701000028| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600679,7,通关那么、就开始最终考试吧吧？吧,0,4,701075,1,1117941,0,0,0,1010737,{"episode_id":701000029| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600680,7,完成只要有活力就要恶作剧！吧,0,3,701010001,1,1117941,0,0,0,1010738,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600681,7,通关恶作剧是反覆的复习吧,0,4,701076,1,1117941,0,0,0,1010738,{"episode_id":701010002| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600682,7,通关冬天的趣味吧,0,4,701077,1,1117941,0,0,0,1010738,{"episode_id":701010003| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600683,7,通关以恶作剧为生！吧,0,4,701078,1,1117941,0,0,0,1010738,{"episode_id":701010004| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600684,7,完成恶作剧与学习与妖精们吧,0,3,701010005,1,1117941,0,0,0,1010738,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600685,7,通关恶作剧是反覆的复习吧,0,4,701079,1,1117941,0,0,0,1010739,{"episode_id":701010002| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600686,7,通关冬天的趣味吧,0,4,701080,1,1117941,0,0,0,1010739,{"episode_id":701010003| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600687,7,通关以恶作剧为生！吧,0,4,701081,1,1117941,0,0,0,1010739,{"episode_id":701010004| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600688,7,通关恶作剧是反覆的复习吧,0,4,701082,1,1117941,0,0,0,1010740,{"episode_id":701010002| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600689,7,通关冬天的趣味吧,0,4,701083,1,1117941,0,0,0,1010740,{"episode_id":701010003| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600690,7,通关以恶作剧为生！吧,0,4,701084,1,1117941,0,0,0,1010740,{"episode_id":701010004| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600691,7,获得第一次试炼，恶作剧之魂所有★,0,6,701001,1,1117914,0,0,0,1010741,{"episode_id":701000003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600692,7,获得要加紧了1所有★,0,6,701002,1,1117914,0,0,0,1010741,{"episode_id":701000004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600693,7,获得要加紧了2所有★,0,6,701003,1,1117914,0,0,0,1010741,{"episode_id":701000005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600694,7,获得恶作剧也是力量！所有★,0,6,701004,1,1117914,0,0,0,1010741,{"episode_id":701000006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600695,7,获得要加紧了3所有★,0,6,701005,1,1117914,0,0,0,1010741,{"episode_id":701000007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600696,7,获得努力与异变只有毫厘之差？所有★,0,6,701006,1,1117914,0,0,0,1010741,{"episode_id":701000008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600697,7,获得第二次试炼，修行之鬼所有★,0,6,701007,1,1117914,0,0,0,1010741,{"episode_id":701000009| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600698,7,获得要加紧了4所有★,0,6,701008,1,1117914,0,0,0,1010741,{"episode_id":701000010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600699,7,获得来自说教组合的授课所有★,0,6,701009,1,1117914,0,0,0,1010741,{"episode_id":701000011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600700,7,获得要加紧了5所有★,0,6,701010,1,1117914,0,0,0,1010741,{"episode_id":701000012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600701,7,获得要加紧了6所有★,0,6,701011,1,1117914,0,0,0,1010741,{"episode_id":701000013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600702,7,获得要加紧了7所有★,0,6,701012,1,1117914,0,0,0,1010741,{"episode_id":701000015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600703,7,获得要加紧了8所有★,0,6,701013,1,1117914,0,0,0,1010741,{"episode_id":701000016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600704,7,获得现人神的梦想机遇！所有★,0,6,701014,1,1117914,0,0,0,1010741,{"episode_id":701000017| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600705,7,获得要加紧了9所有★,0,6,701015,1,1117914,0,0,0,1010741,{"episode_id":701000018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600706,7,获得要加紧了10所有★,0,6,701016,1,1117914,0,0,0,1010741,{"episode_id":701000019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600707,7,获得实验就是尝试与犯错所有★,0,6,701017,1,1117914,0,0,0,1010741,{"episode_id":701000020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600708,7,获得爆炸注意，公告中所有★,0,6,701018,1,1117914,0,0,0,1010741,{"episode_id":701000021| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600709,7,获得歌颂外宽内明的偷懒兔所有★,0,6,701019,1,1117914,0,0,0,1010741,{"episode_id":701000023| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600710,7,获得要加紧了11所有★,0,6,701020,1,1117914,0,0,0,1010741,{"episode_id":701000024| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600711,7,获得要加紧了12所有★,0,6,701021,1,1117914,0,0,0,1010741,{"episode_id":701000025| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600712,7,获得对孩子们来说游戏就是工作！？所有★,0,6,701022,1,1117914,0,0,0,1010741,{"episode_id":701000026| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600713,7,获得要加紧了13所有★,0,6,701023,1,1117914,0,0,0,1010741,{"episode_id":701000027| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600714,7,获得要加紧了14所有★,0,6,701024,1,1117914,0,0,0,1010741,{"episode_id":701000028| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600715,7,获得那么、就开始最终考试吧吧？所有★,0,6,701025,1,1117914,0,0,0,1010741,{"episode_id":701000029| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600716,7,获得第一次试炼，恶作剧之魂所有★,0,6,701026,1,1117915,0,0,0,1010742,{"episode_id":701000003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600717,7,获得要加紧了1所有★,0,6,701027,1,1117915,0,0,0,1010742,{"episode_id":701000004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600718,7,获得要加紧了2所有★,0,6,701028,1,1117915,0,0,0,1010742,{"episode_id":701000005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600719,7,获得恶作剧也是力量！所有★,0,6,701029,1,1117915,0,0,0,1010742,{"episode_id":701000006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600720,7,获得要加紧了3所有★,0,6,701030,1,1117915,0,0,0,1010742,{"episode_id":701000007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600721,7,获得努力与异变只有毫厘之差？所有★,0,6,701031,1,1117915,0,0,0,1010742,{"episode_id":701000008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600722,7,获得第二次试炼，修行之鬼所有★,0,6,701032,1,1117915,0,0,0,1010742,{"episode_id":701000009| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600723,7,获得要加紧了4所有★,0,6,701033,1,1117915,0,0,0,1010742,{"episode_id":701000010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600724,7,获得来自说教组合的授课所有★,0,6,701034,1,1117915,0,0,0,1010742,{"episode_id":701000011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600725,7,获得要加紧了5所有★,0,6,701035,1,1117915,0,0,0,1010742,{"episode_id":701000012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600726,7,获得要加紧了6所有★,0,6,701036,1,1117915,0,0,0,1010742,{"episode_id":701000013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600727,7,获得要加紧了7所有★,0,6,701037,1,1117915,0,0,0,1010742,{"episode_id":701000015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600728,7,获得要加紧了8所有★,0,6,701038,1,1117915,0,0,0,1010742,{"episode_id":701000016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600729,7,获得现人神的梦想机遇！所有★,0,6,701039,1,1117915,0,0,0,1010742,{"episode_id":701000017| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600730,7,获得要加紧了9所有★,0,6,701040,1,1117915,0,0,0,1010742,{"episode_id":701000018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600731,7,获得要加紧了10所有★,0,6,701041,1,1117915,0,0,0,1010742,{"episode_id":701000019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600732,7,获得实验就是尝试与犯错所有★,0,6,701042,1,1117915,0,0,0,1010742,{"episode_id":701000020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600733,7,获得爆炸注意，公告中所有★,0,6,701043,1,1117915,0,0,0,1010742,{"episode_id":701000021| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600734,7,获得歌颂外宽内明的偷懒兔所有★,0,6,701044,1,1117915,0,0,0,1010742,{"episode_id":701000023| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600735,7,获得要加紧了11所有★,0,6,701045,1,1117915,0,0,0,1010742,{"episode_id":701000024| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600736,7,获得要加紧了12所有★,0,6,701046,1,1117915,0,0,0,1010742,{"episode_id":701000025| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600737,7,获得对孩子们来说游戏就是工作！？所有★,0,6,701047,1,1117915,0,0,0,1010742,{"episode_id":701000026| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600738,7,获得要加紧了13所有★,0,6,701048,1,1117915,0,0,0,1010742,{"episode_id":701000027| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600739,7,获得要加紧了14所有★,0,6,701049,1,1117915,0,0,0,1010742,{"episode_id":701000028| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600740,7,获得那么、就开始最终考试吧吧？所有★,0,6,701050,1,1117915,0,0,0,1010742,{"episode_id":701000029| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600741,7,获得第一次试炼，恶作剧之魂所有★,0,6,701051,1,1117916,0,0,0,1010743,{"episode_id":701000003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600742,7,获得要加紧了1所有★,0,6,701052,1,1117916,0,0,0,1010743,{"episode_id":701000004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600743,7,获得要加紧了2所有★,0,6,701053,1,1117916,0,0,0,1010743,{"episode_id":701000005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600744,7,获得恶作剧也是力量！所有★,0,6,701054,1,1117916,0,0,0,1010743,{"episode_id":701000006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600745,7,获得要加紧了3所有★,0,6,701055,1,1117916,0,0,0,1010743,{"episode_id":701000007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600746,7,获得努力与异变只有毫厘之差？所有★,0,6,701056,1,1117916,0,0,0,1010743,{"episode_id":701000008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600747,7,获得第二次试炼，修行之鬼所有★,0,6,701057,1,1117916,0,0,0,1010743,{"episode_id":701000009| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600748,7,获得要加紧了4所有★,0,6,701058,1,1117916,0,0,0,1010743,{"episode_id":701000010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600749,7,获得来自说教组合的授课所有★,0,6,701059,1,1117916,0,0,0,1010743,{"episode_id":701000011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600750,7,获得要加紧了5所有★,0,6,701060,1,1117916,0,0,0,1010743,{"episode_id":701000012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600751,7,获得要加紧了6所有★,0,6,701061,1,1117916,0,0,0,1010743,{"episode_id":701000013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600752,7,获得要加紧了7所有★,0,6,701062,1,1117916,0,0,0,1010743,{"episode_id":701000015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600753,7,获得要加紧了8所有★,0,6,701063,1,1117916,0,0,0,1010743,{"episode_id":701000016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600754,7,获得现人神的梦想机遇！所有★,0,6,701064,1,1117916,0,0,0,1010743,{"episode_id":701000017| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600755,7,获得要加紧了9所有★,0,6,701065,1,1117916,0,0,0,1010743,{"episode_id":701000018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600756,7,获得要加紧了10所有★,0,6,701066,1,1117916,0,0,0,1010743,{"episode_id":701000019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600757,7,获得实验就是尝试与犯错所有★,0,6,701067,1,1117916,0,0,0,1010743,{"episode_id":701000020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600758,7,获得爆炸注意，公告中所有★,0,6,701068,1,1117916,0,0,0,1010743,{"episode_id":701000021| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600759,7,获得歌颂外宽内明的偷懒兔所有★,0,6,701069,1,1117916,0,0,0,1010743,{"episode_id":701000023| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600760,7,获得要加紧了11所有★,0,6,701070,1,1117916,0,0,0,1010743,{"episode_id":701000024| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600761,7,获得要加紧了12所有★,0,6,701071,1,1117916,0,0,0,1010743,{"episode_id":701000025| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600762,7,获得对孩子们来说游戏就是工作！？所有★,0,6,701072,1,1117916,0,0,0,1010743,{"episode_id":701000026| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600763,7,获得要加紧了13所有★,0,6,701073,1,1117916,0,0,0,1010743,{"episode_id":701000027| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600764,7,获得要加紧了14所有★,0,6,701074,1,1117916,0,0,0,1010743,{"episode_id":701000028| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600765,7,获得那么、就开始最终考试吧吧？所有★,0,6,701075,1,1117916,0,0,0,1010743,{"episode_id":701000029| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+600766,7,获得恶作剧是反覆的复习所有★,0,6,701076,1,1117988,0,0,0,1010744,{"episode_id":701010002| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600767,7,获得冬天的趣味所有★,0,6,701077,1,1117988,0,0,0,1010744,{"episode_id":701010003| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600768,7,获得以恶作剧为生！所有★,0,6,701078,1,1117988,0,0,0,1010744,{"episode_id":701010004| "difficulty":0| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600769,7,获得恶作剧是反覆的复习所有★,0,6,701079,1,1117988,0,0,0,1010745,{"episode_id":701010002| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600770,7,获得冬天的趣味所有★,0,6,701080,1,1117988,0,0,0,1010745,{"episode_id":701010003| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600771,7,获得以恶作剧为生！所有★,0,6,701081,1,1117988,0,0,0,1010745,{"episode_id":701010004| "difficulty":1| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600772,7,获得恶作剧是反覆的复习所有★,0,6,701082,1,1117988,0,0,0,1010746,{"episode_id":701010002| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600773,7,获得冬天的趣味所有★,0,6,701083,1,1117988,0,0,0,1010746,{"episode_id":701010003| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
+600774,7,获得以恶作剧为生！所有★,0,6,701084,1,1117988,0,0,0,1010746,{"episode_id":701010004| "difficulty":2| "ex":1| "dis_difficulty_tag":1},(empty),(empty)
 601001,5,完成就这样传说开始了吧,7080,3,208600001,1,1117933,0,0,0,115001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2024-03-12 02:00:00,2024-03-26 01:59:59
 601002,5,完成最开始是在恶魔的宅院吧,7080,3,208600002,1,1117933,0,0,0,115002,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2024-03-12 02:00:00,2024-03-26 01:59:59
 601003,5,通关然后在启程之时吧,7080,4,208601,1,1117941,0,0,0,115003,{"episode_id":208600003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2024-03-12 02:00:00,2024-03-26 01:59:59
@@ -16146,7 +16677,9 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 639086,5,通关雾雨魔理沙体验探索,10960,4,217101,1,1117941,0,0,0,101056,{"episode_id":217100001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-06-17 02:00:00,2025-07-01 01:59:59
 639087,5,通关十六夜咲夜体验探索,11220,4,217501,1,1117941,0,0,0,101057,{"episode_id":217500001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-07-01 02:00:00,2025-07-15 01:59:59
 639088,5,通关东风谷早苗体验探索,11360,4,218001,1,1117941,0,0,0,101058,{"episode_id":218000001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-07-22 02:00:00,2025-08-05 01:59:59
+639089,5,通关赫卡提亚体验探索,11700,4,218901,1,1117941,0,0,0,101059,{"episode_id":218900001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-10-01 02:00:00,2025-10-15 01:59:59
 639090,5,通关丰聪耳神子体验探索,11710,4,219001,1,1117941,0,0,0,101060,{"episode_id":219000001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-09-02 02:00:00,2025-09-16 01:59:59
+639091,5,通关洩矢诹访子体验探索,11720,4,219101,1,1117941,0,0,0,101061,{"episode_id":219100001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-10-07 02:00:00,2025-10-21 01:59:59
 641001,5,完成凋零的早花吧,8700,3,211600001,1,1117933,0,0,0,115001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-01-14 02:00:00,2025-01-28 01:59:59
 641002,5,通关雪晴，繁盛的市场吧,8700,4,211601,1,1117941,0,0,0,115002,{"episode_id":211600002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-01-14 02:00:00,2025-01-28 01:59:59
 641003,5,通关骚动与冬之虹吧,8700,4,211602,1,1117941,0,0,0,115003,{"episode_id":211600003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-01-14 02:00:00,2025-01-28 01:59:59
@@ -17971,6 +18504,7 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 662161,7,通关第五油「NONON～」,0,4,900102,1,662161,0,0,0,600002,{"episode_id":900100005| "difficulty":0| "ex":0| "dis_difficulty_tag":0},(empty),(empty)
 662162,7,通关第八油「呜……这个……不合格！」,0,4,900119,1,662162,0,0,0,600003,{"episode_id":900100208| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 662163,7,通关第十油「油库里芙兰是危险分子」,0,4,900134,1,662163,0,0,0,600004,{"episode_id":900100310| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+662164,7,通关第十四油「把干涸的心藏在太阳花田」,0,4,900151,1,662164,0,0,0,600005,{"episode_id":900100414| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 662170,5,通关「于是乎所有人都…… 第2话」,10430,4,100075,1,11605,0,0,0,119950,{"episode_id":100200505| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2024-12-23 10:00:00,2025-01-15 23:59:59
 662171,5,通关「异世界巫女归还 第1话」吧,10430,4,100246,1,38310,0,0,0,119951,{"episode_id":100400301| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2024-12-23 10:00:00,2025-01-15 23:59:59
 662172,5,通关「背水一战之刻已至　第4话」,10430,4,100306,1,32310,0,0,0,119952,{"episode_id":100500127| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2024-12-23 10:00:00,2025-01-15 23:59:59
@@ -18045,6 +18579,83 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 662252,5,完成7个文的特刊新闻帖的每周任务,10620,20,0,7,662243,0,0,0,119054,(empty),2025-04-14 10:00:00,2025-06-14 23:59:59
 662253,5,完成30个文的特刊新闻帖的每周任务,10620,20,0,30,662243,0,0,0,119055,(empty),2025-04-14 10:00:00,2025-06-14 23:59:59
 662254,5,完成50个文的特刊新闻帖的每周任务,10620,20,0,50,662243,0,0,0,119056,(empty),2025-04-14 10:00:00,2025-06-14 23:59:59
+662275,5,活动期间10天登入,11590,1,0,10,662278,0,0,0,149001,(empty),2025-09-22 10:00:00,2025-10-14 23:59:59
+662276,5,伙伴1人等级提升至100,11590,59,0,1,1117945,0,0,0,149002,(empty),2025-09-22 10:00:00,2025-10-14 23:59:59
+662277,5,通关记号B3「失去的言语　第3话」,11590,4,300124,1,1117991,0,0,0,149003,{"episode_id":300100503| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-22 10:00:00,2025-10-14 23:59:59
+662278,5,通关记号E9「幻想念想」,11590,4,300224,1,662278,0,0,0,149004,{"episode_id":300201201| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-22 10:00:00,2025-10-14 23:59:59
+662279,5,通关记号L?·第5节 ？文书「少女奇迹」终,11590,4,300406,1,1117945,0,0,0,149005,{"episode_id":300300504| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-22 10:00:00,2025-10-14 23:59:59
+662280,5,通关东风谷早苗（L0g）高难挑战,11590,4,218601,1,662286,0,0,0,149006,{"episode_id":218600001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-09-22 10:00:00,2025-09-29 23:59:59
+662281,5,红魔塔通关10次,11590,35,0,10,662287,0,0,0,149007,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662282,5,通关10次「回来了 啦啦队·传奇」活动探索关卡,11590,31,2179,10,1118069,0,0,0,149008,(empty),2025-09-22 10:00:00,2025-09-29 23:59:59
+662283,5,VS复灵藤原妹红(L80)通关10次,11590,57,10029,10,662325,0,0,0,149009,(empty),2025-09-22 10:00:00,2025-09-29 23:59:59
+662284,5,VS复灵藤原妹红(L80)通关100次,11590,57,10029,100,662285,1117945,0,0,149010,(empty),2025-09-22 10:00:00,2025-09-29 23:59:59
+662285,5,VS复灵东风谷早苗(L1)通关10次,11590,57,10018,10,662298,0,0,0,149011,(empty),2025-09-22 10:00:00,2025-09-29 23:59:59
+662286,5,VS复灵东风谷早苗(L1)通关100次,11590,57,10018,100,662300,1117945,0,0,149012,(empty),2025-09-22 10:00:00,2025-09-29 23:59:59
+662287,5,此任务活动中完成5个任务,11590,58,11590,5,50201,0,0,0,149026,(empty),2025-09-22 10:00:00,2025-10-14 23:59:59
+662288,5,进行3次伙伴界限突破,11590,23,0,3,662288,0,0,0,149013,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662289,5,通关「回来了 啦啦队·传奇」活动探索最终关卡（月狂）,11590,4,217945,1,662289,0,0,0,149014,{"episode_id":218700031| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-22 10:00:00,2025-10-23 23:59:59
+662290,5,八云紫(L50ws)进行3次界限突破,11590,23,11009,3,662278,0,0,0,149015,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662291,5,八云紫(L50ws)等级到达100,11590,83,11009,100,1118057,0,0,0,149016,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662292,5,获得八云紫(L50ws),11590,80,11009,1,111910,0,0,0,149017,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662293,5,八云紫(L50ws)好感度提升至亲友,11590,11,11009,1,662278,0,0,0,149018,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662295,5,白玉擂台周周新400分以上通关,11590,72,11590,1,662294,0,0,0,149020,{"score_to_achieve": 400},2025-09-22 10:00:00,2025-10-14 23:59:59
+662296,5,通关八坂神奈子（L0g）高难挑战,11590,4,218801,1,662296,0,0,0,149021,{"episode_id":218800001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-09-22 10:00:00,2025-09-29 23:59:59
+662301,5,此任务活动中完成15个任务,11590,58,11590,15,50501,0,0,0,149027,(empty),2025-09-22 10:00:00,2025-10-23 23:59:59
+662302,5,踏破1次守矢秘境,11680,84,0,1,662310,0,0,0,149109,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662303,5,踏破10次守矢秘境,11680,84,0,10,662302,0,0,0,149101,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662304,5,通关10次活动EX探索关卡,11680,5,0,10,662278,0,0,0,149102,(empty),2025-09-30 00:00:00,2025-10-21 23:59:59
+662305,5,通关1次风见幽香(L1)转生镜探索（一键探索无效）,11680,37,10840103,1,111905,0,0,0,149103,{"battle_id":10840103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-11-30 23:59:59
+662306,5,通关1次矢田寺成美(L1)转生镜探索（一键探索无效）,11680,37,11060103,1,111905,0,0,0,149104,{"battle_id":11060103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-11-30 23:59:59
+662307,5,通关1次爱塔妮缇拉尔瓦(L1)转生镜探索（一键探索无效）,11680,37,11070103,1,111905,0,0,0,149105,{"battle_id":11070103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-11-30 23:59:59
+662308,5,赫卡提亚·拉碧斯拉祖利（C5>）等级提升至100,11680,83,13056,100,50301,0,0,0,149106,(empty),2025-09-30 00:00:00,2025-10-21 23:59:59
+662310,5,油库里爱丽丝（AA）等级提升至100,11680,83,50032,100,662278,0,0,0,149108,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662311,5,灵梦的祓除大作战中「ロストワードクロニカル」S级以上通关,11680,65,199001,1,662278,0,0,0,149110,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662312,5,vs复灵丰聪耳神子(A13)通关10次,11680,57,10041,10,662310,0,0,0,149111,(empty),2025-09-30 00:00:00,2025-10-14 23:59:59
+662313,5,vs复灵丰聪耳神子(A13)通关100次,11680,57,10041,100,662313,0,0,0,149112,(empty),2025-09-30 00:00:00,2025-10-14 23:59:59
+662314,5,4周年任务活动期间，完成5个活动任务,11680,58,11680,5,50301,0,0,0,149160,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662315,5,通关「回来了 啦啦队·传奇」活动EX探索关卡的月狂难度,11680,4,217954,1,662315,0,0,0,149114,{"episode_id":218700104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 00:00:00,2025-10-21 23:59:59
+662316,5,白玉擂台 周周新400分以上通关1次,11680,72,11680,1,662345,0,0,0,149115,{"score_to_achieve": 400},2025-10-07 00:00:00,2025-11-30 23:59:59
+662317,5,白玉擂台 日日新月狂难度通关1次,11680,62,0,1,662345,0,0,0,149116,{"arena_daily_difficulty":4},2025-10-07 00:00:00,2025-11-30 23:59:59
+662318,5,使用上香炉解放20次特殊强化上限,11680,46,0,20,662314,0,0,0,149117,(empty),2025-10-07 00:00:00,2025-11-30 23:59:59
+662319,5,四季映姬·夜摩仙那度(C5>)等级提升至100,11680,83,8055,100,50301,0,0,0,149118,(empty),2025-10-07 00:00:00,2025-10-28 23:59:59
+662320,5,伙伴1人等级提升至100,11680,59,0,1,1118057,0,0,0,149119,(empty),2025-10-07 00:00:00,2025-10-28 23:59:59
+662321,5,3位伙伴进行少女转生,11680,40,0,3,1118030,0,0,0,149120,(empty),2025-10-07 00:00:00,2025-11-30 23:59:59
+662322,5,vs复灵 赫卡提亚（B3）通关10次,11680,57,5056,10,662278,0,0,0,149121,(empty),2025-10-07 00:00:00,2025-10-14 23:59:59
+662323,5,vs复灵 赫卡提亚（B3）通关100次,11680,57,5056,100,662302,0,0,0,149122,(empty),2025-10-07 00:00:00,2025-10-14 23:59:59
+662324,5,4周年任务活动期间，完成15个活动任务,11680,58,11680,15,50501,0,0,0,149161,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662325,5,踏破10次守矢秘境,11680,84,0,10,1117945,0,0,0,149124,(empty),2025-10-14 00:00:00,2025-11-30 23:59:59
+662326,5,星精试炼通关1次,11680,4,219901,1,662315,0,0,0,149125,{"episode_id":219900001| "difficulty":0| "ex":0| "dis_difficulty_tag":0},2025-10-14 00:00:00,2025-10-28 23:59:59
+662327,5,红魔塔通关10次,11680,35,0,10,662315,0,0,0,149126,(empty),2025-10-14 00:00:00,2025-10-21 23:59:59
+662328,5,通关1次「跨年旅行 2024→2025」活动探索关卡,11680,31,2169,1,50101,0,0,0,149127,(empty),2025-10-14 00:00:00,2025-10-28 23:59:59
+662329,5,通关5次「跨年旅行 2024→2025」活动探索关卡,11680,31,2169,5,1117991,0,0,0,149128,(empty),2025-10-14 00:00:00,2025-10-28 23:59:59
+662330,5,通关10次「跨年旅行 2024→2025」活动探索关卡,11680,31,2169,10,111905,0,0,0,149129,(empty),2025-10-14 00:00:00,2025-10-28 23:59:59
+662331,5,目白残无(C5>)等级提升至100,11680,83,5131,100,50301,0,0,0,149130,(empty),2025-10-14 00:00:00,2025-11-04 23:59:59
+662332,5,本居小铃(A16.3&)等级提升至100,11680,83,5026,100,1118057,0,0,0,149131,(empty),2025-10-14 00:00:00,2025-11-04 23:59:59
+662333,5,vs复灵-莉莉怀特(A7&)通关10次,11680,57,10042,10,50101,0,0,0,149132,(empty),2025-10-14 00:00:00,2025-10-28 23:59:59
+662334,5,vs复灵-莉莉怀特(A7&)通关100次,11680,57,10042,100,662278,0,0,0,149133,(empty),2025-10-14 00:00:00,2025-10-28 23:59:59
+662335,5,灵梦的祓除大作战「導きの調べ」S级以上通关,11680,65,1001,1,662278,0,0,0,149134,(empty),2025-10-14 00:00:00,2025-11-30 23:59:59
+662336,5,活动探索中999次战斗胜利,11680,54,0,999,50201,0,0,0,149135,(empty),2025-10-14 00:00:00,2025-11-30 23:59:59
+662337,5,灵点消耗50000,11680,29,0,50000,662337,0,0,0,149136,(empty),2025-10-14 00:00:00,2025-11-30 23:59:59
+662338,5,赛钱消耗500000,11680,30,0,500000,662338,0,0,0,149137,(empty),2025-10-14 00:00:00,2025-11-30 23:59:59
+662339,5,4周年任务活动期间，完成20个活动任务,11680,58,11680,20,50301,0,0,0,149162,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662340,5,霍青娥(C3′)等级提升至100,11680,83,8085,100,50301,0,0,0,149139,(empty),2025-11-04 00:00:00,2025-11-30 23:59:59
+662341,5,雾雨魔理沙(D8.-5)进行4次觉醒,11680,25,27002,4,662345,0,0,0,149141,(empty),2025-10-22 00:00:00,2025-11-30 23:59:59
+662342,5,雾雨魔理沙(D8.-5)进行3次界限突破,11680,23,27002,3,50701,0,0,0,149142,(empty),2025-10-22 00:00:00,2025-11-30 23:59:59
+662343,5,雾雨魔理沙(D8.-5)等级提升至100,11680,83,27002,100,662314,0,0,0,149143,(empty),2025-10-22 00:00:00,2025-11-30 23:59:59
+662344,5,获得伙伴雾雨魔理沙(D8.-5),11680,80,27002,1,662310,0,0,0,149144,(empty),2025-10-22 00:00:00,2025-11-30 23:59:59
+662345,5,雾雨魔理沙(D8.-5)好感度提升至亲友,11680,11,27002,1,50101,0,0,0,149145,(empty),2025-10-22 00:00:00,2025-11-30 23:59:59
+662347,5,通关1次牛崎润美（L1）少女转生探索（一键探索无效）,11680,37,11130103,1,1117945,0,0,0,149148,{"battle_id":11130103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-11-04 00:00:00,2025-11-30 23:59:59
+662348,5,通关1次戎璎花（L1）少女转生探索（一键探索无效）,11680,37,11140103,1,1117945,0,0,0,149149,{"battle_id":11140103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-11-04 00:00:00,2025-11-30 23:59:59
+662349,5,通关永远战线 青春战（普通）,11680,78,80131,1,662314,0,0,0,149150,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-11-04 00:00:00,2025-11-30 23:59:59
+662350,5,通关永远战线 青春战（困难）,11680,78,80132,1,662314,0,0,0,149151,{"difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-11-04 00:00:00,2025-11-30 23:59:59
+662351,5,通关永远战线 青春战（月狂）,11680,78,80133,1,662314,0,0,0,149152,{"difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-11-04 00:00:00,2025-11-30 23:59:59
+662352,5,纯狐(C3′)的等级提升至100,11680,83,10057,100,50301,0,0,0,149153,(empty),2025-11-04 00:00:00,2025-11-30 23:59:59
+662353,5,4周年任务活动期间，完成25个活动任务,11680,58,11680,25,50301,50301,0,0,149163,(empty),2025-09-30 00:00:00,2025-11-30 23:59:59
+662354,5,祈愿300次,11680,18,0,300,50301,0,0,0,149138,(empty),2025-10-14 00:00:00,2025-10-28 23:59:59
+662355,5,通关「跨年旅行 2024→2025」活动探索最终关卡（月狂）,11680,4,216942,1,662310,0,0,0,149140,{"episode_id":219600031| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-22 00:00:00,2025-11-30 23:59:59
+662356,5,设定一下雾雨魔理沙(D8.-5)的声音,11680,33,27002,1,662345,0,0,0,149146,(empty),2025-10-22 00:00:00,2025-11-30 23:59:59
+662357,5,vs复灵 克劳恩皮丝(A15&)通关10次,11680,57,10043,10,662345,0,0,0,149154,(empty),2025-11-04 00:00:00,2025-11-30 23:59:59
+662358,5,vs复灵 克劳恩皮丝(A15&)通关100次,11680,57,10043,100,662310,0,0,0,149155,(empty),2025-11-04 00:00:00,2025-11-30 23:59:59
 663001,5,完成梦的入口吧,9970,3,214500001,1,1117933,0,0,0,125001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-05-06 02:00:00,2025-05-20 01:59:59
 663002,5,完成记号L2.4 梦之国，开园！吧,9970,3,214500002,1,1117933,0,0,0,125002,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-05-06 02:00:00,2025-05-20 01:59:59
 663003,5,通关记号L2.4 小小的麻烦？吧,9970,4,214501,1,1117941,0,0,0,125003,{"episode_id":214500003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-05-06 02:00:00,2025-05-20 01:59:59
@@ -18957,6 +19568,128 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 670519,3,去祈愿1次吧,10500,18,0,1,670510,0,0,0,120009,{"daily_tag":1},2025-08-05 00:00:00,2025-08-12 01:59:59
 670520,3,去祈愿3次吧,10500,18,0,3,670511,0,0,0,120010,{"daily_tag":1},2025-08-05 00:00:00,2025-08-12 01:59:59
 670521,3,去完成活动特别章节1次吧,10500,5,2157001,1,670506,0,0,0,120011,{"daily_tag":1},2025-08-05 00:00:00,2025-08-12 01:59:59
+672001,5,完成首先是初次见面的问候吧,10720,3,216400001,1,1117933,672061,0,0,135001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672002,5,通关木天蓼问答吧,10720,4,216401,1,672002,1117942,0,0,135002,{"episode_id":216400002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672003,5,通关寺子屋漫才吧,10720,4,216402,1,672003,0,0,0,135003,{"episode_id":216400003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672004,5,通关狸的骰子吧,10720,4,216403,1,672004,0,0,0,135004,{"episode_id":216400004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672005,5,通关狛犬的灾难吧,10720,4,216404,1,672005,0,0,0,135005,{"episode_id":216400005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672006,5,通关落语的搭档吧,10720,4,216405,1,672006,0,0,0,135006,{"episode_id":216400006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672007,5,完成素人狐吧,10720,3,216400007,1,1117933,0,0,0,135007,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672008,5,通关尝试制作吧,10720,4,216406,1,672008,1117942,0,0,135008,{"episode_id":216400008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672009,5,完成孩童审判吧,10720,3,216400009,1,1117933,0,0,0,135009,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672010,5,通关新释怪物话『怪物使』吧,10720,4,216407,1,672010,0,0,0,135010,{"episode_id":216400010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672011,5,通关新释怪物话『皿屋敷』吧,10720,4,216408,1,672011,0,0,0,135011,{"episode_id":216400011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672012,5,通关噺家严流岛吧,10720,4,216409,1,672012,1117942,0,0,135012,{"episode_id":216400012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672013,5,通关铁火之富吧,10720,4,216410,1,672013,0,0,0,135013,{"episode_id":216400013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672014,5,完成御符参拜吧,10720,3,216400014,1,1117933,0,0,0,135014,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672015,5,通关新释怪物话『头山』吧,10720,4,216411,1,672015,0,0,0,135015,{"episode_id":216400015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672016,5,通关急性的仲裁吧,10720,4,216412,1,672016,0,0,0,135016,{"episode_id":216400016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672017,5,完成稻荷钓狐吧,10720,3,216400017,1,1117933,0,0,0,135017,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672018,5,通关姬骗落语吧,10720,4,216413,1,672018,1117942,0,0,135018,{"episode_id":216400018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672019,5,通关翻译问答吧,10720,4,216414,1,672019,0,0,0,135019,{"episode_id":216400019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672020,5,完成后方的学校吧,10720,3,216400020,1,1117933,0,0,0,135020,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672021,5,完成恕我先退场了吧,10720,3,216400021,1,1117933,672062,0,0,135021,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672022,5,通关木天蓼问答吧,10720,4,216415,1,672022,1117942,0,0,135022,{"episode_id":216400002| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672023,5,通关寺子屋漫才吧,10720,4,216416,1,672023,0,0,0,135023,{"episode_id":216400003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672024,5,通关狸的骰子吧,10720,4,216417,1,672024,0,0,0,135024,{"episode_id":216400004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672025,5,通关狛犬的灾难吧,10720,4,216418,1,672025,0,0,0,135025,{"episode_id":216400005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672026,5,通关落语的搭档吧,10720,4,216419,1,672026,0,0,0,135026,{"episode_id":216400006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672027,5,通关尝试制作吧,10720,4,216420,1,672027,1117942,0,0,135027,{"episode_id":216400008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672028,5,通关新释怪物话『怪物使』吧,10720,4,216421,1,672028,0,0,0,135028,{"episode_id":216400010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672029,5,通关新释怪物话『皿屋敷』吧,10720,4,216422,1,672029,0,0,0,135029,{"episode_id":216400011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672030,5,通关噺家严流岛吧,10720,4,216423,1,672030,1117942,0,0,135030,{"episode_id":216400012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672031,5,通关铁火之富吧,10720,4,216424,1,672031,0,0,0,135031,{"episode_id":216400013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672032,5,通关新释怪物话『头山』吧,10720,4,216425,1,672032,0,0,0,135032,{"episode_id":216400015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672033,5,通关急性的仲裁吧,10720,4,216426,1,672033,0,0,0,135033,{"episode_id":216400016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672034,5,通关姬骗落语吧,10720,4,216427,1,672034,1117942,0,0,135034,{"episode_id":216400018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672035,5,通关翻译问答吧,10720,4,216428,1,672035,0,0,0,135035,{"episode_id":216400019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672036,5,通关木天蓼问答吧,10720,4,216429,1,672036,1117942,0,0,135036,{"episode_id":216400002| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672037,5,通关寺子屋漫才吧,10720,4,216430,1,672037,0,0,0,135037,{"episode_id":216400003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672038,5,通关狸的骰子吧,10720,4,216431,1,672038,0,0,0,135038,{"episode_id":216400004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672039,5,通关狛犬的灾难吧,10720,4,216432,1,672039,0,0,0,135039,{"episode_id":216400005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672040,5,通关落语的搭档吧,10720,4,216433,1,672040,0,0,0,135040,{"episode_id":216400006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672041,5,通关尝试制作吧,10720,4,216434,1,672041,1117942,0,0,135041,{"episode_id":216400008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672042,5,通关新释怪物话『怪物使』吧,10720,4,216435,1,672042,0,0,0,135042,{"episode_id":216400010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672043,5,通关新释怪物话『皿屋敷』吧,10720,4,216436,1,672043,0,0,0,135043,{"episode_id":216400011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672044,5,通关噺家严流岛吧,10720,4,216437,1,672044,1117942,0,0,135044,{"episode_id":216400012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672045,5,通关铁火之富吧,10720,4,216438,1,672045,0,0,0,135045,{"episode_id":216400013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672046,5,通关新释怪物话『头山』吧,10720,4,216439,1,672046,0,0,0,135046,{"episode_id":216400015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672047,5,通关急性的仲裁吧,10720,4,216440,1,672047,0,0,0,135047,{"episode_id":216400016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672048,5,通关姬骗落语吧,10720,4,216441,1,672048,1117942,0,0,135048,{"episode_id":216400018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672049,5,通关翻译问答吧,10720,4,216442,1,672049,0,0,0,135049,{"episode_id":216400019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672050,5,完成落语之后的一杯吧,10720,3,216400101,1,1117933,0,0,0,135050,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672051,5,通关夹心面包真可怕吧,10720,4,216443,1,672051,1117943,0,0,135051,{"episode_id":216400102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672052,5,通关团子也同样可怕吧,10720,4,216444,1,672052,0,0,0,135052,{"episode_id":216400103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672053,5,通关果然还是夹心面包可怕吧,10720,4,216445,1,672053,0,0,0,135053,{"episode_id":216400104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672054,5,完成恕我先退场了吧,10720,3,216400105,1,1117933,0,0,0,135054,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672055,5,通关夹心面包真可怕吧,10720,4,216446,1,672055,1117943,0,0,135055,{"episode_id":216400102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672056,5,通关团子也同样可怕吧,10720,4,216447,1,672056,0,0,0,135056,{"episode_id":216400103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672057,5,通关果然还是夹心面包可怕吧,10720,4,216448,1,672057,0,0,0,135057,{"episode_id":216400104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672058,5,通关夹心面包真可怕吧,10720,4,216449,1,672058,1117943,0,0,135058,{"episode_id":216400102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672059,5,通关团子也同样可怕吧,10720,4,216450,1,672059,0,0,0,135059,{"episode_id":216400103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672060,5,通关果然还是夹心面包可怕吧,10720,4,216451,1,672060,0,0,0,135060,{"episode_id":216400104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672202,5,获得木天蓼问答所有★,10720,6,216401,1,672002,672001,0,0,135061,{"episode_id":216400002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672203,5,获得寺子屋漫才所有★,10720,6,216402,1,672003,672001,0,0,135062,{"episode_id":216400003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672204,5,获得狸的骰子所有★,10720,6,216403,1,672004,672001,0,0,135063,{"episode_id":216400004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672205,5,获得狛犬的灾难所有★,10720,6,216404,1,672005,672001,0,0,135064,{"episode_id":216400005| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672206,5,获得落语的搭档所有★,10720,6,216405,1,672006,672001,0,0,135065,{"episode_id":216400006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672208,5,获得尝试制作所有★,10720,6,216406,1,672008,672001,0,0,135066,{"episode_id":216400008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672210,5,获得新释怪物话『怪物使』所有★,10720,6,216407,1,672010,672001,0,0,135067,{"episode_id":216400010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672211,5,获得新释怪物话『皿屋敷』所有★,10720,6,216408,1,672011,672001,0,0,135068,{"episode_id":216400011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672212,5,获得噺家严流岛所有★,10720,6,216409,1,672012,672001,0,0,135069,{"episode_id":216400012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672213,5,获得铁火之富所有★,10720,6,216410,1,672013,672001,0,0,135070,{"episode_id":216400013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672215,5,获得新释怪物话『头山』所有★,10720,6,216411,1,672015,672001,0,0,135071,{"episode_id":216400015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672216,5,获得急性的仲裁所有★,10720,6,216412,1,672016,672001,0,0,135072,{"episode_id":216400016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672218,5,获得姬骗落语所有★,10720,6,216413,1,672018,0,0,0,135073,{"episode_id":216400018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672219,5,获得翻译问答所有★,10720,6,216414,1,672019,0,0,0,135074,{"episode_id":216400019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672222,5,获得木天蓼问答所有★,10720,6,216415,1,672022,0,0,0,135075,{"episode_id":216400002| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672223,5,获得寺子屋漫才所有★,10720,6,216416,1,672023,0,0,0,135076,{"episode_id":216400003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672224,5,获得狸的骰子所有★,10720,6,216417,1,672024,0,0,0,135077,{"episode_id":216400004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672225,5,获得狛犬的灾难所有★,10720,6,216418,1,672025,0,0,0,135078,{"episode_id":216400005| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672226,5,获得落语的搭档所有★,10720,6,216419,1,672026,0,0,0,135079,{"episode_id":216400006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672227,5,获得尝试制作所有★,10720,6,216420,1,672027,0,0,0,135080,{"episode_id":216400008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672228,5,获得新释怪物话『怪物使』所有★,10720,6,216421,1,672028,0,0,0,135081,{"episode_id":216400010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672229,5,获得新释怪物话『皿屋敷』所有★,10720,6,216422,1,672029,0,0,0,135082,{"episode_id":216400011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672230,5,获得噺家严流岛所有★,10720,6,216423,1,672030,0,0,0,135083,{"episode_id":216400012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672231,5,获得铁火之富所有★,10720,6,216424,1,672031,0,0,0,135084,{"episode_id":216400013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672232,5,获得新释怪物话『头山』所有★,10720,6,216425,1,672032,0,0,0,135085,{"episode_id":216400015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672233,5,获得急性的仲裁所有★,10720,6,216426,1,672033,0,0,0,135086,{"episode_id":216400016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672234,5,获得姬骗落语所有★,10720,6,216427,1,672034,0,0,0,135087,{"episode_id":216400018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672235,5,获得翻译问答所有★,10720,6,216428,1,672035,0,0,0,135088,{"episode_id":216400019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672236,5,获得木天蓼问答所有★,10720,6,216429,1,672036,0,0,0,135089,{"episode_id":216400002| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672237,5,获得寺子屋漫才所有★,10720,6,216430,1,672037,0,0,0,135090,{"episode_id":216400003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672238,5,获得狸的骰子所有★,10720,6,216431,1,672038,0,0,0,135091,{"episode_id":216400004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672239,5,获得狛犬的灾难所有★,10720,6,216432,1,672039,0,0,0,135092,{"episode_id":216400005| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672240,5,获得落语的搭档所有★,10720,6,216433,1,672040,0,0,0,135093,{"episode_id":216400006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672241,5,获得尝试制作所有★,10720,6,216434,1,672041,0,0,0,135094,{"episode_id":216400008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672242,5,获得新释怪物话『怪物使』所有★,10720,6,216435,1,672042,0,0,0,135095,{"episode_id":216400010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672243,5,获得新释怪物话『皿屋敷』所有★,10720,6,216436,1,672043,0,0,0,135096,{"episode_id":216400011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672244,5,获得噺家严流岛所有★,10720,6,216437,1,672044,0,0,0,135097,{"episode_id":216400012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672245,5,获得铁火之富所有★,10720,6,216438,1,672045,0,0,0,135098,{"episode_id":216400013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672246,5,获得新释怪物话『头山』所有★,10720,6,216439,1,672046,0,0,0,135099,{"episode_id":216400015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672247,5,获得急性的仲裁所有★,10720,6,216440,1,672047,0,0,0,135100,{"episode_id":216400016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672248,5,获得姬骗落语所有★,10720,6,216441,1,672048,0,0,0,135101,{"episode_id":216400018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672249,5,获得翻译问答所有★,10720,6,216442,1,672049,0,0,0,135102,{"episode_id":216400019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672251,5,获得夹心面包真可怕所有★,10720,6,216443,1,672051,0,0,0,135103,{"episode_id":216400102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672252,5,获得团子也同样可怕所有★,10720,6,216444,1,672052,0,0,0,135104,{"episode_id":216400103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672253,5,获得果然还是夹心面包可怕所有★,10720,6,216445,1,672053,0,0,0,135105,{"episode_id":216400104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672255,5,获得夹心面包真可怕所有★,10720,6,216446,1,672055,0,0,0,135106,{"episode_id":216400102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672256,5,获得团子也同样可怕所有★,10720,6,216447,1,672056,0,0,0,135107,{"episode_id":216400103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672257,5,获得果然还是夹心面包可怕所有★,10720,6,216448,1,672057,0,0,0,135108,{"episode_id":216400104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672258,5,获得夹心面包真可怕所有★,10720,6,216449,1,672058,0,0,0,135109,{"episode_id":216400102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672259,5,获得团子也同样可怕所有★,10720,6,216450,1,672059,0,0,0,135110,{"episode_id":216400103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672260,5,获得果然还是夹心面包可怕所有★,10720,6,216451,1,672060,0,0,0,135111,{"episode_id":216400104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672501,3,在活动全期间登录吧,10720,1,0,1,672502,0,0,0,130001,{"daily_tag":1},2025-10-08 00:00:00,2025-10-14 01:59:59
+672502,3,活动探索战斗胜利5次吧,10720,31,2164,5,672502,0,0,0,130002,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672503,3,活动探索战斗胜利10次吧,10720,31,2164,10,672504,0,0,0,130003,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672504,3,活动探索战斗胜利15次吧,10720,31,2164,15,672505,0,0,0,130004,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672505,3,活动探索战斗胜利20次吧,10720,31,2164,20,672506,0,0,0,130005,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672506,3,活动探索战斗胜利25次吧,10720,31,2164,25,672507,0,0,0,130006,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672507,3,活动探索战斗胜利30次吧,10720,31,2164,30,672508,0,0,0,130007,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672508,3,去完成日常探索1次吧,10720,8,0,1,672509,0,0,0,130008,{"daily_tag":1},2025-10-08 00:00:00,2025-10-14 01:59:59
+672509,3,去祈愿1次吧,10720,18,0,1,672510,0,0,0,130009,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672510,3,去祈愿3次吧,10720,18,0,3,672511,0,0,0,130010,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
+672511,3,去完成活动特别章节1次吧,10720,5,2164001,1,672505,0,0,0,130011,{"daily_tag":1},2025-10-07 02:00:00,2025-10-14 01:59:59
 674001,5,完成记号L？ 白色季节，白色物语吧,10760,3,216500001,1,1117933,0,0,0,125001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-08-26 02:00:00,2025-09-09 01:59:59
 674002,5,完成记号L2.8 某三人的场景吧,10760,3,216500002,1,1117933,0,0,0,125002,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-08-26 02:00:00,2025-09-09 01:59:59
 674003,5,通关记号L2.8 到那里的是吧,10760,4,216501,1,1117941,0,0,0,125003,{"episode_id":216500003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-08-26 02:00:00,2025-09-09 01:59:59
@@ -19098,6 +19831,267 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 674519,3,去祈愿1次吧,10760,18,0,1,674510,0,0,0,120009,{"daily_tag":1},2025-09-02 00:00:00,2025-09-09 01:59:59
 674520,3,去祈愿3次吧,10760,18,0,3,674511,0,0,0,120010,{"daily_tag":1},2025-09-02 00:00:00,2025-09-09 01:59:59
 674521,3,去完成活动特别章节1次吧,10760,5,2165001,1,674506,0,0,0,120011,{"daily_tag":1},2025-09-02 00:00:00,2025-09-09 01:59:59
+676001,5,完成凋零的早花吧,10880,3,216800001,1,1117933,676070,0,0,125001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676002,5,通关雪晴，繁盛的市场吧,10880,4,216801,1,676002,1117942,0,0,125002,{"episode_id":216800002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676003,5,通关骚动与冬之虹吧,10880,4,216802,1,676003,0,0,0,125003,{"episode_id":216800003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676004,5,通关风月的言语吧,10880,4,216803,1,676004,0,0,0,125004,{"episode_id":216800004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676005,5,完成开幕的圣诞夜吧,10880,3,216800005,1,1117933,0,0,0,125005,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676006,5,完成回想的白天吧,10880,3,216800006,1,1117933,0,0,0,125006,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676007,5,通关闪现之球吧,10880,4,216804,1,676007,0,0,0,125007,{"episode_id":216800007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676008,5,完成枯菊面纱吧,10880,3,216800008,1,1117933,0,0,0,125008,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676009,5,完成枯萩之心吧,10880,3,216800009,1,1117933,0,0,0,125009,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676010,5,通关雪兔的追逐吧,10880,4,216805,1,676010,1117942,0,0,125010,{"episode_id":216800010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676011,5,通关某夜的骚动：一吧,10880,4,216806,1,676011,0,0,0,125011,{"episode_id":216800011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676012,5,通关某夜的骚动：二吧,10880,4,216807,1,676012,0,0,0,125012,{"episode_id":216800012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676013,5,通关雪起爆发吧,10880,4,216808,1,676013,0,0,0,125013,{"episode_id":216800013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676014,5,通关冬凪还早呢吧,10880,4,216809,1,676014,1117942,0,0,125014,{"episode_id":216800014| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676015,5,完成邂逅迷星吧,10880,3,216800015,1,1117933,0,0,0,125015,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676016,5,通关自家·恐慌吧,10880,4,216810,1,676016,0,0,0,125016,{"episode_id":216800016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676017,5,完成像是被雾冰所吸引吧,10880,3,216800017,1,1117933,0,0,0,125017,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676018,5,完成雪时雨迷失的孩童吧,10880,3,216800018,1,1117933,0,0,0,125018,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676019,5,通关在霜夜星星开始转动吧,10880,4,216811,1,676019,1117942,0,0,125019,{"episode_id":216800019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676020,5,通关流动的雪之花吧,10880,4,216812,1,676020,0,0,0,125020,{"episode_id":216800020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676021,5,完成在冬夜奏响心根吧,10880,3,216800021,1,1117933,0,0,0,125021,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676022,5,通关我回来了吧,10880,4,216813,1,676022,0,0,0,125022,{"episode_id":216800022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676023,5,完成圣诞红的微笑吧,10880,3,216800023,1,1117933,676071,0,0,125023,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676024,5,通关雪晴，繁盛的市场吧,10880,4,216814,1,676024,1117942,0,0,125024,{"episode_id":216800002| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676025,5,通关骚动与冬之虹吧,10880,4,216815,1,676025,0,0,0,125025,{"episode_id":216800003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676026,5,通关风月的言语吧,10880,4,216816,1,676026,0,0,0,125026,{"episode_id":216800004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676027,5,通关闪现之球吧,10880,4,216817,1,676027,0,0,0,125027,{"episode_id":216800007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676028,5,通关雪兔的追逐吧,10880,4,216818,1,676028,1117942,0,0,125028,{"episode_id":216800010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676029,5,通关某夜的骚动：一吧,10880,4,216819,1,676029,0,0,0,125029,{"episode_id":216800011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676030,5,通关某夜的骚动：二吧,10880,4,216820,1,676030,0,0,0,125030,{"episode_id":216800012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676031,5,通关雪起爆发吧,10880,4,216821,1,676031,0,0,0,125031,{"episode_id":216800013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676032,5,通关冬凪还早呢吧,10880,4,216822,1,676032,1117942,0,0,125032,{"episode_id":216800014| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676033,5,通关自家·恐慌吧,10880,4,216823,1,676033,0,0,0,125033,{"episode_id":216800016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676034,5,通关在霜夜星星开始转动吧,10880,4,216824,1,676034,1117942,0,0,125034,{"episode_id":216800019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676035,5,通关流动的雪之花吧,10880,4,216825,1,676035,0,0,0,125035,{"episode_id":216800020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676036,5,通关我回来了吧,10880,4,216826,1,676036,0,0,0,125036,{"episode_id":216800022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676037,5,通关雪晴，繁盛的市场吧,10880,4,216827,1,676037,1117942,0,0,125037,{"episode_id":216800002| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676038,5,通关骚动与冬之虹吧,10880,4,216828,1,676038,0,0,0,125038,{"episode_id":216800003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676039,5,通关风月的言语吧,10880,4,216829,1,676039,0,0,0,125039,{"episode_id":216800004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676040,5,通关闪现之球吧,10880,4,216830,1,676040,0,0,0,125040,{"episode_id":216800007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676041,5,通关雪兔的追逐吧,10880,4,216831,1,676041,1117942,0,0,125041,{"episode_id":216800010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676042,5,通关某夜的骚动：一吧,10880,4,216832,1,676042,0,0,0,125042,{"episode_id":216800011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676043,5,通关某夜的骚动：二吧,10880,4,216833,1,676043,0,0,0,125043,{"episode_id":216800012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676044,5,通关雪起爆发吧,10880,4,216834,1,676044,0,0,0,125044,{"episode_id":216800013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676045,5,通关冬凪还早呢吧,10880,4,216835,1,676045,1117942,0,0,125045,{"episode_id":216800014| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676046,5,通关自家·恐慌吧,10880,4,216836,1,676046,0,0,0,125046,{"episode_id":216800016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676047,5,通关在霜夜星星开始转动吧,10880,4,216837,1,676047,1117942,0,0,125047,{"episode_id":216800019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676048,5,通关流动的雪之花吧,10880,4,216838,1,676048,0,0,0,125048,{"episode_id":216800020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676049,5,通关我回来了吧,10880,4,216839,1,676049,0,0,0,125049,{"episode_id":216800022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676050,5,完成新年惊喜吧,10880,3,216800101,1,1117933,0,0,0,125050,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676051,5,通关新春初骚动（付弹幕游戏）吧,10880,4,216840,1,676051,1117943,0,0,125051,{"episode_id":216800102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676052,5,完成奇怪点心的谎言检测吧,10880,3,216800103,1,1117933,0,0,0,125052,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676053,5,通关骚乱的奶酪占有吧,10880,4,216841,1,676053,0,0,0,125053,{"episode_id":216800104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676054,5,通关＊即便如此，也要吃面烧吗？＊吧,10880,4,216842,1,676054,0,0,0,125054,{"episode_id":216800105| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676055,5,完成希望吧,10880,3,216800106,1,1117933,0,0,0,125055,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676056,5,通关新春初骚动（付弹幕游戏）吧,10880,4,216843,1,676056,1117943,0,0,125056,{"episode_id":216800102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676057,5,通关骚乱的奶酪占有吧,10880,4,216844,1,676057,0,0,0,125057,{"episode_id":216800104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676058,5,通关＊即便如此，也要吃面烧吗？＊吧,10880,4,216845,1,676058,0,0,0,125058,{"episode_id":216800105| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676059,5,通关新春初骚动（付弹幕游戏）吧,10880,4,216846,1,676059,1117943,0,0,125059,{"episode_id":216800102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676060,5,通关骚乱的奶酪占有吧,10880,4,216847,1,676060,0,0,0,125060,{"episode_id":216800104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676061,5,通关＊即便如此，也要吃面烧吗？＊吧,10880,4,216848,1,676061,0,0,0,125061,{"episode_id":216800105| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676202,5,获得雪晴，繁盛的市场所有★,10880,6,216801,1,676002,676001,0,0,125062,{"episode_id":216800002| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676203,5,获得骚动与冬之虹所有★,10880,6,216802,1,676003,676001,0,0,125063,{"episode_id":216800003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676204,5,获得风月的言语所有★,10880,6,216803,1,676004,676001,0,0,125064,{"episode_id":216800004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676207,5,获得闪现之球所有★,10880,6,216804,1,676007,676001,0,0,125065,{"episode_id":216800007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676210,5,获得雪兔的追逐所有★,10880,6,216805,1,676010,676001,0,0,125066,{"episode_id":216800010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676211,5,获得某夜的骚动：一所有★,10880,6,216806,1,676011,676001,0,0,125067,{"episode_id":216800011| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676212,5,获得某夜的骚动：二所有★,10880,6,216807,1,676012,676001,0,0,125068,{"episode_id":216800012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676213,5,获得雪起爆发所有★,10880,6,216808,1,676013,676001,0,0,125069,{"episode_id":216800013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676214,5,获得冬凪还早呢所有★,10880,6,216809,1,676014,676001,0,0,125070,{"episode_id":216800014| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676216,5,获得自家·恐慌所有★,10880,6,216810,1,676016,676001,0,0,125071,{"episode_id":216800016| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676219,5,获得在霜夜星星开始转动所有★,10880,6,216811,1,676019,676001,0,0,125072,{"episode_id":216800019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676220,5,获得流动的雪之花所有★,10880,6,216812,1,676020,676001,0,0,125073,{"episode_id":216800020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676222,5,获得我回来了所有★,10880,6,216813,1,676022,0,0,0,125074,{"episode_id":216800022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676224,5,获得雪晴，繁盛的市场所有★,10880,6,216814,1,676024,0,0,0,125075,{"episode_id":216800002| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676225,5,获得骚动与冬之虹所有★,10880,6,216815,1,676025,0,0,0,125076,{"episode_id":216800003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676226,5,获得风月的言语所有★,10880,6,216816,1,676026,0,0,0,125077,{"episode_id":216800004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676227,5,获得闪现之球所有★,10880,6,216817,1,676027,0,0,0,125078,{"episode_id":216800007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676228,5,获得雪兔的追逐所有★,10880,6,216818,1,676028,0,0,0,125079,{"episode_id":216800010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676229,5,获得某夜的骚动：一所有★,10880,6,216819,1,676029,0,0,0,125080,{"episode_id":216800011| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676230,5,获得某夜的骚动：二所有★,10880,6,216820,1,676030,0,0,0,125081,{"episode_id":216800012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676231,5,获得雪起爆发所有★,10880,6,216821,1,676031,0,0,0,125082,{"episode_id":216800013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676232,5,获得冬凪还早呢所有★,10880,6,216822,1,676032,0,0,0,125083,{"episode_id":216800014| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676233,5,获得自家·恐慌所有★,10880,6,216823,1,676033,0,0,0,125084,{"episode_id":216800016| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676234,5,获得在霜夜星星开始转动所有★,10880,6,216824,1,676034,0,0,0,125085,{"episode_id":216800019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676235,5,获得流动的雪之花所有★,10880,6,216825,1,676035,0,0,0,125086,{"episode_id":216800020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676236,5,获得我回来了所有★,10880,6,216826,1,676036,0,0,0,125087,{"episode_id":216800022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676237,5,获得雪晴，繁盛的市场所有★,10880,6,216827,1,676037,0,0,0,125088,{"episode_id":216800002| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676238,5,获得骚动与冬之虹所有★,10880,6,216828,1,676038,0,0,0,125089,{"episode_id":216800003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676239,5,获得风月的言语所有★,10880,6,216829,1,676039,0,0,0,125090,{"episode_id":216800004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676240,5,获得闪现之球所有★,10880,6,216830,1,676040,0,0,0,125091,{"episode_id":216800007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676241,5,获得雪兔的追逐所有★,10880,6,216831,1,676041,0,0,0,125092,{"episode_id":216800010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676242,5,获得某夜的骚动：一所有★,10880,6,216832,1,676042,0,0,0,125093,{"episode_id":216800011| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676243,5,获得某夜的骚动：二所有★,10880,6,216833,1,676043,0,0,0,125094,{"episode_id":216800012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676244,5,获得雪起爆发所有★,10880,6,216834,1,676044,0,0,0,125095,{"episode_id":216800013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676245,5,获得冬凪还早呢所有★,10880,6,216835,1,676045,0,0,0,125096,{"episode_id":216800014| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676246,5,获得自家·恐慌所有★,10880,6,216836,1,676046,0,0,0,125097,{"episode_id":216800016| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676247,5,获得在霜夜星星开始转动所有★,10880,6,216837,1,676047,0,0,0,125098,{"episode_id":216800019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676248,5,获得流动的雪之花所有★,10880,6,216838,1,676048,0,0,0,125099,{"episode_id":216800020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676249,5,获得我回来了所有★,10880,6,216839,1,676049,0,0,0,125100,{"episode_id":216800022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676251,5,获得新春初骚动（付弹幕游戏）所有★,10880,6,216840,1,676051,0,0,0,125101,{"episode_id":216800102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676253,5,获得骚乱的奶酪占有所有★,10880,6,216841,1,676053,0,0,0,125102,{"episode_id":216800104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676254,5,获得＊即便如此，也要吃面烧吗？＊所有★,10880,6,216842,1,676054,0,0,0,125103,{"episode_id":216800105| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676256,5,获得新春初骚动（付弹幕游戏）所有★,10880,6,216843,1,676056,0,0,0,125104,{"episode_id":216800102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676257,5,获得骚乱的奶酪占有所有★,10880,6,216844,1,676057,0,0,0,125105,{"episode_id":216800104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676258,5,获得＊即便如此，也要吃面烧吗？＊所有★,10880,6,216845,1,676058,0,0,0,125106,{"episode_id":216800105| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676259,5,获得新春初骚动（付弹幕游戏）所有★,10880,6,216846,1,676059,0,0,0,125107,{"episode_id":216800102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676260,5,获得骚乱的奶酪占有所有★,10880,6,216847,1,676060,0,0,0,125108,{"episode_id":216800104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676261,5,获得＊即便如此，也要吃面烧吗？＊所有★,10880,6,216848,1,676061,0,0,0,125109,{"episode_id":216800105| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676501,3,在活动全期间登录吧,10880,1,0,1,676502,0,0,0,120001,{"daily_tag":1},2025-10-15 00:00:00,2025-10-21 01:59:59
+676502,3,活动探索战斗胜利5次吧,10880,31,2168,5,676502,0,0,0,120002,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676503,3,活动探索战斗胜利10次吧,10880,31,2168,10,676504,0,0,0,120003,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676504,3,活动探索战斗胜利15次吧,10880,31,2168,15,676505,0,0,0,120004,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676505,3,活动探索战斗胜利20次吧,10880,31,2168,20,676506,0,0,0,120005,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676506,3,活动探索战斗胜利25次吧,10880,31,2168,25,676507,0,0,0,120006,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676507,3,活动探索战斗胜利30次吧,10880,31,2168,30,676508,0,0,0,120007,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676508,3,去完成日常探索1次吧,10880,8,0,1,676045,0,0,0,120008,{"daily_tag":1},2025-10-15 00:00:00,2025-10-21 01:59:59
+676509,3,去祈愿1次吧,10880,18,0,1,676510,0,0,0,120009,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676510,3,去祈愿3次吧,10880,18,0,3,676511,0,0,0,120010,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+676511,3,去完成活动特别章节1次吧,10880,5,2168001,1,676505,0,0,0,120011,{"daily_tag":1},2025-10-14 02:00:00,2025-10-21 01:59:59
+685001,5,完成记号L？ 应援一方吧,11300,3,217900001,1,1117933,0,0,0,125001,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685002,5,完成记号L2.11 调查开始吧,11300,3,217900002,1,1117933,0,0,0,125002,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685003,5,通关记号L2.11 白狼的巡警吧,11300,4,217901,1,1117941,0,0,0,125003,{"episode_id":217900003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685004,5,通关记号L2.11 宣战通告吧,11300,4,217902,1,1117941,0,0,0,125004,{"episode_id":217900004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685005,5,完成记号L^11 不知不觉已在身旁吧,11300,3,217900005,1,1117933,0,0,0,125005,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685006,5,通关记号L^11 没有问题就是问题吧,11300,4,217903,1,1117941,0,0,0,125006,{"episode_id":217900006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685007,5,通关记号L^11 阻止我吧吧,11300,4,217904,1,1117941,0,0,0,125007,{"episode_id":217900007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685008,5,通关记号L^11 竞逐的异教徒吧,11300,4,217905,1,1117941,0,0,0,125008,{"episode_id":217900008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685009,5,完成记号L2.11 不战胜？吧,11300,3,217900009,1,1117933,0,0,0,125009,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685010,5,通关记号L2.11 啦啦队的源泉吧,11300,4,217906,1,1117941,0,0,0,125010,{"episode_id":217900010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685011,5,完成记号L^11 无法阻止的早苗吧,11300,3,217900011,1,1117933,0,0,0,125011,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685012,5,通关记号L^11 有救赎吗吧,11300,4,217907,1,1117941,0,0,0,125012,{"episode_id":217900012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685013,5,通关记号L^11 到了团结的时候吧,11300,4,217908,1,1117941,0,0,0,125013,{"episode_id":217900013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685014,5,完成记号L2.11 最初的也是最后的吧,11300,3,217900014,1,1117933,0,0,0,125014,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685015,5,通关记号L2.11 反抗心暴涨吧,11300,4,217909,1,1117941,0,0,0,125015,{"episode_id":217900015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685016,5,完成记号L^11 决斗书吧,11300,3,217900016,1,1117933,0,0,0,125016,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685017,5,通关记号L^11 流浪者吧,11300,4,217910,1,1117941,0,0,0,125017,{"episode_id":217900017| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685018,5,通关记号L^11 非敌非友吧,11300,4,217911,1,1117941,0,0,0,125018,{"episode_id":217900018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685019,5,通关记号L2.11 那是与自我的战斗吧,11300,4,217912,1,1117941,0,0,0,125019,{"episode_id":217900019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685020,5,通关记号L2.11 圣域吧,11300,4,217913,1,1117941,0,0,0,125020,{"episode_id":217900020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685021,5,完成记号L2.11 赢得比试吧,11300,3,217900021,1,1117933,0,0,0,125021,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685022,5,通关记号L^11 帮帮我吧,11300,4,217914,1,1117941,0,0,0,125022,{"episode_id":217900022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685023,5,通关记号L^11 人妖平等弹幕吧,11300,4,217915,1,1117941,0,0,0,125023,{"episode_id":217900023| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685024,5,完成记号L^11 在你身旁吧,11300,3,217900024,1,1117933,0,0,0,125024,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685025,5,完成记号L？ 应援的形式吧,11300,3,217900025,1,1117933,0,0,0,125025,{"difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685026,5,通关记号L2.11 白狼的巡警吧,11300,4,217916,1,1117941,0,0,0,125026,{"episode_id":217900003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685027,5,通关记号L2.11 宣战通告吧,11300,4,217917,1,1117941,0,0,0,125027,{"episode_id":217900004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685028,5,通关记号L^11 没有问题就是问题吧,11300,4,217918,1,1117941,0,0,0,125028,{"episode_id":217900006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685029,5,通关记号L^11 阻止我吧吧,11300,4,217919,1,1117941,0,0,0,125029,{"episode_id":217900007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685030,5,通关记号L^11 竞逐的异教徒吧,11300,4,217920,1,1117941,0,0,0,125030,{"episode_id":217900008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685031,5,通关记号L2.11 啦啦队的源泉吧,11300,4,217921,1,1117941,0,0,0,125031,{"episode_id":217900010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685032,5,通关记号L^11 有救赎吗吧,11300,4,217922,1,1117941,0,0,0,125032,{"episode_id":217900012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685033,5,通关记号L^11 到了团结的时候吧,11300,4,217923,1,1117941,0,0,0,125033,{"episode_id":217900013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685034,5,通关记号L2.11 反抗心暴涨吧,11300,4,217924,1,1117941,0,0,0,125034,{"episode_id":217900015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685035,5,通关记号L^11 流浪者吧,11300,4,217925,1,1117941,0,0,0,125035,{"episode_id":217900017| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685036,5,通关记号L^11 非敌非友吧,11300,4,217926,1,1117941,0,0,0,125036,{"episode_id":217900018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685037,5,通关记号L2.11 那是与自我的战斗吧,11300,4,217927,1,1117941,0,0,0,125037,{"episode_id":217900019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685038,5,通关记号L2.11 圣域吧,11300,4,217928,1,1117941,0,0,0,125038,{"episode_id":217900020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685039,5,通关记号L^11 帮帮我吧,11300,4,217929,1,1117941,0,0,0,125039,{"episode_id":217900022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685040,5,通关记号L^11 人妖平等弹幕吧,11300,4,217930,1,1117941,0,0,0,125040,{"episode_id":217900023| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685041,5,通关记号L2.11 白狼的巡警吧,11300,4,217931,1,1117941,0,0,0,125041,{"episode_id":217900003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685042,5,通关记号L2.11 宣战通告吧,11300,4,217932,1,1117941,0,0,0,125042,{"episode_id":217900004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685043,5,通关记号L^11 没有问题就是问题吧,11300,4,217933,1,1117941,0,0,0,125043,{"episode_id":217900006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685044,5,通关记号L^11 阻止我吧吧,11300,4,217934,1,1117941,0,0,0,125044,{"episode_id":217900007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685045,5,通关记号L^11 竞逐的异教徒吧,11300,4,217935,1,1117941,0,0,0,125045,{"episode_id":217900008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685046,5,通关记号L2.11 啦啦队的源泉吧,11300,4,217936,1,1117941,0,0,0,125046,{"episode_id":217900010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685047,5,通关记号L^11 有救赎吗吧,11300,4,217937,1,1117941,0,0,0,125047,{"episode_id":217900012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685048,5,通关记号L^11 到了团结的时候吧,11300,4,217938,1,1117941,0,0,0,125048,{"episode_id":217900013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685049,5,通关记号L2.11 反抗心暴涨吧,11300,4,217939,1,1117941,0,0,0,125049,{"episode_id":217900015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685050,5,通关记号L^11 流浪者吧,11300,4,217940,1,1117941,0,0,0,125050,{"episode_id":217900017| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685051,5,通关记号L^11 非敌非友吧,11300,4,217941,1,1117941,0,0,0,125051,{"episode_id":217900018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685052,5,通关记号L2.11 那是与自我的战斗吧,11300,4,217942,1,1117941,0,0,0,125052,{"episode_id":217900019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685053,5,通关记号L2.11 圣域吧,11300,4,217943,1,1117941,0,0,0,125053,{"episode_id":217900020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685054,5,通关记号L^11 帮帮我吧,11300,4,217944,1,1117941,0,0,0,125054,{"episode_id":217900022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685055,5,通关记号L^11 人妖平等弹幕吧,11300,4,217945,1,1117941,0,0,0,125055,{"episode_id":217900023| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685056,5,完成记号L2.11 应援团流放记吧,11300,3,217900101,1,1117933,0,0,0,125056,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685057,5,通关记号L2.11 火上浇油吧,11300,4,217946,1,1117941,0,0,0,125057,{"episode_id":217900102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685058,5,通关记号L2.11 女子啦啦队大会吧,11300,4,217947,1,1117941,0,0,0,125058,{"episode_id":217900103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685059,5,通关记号L2.11 互相鼓励吧,11300,4,217948,1,1117941,0,0,0,125059,{"episode_id":217900104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685060,5,完成记号L2.11 异常吧,11300,3,217900105,1,1117933,0,0,0,125060,{"difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685061,5,通关记号L2.11 火上浇油吧,11300,4,217949,1,1117941,0,0,0,125061,{"episode_id":217900102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685062,5,通关记号L2.11 女子啦啦队大会吧,11300,4,217950,1,1117941,0,0,0,125062,{"episode_id":217900103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685063,5,通关记号L2.11 互相鼓励吧,11300,4,217951,1,1117941,0,0,0,125063,{"episode_id":217900104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685064,5,通关记号L2.11 火上浇油吧,11300,4,217952,1,1117941,0,0,0,125064,{"episode_id":217900102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685065,5,通关记号L2.11 女子啦啦队大会吧,11300,4,217953,1,1117941,0,0,0,125065,{"episode_id":217900103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685066,5,通关记号L2.11 互相鼓励吧,11300,4,217954,1,1117941,0,0,0,125066,{"episode_id":217900104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685203,5,获得记号L2.11 白狼的巡警所有★,11300,6,217901,1,685203,685202,0,0,125067,{"episode_id":217900003| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685204,5,获得记号L2.11 宣战通告所有★,11300,6,217902,1,685204,685202,0,0,125068,{"episode_id":217900004| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685206,5,获得记号L^11 没有问题就是问题所有★,11300,6,217903,1,685206,685202,0,0,125069,{"episode_id":217900006| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685207,5,获得记号L^11 阻止我吧所有★,11300,6,217904,1,685207,0,0,0,125070,{"episode_id":217900007| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685208,5,获得记号L^11 竞逐的异教徒所有★,11300,6,217905,1,685208,0,0,0,125071,{"episode_id":217900008| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685210,5,获得记号L2.11 啦啦队的源泉所有★,11300,6,217906,1,685210,685202,0,0,125072,{"episode_id":217900010| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685212,5,获得记号L^11 有救赎吗所有★,11300,6,217907,1,685212,685202,0,0,125073,{"episode_id":217900012| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685213,5,获得记号L^11 到了团结的时候所有★,11300,6,217908,1,685213,685202,0,0,125074,{"episode_id":217900013| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685215,5,获得记号L2.11 反抗心暴涨所有★,11300,6,217909,1,685215,685202,0,0,125075,{"episode_id":217900015| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685217,5,获得记号L^11 流浪者所有★,11300,6,217910,1,685217,685202,0,0,125076,{"episode_id":217900017| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685218,5,获得记号L^11 非敌非友所有★,11300,6,217911,1,685218,685202,0,0,125077,{"episode_id":217900018| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685219,5,获得记号L2.11 那是与自我的战斗所有★,11300,6,217912,1,685219,685202,0,0,125078,{"episode_id":217900019| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685220,5,获得记号L2.11 圣域所有★,11300,6,217913,1,685220,685202,0,0,125079,{"episode_id":217900020| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685222,5,获得记号L^11 帮帮我所有★,11300,6,217914,1,685222,685202,0,0,125080,{"episode_id":217900022| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685223,5,获得记号L^11 人妖平等弹幕所有★,11300,6,217915,1,685223,0,0,0,125081,{"episode_id":217900023| "difficulty":0| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685226,5,获得记号L2.11 白狼的巡警所有★,11300,6,217916,1,685226,0,0,0,125082,{"episode_id":217900003| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685227,5,获得记号L2.11 宣战通告所有★,11300,6,217917,1,685227,0,0,0,125083,{"episode_id":217900004| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685228,5,获得记号L^11 没有问题就是问题所有★,11300,6,217918,1,685228,0,0,0,125084,{"episode_id":217900006| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685229,5,获得记号L^11 阻止我吧所有★,11300,6,217919,1,685229,0,0,0,125085,{"episode_id":217900007| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685230,5,获得记号L^11 竞逐的异教徒所有★,11300,6,217920,1,685230,0,0,0,125086,{"episode_id":217900008| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685231,5,获得记号L2.11 啦啦队的源泉所有★,11300,6,217921,1,685231,0,0,0,125087,{"episode_id":217900010| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685232,5,获得记号L^11 有救赎吗所有★,11300,6,217922,1,685232,0,0,0,125088,{"episode_id":217900012| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685233,5,获得记号L^11 到了团结的时候所有★,11300,6,217923,1,685233,0,0,0,125089,{"episode_id":217900013| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685234,5,获得记号L2.11 反抗心暴涨所有★,11300,6,217924,1,685234,0,0,0,125090,{"episode_id":217900015| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685235,5,获得记号L^11 流浪者所有★,11300,6,217925,1,685235,0,0,0,125091,{"episode_id":217900017| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685236,5,获得记号L^11 非敌非友所有★,11300,6,217926,1,685236,0,0,0,125092,{"episode_id":217900018| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685237,5,获得记号L2.11 那是与自我的战斗所有★,11300,6,217927,1,685237,0,0,0,125093,{"episode_id":217900019| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685238,5,获得记号L2.11 圣域所有★,11300,6,217928,1,685238,0,0,0,125094,{"episode_id":217900020| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685239,5,获得记号L^11 帮帮我所有★,11300,6,217929,1,685239,0,0,0,125095,{"episode_id":217900022| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685240,5,获得记号L^11 人妖平等弹幕所有★,11300,6,217930,1,685240,0,0,0,125096,{"episode_id":217900023| "difficulty":1| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685241,5,获得记号L2.11 白狼的巡警所有★,11300,6,217931,1,685241,0,0,0,125097,{"episode_id":217900003| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685242,5,获得记号L2.11 宣战通告所有★,11300,6,217932,1,685242,0,0,0,125098,{"episode_id":217900004| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685243,5,获得记号L^11 没有问题就是问题所有★,11300,6,217933,1,685243,0,0,0,125099,{"episode_id":217900006| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685244,5,获得记号L^11 阻止我吧所有★,11300,6,217934,1,685244,0,0,0,125100,{"episode_id":217900007| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685245,5,获得记号L^11 竞逐的异教徒所有★,11300,6,217935,1,685245,0,0,0,125101,{"episode_id":217900008| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-23 02:00:00,2025-10-21 01:59:59
+685246,5,获得记号L2.11 啦啦队的源泉所有★,11300,6,217936,1,685246,0,0,0,125102,{"episode_id":217900010| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685247,5,获得记号L^11 有救赎吗所有★,11300,6,217937,1,685247,0,0,0,125103,{"episode_id":217900012| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685248,5,获得记号L^11 到了团结的时候所有★,11300,6,217938,1,685248,0,0,0,125104,{"episode_id":217900013| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-24 00:00:00,2025-10-21 01:59:59
+685249,5,获得记号L2.11 反抗心暴涨所有★,11300,6,217939,1,685249,0,0,0,125105,{"episode_id":217900015| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685250,5,获得记号L^11 流浪者所有★,11300,6,217940,1,685250,0,0,0,125106,{"episode_id":217900017| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685251,5,获得记号L^11 非敌非友所有★,11300,6,217941,1,685251,0,0,0,125107,{"episode_id":217900018| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-25 00:00:00,2025-10-21 01:59:59
+685252,5,获得记号L2.11 那是与自我的战斗所有★,11300,6,217942,1,685252,0,0,0,125108,{"episode_id":217900019| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685253,5,获得记号L2.11 圣域所有★,11300,6,217943,1,685253,0,0,0,125109,{"episode_id":217900020| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685254,5,获得记号L^11 帮帮我所有★,11300,6,217944,1,685254,0,0,0,125110,{"episode_id":217900022| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685255,5,获得记号L^11 人妖平等弹幕所有★,11300,6,217945,1,685255,0,0,0,125111,{"episode_id":217900023| "difficulty":2| "ex":0| "dis_difficulty_tag":1},2025-09-26 00:00:00,2025-10-21 01:59:59
+685257,5,获得记号L2.11 火上浇油所有★,11300,6,217946,1,685257,0,0,0,125112,{"episode_id":217900102| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685258,5,获得记号L2.11 女子啦啦队大会所有★,11300,6,217947,1,685258,0,0,0,125113,{"episode_id":217900103| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685259,5,获得记号L2.11 互相鼓励所有★,11300,6,217948,1,685259,0,0,0,125114,{"episode_id":217900104| "difficulty":0| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685261,5,获得记号L2.11 火上浇油所有★,11300,6,217949,1,685261,0,0,0,125115,{"episode_id":217900102| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685262,5,获得记号L2.11 女子啦啦队大会所有★,11300,6,217950,1,685262,0,0,0,125116,{"episode_id":217900103| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685263,5,获得记号L2.11 互相鼓励所有★,11300,6,217951,1,685263,0,0,0,125117,{"episode_id":217900104| "difficulty":1| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685264,5,获得记号L2.11 火上浇油所有★,11300,6,217952,1,685264,0,0,0,125118,{"episode_id":217900102| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685265,5,获得记号L2.11 女子啦啦队大会所有★,11300,6,217953,1,685265,0,0,0,125119,{"episode_id":217900103| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685266,5,获得记号L2.11 互相鼓励所有★,11300,6,217954,1,685266,0,0,0,125120,{"episode_id":217900104| "difficulty":2| "ex":1| "dis_difficulty_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685501,3,在活动全期间登录吧,11300,1,0,1,685502,0,0,0,120001,{"daily_tag":1},2025-09-24 00:00:00,2025-09-29 23:59:59
+685502,3,活动探索战斗胜利3次吧,11300,31,2179,3,685257,0,0,0,120002,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685503,3,活动探索战斗胜利5次吧,11300,31,2179,5,685502,0,0,0,120003,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685504,3,活动探索战斗胜利10次吧,11300,31,2179,10,685505,0,0,0,120004,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685505,3,活动探索战斗胜利15次吧,11300,31,2179,15,685506,0,0,0,120005,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685506,3,活动探索战斗胜利20次吧,11300,31,2179,20,685507,0,0,0,120006,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685507,3,活动探索战斗胜利25次吧,11300,31,2179,25,685508,0,0,0,120007,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685508,3,去完成日常探索1次吧,11300,8,0,1,685509,0,0,0,120008,{"daily_tag":1},2025-09-24 00:00:00,2025-09-29 23:59:59
+685509,3,去祈愿1次吧,11300,18,0,1,685510,0,0,0,120009,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685510,3,去祈愿3次吧,11300,18,0,3,685511,0,0,0,120010,{"daily_tag":1},2025-09-23 02:00:00,2025-09-29 23:59:59
+685511,3,在活动全期间登录吧,11300,1,0,1,685502,0,0,0,120001,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685512,3,活动探索战斗胜利5次吧,11300,31,2179,5,685502,0,0,0,120002,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685513,3,活动探索战斗胜利10次吧,11300,31,2179,10,685505,0,0,0,120003,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685514,3,活动探索战斗胜利15次吧,11300,31,2179,15,685506,0,0,0,120004,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685515,3,活动探索战斗胜利20次吧,11300,31,2179,20,685507,0,0,0,120005,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685516,3,活动探索战斗胜利25次吧,11300,31,2179,25,685508,0,0,0,120006,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685517,3,活动探索战斗胜利30次吧,11300,31,2179,30,685518,0,0,0,120007,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685518,3,去完成日常探索1次吧,11300,8,0,1,685509,0,0,0,120008,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685519,3,去祈愿1次吧,11300,18,0,1,685510,0,0,0,120009,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685520,3,去祈愿3次吧,11300,18,0,3,685511,0,0,0,120010,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
+685521,3,去完成活动特别章节1次吧,11300,5,2179001,1,685506,0,0,0,120011,{"daily_tag":1},2025-09-30 00:00:00,2025-10-21 01:59:59
 1100100,1,通关博丽灵梦 转生镜探索,0,37,10010101,1,11001001,11001000,0,0,801210,{"battle_id":10010101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1100101,2,获得博丽灵梦 转生镜探索所有★,0,38,10010101,1,11001001,0,0,0,801211,{"battle_id":10010101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1100110,1,通关博丽灵梦 转生镜探索,0,37,10010102,1,11001002,11001000,0,0,801210,{"battle_id":10010102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
@@ -19578,6 +20572,12 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 1108311,2,获得高丽野阿吽 转生镜探索所有★,0,38,10830102,1,11083002,0,0,0,801737,{"battle_id":10830102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1108320,1,通关高丽野阿吽 转生镜探索,0,37,10830103,1,11083003,11001000,0,0,801738,{"battle_id":10830103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1108321,2,获得高丽野阿吽 转生镜探索所有★,0,38,10830103,1,11083003,0,0,0,801739,{"battle_id":10830103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1108400,1,通关风见幽香 转生镜探索,0,37,10840101,1,11084001,11001000,0,0,801826,{"battle_id":10840101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1108401,2,获得风见幽香 转生镜探索所有★,0,38,10840101,1,11084001,0,0,0,801827,{"battle_id":10840101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1108410,1,通关风见幽香 转生镜探索,0,37,10840102,1,11084002,11001000,0,0,801826,{"battle_id":10840102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1108411,2,获得风见幽香 转生镜探索所有★,0,38,10840102,1,11084002,0,0,0,801827,{"battle_id":10840102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1108420,1,通关风见幽香 转生镜探索,0,37,10840103,1,11084003,11001000,0,0,801826,{"battle_id":10840103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1108421,2,获得风见幽香 转生镜探索所有★,0,38,10840103,1,11084003,0,0,0,801827,{"battle_id":10840103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1108500,1,通关霍青娥 转生镜探索,0,37,10850101,1,11085001,11001000,0,0,801644,{"battle_id":10850101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1108501,2,获得霍青娥 转生镜探索所有★,0,38,10850101,1,11085001,0,0,0,801645,{"battle_id":10850101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1108510,1,通关霍青娥 转生镜探索,0,37,10850102,1,11085002,11001000,0,0,801646,{"battle_id":10850102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
@@ -19704,6 +20704,18 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 1110511,2,获得堀川雷鼓 转生镜探索所有★,0,38,11050102,1,11105002,0,0,0,801527,{"battle_id":11050102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1110520,1,通关堀川雷鼓 转生镜探索,0,37,11050103,1,11105003,11001000,0,0,801528,{"battle_id":11050103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1110521,2,获得堀川雷鼓 转生镜探索所有★,0,38,11050103,1,11105003,0,0,0,801529,{"battle_id":11050103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110600,1,通关矢田寺成美 转生镜探索,0,37,11060101,1,11106001,11001000,0,0,801828,{"battle_id":11060101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110601,2,获得矢田寺成美 转生镜探索所有★,0,38,11060101,1,11106001,0,0,0,801829,{"battle_id":11060101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110610,1,通关矢田寺成美 转生镜探索,0,37,11060102,1,11106002,11001000,0,0,801828,{"battle_id":11060102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110611,2,获得矢田寺成美 转生镜探索所有★,0,38,11060102,1,11106002,0,0,0,801829,{"battle_id":11060102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110620,1,通关矢田寺成美 转生镜探索,0,37,11060103,1,11106003,11001000,0,0,801828,{"battle_id":11060103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110621,2,获得矢田寺成美 转生镜探索所有★,0,38,11060103,1,11106003,0,0,0,801829,{"battle_id":11060103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110700,1,通关爱塔妮缇拉尔瓦 转生镜探索,0,37,11070101,1,11107001,11001000,0,0,801830,{"battle_id":11070101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110701,2,获得爱塔妮缇拉尔瓦 转生镜探索所有★,0,38,11070101,1,11107001,0,0,0,801831,{"battle_id":11070101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110710,1,通关爱塔妮缇拉尔瓦 转生镜探索,0,37,11070102,1,11107002,11001000,0,0,801830,{"battle_id":11070102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110711,2,获得爱塔妮缇拉尔瓦 转生镜探索所有★,0,38,11070102,1,11107002,0,0,0,801831,{"battle_id":11070102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110720,1,通关爱塔妮缇拉尔瓦 转生镜探索,0,37,11070103,1,11107003,11001000,0,0,801830,{"battle_id":11070103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
+1110721,2,获得爱塔妮缇拉尔瓦 转生镜探索所有★,0,38,11070103,1,11107003,0,0,0,801831,{"battle_id":11070103| "difficulty":2| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1111000,1,通关骊驹早鬼 转生镜探索,0,37,11100101,1,11110001,11001000,0,0,801656,{"battle_id":11100101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1111001,2,获得骊驹早鬼 转生镜探索所有★,0,38,11100101,1,11110001,0,0,0,801657,{"battle_id":11100101| "difficulty":0| "ex":0| "dis_difficulty_tag":1},(empty),(empty)
 1111010,1,通关骊驹早鬼 转生镜探索,0,37,11100102,1,11110002,11001000,0,0,801658,{"battle_id":11100102| "difficulty":1| "ex":0| "dis_difficulty_tag":1},(empty),(empty)

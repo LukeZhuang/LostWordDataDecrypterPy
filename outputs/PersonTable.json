@@ -174,6 +174,7 @@
 {"id": 1072, "name": "上白沢慧音(2)", "description": ""}
 {"id": 1073, "name": "ルーミア(2)", "description": ""}
 {"id": 1076, "name": "多々良小傘(2)", "description": ""}
+{"id": 1077, "name": "わかさぎ姫(2)", "description": ""}
 {"id": 1079, "name": "赤蛮奇(2)", "description": ""}
 {"id": 1080, "name": "ドレミー·スイート(2)", "description": ""}
 {"id": 1081, "name": "稀神サグメ(2)", "description": ""}
@@ -182,6 +183,7 @@
 {"id": 1088, "name": "レティ·ホワイトロック(2)", "description": ""}
 {"id": 1089, "name": "比那名居天子(1)", "description": ""}
 {"id": 1091, "name": "豊聡耳神子(2)", "description": ""}
+{"id": 1096, "name": "幽谷響子(2)", "description": ""}
 {"id": 1097, "name": "ミスティア·ローレライ(2)", "description": ""}
 {"id": 1098, "name": "リグル·ナイトバグ(2)", "description": ""}
 {"id": 1115, "name": "奥野田美宵(2)", "description": ""}
@@ -213,6 +215,7 @@
 {"id": 2072, "name": "上白沢慧音(3)", "description": ""}
 {"id": 2084, "name": "風見幽香(3)", "description": ""}
 {"id": 2091, "name": "豊聡耳神子(3)", "description": ""}
+{"id": 2097, "name": "ミスティア·ローレライ(3)", "description": ""}
 {"id": 2905, "name": "マエリベリー·ハーン", "description": ""}
 {"id": 2926, "name": "マエリベリー·ハーン(2)", "description": ""}
 {"id": 3001, "name": "博麗霊夢(4)", "description": ""}
@@ -224,9 +227,11 @@
 {"id": 3009, "name": "八雲紫(4)", "description": ""}
 {"id": 3010, "name": "西行寺幽々子(8)", "description": ""}
 {"id": 3011, "name": "魂魄妖夢(4)", "description": ""}
+{"id": 3013, "name": "八雲藍(4)", "description": "少女祈祷中"}
 {"id": 3015, "name": "鈴仙·優曇華院·イナバ(4)", "description": ""}
 {"id": 3019, "name": "蓬莱山輝夜(4)", "description": ""}
 {"id": 3020, "name": "藤原妹紅(4)", "description": ""}
+{"id": 3030, "name": "チルノ(4)", "description": ""}
 {"id": 3031, "name": "大妖精(4)", "description": ""}
 {"id": 3032, "name": "アリス·マーガトロイド(4)", "description": ""}
 {"id": 3037, "name": "東風谷早苗(4)", "description": ""}
@@ -253,6 +258,7 @@
 {"id": 4068, "name": "九十九八橋", "description": ""}
 {"id": 4087, "name": "秦こころ", "description": ""}
 {"id": 4089, "name": "比那名居天子(5)", "description": ""}
+{"id": 4105, "name": "堀川雷鼓(5)", "description": ""}
 {"id": 4131, "name": "日白残無(5)", "description": ""}
 {"id": 5001, "name": "博麗霊夢(6)", "description": ""}
 {"id": 5002, "name": "霧雨魔理沙(6)", "description": ""}
@@ -283,6 +289,7 @@
 {"id": 6005, "name": "十六夜咲夜(7)", "description": ""}
 {"id": 6011, "name": "魂魄妖夢(7)", "description": ""}
 {"id": 6024, "name": "聖白蓮(7)", "description": ""}
+{"id": 6036, "name": "メディスン·メランコリー(7)", "description": "少女祈祷中"}
 {"id": 6037, "name": "東風谷早苗(7)", "description": ""}
 {"id": 6038, "name": "八坂神奈子(7)", "description": ""}
 {"id": 6039, "name": "洩矢諏訪子(7)", "description": ""}
@@ -295,6 +302,7 @@
 {"id": 6073, "name": "ルーミア(7)", "description": ""}
 {"id": 6085, "name": "霍青娥(7)", "description": ""}
 {"id": 6095, "name": "少名針妙丸(7)", "description": ""}
+{"id": 6112, "name": "庭渡久侘歌(7)", "description": ""}
 {"id": 7001, "name": "博麗霊夢(8)", "description": ""}
 {"id": 7002, "name": "霧雨魔理沙(8)", "description": ""}
 {"id": 7032, "name": "アリス·マーガトロイド(8)", "description": ""}
@@ -303,11 +311,17 @@
 {"id": 7055, "name": "四季映姫·ヤマザナドゥ(8)", "description": ""}
 {"id": 7057, "name": "純狐(8)", "description": ""}
 {"id": 7058, "name": "クラウンピース(8)", "description": ""}
+{"id": 7076, "name": "多々良小傘(8)", "description": ""}
+{"id": 7082, "name": "二ッ岩マミゾウ(8)", "description": ""}
+{"id": 7085, "name": "霍青娥(8)", "description": ""}
 {"id": 7099, "name": "水橋パルスィ(8)", "description": ""}
 {"id": 8037, "name": "東風谷早苗(9)", "description": ""}
 {"id": 9002, "name": "霧雨魔理沙(10)", "description": ""}
+{"id": 9003, "name": "レミリア·スカーレット(10)", "description": ""}
+{"id": 9004, "name": "フランドール·スカーレット(10)", "description": ""}
 {"id": 9030, "name": "チルノ(10)", "description": ""}
 {"id": 9043, "name": "宇佐見菫子(10)", "description": ""}
+{"id": 9057, "name": "純狐(10)", "description": ""}
 {"id": 9069, "name": "摩多羅隠岐奈(10)", "description": ""}
 {"id": 9107, "name": "エタニティラルバ（10）", "description": ""}
 {"id": 10003, "name": "レミリア·スカーレット(11)", "description": ""}
@@ -319,6 +333,7 @@
 {"id": 10048, "name": "伊吹萃香(11)", "description": ""}
 {"id": 10050, "name": "古明地さとり(6)", "description": ""}
 {"id": 10103, "name": "雲居一輪(11)", "description": ""}
+{"id": 11002, "name": "霧雨魔理沙(12)", "description": ""}
 {"id": 11004, "name": "フランドール·スカーレット(12)", "description": ""}
 {"id": 11008, "name": "小悪魔(12)", "description": ""}
 {"id": 11015, "name": "鈴仙·優曇華院·イナバ(12)", "description": ""}
@@ -331,6 +346,8 @@
 {"id": 13006, "name": "パチュリー·ノーレッジ", "description": ""}
 {"id": 13015, "name": "鈴仙·優曇華院·イナバ(14)", "description": ""}
 {"id": 14004, "name": "フランドール·スカーレット(15)", "description": ""}
+{"id": 14011, "name": "魂魄妖夢(15)", "description": ""}
+{"id": 14037, "name": "東風谷早苗(15)", "description": ""}
 {"id": 14051, "name": "古明地こいし(15)", "description": ""}
 {"id": 15004, "name": "フランドール·スカーレット(16)", "description": ""}
 {"id": 15006, "name": "パチュリー·ノーレッジ(16)", "description": ""}
@@ -344,11 +361,14 @@
 {"id": 18032, "name": "アリス·マーガトロイド(19)", "description": ""}
 {"id": 18037, "name": "東風谷早苗(19)", "description": ""}
 {"id": 19005, "name": "十六夜咲夜(20)", "description": ""}
+{"id": 20005, "name": "十六夜咲夜(21)", "description": ""}
 {"id": 24001, "name": "博麗霊夢(25)", "description": ""}
 {"id": 24002, "name": "霧雨魔理沙(25)", "description": ""}
 {"id": 25001, "name": "博麗霊夢(26)", "description": ""}
 {"id": 25002, "name": "霧雨魔理沙(26)", "description": ""}
 {"id": 26001, "name": "博麗霊夢(27)", "description": ""}
+{"id": 26002, "name": "霧雨魔理沙(27)", "description": ""}
+{"id": 27001, "name": "博麗霊夢(28)", "description": ""}
 {"id": 49001, "name": "ゆっくりれいむ", "description": ""}
 {"id": 49002, "name": "ゆっくりまりさ", "description": ""}
 {"id": 49004, "name": "ゆっくりフラン", "description": ""}

@@ -210,5 +210,11 @@
 {"id": 210, "name": "黄泉丑女", "description": "-", "alias_name": "对黄泉丑女有缘者特别有效。"}
 {"id": 211, "name": "探险家", "description": "-", "alias_name": "对探险家特别有效。"}
 {"id": 212, "name": "铳火器", "description": "-", "alias_name": "对铳火器持有者特别有效。"}
-{"id": 213, "name": "ワードスミス", "description": "-", "alias_name": "ワードスミスに効く。"}
-{"id": 214, "name": "超ゆっくり", "description": "-", "alias_name": "超ゆっくり"}
+{"id": 213, "name": "言语大师", "description": "-", "alias_name": "对言语大师特别有效。"}
+{"id": 214, "name": "超油库里", "description": "-", "alias_name": "对超油库里特别有效。"}
+{"id": 215, "name": "LIVE(LW)", "description": "LostWordLIVE", "alias_name": "LostWordLIVE"}
+{"id": 216, "name": "凭依", "description": "", "alias_name": "对被凭依者特别有效。"}
+{"id": 217, "name": "母", "description": "", "alias_name": "对母系特别有效。"}
+{"id": 218, "name": "UFO", "description": "-", "alias_name": "对UFO特别有效。"}
+{"id": 219, "name": "鸟兽伎乐", "description": "-", "alias_name": "对鸟兽伎乐特别有效。"}
+{"id": 220, "name": "护士", "description": "-", "alias_name": "对护士特别有效。"}

@@ -78,6 +78,7 @@
 {"id": 108101, "target_name": "稀神探女", "target_unit_id": 1081, "priority": 36, "costume_id": 108101, "unit_speech_group_id": 337}
 {"id": 108201, "target_name": "二岩猯藏", "target_unit_id": 1082, "priority": 46, "costume_id": 108201, "unit_speech_group_id": 373}
 {"id": 108301, "target_name": "高丽野阿吽", "target_unit_id": 1083, "priority": 90, "costume_id": 108301, "unit_speech_group_id": 924}
+{"id": 108401, "target_name": "风见幽香", "target_unit_id": 1084, "priority": 128, "costume_id": 108401, "unit_speech_group_id": 1211}
 {"id": 108501, "target_name": "霍青娥", "target_unit_id": 1085, "priority": 75, "costume_id": 108501, "unit_speech_group_id": 771}
 {"id": 108601, "target_name": "宫古芳香", "target_unit_id": 1086, "priority": 76, "costume_id": 108601, "unit_speech_group_id": 772}
 {"id": 108701, "target_name": "秦心", "target_unit_id": 1087, "priority": 74, "costume_id": 108701, "unit_speech_group_id": 724}
@@ -99,6 +100,8 @@
 {"id": 110301, "target_name": "云居一轮", "target_unit_id": 1103, "priority": 104, "costume_id": 110301, "unit_speech_group_id": 1078}
 {"id": 110401, "target_name": "封兽鵺", "target_unit_id": 1104, "priority": 101, "costume_id": 110401, "unit_speech_group_id": 1056}
 {"id": 110501, "target_name": "堀川雷鼓", "target_unit_id": 1105, "priority": 55, "costume_id": 110501, "unit_speech_group_id": 523}
+{"id": 110601, "target_name": "矢田寺成美", "target_unit_id": 1106, "priority": 129, "costume_id": 110601, "unit_speech_group_id": 1212}
+{"id": 110701, "target_name": "爱塔妮缇拉尔瓦", "target_unit_id": 1107, "priority": 130, "costume_id": 110701, "unit_speech_group_id": 1213}
 {"id": 111001, "target_name": "骊驹早鬼", "target_unit_id": 1110, "priority": 77, "costume_id": 111001, "unit_speech_group_id": 773}
 {"id": 111101, "target_name": "吉吊八千慧", "target_unit_id": 1111, "priority": 78, "costume_id": 111101, "unit_speech_group_id": 774}
 {"id": 111201, "target_name": "庭渡久侘歌", "target_unit_id": 1112, "priority": 70, "costume_id": 111201, "unit_speech_group_id": 676}

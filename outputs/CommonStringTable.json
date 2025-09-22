@@ -8,6 +8,10 @@
 {"text_key": "4TH_ANNIVERSARY_ITEM_SUBJECT", "japanese_value": "全員もらえるキャンペーン【4周年感謝賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "4TH_ANNIVERSARY_ORB_MESSAGE", "japanese_value": "「4thアニバーサリー全員もらえるキャンペーン」の神結賞として　「神結晶600個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "4TH_ANNIVERSARY_ORB_SUBJECT", "japanese_value": "全員もらえるキャンペーン【神結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY_CRYSTAL_MESSAGE", "japanese_value": "「5thアニバーサリー全員もらえるキャンペーン」の封結賞として　「封結晶50個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY_CRYSTAL_SUBJECT", "japanese_value": "全員もらえるキャンペーン【封結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY_ORB_MESSAGE", "japanese_value": "「5thアニバーサリー全員もらえるキャンペーン」の神結賞として　「神結晶600個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY_ORB_SUBJECT", "japanese_value": "全員もらえるキャンペーン【神結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ALBUM_GRAND_STORIES_TITLE", "japanese_value": "故事", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ALBUM_PICTURE_BOOK_TITLE", "japanese_value": "幻想乡绘册", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ALBUM_PICTURE_TITLE", "japanese_value": "图鉴", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -330,8 +334,12 @@
 {"text_key": "APP_QUEST_CAN_SELECT_DIFFICULTY", "japanese_value": "可以选择难易度了", "english_value": "APP_QUEST_CAN_SELECT_DIFFICULTY", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_CAN_SELECT_EXTRA", "japanese_value": "可以选择额外关卡了", "english_value": "APP_QUEST_CAN_SELECT_EXTRA", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_CAN_SELECT_LUNATIC", "japanese_value": "可以选择月狂难度了", "english_value": "APP_QUEST_CAN_SELECT_LUNATIC", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_QUEST_CHARACTER_EXP_CONDITION_INFO", "japanese_value": "编成{0}({1})", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_QUEST_DATES_REMAINING", "japanese_value": "期限内剩余次数", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_QUEST_DATES_REMAINING_FORMAT", "japanese_value": "期限内剩余次数  {0:D}/{1:D}", "english_value": "APP_QUEST_DATES_REMAINING_FORMAT {0:D} {1:D}", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_EPISODE_OPEN_EVENT_POINT_FORMAT", "japanese_value": "获得{0}累计点数后开放", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_EPISODE_OPEN_START_AT_FORMAT", "japanese_value": "{0}月{1}日{2}时开放", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "APP_QUEST_REMAINING", "japanese_value": "今日剩余次数", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_REMAINING_CHARACTER_FORMAT", "japanese_value": "剩余次数  {0:D}/{1:D}", "english_value": "APP_QUEST_REMAINING_CHARACTER_FORMAT {0:D} {1:D}", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_REMAINING_FORMAT", "japanese_value": "今日剩余次数  {0:D}/{1:D}", "english_value": "APP_QUEST_REMAINING_FORMAT {0:D} {1:D}", "chinese_value": "", "french_value": ""}
 {"text_key": "APP_QUEST_STAGE_LOCK", "japanese_value": "关卡尚未开放", "english_value": "APP_QUEST_STAGE_LOCK", "chinese_value": "", "french_value": ""}
@@ -584,6 +592,8 @@
 {"text_key": "BATTLE_SPECA_SPEC_NAME", "japanese_value": "[名称]", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "BATTLE_SPECA_SPEC_RANGE", "japanese_value": "[目标]", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "BEGINNER_GACHA_ENDED_MESSAGE", "japanese_value": "举办活动已经结束。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "BP_REWARD_NOT_RECEIVE_MESSAGE", "japanese_value": "这是文的特刊新闻帖报酬", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "BP_REWARD_NOT_RECEIVE_SUBJECT", "japanese_value": "文的特刊新闻帖报酬", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "BUFF_NAME_1", "japanese_value": "阳攻上升", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "BUFF_NAME_10", "japanese_value": "会心命中上升", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "BUFF_NAME_11", "japanese_value": "会心回避上升", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -780,6 +790,7 @@
 {"text_key": "GACHA_POINT_MAIL_SUBJECT", "japanese_value": "过期交换P的变换", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_TITLE", "japanese_value": "祈愿", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ITEM_TITLE", "japanese_value": "道具", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "ITEM_TYPE_ABILITY_CARD", "japanese_value": "能力贴纸", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LECTURE_ROOM_TITLE", "japanese_value": "寺子屋", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LOGINBONUS_EVENT_NAME", "japanese_value": "登入奖励", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LOGINBONUS_MAIL_MESSAGE", "japanese_value": "「{name}」第{day}日的报酬", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -835,6 +846,7 @@
 {"text_key": "RETRY_GACHA_EXPIRED_MAIL_SUBJECT", "japanese_value": "重置祈愿", "english_value": "RETRY_GACHA_EXPIRED_MAIL_SUBJECT", "chinese_value": "", "french_value": ""}
 {"text_key": "RETRY_GACHA_LIMIT_OVER_MAIL_MESSAGE", "japanese_value": "「重置祈愿」中确定下来的{object_type}。", "english_value": "RETRY_GACHA_LIMIT_OVER_MAIL_MESSAGE", "chinese_value": "", "french_value": ""}
 {"text_key": "RETRY_GACHA_LIMIT_OVER_MAIL_SUBJECT", "japanese_value": "重置祈愿", "english_value": "RETRY_GACHA_LIMIT_OVER_MAIL_SUBJECT", "chinese_value": "", "french_value": ""}
+{"text_key": "ROGUE_LITE_TOP_TITLE", "japanese_value": "守矢秘境", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ROLE_1_NAME", "japanese_value": "防御式", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ROLE_2_NAME", "japanese_value": "支援式", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ROLE_3_NAME", "japanese_value": "回复式", "english_value": "", "chinese_value": "", "french_value": ""}

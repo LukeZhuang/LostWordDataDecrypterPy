@@ -1,8 +1,17 @@
 {"key": "52_PALYER_ID_BAN_LIST", "value": "[]", "description": "52服玩家战斗履历禁止上榜名单"}
+{"key": "AFK_DESTINY_VALUE_MAX", "value": "50", "description": ""}
 {"key": "ALREADY_READ_MAX", "value": "30", "description": "伝書既読最大件数"}
 {"key": "ANNIVERSARY_PRESENT_EVENT_ID", "value": "2740", "description": "一周年記念イベントのイベントID"}
 {"key": "ANNIVERSARY_PRESENT_LOGIN_COUNT", "value": "30", "description": "応募条件に必要なログイン数"}
 {"key": "ARENA_DAILY_DAY_COUNT_START_AT", "value": "2021-07-30 00:00:00", "description": "アリーナ日次報酬カウント開始日時"}
+{"key": "AUTO_REPLAY_BASE_TIME", "value": "60", "description": "おまかせモードの最低必要時間"}
+{"key": "AUTO_REPLAY_CONSUME_PHANTASM_POINT_CORRECT", "value": "1.2", "description": "おまかせモードの霊P消費補正"}
+{"key": "AUTO_REPLAY_EXECUTE_MAX", "value": "999", "description": "おまかせモード最大実行回数"}
+{"key": "AUTO_REPLAY_EXECUTE_MIN", "value": "1", "description": "おまかせモード最低実行回数"}
+{"key": "AUTO_REPLAY_MAX_TURN", "value": "20", "description": "おまかせモード計測最大ターン数"}
+{"key": "AUTO_REPLAY_MEASURING_SPEED", "value": "20", "description": "おまかせモード計測速度"}
+{"key": "AUTO_REPLAY_ONE_ACTION_TIME", "value": "20", "description": "おまかせモードの1アクションあたりの必要時間"}
+{"key": "AUTO_REPLAY_WIN_RATE_MAX", "value": "10", "description": "おまかせモード最大勝利数"}
 {"key": "BEGINNER_TIME", "value": "72", "description": "初心者时间"}
 {"key": "BEST_LIMIT_UNIT_LEN", "value": "2", "description": "战斗履历个人best显示人数限制小于等于"}
 {"key": "BEST_LIMIT_UNIT_LEN2", "value": "6", "description": "战斗履历个人best显示人数限制2小于等于"}
@@ -10,6 +19,7 @@
 {"key": "BEST_MAX_DAMAGE2", "value": "10000000000", "description": "战斗履历个人best显示最大伤害限制2大于"}
 {"key": "CLEAR_HISTORY_PUBLISH", "value": "1", "description": "クリア履歴公開フラグ　0:非公開　1:公開"}
 {"key": "CLOSE_EXTERNAL_LINK_MIRRATIV", "value": "1", "description": "Mirrativ"}
+{"key": "CONVERT_ABILITYSEAL_TO_GOLD", "value": "100", "description": "所持済みシール取得時、付与賽銭量"}
 {"key": "CONVERT_AVATAR_TO_GOLD", "value": "1500", "description": "头像框已经获得时，给予赛钱的量"}
 {"key": "CONVERT_BGM_TO_GOLD", "value": "1500", "description": "BGM已经获得时，给予赛钱的量"}
 {"key": "CONVERT_COSTUME_TO_GOLD", "value": "1500", "description": "服装已经获得时，给予赛钱的量"}
@@ -64,8 +74,10 @@
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
 {"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653,6762981284]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
+{"key": "MAP_BUFF_GROUP_ID", "value": "1001", "description": "現シーズンのマップバフグループ"}
+{"key": "MAX_REROLL", "value": "3", "description": "守矢秘境における最大引き直し回数"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
-{"key": "MISSION_REWARD_MAIL_GRACE", "value": "14", "description": "课题报酬信箱送付时有效期限"}
+{"key": "MISSION_REWARD_MAIL_GRACE", "value": "30", "description": "课题报酬信箱送付时有效期限"}
 {"key": "MOTIVATION_LOWER_LIMIT_FOR_UNIT_EXP_BONUS", "value": "120", "description": "战斗结束时、附加单位奖励的干劲的上限值"}
 {"key": "MOTIVATION_RECOVERY_LIMIT", "value": "119", "description": "干劲的増加上限"}
 {"key": "MOTIVATION_RECOVERY_TIME", "value": "360", "description": "干劲的增加时间（秒）"}
@@ -126,6 +138,7 @@
 {"key": "TOWER_RECOVERY_USED_CRYSTAL_THIRD", "value": "15", "description": "在塔内使用有偿回复第3次时消费的结晶数"}
 {"key": "TOWER_RELEASE_EPISODE_ID", "value": "100400302", "description": "为解放塔而必须完成的章节ID"}
 {"key": "TOWER_UNIT_OVER_LEVEL", "value": "30", "description": "能参加塔的单位等级"}
+{"key": "TRIAL_SEAL_MAX_ID", "value": "999", "description": "お試しアビリティシールidの上限値"}
 {"key": "TRUST_RECOVERY_LIMIT", "value": "9000", "description": "中意单位时的信赖度的增加上限"}
 {"key": "TRUST_RECOVERY_LOWER_LIMIT", "value": "4901", "description": "信頼度上昇条件の下限値"}
 {"key": "TRUST_RECOVERY_TIME", "value": "360", "description": "信赖度的増加时长（秒）"}
