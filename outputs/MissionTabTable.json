@@ -116,6 +116,7 @@
 {"id": 10760, "type": 5, "name": "雪之花与诅咒的饰品", "event_id": 10760, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 10800, "type": 5, "name": "蓬莱妹红 体验关卡", "event_id": 10800, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 10880, "type": 5, "name": "复刻「一年又一年 弹幕破碎者」", "event_id": 10880, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
+{"id": 10900, "type": 5, "name": "跨年旅行 2024→2025", "event_id": 10900, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 10950, "type": 5, "name": "新年灵梦 体验关卡", "event_id": 10950, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 10960, "type": 5, "name": "新年魔理沙 体验关卡", "event_id": 10960, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 1}
 {"id": 11300, "type": 5, "name": "回来了 啦啦队·传奇", "event_id": 11300, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
@@ -124,3 +125,6 @@
 {"id": 11700, "type": 5, "name": "花园赫卡 体验关卡", "event_id": 11700, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 11710, "type": 5, "name": "泳装神子 体验关卡", "event_id": 11710, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 11720, "type": 5, "name": "白诹访子 体验关卡", "event_id": 11720, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 1}
+{"id": 11770, "type": 5, "name": "花园四季 体验关卡", "event_id": 11770, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
+{"id": 11820, "type": 5, "name": "花园残无 体验关卡", "event_id": 11820, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
+{"id": 11840, "type": 5, "name": "星精的试炼", "event_id": 11840, "chapter_id": 0, "display_order": 17, "is_completed_hidden": 1}

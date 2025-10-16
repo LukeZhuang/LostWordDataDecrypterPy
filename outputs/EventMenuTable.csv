@@ -543,6 +543,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 7062,7062,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7063,7063,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7064,7064,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
+7065,7065,2,登录签到,Event_LoginBonus_bg_tower,(empty),3
 7080,7080,1,剧情活动,Event_bg_7080_1,(empty),2
 7081,7081,2,登录奖励,Event_LoginBonus_bg_7081,(empty),3
 7082,7080,3,幸运抽奖,Event_bg_7080_2,(empty),10
@@ -860,12 +861,12 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 10881,10881,2,登录奖励,Event_LoginBonus_bg_8701,(empty),3
 10882,10880,3,幸运抽奖,Event_bg_10880_2,(empty),12
 10883,10880,4,累计点数,Event_bg_10880_3,(empty),13
-10900,10900,1,イベント,Event_bg_10900_1,(empty),11
-10901,10901,2,ログインボーナス,Event_LoginBonus_bg_10901,(empty),3
-10902,10900,3,ふくびき,Event_bg_10900_2,(empty),14
-10903,10900,4,累計ポイント,Event_bg_10900_3,(empty),15
-10904,10904,2,ログインボーナス,Event_LoginBonus_bg_10904,(empty),3
-10970,10970,2,ログインボーナス,Event_LoginBonus_bg_10970,(empty),23
+10900,10900,1,剧情活动,Event_bg_10900_1,(empty),11
+10901,10901,2,登录奖励,Event_LoginBonus_bg_10901,(empty),3
+10902,10900,3,幸运抽奖,Event_bg_10900_2,(empty),14
+10903,10900,4,累计点数,Event_bg_10900_3,(empty),15
+10904,10904,2,登录奖励,Event_LoginBonus_bg_10904,(empty),3
+10970,10970,2,登录奖励,Event_LoginBonus_bg_10970,(empty),23
 10980,10980,2,ログインボーナス,Event_LoginBonus_bg_10980,(empty),25
 10990,10990,2,ログインボーナス,Event_LoginBonus_bg_10990,(empty),24
 11020,11020,2,ログインボーナス,Event_LoginBonus_bg_11020,(empty),26
@@ -895,7 +896,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 11303,11300,4,累计点数,Event_bg_11300_3,(empty),15
 11304,11304,2,登录奖励,Event_LoginBonus_bg_11304,(empty),3
 11310,11310,2,登录奖励,Event_LoginBonus_bg_11310,(empty),24
-11320,11320,2,ログインボーナス,Event_LoginBonus_bg_11320,(empty),41
+11320,11320,2,登录奖励,Event_LoginBonus_bg_11320,(empty),41
 11340,11340,2,ログインボーナス,Event_LoginBonus_bg_11340,(empty),23
 11380,11380,1,イベント,Event_bg_11380_1,(empty),2
 11382,11380,3,ふくびき,Event_bg_11380_2,(empty),14

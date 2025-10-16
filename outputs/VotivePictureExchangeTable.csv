@@ -468,6 +468,8 @@ id,votive_picture_id,object_type,object_id,start_at,end_at,display_order
 1043002,1043,10,526,(empty),(empty),302
 1043003,1043,10,487,(empty),(empty),303
 1043004,1043,10,603,(empty),(empty),201
+1044001,1044,10,604,(empty),(empty),301
+1044002,1044,10,603,(empty),(empty),302
 1901001,1901,9,2002,(empty),(empty),1
 1901002,1901,9,2003,(empty),(empty),2
 1901003,1901,9,2005,(empty),(empty),3
@@ -525,6 +527,11 @@ id,votive_picture_id,object_type,object_id,start_at,end_at,display_order
 1901055,1901,9,8039,(empty),(empty),55
 1901056,1901,9,11003,(empty),(empty),56
 1901057,1901,9,12004,(empty),(empty),57
+1901058,1901,9,5067,(empty),(empty),58
+1901059,1901,9,5068,(empty),(empty),59
+1901060,1901,9,5087,(empty),(empty),60
+1901061,1901,9,8099,(empty),(empty),61
+1901062,1901,9,11050,(empty),(empty),62
 1902001,1902,9,1001,(empty),(empty),1
 1902002,1902,9,1002,(empty),(empty),2
 1902003,1902,9,1003,(empty),(empty),3
@@ -701,3 +708,6 @@ id,votive_picture_id,object_type,object_id,start_at,end_at,display_order
 1902174,1902,9,19005,(empty),(empty),174
 1902175,1902,9,19009,(empty),(empty),175
 1902176,1902,9,19032,(empty),(empty),176
+1902177,1902,9,1127,(empty),(empty),177
+1902178,1902,9,1128,(empty),(empty),178
+1902179,1902,9,1129,(empty),(empty),179
