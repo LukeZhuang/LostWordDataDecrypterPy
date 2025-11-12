@@ -59,6 +59,7 @@
 {"id": 1014002, "chapter_id": 1014, "mode": 0, "title": "第7节 真正的怪兽", "sub_title": "驯服自己心中的怪兽", "number": 2, "costume_id": 600401, "unit_speech_group_id": 879, "open_type": 1}
 {"id": 1015001, "chapter_id": 1015, "mode": 0, "title": "第8节 卫星都市", "sub_title": "推动帝都的庞大能量到底来自何方？", "number": 1, "costume_id": 203601, "unit_speech_group_id": 1175, "open_type": 1}
 {"id": 1015002, "chapter_id": 1015, "mode": 0, "title": "第9节 欢迎来到温泉乡", "sub_title": "穿过大门，那里便是『温泉之国』。", "number": 2, "costume_id": 208401, "unit_speech_group_id": 1176, "open_type": 1}
+{"id": 1016001, "chapter_id": 1016, "mode": 0, "title": "第10节 双手满载的意识形态", "sub_title": "看似各社各样，实则发生着超统一性变化。", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1527, "open_type": 1}
 {"id": 2001000, "chapter_id": 2001, "mode": 0, "title": "半人半灵的一日女仆", "sub_title": "", "number": 1, "costume_id": 100201, "unit_speech_group_id": 2, "open_type": 0}
 {"id": 2002000, "chapter_id": 2002, "mode": 0, "title": "玉兔VS河童！大生存游戏祭", "sub_title": "", "number": 1, "costume_id": 104001, "unit_speech_group_id": 36, "open_type": 0}
 {"id": 2003000, "chapter_id": 2003, "mode": 0, "title": "本居小铃的事件簿", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
@@ -297,7 +298,13 @@
 {"id": 2169001, "chapter_id": 2169, "mode": 1, "title": "特殊章节 「跨年旅行 2024→2025」", "sub_title": "", "number": 1, "costume_id": 1104801, "unit_speech_group_id": 1407, "open_type": 1}
 {"id": 2170000, "chapter_id": 2170, "mode": 0, "title": "博丽灵梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2171000, "chapter_id": 2171, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2173000, "chapter_id": 2173, "mode": 0, "title": "混沌·配方 ～妖精的宵暗 添加了怪腕～", "sub_title": "", "number": 1, "costume_id": 103104, "unit_speech_group_id": 1164, "open_type": 0}
+{"id": 2173001, "chapter_id": 2173, "mode": 1, "title": "特殊章节 混沌·配方 ～妖精的宵暗 添加了怪腕～", "sub_title": "", "number": 1, "costume_id": 112502, "unit_speech_group_id": 1165, "open_type": 1}
+{"id": 2174000, "chapter_id": 2174, "mode": 0, "title": "「新？红魔馆 逆反女仆聘用面试」", "sub_title": "", "number": 1, "costume_id": 1400601, "unit_speech_group_id": 1428, "open_type": 0}
+{"id": 2174001, "chapter_id": 2174, "mode": 1, "title": "特殊章节 「新？红魔馆 逆反女仆聘用面试」", "sub_title": "", "number": 1, "costume_id": 1600401, "unit_speech_group_id": 1429, "open_type": 1}
 {"id": 2175000, "chapter_id": 2175, "mode": 0, "title": "十六夜咲夜体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2178000, "chapter_id": 2178, "mode": 0, "title": "绝对灵度！冰之鬼灾难进行曲", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 1186, "open_type": 0}
+{"id": 2178001, "chapter_id": 2178, "mode": 1, "title": "特殊章节 绝对灵度！冰之鬼灾难进行曲", "sub_title": "", "number": 1, "costume_id": 110304, "unit_speech_group_id": 1187, "open_type": 1}
 {"id": 2179000, "chapter_id": 2179, "mode": 0, "title": "回来了 啦啦队·传奇", "sub_title": "", "number": 1, "costume_id": 103701, "unit_speech_group_id": 1450, "open_type": 0}
 {"id": 2179001, "chapter_id": 2179, "mode": 1, "title": "特殊章节 回来了 啦啦队·传奇", "sub_title": "", "number": 1, "costume_id": 609301, "unit_speech_group_id": 1451, "open_type": 1}
 {"id": 2180000, "chapter_id": 2180, "mode": 0, "title": "东风谷早苗体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
@@ -308,7 +315,10 @@
 {"id": 2191000, "chapter_id": 2191, "mode": 0, "title": "洩矢诹访子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2193000, "chapter_id": 2193, "mode": 0, "title": "四季映姬·夜摩仙那度体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2194000, "chapter_id": 2194, "mode": 0, "title": "日白残无体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2197000, "chapter_id": 2197, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2198000, "chapter_id": 2198, "mode": 0, "title": "纯狐体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2199000, "chapter_id": 2199, "mode": 0, "title": "星精的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2202000, "chapter_id": 2202, "mode": 0, "title": "火行的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

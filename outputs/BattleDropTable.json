@@ -10723,7 +10723,6 @@
 {"id": 34019537, "battle_drop_group_id": 340195, "object_type": 12, "object_id": 233, "object_value": 1}
 {"id": 34019538, "battle_drop_group_id": 340195, "object_type": 12, "object_id": 243, "object_value": 1}
 {"id": 34019601, "battle_drop_group_id": 340196, "object_type": 10, "object_id": 497, "object_value": 1}
-{"id": 34019602, "battle_drop_group_id": 340196, "object_type": 10, "object_id": 10901, "object_value": 1}
 {"id": 34019603, "battle_drop_group_id": 340196, "object_type": 12, "object_id": 411, "object_value": 1}
 {"id": 34019604, "battle_drop_group_id": 340196, "object_type": 12, "object_id": 412, "object_value": 1}
 {"id": 34019605, "battle_drop_group_id": 340196, "object_type": 12, "object_id": 413, "object_value": 1}
@@ -10747,7 +10746,6 @@
 {"id": 34019623, "battle_drop_group_id": 340196, "object_type": 12, "object_id": 232, "object_value": 2}
 {"id": 34019624, "battle_drop_group_id": 340196, "object_type": 12, "object_id": 242, "object_value": 2}
 {"id": 34019701, "battle_drop_group_id": 340197, "object_type": 10, "object_id": 497, "object_value": 1}
-{"id": 34019702, "battle_drop_group_id": 340197, "object_type": 10, "object_id": 10901, "object_value": 1}
 {"id": 34019703, "battle_drop_group_id": 340197, "object_type": 12, "object_id": 411, "object_value": 1}
 {"id": 34019704, "battle_drop_group_id": 340197, "object_type": 12, "object_id": 412, "object_value": 1}
 {"id": 34019705, "battle_drop_group_id": 340197, "object_type": 12, "object_id": 413, "object_value": 1}
@@ -10786,7 +10784,6 @@
 {"id": 34019738, "battle_drop_group_id": 340197, "object_type": 12, "object_id": 233, "object_value": 1}
 {"id": 34019739, "battle_drop_group_id": 340197, "object_type": 12, "object_id": 243, "object_value": 1}
 {"id": 34019801, "battle_drop_group_id": 340198, "object_type": 10, "object_id": 497, "object_value": 1}
-{"id": 34019802, "battle_drop_group_id": 340198, "object_type": 10, "object_id": 10901, "object_value": 1}
 {"id": 34019803, "battle_drop_group_id": 340198, "object_type": 12, "object_id": 411, "object_value": 1}
 {"id": 34019804, "battle_drop_group_id": 340198, "object_type": 12, "object_id": 412, "object_value": 1}
 {"id": 34019805, "battle_drop_group_id": 340198, "object_type": 12, "object_id": 413, "object_value": 1}

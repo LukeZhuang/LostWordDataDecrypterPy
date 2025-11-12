@@ -73,7 +73,7 @@
 {"key": "LOGIN_BONUS_MAIL_GRACE", "value": "30", "description": "登录奖励的邮件的有效期限"}
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
-{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653,6762981284]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
+{"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653,6762981284,9237283786,9238502413]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
 {"key": "MAP_BUFF_GROUP_ID", "value": "1001", "description": "現シーズンのマップバフグループ"}
 {"key": "MAX_REROLL", "value": "3", "description": "守矢秘境における最大引き直し回数"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
@@ -120,6 +120,10 @@
 {"key": "RHYTHM_GAME_PHANTASM_POINT_FORMULA1", "value": "500", "description": "リズムゲーム付与霊P計算値1"}
 {"key": "RHYTHM_GAME_PHANTASM_POINT_FORMULA2", "value": "1", "description": "リズムゲーム付与霊P計算値2"}
 {"key": "RHYTHM_GAME_PHANTASM_POINT_FORMULA3", "value": "10", "description": "リズムゲーム付与霊P計算値3"}
+{"key": "SERIES_BATTLE_52_BAN_LIST", "value": "[4237708904,4235186294]", "description": "52服玩家永远战线排名禁止上榜名单"}
+{"key": "SERIES_BATTLE_IOS_BAN_LIST", "value": "[4231979440]", "description": "IOS服玩家永远战线排名禁止上榜名单"}
+{"key": "SERIES_BATTLE_MAJOR_BAN_LIST", "value": "[6766025695,3819609450,9637782400,4427714910,4422359336,9238502413,6763059673,9237520202,9235195636,6769563653,6764108082,4428316547,6762624782,9639169755,6761695848,4427346412,9638737581,9231461690,9233886335]", "description": "MAJOR服玩家永远战线排名禁止上榜名单"}
+{"key": "SERIES_BATTLE_OTHER_BAN_LIST", "value": "[3816636040,6761552191,6760130512,3819813096,4231382493]", "description": "OTHER服玩家永远战线排名禁止上榜名单"}
 {"key": "SYSTEM_CRYSTAL_MAX", "value": "99999999", "description": "封结晶系统的上限"}
 {"key": "SYSTEM_EVENT_POINT_MAX", "value": "99999999", "description": "活动点数上限"}
 {"key": "SYSTEM_GOLD_MAX", "value": "99999999", "description": "赛钱上限"}

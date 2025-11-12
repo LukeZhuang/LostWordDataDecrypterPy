@@ -359,7 +359,7 @@
 {"id": 109001, "unit_id": 1090, "stage": 0, "file_id": 1, "name": "美丽的绯衣", "description": "永江衣玖的日常穿着。\n褶边衬衫搭配羽衣和黑色长裙。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109002, "unit_id": 1090, "stage": 0, "file_id": 2, "name": "天界的灯饰", "description": "为衣玖准备的冬季外出用服装。\n活用修长身材的搭配 by KORINDO。", "album_visible": 1, "start_at": "2022-01-25 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109003, "unit_id": 1090, "stage": 1, "file_id": 3, "name": "白羽衣的传讯者", "description": "少女转生的衣玖的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-08-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 109004, "unit_id": 1090, "stage": 0, "file_id": 4, "name": "什么都没做电器就突然坏掉的女仆", "description": "衣玖的女仆工作服。\n明明没有碰就坏掉了。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 109004, "unit_id": 1090, "stage": 0, "file_id": 4, "name": "什么都没做电器就突然坏掉的女仆", "description": "衣玖的女仆工作服。\n明明没有碰就坏掉了。", "album_visible": 1, "start_at": "2025-11-18 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109101, "unit_id": 1091, "stage": 0, "file_id": 1, "name": "圣德道士", "description": "丰聪耳神子的日常穿着。\n浅紫色的无袖上衣，紫色的裙子和斗篷。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109102, "unit_id": 1091, "stage": 0, "file_id": 2, "name": "求道场安全的君子", "description": "丰聪耳神子的新年参拜振袖。\n道场的安全由我来保证。门徒募集中。", "album_visible": 1, "start_at": "2022-02-01 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109103, "unit_id": 1091, "stage": 1, "file_id": 3, "name": "白色日出的公主", "description": "少女转生的神子的服装。 \n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-05-27 14:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -372,7 +372,7 @@
 {"id": 109301, "unit_id": 1093, "stage": 0, "file_id": 1, "name": "神明后裔的亡灵", "description": "苏我屠自古的常服。\n绿色的连衣裙配着黑色的乌帽子。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109302, "unit_id": 1093, "stage": 0, "file_id": 2, "name": "雷电护士", "description": "在医院中突然出现的碧雳的电疗护士！\n这个麻麻的亡灵，真是贴心……！", "album_visible": 1, "start_at": "2022-07-19 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109303, "unit_id": 1093, "stage": 1, "file_id": 3, "name": "白色亡灵的发电机", "description": "少女转生的屠自古的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-05-27 14:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 109304, "unit_id": 1093, "stage": 0, "file_id": 4, "name": "熟练运用电器的女仆", "description": "屠自古的女仆工作服。\n这样就能给太子大人做美味的料理了！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 109304, "unit_id": 1093, "stage": 0, "file_id": 4, "name": "熟练运用电器的女仆", "description": "屠自古的女仆工作服。\n这样就能给太子大人做美味的料理了！", "album_visible": 1, "start_at": "2025-11-18 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109401, "unit_id": 1094, "stage": 0, "file_id": 1, "name": "逆袭的天邪鬼", "description": "鬼人正邪的常服。\n箭头图案的连衣裙配着倒着的绸带。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109402, "unit_id": 1094, "stage": 1, "file_id": 2, "name": "颠倒黑白的叛逆者", "description": "少女转生的正邪的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-09-08 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 109403, "unit_id": 1094, "stage": 0, "file_id": 3, "name": "没有侍奉精神的叛逆女仆", "description": "正邪收到的女仆工作用服装。 \n给我的衣服我可都穿上了哦！？！？", "album_visible": 1, "start_at": "2024-02-13 02:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -414,7 +414,7 @@
 {"id": 110501, "unit_id": 1105, "stage": 0, "file_id": 1, "name": "梦幻的打击乐手", "description": "堀川雷鼓的日常服装。\n红色方格的黑衬衫搭配白色短上衣。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110502, "unit_id": 1105, "stage": 0, "file_id": 2, "name": "普莉兹姆行进乐队·小鼓", "description": "雷鼓的行进乐队服装。\n节奏轻快的小鼓是进行曲中的主角。", "album_visible": 1, "start_at": "2021-12-09 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110503, "unit_id": 1105, "stage": 1, "file_id": 3, "name": "白色混合鼓", "description": "少女转生的雷鼓的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-01-15 10:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 110504, "unit_id": 1105, "stage": 0, "file_id": 4, "name": "和电器共情的女仆", "description": "雷鼓的女仆工作服。\n节奏感强的旋律会让人安心。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 110504, "unit_id": 1105, "stage": 0, "file_id": 4, "name": "和电器共情的女仆", "description": "雷鼓的女仆工作服。\n节奏感强的旋律会让人安心。", "album_visible": 1, "start_at": "2025-11-18 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110601, "unit_id": 1106, "stage": 0, "file_id": 1, "name": "在森林现身为神的魔法地藏", "description": "矢田寺成美的常服。\n巡礼者的斗笠和其实很柔软的灰色大衣。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110602, "unit_id": 1106, "stage": 1, "file_id": 2, "name": "魔法之森的白地藏", "description": "为成美少女转生后特意准备的服装。\n以笔记簿中获取的情报为基础，在香霖堂制作完成。", "album_visible": 1, "start_at": "2025-09-22 10:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110603, "unit_id": 1106, "stage": 0, "file_id": 3, "name": "祈愿健康成长的地藏", "description": "成美料理时穿的服装。\n蛋糕也好面包也好都交给我吧～！", "album_visible": 1, "start_at": "2023-10-24 02:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -422,11 +422,11 @@
 {"id": 110702, "unit_id": 1107, "stage": 1, "file_id": 2, "name": "神秘与生命的白凤蝶", "description": "为爱塔妮缇拉尔瓦少女转生后特意准备的服装。\n以笔记簿中获取的情报为基础，在香霖堂制作完成。", "album_visible": 1, "start_at": "2025-09-22 10:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110703, "unit_id": 1107, "stage": 0, "file_id": 3, "name": "启蛰的凤蝶", "description": "适合运动的服装（爱塔妮缇拉尔瓦用）。 \n不飞天在陆地奔跑也很舒服呢！", "album_visible": 1, "start_at": "2023-11-21 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110801, "unit_id": 1108, "stage": 0, "file_id": 1, "name": "孤立无援造就的造型神", "description": "埴安神袿姬的常服。\n浓绿色头巾配着围裙以及土色裙子。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 110802, "unit_id": 1108, "stage": 1, "file_id": 2, "name": "旺盛的白色创作者", "description": "少女转生的袿姬的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 110802, "unit_id": 1108, "stage": 1, "file_id": 2, "name": "旺盛的白色创作者", "description": "少女转生的袿姬的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-11-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110803, "unit_id": 1108, "stage": 0, "file_id": 3, "name": "材料是小麦鸡蛋牛奶！", "description": "袿姬的料理用装甲。\n虽然是用陶器做的装甲，但材质很柔软。", "album_visible": 1, "start_at": "2025-01-14 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110901, "unit_id": 1109, "stage": 0, "file_id": 1, "name": "埴轮兵长", "description": "杖刀偶磨弓的常服。\n挂甲配着膝甲和陶制剑杖。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110902, "unit_id": 1109, "stage": 0, "file_id": 2, "name": "想要拜师的陶制兔女郎", "description": "据霖之助所说是能够提升斗气的兔服（磨弓用）。\n和平时不同的铠甲，和平时一样的素材。", "album_visible": 1, "start_at": "2023-03-14 02:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 110903, "unit_id": 1109, "stage": 1, "file_id": 3, "name": "忠实的白色陶瓷", "description": "少女转生的磨弓的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 110903, "unit_id": 1109, "stage": 1, "file_id": 3, "name": "忠实的白色陶瓷", "description": "少女转生的磨弓的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-11-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 110904, "unit_id": 1109, "stage": 0, "file_id": 4, "name": "埴轮忠实的一年", "description": "袿姬为磨弓准备的外出服装。\n褶边的防御力非常之高。", "album_visible": 1, "start_at": "2025-01-14 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111001, "unit_id": 1110, "stage": 0, "file_id": 1, "name": "劲牙组组长", "description": "骊驹早鬼的日常穿着。\n白色围巾搭配帅气的加仑帽子。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111002, "unit_id": 1110, "stage": 1, "file_id": 2, "name": "劲疾之黑色白马", "description": "少女转生的早鬼的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2024-08-19 14:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -441,10 +441,10 @@
 {"id": 111203, "unit_id": 1112, "stage": 0, "file_id": 3, "name": "美味的鸡腿外卖", "description": "美食外卖服装(久侘歌用)。\n说起来，这个料理的材料是什么呢？", "album_visible": 1, "start_at": "2023-06-06 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111204, "unit_id": 1112, "stage": 0, "file_id": 4, "name": "请给我圣鸡", "description": "年末商战服 by KOURINDOU(久侘歌专属)。\nRINRIN Mart和便利店差不多。", "album_visible": 1, "start_at": "2025-10-21 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111301, "unit_id": 1113, "stage": 0, "file_id": 1, "name": "古代鱼的携子护卫", "description": "牛崎润美的常服。\n黄色的运动内衣配着短裤。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 111302, "unit_id": 1113, "stage": 1, "file_id": 2, "name": "三途河岸的白牛鬼", "description": "少女转生的润美的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 111302, "unit_id": 1113, "stage": 1, "file_id": 2, "name": "三途河岸的白牛鬼", "description": "少女转生的润美的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-11-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111303, "unit_id": 1113, "stage": 0, "file_id": 3, "name": "三途河的兔耳护卫", "description": "润美专用的兔耳特务服装。 \n古代鱼的问题就交给我吧！", "album_visible": 1, "start_at": "2024-01-16 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111401, "unit_id": 1114, "stage": 0, "file_id": 1, "name": "河原的偶像水子", "description": "戎璎花的常服。\n红色绳子和水珠花纹的白色连衣裙。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 111402, "unit_id": 1114, "stage": 1, "file_id": 2, "name": "垒白石冠军", "description": "少女转生的璎花的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 111402, "unit_id": 1114, "stage": 1, "file_id": 2, "name": "垒白石冠军", "description": "少女转生的璎花的服装。\n香霖堂根据从笔记本抽取的信息缝纫而成。", "album_visible": 1, "start_at": "2025-11-04 14:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111403, "unit_id": 1114, "stage": 0, "file_id": 3, "name": "祈愿健康成长的惠比寿", "description": "璎花料理时穿的服装。\n敢把垒石弄塌就把你做成热三明治！", "album_visible": 1, "start_at": "2023-10-24 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111501, "unit_id": 1115, "stage": 0, "file_id": 1, "name": "幻想酒場『鯢呑亭』の看板娘", "description": "-", "album_visible": 0, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 111601, "unit_id": 1116, "stage": 0, "file_id": 1, "name": "战无不胜的刚欲同盟盟主", "description": "饕餮尤魔的常服。 \n携带着巨大的勺子并穿着饕餮纹连衣裙。", "album_visible": 1, "start_at": "2023-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}

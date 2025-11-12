@@ -22,7 +22,11 @@
 {"id": 1022, "display_name": "推荐", "display_order": 10, "banner_image": "feature_20251001_2.png", "start_at": "2025-10-01 02:00:00", "end_at": "2025-10-31 01:59:59"}
 {"id": 1023, "display_name": "推荐", "display_order": 11, "banner_image": "feature_20251001_3.png", "start_at": "2025-10-01 02:00:00", "end_at": "2025-10-31 01:59:59"}
 {"id": 1024, "display_name": "推荐", "display_order": 12, "banner_image": "feature_20251001_4.png", "start_at": "2025-10-01 02:00:00", "end_at": "2025-10-31 01:59:59"}
-{"id": 1025, "display_name": "推荐", "display_order": 30, "banner_image": "feature_20251023_1.png", "start_at": "2025-10-23 00:00:00", "end_at": "2025-11-21 01:59:59"}
+{"id": 1025, "display_name": "推荐", "display_order": 30, "banner_image": "feature_20251023_1.png", "start_at": "2025-10-23 00:00:00", "end_at": "2025-11-21 23:59:59"}
 {"id": 1026, "display_name": "推荐", "display_order": 5, "banner_image": "feature_20251014_1.png", "start_at": "2025-10-14 02:00:00", "end_at": "2025-10-21 01:59:59"}
 {"id": 1027, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20251014_2.png", "start_at": "2025-10-14 02:00:00", "end_at": "2025-10-28 01:59:59"}
 {"id": 1028, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20251021_1.png", "start_at": "2025-10-21 02:00:00", "end_at": "2025-11-04 01:59:59"}
+{"id": 1029, "display_name": "推荐", "display_order": 30, "banner_image": "feature_20251122_1.png", "start_at": "2025-11-22 00:00:00", "end_at": "2025-12-21 23:59:59"}
+{"id": 1030, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20251104_1.png", "start_at": "2025-11-04 02:00:00", "end_at": "2025-11-18 01:59:59"}
+{"id": 1031, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20251111_1.png", "start_at": "2025-11-11 02:00:00", "end_at": "2025-11-25 01:59:59"}
+{"id": 1032, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20251118_1.png", "start_at": "2025-11-18 02:00:00", "end_at": "2025-12-02 01:59:59"}

@@ -102,9 +102,13 @@
 {"id": 110501, "target_name": "堀川雷鼓", "target_unit_id": 1105, "priority": 55, "costume_id": 110501, "unit_speech_group_id": 523}
 {"id": 110601, "target_name": "矢田寺成美", "target_unit_id": 1106, "priority": 129, "costume_id": 110601, "unit_speech_group_id": 1212}
 {"id": 110701, "target_name": "爱塔妮缇拉尔瓦", "target_unit_id": 1107, "priority": 130, "costume_id": 110701, "unit_speech_group_id": 1213}
+{"id": 110801, "target_name": "埴安神袿姬", "target_unit_id": 1108, "priority": 134, "costume_id": 110801, "unit_speech_group_id": 1255}
+{"id": 110901, "target_name": "杖刀偶磨弓", "target_unit_id": 1109, "priority": 135, "costume_id": 110901, "unit_speech_group_id": 1256}
 {"id": 111001, "target_name": "骊驹早鬼", "target_unit_id": 1110, "priority": 77, "costume_id": 111001, "unit_speech_group_id": 773}
 {"id": 111101, "target_name": "吉吊八千慧", "target_unit_id": 1111, "priority": 78, "costume_id": 111101, "unit_speech_group_id": 774}
 {"id": 111201, "target_name": "庭渡久侘歌", "target_unit_id": 1112, "priority": 70, "costume_id": 111201, "unit_speech_group_id": 676}
+{"id": 111301, "target_name": "牛崎润美", "target_unit_id": 1113, "priority": 136, "costume_id": 111301, "unit_speech_group_id": 1257}
+{"id": 111401, "target_name": "戎璎花", "target_unit_id": 1114, "priority": 137, "costume_id": 111401, "unit_speech_group_id": 1258}
 {"id": 200201, "target_name": "雾雨魔理沙", "target_unit_id": 2002, "priority": 62, "costume_id": 200201, "unit_speech_group_id": 621}
 {"id": 200301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 2003, "priority": 99, "costume_id": 200301, "unit_speech_group_id": 972}
 {"id": 200501, "target_name": "十六夜咲夜", "target_unit_id": 2005, "priority": 97, "costume_id": 200501, "unit_speech_group_id": 971}
