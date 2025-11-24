@@ -308,6 +308,10 @@
 {"id": 2179000, "chapter_id": 2179, "mode": 0, "title": "回来了 啦啦队·传奇", "sub_title": "", "number": 1, "costume_id": 103701, "unit_speech_group_id": 1450, "open_type": 0}
 {"id": 2179001, "chapter_id": 2179, "mode": 1, "title": "特殊章节 回来了 啦啦队·传奇", "sub_title": "", "number": 1, "costume_id": 609301, "unit_speech_group_id": 1451, "open_type": 1}
 {"id": 2180000, "chapter_id": 2180, "mode": 0, "title": "东风谷早苗体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2182000, "chapter_id": 2182, "mode": 0, "title": "艄公与船幽灵无休止的争论 兔耳先？还是蛋先？", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2182001, "chapter_id": 2182, "mode": 1, "title": "特殊章节 艄公与船幽灵无休止的争论 兔耳先？还是蛋先？", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 1}
+{"id": 2185000, "chapter_id": 2185, "mode": 0, "title": "平行世界！ ～新次元并行录", "sub_title": "", "number": 1, "costume_id": 200901, "unit_speech_group_id": 1230, "open_type": 0}
+{"id": 2185001, "chapter_id": 2185, "mode": 1, "title": "特殊章节 平行世界！ ～新次元并行录", "sub_title": "", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1231, "open_type": 1}
 {"id": 2186000, "chapter_id": 2186, "mode": 0, "title": "高难度挑战", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2188000, "chapter_id": 2188, "mode": 0, "title": "高难度挑战ex", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 1}
 {"id": 2189000, "chapter_id": 2189, "mode": 0, "title": "赫卡提亚体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
@@ -319,6 +323,7 @@
 {"id": 2198000, "chapter_id": 2198, "mode": 0, "title": "纯狐体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2199000, "chapter_id": 2199, "mode": 0, "title": "星精的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2202000, "chapter_id": 2202, "mode": 0, "title": "火行的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2205000, "chapter_id": 2205, "mode": 0, "title": "魂魄妖梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

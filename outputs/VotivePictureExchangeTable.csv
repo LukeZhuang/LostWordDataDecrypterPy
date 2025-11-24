@@ -473,6 +473,8 @@ id,votive_picture_id,object_type,object_id,start_at,end_at,display_order
 1045001,1045,10,619,(empty),(empty),301
 1045002,1045,10,620,(empty),(empty),302
 1045003,1045,10,503,(empty),(empty),303
+1052001,1052,10,295,(empty),(empty),301
+1052002,1052,10,296,(empty),(empty),302
 1901001,1901,9,2002,(empty),(empty),1
 1901002,1901,9,2003,(empty),(empty),2
 1901003,1901,9,2005,(empty),(empty),3

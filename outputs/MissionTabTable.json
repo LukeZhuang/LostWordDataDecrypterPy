@@ -123,6 +123,8 @@
 {"id": 11170, "type": 5, "name": "「新？红魔馆 逆反女仆聘用面试」", "event_id": 11170, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 11270, "type": 5, "name": "复刻「绝对灵度！冰之鬼灾难进行曲」", "event_id": 11270, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 11300, "type": 5, "name": "回来了 啦啦队·传奇", "event_id": 11300, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
+{"id": 11420, "type": 5, "name": "复刻「艄公与船幽灵无休止的争论 兔耳先？还是蛋先？」", "event_id": 11420, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
+{"id": 11530, "type": 5, "name": "复刻「平行世界！ ～新次元并行录」", "event_id": 11530, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 11590, "type": 5, "name": "4周年倒计时任务活动", "event_id": 11590, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
 {"id": 11680, "type": 5, "name": "4周年庆任务活动", "event_id": 11680, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
 {"id": 11700, "type": 5, "name": "花园赫卡 体验关卡", "event_id": 11700, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
@@ -134,3 +136,5 @@
 {"id": 11880, "type": 5, "name": "星降魔理沙 体验关卡", "event_id": 11880, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 11940, "type": 5, "name": "贵方纯狐 体验关卡", "event_id": 11940, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 12010, "type": 5, "name": "火行的试炼", "event_id": 12010, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 1}
+{"id": 12050, "type": 5, "name": "主线探索支援活动", "event_id": 12050, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 1}
+{"id": 12080, "type": 5, "name": "魂魄妖梦(L10.1)体验探索", "event_id": 12080, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}

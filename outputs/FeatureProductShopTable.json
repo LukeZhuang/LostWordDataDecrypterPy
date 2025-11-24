@@ -30,3 +30,6 @@
 {"id": 1030, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20251104_1.png", "start_at": "2025-11-04 02:00:00", "end_at": "2025-11-18 01:59:59"}
 {"id": 1031, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20251111_1.png", "start_at": "2025-11-11 02:00:00", "end_at": "2025-11-25 01:59:59"}
 {"id": 1032, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20251118_1.png", "start_at": "2025-11-18 02:00:00", "end_at": "2025-12-02 01:59:59"}
+{"id": 1033, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20251125_1.png", "start_at": "2025-11-25 02:00:00", "end_at": "2025-12-02 01:59:59"}
+{"id": 1034, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20251202_1.png", "start_at": "2025-12-02 02:00:00", "end_at": "2025-12-16 01:59:59"}
+{"id": 1035, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20251209_1.png", "start_at": "2025-12-09 02:00:00", "end_at": "2025-12-16 01:59:59"}
