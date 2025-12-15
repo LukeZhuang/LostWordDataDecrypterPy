@@ -74,7 +74,7 @@
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
 {"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653,6762981284,9237283786,9238502413,4428201177]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
-{"key": "MAP_BUFF_GROUP_ID", "value": "1001", "description": "現シーズンのマップバフグループ"}
+{"key": "MAP_BUFF_GROUP_ID", "value": "1002", "description": "現シーズンのマップバフグループ"}
 {"key": "MAX_REROLL", "value": "3", "description": "守矢秘境における最大引き直し回数"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
 {"key": "MISSION_REWARD_MAIL_GRACE", "value": "30", "description": "课题报酬信箱送付时有效期限"}

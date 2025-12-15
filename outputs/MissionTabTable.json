@@ -131,10 +131,15 @@
 {"id": 11710, "type": 5, "name": "泳装神子 体验关卡", "event_id": 11710, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 11720, "type": 5, "name": "白诹访子 体验关卡", "event_id": 11720, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 1}
 {"id": 11770, "type": 5, "name": "花园四季 体验关卡", "event_id": 11770, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
+{"id": 11800, "type": 5, "name": "复刻「柑橘是败北的苦涩」", "event_id": 11800, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 11820, "type": 5, "name": "花园残无 体验关卡", "event_id": 11820, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
 {"id": 11840, "type": 5, "name": "星精的试炼", "event_id": 11840, "chapter_id": 0, "display_order": 17, "is_completed_hidden": 1}
 {"id": 11880, "type": 5, "name": "星降魔理沙 体验关卡", "event_id": 11880, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 11940, "type": 5, "name": "贵方纯狐 体验关卡", "event_id": 11940, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 12010, "type": 5, "name": "火行的试炼", "event_id": 12010, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 1}
+{"id": 12040, "type": 5, "name": "LOST&FOUND 2025", "event_id": 12040, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 12050, "type": 5, "name": "主线探索支援活动", "event_id": 12050, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 1}
+{"id": 12070, "type": 5, "name": "十六夜咲夜(L10.1)体验探索", "event_id": 12070, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
 {"id": 12080, "type": 5, "name": "魂魄妖梦(L10.1)体验探索", "event_id": 12080, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
+{"id": 12120, "type": 5, "name": "米斯蒂娅·萝蕾拉(C3)体验探索", "event_id": 12120, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
+{"id": 12410, "type": 5, "name": "「LostWord LIVE 2025」纪念活动", "event_id": 12410, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}

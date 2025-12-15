@@ -610,9 +610,9 @@
 {"id": 505601, "unit_id": 5056, "stage": 0, "file_id": 1, "name": "传送门管理者", "description": "异界传送门的赫卡提亚的常服。\n据说这身衣服也是传送装置的一部分。", "album_visible": 1, "start_at": "2023-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 506701, "unit_id": 5067, "stage": 0, "file_id": 1, "name": "驱动程序（姐姐）", "description": "电子设备使用者弁弁的常服。\n迅速前往任何地方，并强行设置音频设备！", "album_visible": 1, "start_at": "2022-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 506801, "unit_id": 5068, "stage": 0, "file_id": 1, "name": "驱动程序（妹妹）", "description": "驱动程序八桥的常服。\n突破重重阻碍，一定要让你听到音乐！", "album_visible": 1, "start_at": "2022-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 506802, "unit_id": 5068, "stage": 0, "file_id": 2, "name": "心灵强袭者", "description": "八桥(B3)的E-mote服装。\n流淌在仪器中的魔力将魅惑观众！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 506802, "unit_id": 5068, "stage": 0, "file_id": 2, "name": "心灵强袭者", "description": "八桥(B3)的E-mote服装。\n流淌在仪器中的魔力将魅惑观众！", "album_visible": 1, "start_at": "2025-12-16 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 508701, "unit_id": 5087, "stage": 0, "file_id": 1, "name": "多重显示屏", "description": "电子设备使用者心的常服。\n一定会把视频传送到任何地方。", "album_visible": 1, "start_at": "2022-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 508702, "unit_id": 5087, "stage": 0, "file_id": 2, "name": "双眸锁定者", "description": "心(B3)的E-mote服装。\n电子化的感情将在布朗管中结像！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 508702, "unit_id": 5087, "stage": 0, "file_id": 2, "name": "双眸锁定者", "description": "心(B3)的E-mote服装。\n电子化的感情将在布朗管中结像！", "album_visible": 1, "start_at": "2025-12-16 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 508901, "unit_id": 5089, "stage": 0, "file_id": 1, "name": "[红]渲染成绯色的天人", "description": "红雾世界的天子的常服。\n雾露乾坤网是操纵水的道具。", "album_visible": 1, "start_at": "2022-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 510501, "unit_id": 5105, "stage": 0, "file_id": 1, "name": "时钟信号员", "description": "电子设备使用者雷鼓的常服。\n乐队的真正价值在于节拍。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 512501, "unit_id": 5125, "stage": 0, "file_id": 1, "name": "模拟怪臂：布都御魂", "description": "变生世界的茨木童子之臂的常服。\n布都御魂是最强神剑之一。", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
@@ -635,7 +635,7 @@
 {"id": 605601, "unit_id": 6056, "stage": 0, "file_id": 1, "name": "南国女神", "description": "陶醉于常夏世界的赫卡提亚的常服。\n虽然地狱也到处都是水，但是玩水最先进的是幻想乡。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 606201, "unit_id": 6062, "stage": 0, "file_id": 1, "name": "记忆黑客的长女", "description": "电子音乐家的露娜萨的常服。\n真面目是记忆黑客。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 606301, "unit_id": 6063, "stage": 0, "file_id": 1, "name": "记忆黑客的次女", "description": "电子音乐家的梅露兰的常服。\n姐妹所有人都用电子乐器展开黑客行动。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
-{"id": 606302, "unit_id": 6063, "stage": 0, "file_id": 2, "name": "记忆入侵者", "description": "梅露兰(B5)的E-mote服装。\n这次的舞台，是过去与未来交织的假想演唱会！", "album_visible": 0, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
+{"id": 606302, "unit_id": 6063, "stage": 0, "file_id": 2, "name": "记忆入侵者", "description": "梅露兰(B5)的E-mote服装。\n这次的舞台，是过去与未来交织的假想演唱会！", "album_visible": 1, "start_at": "2025-12-16 02:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 606401, "unit_id": 6064, "stage": 0, "file_id": 1, "name": "记忆黑客的三女", "description": "电子音乐家的莉莉卡的常服。\n黑客行动时莉莉卡是队长。", "album_visible": 1, "start_at": "2021-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 608601, "unit_id": 6086, "stage": 0, "file_id": 1, "name": "[神]忠实的尸体", "description": "神灵满溢世界的芳香的常服。\n额头上的符札的字是青娥写的。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
 {"id": 608701, "unit_id": 6087, "stage": 0, "file_id": 1, "name": "模拟二童子：丁礼多", "description": "变生世界的心的常服。\n浅葱色的服装配上了白色围裙。", "album_visible": 1, "start_at": "2020-01-01 00:00:00", "end_at": "2050-12-31 23:59:59"}
