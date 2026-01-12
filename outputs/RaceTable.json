@@ -218,3 +218,7 @@
 {"id": 218, "name": "UFO", "description": "-", "alias_name": "对UFO特别有效。"}
 {"id": 219, "name": "鸟兽伎乐", "description": "-", "alias_name": "对鸟兽伎乐特别有效。"}
 {"id": 220, "name": "护士", "description": "-", "alias_name": "对护士特别有效。"}
+{"id": 221, "name": "浴衣", "description": "-", "alias_name": "对浴衣穿着者特别有效。"}
+{"id": 222, "name": "花火", "description": "-", "alias_name": "对花火持有者特别有效。"}
+{"id": 223, "name": "反派", "description": "-", "alias_name": "对反派特别有效。"}
+{"id": 224, "name": "？？？", "description": "？？？", "alias_name": "？？？"}

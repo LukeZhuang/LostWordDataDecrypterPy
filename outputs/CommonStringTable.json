@@ -8,6 +8,10 @@
 {"text_key": "4TH_ANNIVERSARY_ITEM_SUBJECT", "japanese_value": "全員もらえるキャンペーン【4周年感謝賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "4TH_ANNIVERSARY_ORB_MESSAGE", "japanese_value": "「4thアニバーサリー全員もらえるキャンペーン」の神結賞として　「神結晶600個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "4TH_ANNIVERSARY_ORB_SUBJECT", "japanese_value": "全員もらえるキャンペーン【神結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY2_CRYSTAL_MESSAGE", "japanese_value": "「5.5thアニバーサリー全員もらえるキャンペーン」の封結賞として　「封結晶50個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY2_CRYSTAL_SUBJECT", "japanese_value": "全員もらえるキャンペーン【封結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY2_ORB_MESSAGE", "japanese_value": "「5.5thアニバーサリー全員もらえるキャンペーン」の神結賞として　「神結晶600個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "5TH_ANNIVERSARY2_ORB_SUBJECT", "japanese_value": "全員もらえるキャンペーン【神結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "5TH_ANNIVERSARY_CRYSTAL_MESSAGE", "japanese_value": "「5thアニバーサリー全員もらえるキャンペーン」の封結賞として　「封結晶50個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "5TH_ANNIVERSARY_CRYSTAL_SUBJECT", "japanese_value": "全員もらえるキャンペーン【封結賞】", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "5TH_ANNIVERSARY_ORB_MESSAGE", "japanese_value": "「5thアニバーサリー全員もらえるキャンペーン」の神結賞として　「神結晶600個」をプレゼントいたします。　今後とも「東方LostWord」をよろしくお願いいたします。", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -789,6 +793,7 @@
 {"text_key": "GACHA_POINT_MAIL_MESSAGE", "japanese_value": "超过交换期限「{gacha_name}」的交换P，已变换为灵点", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_POINT_MAIL_SUBJECT", "japanese_value": "过期交换P的变换", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "GACHA_TITLE", "japanese_value": "祈愿", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "GOOD_SMILE_GAME_URL", "japanese_value": "https://goodsmilegame.com/", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ITEM_TITLE", "japanese_value": "道具", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "ITEM_TYPE_ABILITY_CARD", "japanese_value": "能力贴纸", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LECTURE_ROOM_TITLE", "japanese_value": "寺子屋", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -796,7 +801,7 @@
 {"text_key": "LOGINBONUS_MAIL_MESSAGE", "japanese_value": "「{name}」第{day}日的报酬", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LOGINBONUS_MAIL_SENDER", "japanese_value": "归言录", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "LOGINBONUS_NAME", "japanese_value": "签到表", "english_value": "", "chinese_value": "", "french_value": ""}
-{"text_key": "LOST_WORD_LIVE_URL", "japanese_value": "https://www.youtube.com/playlist?list=PLV57JtRB_HZugMmOLq5pgAd7JR6rD0AAs", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "LOST_WORD_LIVE_URL", "japanese_value": "https://youtu.be/yiJGboUkZ9w", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "MEMBER_TITLE", "japanese_value": "伙伴一览", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "MENU_CONFIG_TITLE", "japanese_value": "设定", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "MENU_GET_SWITCH_CODE_TITLE", "japanese_value": "继承", "english_value": "", "chinese_value": "", "french_value": ""}
@@ -869,6 +874,7 @@
 {"text_key": "VERSUS_FIRST_CLEAR_REWARD_TITLE", "japanese_value": "首通报酬", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "VERSUS_TITLE", "japanese_value": "vs复灵", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "VOTIVE_PICTURE_TITLE", "japanese_value": "祭绘马", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "WEB_PAYMENT_URL", "japanese_value": "https://touhoulostword.com/", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "WEEKLY_ARENA_BATTLE_RESULT_ATTACK_POINT", "japanese_value": "{0}点<size=33>/24点</size>", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "WEEKLY_ARENA_BATTLE_RESULT_ATTACK_TITLE", "japanese_value": "攻击次数：{0}", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "WEEKLY_ARENA_BATTLE_RESULT_DEADLY_POINT", "japanese_value": "{0}点<size=33>/20点</size>", "english_value": "", "chinese_value": "", "french_value": ""}

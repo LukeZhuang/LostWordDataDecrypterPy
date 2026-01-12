@@ -107,3 +107,11 @@
 {"id": 1107, "feature_product_shop_id": 1038, "shop_type": 1, "product_id": 11481, "priority": 1}
 {"id": 1108, "feature_product_shop_id": 1038, "shop_type": 1, "product_id": 11482, "priority": 2}
 {"id": 1109, "feature_product_shop_id": 1038, "shop_type": 1, "product_id": 11483, "priority": 3}
+{"id": 1110, "feature_product_shop_id": 1039, "shop_type": 13, "product_id": 1001, "priority": 1}
+{"id": 1111, "feature_product_shop_id": 1039, "shop_type": 13, "product_id": 1002, "priority": 2}
+{"id": 1112, "feature_product_shop_id": 1040, "shop_type": 1, "product_id": 11484, "priority": 1}
+{"id": 1113, "feature_product_shop_id": 1040, "shop_type": 1, "product_id": 11485, "priority": 2}
+{"id": 1114, "feature_product_shop_id": 1040, "shop_type": 1, "product_id": 11486, "priority": 3}
+{"id": 1115, "feature_product_shop_id": 1041, "shop_type": 1, "product_id": 11487, "priority": 1}
+{"id": 1116, "feature_product_shop_id": 1041, "shop_type": 1, "product_id": 11488, "priority": 2}
+{"id": 1117, "feature_product_shop_id": 1041, "shop_type": 1, "product_id": 11489, "priority": 3}

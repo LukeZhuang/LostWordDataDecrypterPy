@@ -31,6 +31,7 @@
 {"key": "DELIVERY_WARNING_REST_DAYS", "value": "5", "description": "出现宅配便警告的剩余日数"}
 {"key": "DESTINY_VALUE_ADD_FOR_MATERIAL_ITEM", "value": "1", "description": "運命鏡での運命値上昇値"}
 {"key": "DESTINY_VALUE_ADD_FOR_PAPER_DOLL", "value": "5", "description": "形代系での運命値上昇値"}
+{"key": "DESTINY_VALUE_ADD_UNIT_EXCLUSIVE_ITEM", "value": "1", "description": ""}
 {"key": "DESTINY_VALUE_DEFAULT", "value": "5", "description": "運命値初期値"}
 {"key": "DESTINY_VALUE_MATERIAL_ID", "value": "802", "description": ""}
 {"key": "DESTINY_VALUE_MAX", "value": "100", "description": "運命値最大値"}
@@ -43,6 +44,8 @@
 {"key": "ENABLE_UNIT_REINCARNATION", "value": "1", "description": "少女转生是否开启"}
 {"key": "EVENT_POINT_MAX", "value": "999999", "description": "活动点数最大值"}
 {"key": "EVENT_SPECIAL_MISSION_OPEN_HOUR", "value": "0", "description": "在限定活动中满足解放条件后，解放时间以0:00为基准进行调整"}
+{"key": "EXTERNAL_WEB_GOOD_SMILE_GAME_LINK", "value": "1", "description": ""}
+{"key": "EXTERNAL_WEB_PAYMENT_LINK", "value": "1", "description": ""}
 {"key": "EXTRA_QUEST_COUNT", "value": "3", "description": "额外关卡对应"}
 {"key": "FIGURE_PRESENT_EVENT_ID", "value": "1050", "description": "手办赠礼活动ID"}
 {"key": "FIGURE_PRESENT_LOGIN_COUNT", "value": "30", "description": "登录日数"}
@@ -99,6 +102,7 @@
 {"key": "QUEST_ANOTHER_BACKGROUND", "value": "11320101", "description": "秘封TOP画面の背景のID"}
 {"key": "QUEST_ANOTHER_BGM", "value": "1043", "description": "秘封TOP画面のBGMのID"}
 {"key": "QUEST_RELEASE_EPISODE_ID", "value": "100100501", "description": "秘封开启关卡"}
+{"key": "RAID_RESULT2", "value": "0", "description": "共通課題223902_ラウンド2勝敗判定"}
 {"key": "RAKING_LIMIT_UNIT_LEN", "value": "2", "description": "战斗履历top10显示人数限制小于等于"}
 {"key": "RAKING_LIMIT_UNIT_LEN2", "value": "6", "description": "战斗履历top10显示人数限制2小于等于"}
 {"key": "RAKING_MAX_DAMAGE", "value": "100000000", "description": "战斗履历top10显示最大伤害限制大于"}

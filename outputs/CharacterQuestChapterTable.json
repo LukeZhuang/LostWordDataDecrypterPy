@@ -109,6 +109,10 @@
 {"id": 111201, "target_name": "庭渡久侘歌", "target_unit_id": 1112, "priority": 70, "costume_id": 111201, "unit_speech_group_id": 676}
 {"id": 111301, "target_name": "牛崎润美", "target_unit_id": 1113, "priority": 136, "costume_id": 111301, "unit_speech_group_id": 1257}
 {"id": 111401, "target_name": "戎璎花", "target_unit_id": 1114, "priority": 137, "costume_id": 111401, "unit_speech_group_id": 1258}
+{"id": 111701, "target_name": "豪德寺三花", "target_unit_id": 1117, "priority": 138, "costume_id": 111701, "unit_speech_group_id": 1277}
+{"id": 111801, "target_name": "山城高岭", "target_unit_id": 1118, "priority": 139, "costume_id": 111801, "unit_speech_group_id": 1278}
+{"id": 111901, "target_name": "驹草山如", "target_unit_id": 1119, "priority": 140, "costume_id": 111901, "unit_speech_group_id": 1279}
+{"id": 112001, "target_name": "玉造魅须丸", "target_unit_id": 1120, "priority": 141, "costume_id": 112001, "unit_speech_group_id": 1280}
 {"id": 200201, "target_name": "雾雨魔理沙", "target_unit_id": 2002, "priority": 62, "costume_id": 200201, "unit_speech_group_id": 621}
 {"id": 200301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 2003, "priority": 99, "costume_id": 200301, "unit_speech_group_id": 972}
 {"id": 200501, "target_name": "十六夜咲夜", "target_unit_id": 2005, "priority": 97, "costume_id": 200501, "unit_speech_group_id": 971}
