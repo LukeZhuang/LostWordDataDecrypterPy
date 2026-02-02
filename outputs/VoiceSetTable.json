@@ -919,9 +919,9 @@
 {"id": 800201, "unit_id": 8002, "file_id": 1, "name": "魔法使用者程度的声音", "cast_name": "福原香織", "display_order": 1}
 {"id": 800202, "unit_id": 8002, "file_id": 2, "name": "热爱星星的少女程度的声音", "cast_name": "中川亜紀子", "display_order": 2}
 {"id": 800203, "unit_id": 8002, "file_id": 3, "name": "普通的女孩子程度的声音", "cast_name": "森なな子", "display_order": 3}
-{"id": 801801, "unit_id": 8018, "file_id": 1, "name": "永琳ちゃん程度の声", "cast_name": "池田朋子", "display_order": 1}
-{"id": 801802, "unit_id": 8018, "file_id": 2, "name": "ナルちゃん程度の声", "cast_name": "京花優希", "display_order": 2}
-{"id": 801803, "unit_id": 8018, "file_id": 3, "name": "ぬるキャラちゃん程度の声", "cast_name": "仁見紗綾", "display_order": 3}
+{"id": 801801, "unit_id": 8018, "file_id": 1, "name": "永琳酱程度的声音", "cast_name": "池田朋子", "display_order": 1}
+{"id": 801802, "unit_id": 8018, "file_id": 2, "name": "娜露酱程度的声音", "cast_name": "京花優希", "display_order": 2}
+{"id": 801803, "unit_id": 8018, "file_id": 3, "name": "露祥物酱程度的声音", "cast_name": "仁見紗綾", "display_order": 3}
 {"id": 803201, "unit_id": 8032, "file_id": 1, "name": "连接星星的魔法少女程度的声音", "cast_name": "伊藤彩沙", "display_order": 1}
 {"id": 803202, "unit_id": 8032, "file_id": 2, "name": "七色的魔法少女程度的声音", "cast_name": "本渡楓", "display_order": 2}
 {"id": 803203, "unit_id": 8032, "file_id": 3, "name": "人偶的魔法少女程度的声音", "cast_name": "首藤志奈", "display_order": 3}

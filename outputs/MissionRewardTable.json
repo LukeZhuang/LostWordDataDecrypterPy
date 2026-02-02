@@ -2596,6 +2596,7 @@
 {"id": 7005091, "mission_reward_group_id": 700509, "object_type": 8, "object_id": 12160, "object_value": 200, "display_order": 1, "custom_parameter": ""}
 {"id": 7005101, "mission_reward_group_id": 700510, "object_type": 8, "object_id": 12160, "object_value": 250, "display_order": 1, "custom_parameter": ""}
 {"id": 7005111, "mission_reward_group_id": 700511, "object_type": 8, "object_id": 12160, "object_value": 750, "display_order": 1, "custom_parameter": ""}
+{"id": 7010021, "mission_reward_group_id": 701002, "object_type": 8, "object_id": 12235, "object_value": 1, "display_order": 1, "custom_parameter": ""}
 {"id": 7010031, "mission_reward_group_id": 701003, "object_type": 8, "object_id": 12230, "object_value": 120, "display_order": 1, "custom_parameter": ""}
 {"id": 7010041, "mission_reward_group_id": 701004, "object_type": 8, "object_id": 12230, "object_value": 121, "display_order": 1, "custom_parameter": ""}
 {"id": 7010061, "mission_reward_group_id": 701006, "object_type": 8, "object_id": 12230, "object_value": 122, "display_order": 1, "custom_parameter": ""}
@@ -2840,6 +2841,7 @@
 {"id": 7045091, "mission_reward_group_id": 704509, "object_type": 8, "object_id": 12380, "object_value": 200, "display_order": 1, "custom_parameter": ""}
 {"id": 7045101, "mission_reward_group_id": 704510, "object_type": 8, "object_id": 12380, "object_value": 250, "display_order": 1, "custom_parameter": ""}
 {"id": 7045111, "mission_reward_group_id": 704511, "object_type": 8, "object_id": 12380, "object_value": 750, "display_order": 1, "custom_parameter": ""}
+{"id": 7050021, "mission_reward_group_id": 705002, "object_type": 8, "object_id": 12425, "object_value": 1, "display_order": 1, "custom_parameter": ""}
 {"id": 7050031, "mission_reward_group_id": 705003, "object_type": 8, "object_id": 12420, "object_value": 120, "display_order": 1, "custom_parameter": ""}
 {"id": 7050041, "mission_reward_group_id": 705004, "object_type": 8, "object_id": 12420, "object_value": 121, "display_order": 1, "custom_parameter": ""}
 {"id": 7050061, "mission_reward_group_id": 705006, "object_type": 8, "object_id": 12420, "object_value": 122, "display_order": 1, "custom_parameter": ""}

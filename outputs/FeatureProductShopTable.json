@@ -39,3 +39,5 @@
 {"id": 1039, "display_name": "推荐", "display_order": 30, "banner_image": "feature_20260121_1.png", "start_at": "2026-01-21 00:00:00", "end_at": "2026-02-19 23:59:59"}
 {"id": 1040, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20260106_1.png", "start_at": "2026-01-06 02:00:00", "end_at": "2026-01-13 01:59:59"}
 {"id": 1041, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20260113_1.png", "start_at": "2026-01-13 02:00:00", "end_at": "2026-01-27 01:59:59"}
+{"id": 1042, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20260127_1.png", "start_at": "2026-01-27 02:00:00", "end_at": "2026-02-10 01:59:59"}
+{"id": 1043, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20260203_1.png", "start_at": "2026-02-03 02:00:00", "end_at": "2026-02-17 01:59:59"}

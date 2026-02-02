@@ -336,6 +336,12 @@
 {"id": 2204000, "chapter_id": 2204, "mode": 0, "title": "十六夜咲夜体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2205000, "chapter_id": 2205, "mode": 0, "title": "魂魄妖梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2206000, "chapter_id": 2206, "mode": 0, "title": "米斯蒂娅·萝蕾拉体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2224000, "chapter_id": 2224, "mode": 0, "title": "再见 哆来咪乐园", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 1296, "open_type": 0}
+{"id": 2224001, "chapter_id": 2224, "mode": 1, "title": "特殊章节 再见 哆来咪乐园", "sub_title": "", "number": 1, "costume_id": 108404, "unit_speech_group_id": 1297, "open_type": 1}
+{"id": 2226000, "chapter_id": 2226, "mode": 0, "title": "蕾米莉亚·斯卡雷特（Ce9）体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2227000, "chapter_id": 2227, "mode": 0, "title": "芙兰朵露·斯卡雷特（Ce1）体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2229000, "chapter_id": 2229, "mode": 0, "title": "延绵不绝的狼烟是汤花的飘香", "sub_title": "", "number": 1, "costume_id": 305401, "unit_speech_group_id": 1318, "open_type": 0}
+{"id": 2229001, "chapter_id": 2229, "mode": 1, "title": "特殊章节 延绵不绝的狼烟是汤花的飘香", "sub_title": "", "number": 1, "costume_id": 110104, "unit_speech_group_id": 1319, "open_type": 1}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
@@ -391,6 +397,7 @@
 {"id": 8010000, "chapter_id": 8010, "mode": 0, "title": "永远战线 提前举办", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 8011000, "chapter_id": 8011, "mode": 0, "title": "永远战线 提前举办", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 8014000, "chapter_id": 8014, "mode": 0, "title": "永远战线 梦想与流星的再演篇", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8015000, "chapter_id": 8015, "mode": 0, "title": "苍海、白云、初茜篇", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 9001001, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，油库里", "sub_title": "油库里与油库里与，油库里", "number": 1, "costume_id": 5000201, "unit_speech_group_id": 1329, "open_type": 0}
 {"id": 9001002, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，雾与雾", "sub_title": "雾与雾", "number": 2, "costume_id": 5003001, "unit_speech_group_id": 1372, "open_type": 0}
 {"id": 9001003, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，魔法☆调换☆木偶剧", "sub_title": "魔法☆调换☆木偶剧", "number": 3, "costume_id": 5000401, "unit_speech_group_id": 1416, "open_type": 0}

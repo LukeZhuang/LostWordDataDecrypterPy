@@ -135,6 +135,8 @@
 {"id": 771, "name": "LIVE 2025特别祝词-十六夜咲夜", "description": "有效期至2025年12月30日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1071}
 {"id": 772, "name": "泳装特殊祝词-米斯蒂娅", "description": "有效期至2026年01月13日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1072}
 {"id": 773, "name": "泳装特殊祝词-幽谷响子", "description": "有效期至2026年01月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1073}
+{"id": 774, "name": "泳装特殊祝词-蕾米莉亚", "description": "有效期至2026年02月10日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1074}
+{"id": 775, "name": "泳装特殊祝词-芙兰朵露", "description": "有效期至2026年02月17日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1075}
 {"id": 780, "name": "泳装特殊祝词-紫", "description": "有效期至2022年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1080}
 {"id": 781, "name": "泳装特殊祝词-赫卡提亚", "description": "有效期至2022年11月22日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1081}
 {"id": 782, "name": "叙事诗特别祝词-博丽灵梦", "description": "有效期至2022年12月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1082}
@@ -417,7 +419,7 @@
 {"id": 100051, "name": "5thアニバーサリー超フェス祭絵馬11", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 190}
 {"id": 100052, "name": "复灵祭绘马δ种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 223}
 {"id": 100053, "name": "复灵祭绘马α种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 220}
-{"id": 100054, "name": "複霊祭絵馬β種", "description": "絵札を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 221}
+{"id": 100054, "name": "复灵祭绘马β种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 221}
 {"id": 100055, "name": "スペシャルAシリーズ祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 236}
 {"id": 100056, "name": "スペシャル超フェス祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 237}
 {"id": 100057, "name": "スペシャルレリック祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 238}

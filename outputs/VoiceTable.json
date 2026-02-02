@@ -19953,71 +19953,71 @@
 {"id": 800263, "unit_id": 8002, "voice_type_id": 63, "voice_text": "谢了！", "emotion": ""}
 {"id": 800264, "unit_id": 8002, "voice_type_id": 64, "voice_text": "任何人都无法阻止流星。一口气上吧！", "emotion": ""}
 {"id": 800265, "unit_id": 8002, "voice_type_id": 65, "voice_text": "漫长，真是漫长无比的旅途。等一切都结束了，我再去神社喝茶吧。让我听听你的故事吧……灵梦。", "emotion": ""}
-{"id": 801801, "unit_id": 8018, "voice_type_id": 1, "voice_text": "こんにちは！ 私は八意永琳、タイプ：シニアシスターズ最終個体、通称『ナル·キャラクター』、シリアル番号……って、長い？ それは失礼しました！ 私のことは気軽に永琳、またはナルちゃんとお呼び下さい。『我々』は長らく多次元神経網を観察してきましたが、私はちょっとした例外個体でして。こうして出て来れるみたいなんです。まあ、欠陥品だからなんですけどね！ 秘密っぽいことをペラペラ喋って大丈夫かって？ 構いません！ だって私たち、もうお友達ですから！ えっ！？ 『ぬるキャラちゃん』！？ 変なあだ名～！", "emotion": ""}
-{"id": 801802, "unit_id": 8018, "voice_type_id": 2, "voice_text": "私がここへ来たということは、私の運命は途絶えて……いやいや、私だけは例外のはず。", "emotion": "2"}
-{"id": 801803, "unit_id": 8018, "voice_type_id": 3, "voice_text": "はい、天才永琳ちゃんです。もしくは、ナルちゃんでもいいですよ～。", "emotion": "3"}
-{"id": 801804, "unit_id": 8018, "voice_type_id": 4, "voice_text": "異なる運命を辿った並行同位体は、通常、別の世界の住人となります。私も元は、そういう個体のひとりでした！", "emotion": "1"}
-{"id": 801805, "unit_id": 8018, "voice_type_id": 5, "voice_text": "異界渡りの技術を用いて並行同位体を同じ世界に集めても、エキュメニカル·ニッチによる辻褄合わせが働いてしまいます。ひとりだけ残して、他は消えなくてはならない。そこで、私の出番～！", "emotion": "7"}
-{"id": 801806, "unit_id": 8018, "voice_type_id": 6, "voice_text": "最終個体である私が多次元神経網に薬を打つことで、エキュメニカル·ニッチの作用を抑制しているのですよ。帝都には大勢の私が集積された『超頭脳』が実現する。今のところ、上手く行っている手法です。", "emotion": "1"}
-{"id": 801807, "unit_id": 8018, "voice_type_id": 7, "voice_text": "私の意思で、この貴方の世界を訪れたつもりでしたが……単純に、私の運命が途絶えたからここへ流れ着いただけなのかもしれません。いえ、気にしてはいないのですが……姉妹たちのことを、悪くは思ってなかったものですから。なんとかして、助けたいものです。", "emotion": "2"}
-{"id": 801808, "unit_id": 8018, "voice_type_id": 8, "voice_text": "はわわ～！ やっぱり私は天才ですね！ やったー！", "emotion": ""}
-{"id": 801809, "unit_id": 8018, "voice_type_id": 9, "voice_text": "依姫、豊姫、サグメの三人のお姉ちゃんたちが、よく私をお世話してくれるんですよ。", "emotion": "7"}
-{"id": 801810, "unit_id": 8018, "voice_type_id": 10, "voice_text": "私に欠陥があるってことは、シニアシスターズ自体に欠陥があるってことですよね。だって全体を維持しているのは私ですし。", "emotion": "8"}
-{"id": 801811, "unit_id": 8018, "voice_type_id": 11, "voice_text": "健康には気遣わないとダメですよ。なんでも治せるワケではないのですから。おしおき部屋送りになりたいんですか～？", "emotion": "4"}
-{"id": 801812, "unit_id": 8018, "voice_type_id": 12, "voice_text": "我々が一番年上ですので！ だからシニアシスターズ、『年上の妹』って呼ばれているんですよ。", "emotion": "3"}
-{"id": 801813, "unit_id": 8018, "voice_type_id": 13, "voice_text": "春！ 最っ高～に穢れた季節ですねえ！ くっさ～！ え？ ……蓬莱人は既に穢れているから、地上の穢れを気にする必要はない？ そうなんですけどね！", "emotion": "6"}
-{"id": 801814, "unit_id": 8018, "voice_type_id": 14, "voice_text": "夏！ 超超超超穢れＭＡＸな季節ですね～！ くっさ～！ でもなんか癖になりますねー。いい季節です。私、夏って大好きです。", "emotion": "3"}
-{"id": 801815, "unit_id": 8018, "voice_type_id": 15, "voice_text": "秋！ 帝都の中には一番無い季節ですね～！ 死にかけの、腐りかけな季節？ みたいな？ くっさ～！ はぁ～、おいも美味しい。ｍｇｍｇ。", "emotion": "7"}
-{"id": 801816, "unit_id": 8018, "voice_type_id": 16, "voice_text": "冬、ぜんぜん臭くない。いや、気温が低いから鼻がききにくいんですね。あとなんかムズムズ……へっくちゅん！ あれ？ 私が風邪なんて……てんしゃいにゃのに！？", "emotion": "8"}
-{"id": 801817, "unit_id": 8018, "voice_type_id": 17, "voice_text": "お勉強ですか？ 教えてあげます！", "emotion": "3"}
-{"id": 801818, "unit_id": 8018, "voice_type_id": 18, "voice_text": "お勉強お疲れ様。量子力学くらいはマスターできましたか？", "emotion": "1"}
-{"id": 801819, "unit_id": 8018, "voice_type_id": 19, "voice_text": "おや、伝書ですね。これは……見たことのない封です。むむむ！", "emotion": "2"}
-{"id": 801820, "unit_id": 8018, "voice_type_id": 20, "voice_text": "一部、データにない弾幕が観測されました。やっぱり広いですね、多元宇宙は。", "emotion": "5"}
-{"id": 801821, "unit_id": 8018, "voice_type_id": 21, "voice_text": "どなたか、帰ってきたみたいですね。おかえりなさい、お姉ちゃんたち～！", "emotion": "3"}
-{"id": 801822, "unit_id": 8018, "voice_type_id": 22, "voice_text": "あー、輝夜のことです？ あの子は特別なので～。", "emotion": "5"}
-{"id": 801823, "unit_id": 8018, "voice_type_id": 23, "voice_text": "貴方のことも特別ですよ。全然別の意味ですけど！", "emotion": "7"}
-{"id": 801824, "unit_id": 8018, "voice_type_id": 24, "voice_text": "私の膝で眠っている間、貴方は夢を見ている。そう、それが貴方の……よしよし。", "emotion": "6"}
-{"id": 801825, "unit_id": 8018, "voice_type_id": 25, "voice_text": "私は永遠に遊びたい。さあ、遊びましょう！", "emotion": ""}
-{"id": 801826, "unit_id": 8018, "voice_type_id": 26, "voice_text": "抵抗するなら、消してしまえばいいんですよ！", "emotion": ""}
-{"id": 801827, "unit_id": 8018, "voice_type_id": 27, "voice_text": "こんなことでは、おしおき部屋送りですね！", "emotion": ""}
-{"id": 801828, "unit_id": 8018, "voice_type_id": 28, "voice_text": "夜はまだまだ長い！ もっと遊びましょうよ～！", "emotion": ""}
-{"id": 801829, "unit_id": 8018, "voice_type_id": 29, "voice_text": "あらあら", "emotion": ""}
-{"id": 801830, "unit_id": 8018, "voice_type_id": 30, "voice_text": "愚かですね", "emotion": ""}
-{"id": 801831, "unit_id": 8018, "voice_type_id": 31, "voice_text": "ダメダメですね～！", "emotion": ""}
-{"id": 801832, "unit_id": 8018, "voice_type_id": 32, "voice_text": "おやおや", "emotion": ""}
-{"id": 801833, "unit_id": 8018, "voice_type_id": 33, "voice_text": "何やってるんです", "emotion": ""}
-{"id": 801834, "unit_id": 8018, "voice_type_id": 34, "voice_text": "勉強してください！", "emotion": ""}
-{"id": 801835, "unit_id": 8018, "voice_type_id": 35, "voice_text": "おくすりです！", "emotion": ""}
-{"id": 801836, "unit_id": 8018, "voice_type_id": 36, "voice_text": "痛いとこないです？", "emotion": ""}
-{"id": 801837, "unit_id": 8018, "voice_type_id": 37, "voice_text": "射っちゃえ！", "emotion": ""}
-{"id": 801838, "unit_id": 8018, "voice_type_id": 38, "voice_text": "やっちゃえ！", "emotion": ""}
-{"id": 801839, "unit_id": 8018, "voice_type_id": 39, "voice_text": "まあ！ 楽しそう！", "emotion": ""}
-{"id": 801840, "unit_id": 8018, "voice_type_id": 40, "voice_text": "私のお薬が飲めないんです！？", "emotion": ""}
-{"id": 801841, "unit_id": 8018, "voice_type_id": 41, "voice_text": "薬師にも休養は必要です", "emotion": ""}
-{"id": 801842, "unit_id": 8018, "voice_type_id": 42, "voice_text": "回診ですよ～", "emotion": ""}
-{"id": 801843, "unit_id": 8018, "voice_type_id": 43, "voice_text": "痛いの痛いの飛んでけ～！", "emotion": ""}
-{"id": 801844, "unit_id": 8018, "voice_type_id": 44, "voice_text": "お薬ですよ～！", "emotion": ""}
-{"id": 801845, "unit_id": 8018, "voice_type_id": 45, "voice_text": "ナルちゃんってあだ名　可愛いでしょう？　\nえっ？　お地蔵さんみたいな名前？", "emotion": ""}
-{"id": 801846, "unit_id": 8018, "voice_type_id": 46, "voice_text": "まあ私も　終端に立つ道祖神みたいなもの　\nほとんど同じですね～！", "emotion": ""}
-{"id": 801847, "unit_id": 8018, "voice_type_id": 47, "voice_text": "神経「ニューロハッカーズ」", "emotion": ""}
-{"id": 801848, "unit_id": 8018, "voice_type_id": 48, "voice_text": "クローンとは　違うんですよ　\n結果的には似たようなものですが", "emotion": ""}
-{"id": 801849, "unit_id": 8018, "voice_type_id": 49, "voice_text": "異なる世界の私を　集めて繋げて　\nそれが我々　シニアシスターズです！", "emotion": ""}
-{"id": 801850, "unit_id": 8018, "voice_type_id": 50, "voice_text": "内服「蓬莱溶液オーバーフロー」", "emotion": ""}
-{"id": 801851, "unit_id": 8018, "voice_type_id": 51, "voice_text": "エキュメニカル·ニッチという　\n拒絶反応を抑えるために", "emotion": ""}
-{"id": 801852, "unit_id": 8018, "voice_type_id": 52, "voice_text": "私は生み出されたのです！　\nいわばシリーズ全体のお母さん！", "emotion": ""}
-{"id": 801853, "unit_id": 8018, "voice_type_id": 53, "voice_text": "「ナル·ターミネーター」", "emotion": ""}
-{"id": 801854, "unit_id": 8018, "voice_type_id": 54, "voice_text": "あうっ", "emotion": ""}
-{"id": 801855, "unit_id": 8018, "voice_type_id": 55, "voice_text": "やめてよう！", "emotion": ""}
-{"id": 801856, "unit_id": 8018, "voice_type_id": 56, "voice_text": "へっちゃらです！", "emotion": ""}
-{"id": 801857, "unit_id": 8018, "voice_type_id": 57, "voice_text": "あら？ あらあら？", "emotion": ""}
-{"id": 801858, "unit_id": 8018, "voice_type_id": 58, "voice_text": "助かります！", "emotion": ""}
-{"id": 801859, "unit_id": 8018, "voice_type_id": 59, "voice_text": "私を倒しちゃダメ～！", "emotion": ""}
-{"id": 801860, "unit_id": 8018, "voice_type_id": 60, "voice_text": "東方ロストワード", "emotion": ""}
-{"id": 801861, "unit_id": 8018, "voice_type_id": 61, "voice_text": "おっけーです！", "emotion": ""}
-{"id": 801862, "unit_id": 8018, "voice_type_id": 62, "voice_text": "やめます！", "emotion": ""}
-{"id": 801863, "unit_id": 8018, "voice_type_id": 63, "voice_text": "ありがとうございます！", "emotion": ""}
-{"id": 801864, "unit_id": 8018, "voice_type_id": 64, "voice_text": "さあ、お勉強しましょう！", "emotion": ""}
-{"id": 801865, "unit_id": 8018, "voice_type_id": 65, "voice_text": "もっと、遊びたかったなぁ……むにゃむにゃ。", "emotion": ""}
+{"id": 801801, "unit_id": 8018, "voice_type_id": 1, "voice_text": "你好！ 我是八意永琳SeniorSisterS型号最终个体，通称“娜露·切菈库塔”。序列号是……什么，太长了？非常抱歉！你可以叫我永琳或者娜露酱。“我们”观察了很久多次元神经网，但我是例外个体，所以能像这样跑出来。说白了我是不良品！ 我把秘密说出来会不会出事？ 不用担心！ 因为我们已经是朋友了！ 什么！？ “露祥物酱”！？好奇怪的绰号！", "emotion": ""}
+{"id": 801802, "unit_id": 8018, "voice_type_id": 2, "voice_text": "我来到这里意味着，我的命运已经断绝……不，一定只有我是例外。", "emotion": "2"}
+{"id": 801803, "unit_id": 8018, "voice_type_id": 3, "voice_text": "我是天才小永琳。你也可以叫我小娜露。", "emotion": "3"}
+{"id": 801804, "unit_id": 8018, "voice_type_id": 4, "voice_text": "踏上了不同命运的平行同位体，通常会成为不同世界的居民。我原本也是这样的个体之一！", "emotion": "1"}
+{"id": 801805, "unit_id": 8018, "voice_type_id": 5, "voice_text": "就算用异界穿越技术将平行同位体集结于同一个世界，在世界地位的影响下这些人最终只会剩下一个。这时候就轮到我出马了！", "emotion": "7"}
+{"id": 801806, "unit_id": 8018, "voice_type_id": 6, "voice_text": "身为最终个体的我，通过给多次元神经网打药抑制着世界地位的效果。这还是多亏了集结于帝都的大量的我的“超头脑”。目前为止这个方法行得通。", "emotion": "1"}
+{"id": 801807, "unit_id": 8018, "voice_type_id": 7, "voice_text": "我以为我是凭借自己的意志来到了你的世界……但可能只是我的命运断绝了而已。不，我并不在意……我并不讨厌姐妹们。我想拯救她们。", "emotion": "2"}
+{"id": 801808, "unit_id": 8018, "voice_type_id": 8, "voice_text": "哇～！ 我果然是天才诶！ 太好了ー！", "emotion": ""}
+{"id": 801809, "unit_id": 8018, "voice_type_id": 9, "voice_text": "依姬、丰姬、探女这三位姐姐总是会照顾我。", "emotion": "7"}
+{"id": 801810, "unit_id": 8018, "voice_type_id": 10, "voice_text": "我有缺陷意味着SSS存在缺陷。因为我是管理者。", "emotion": "8"}
+{"id": 801811, "unit_id": 8018, "voice_type_id": 11, "voice_text": "一定要注意健康。我不是什么伤病都能治好。你是想进惩罚室吗～？", "emotion": "4"}
+{"id": 801812, "unit_id": 8018, "voice_type_id": 12, "voice_text": "我们年龄最大！ 所以我们被叫做SeniorSisterS……“年长的姐姐”。", "emotion": "3"}
+{"id": 801813, "unit_id": 8018, "voice_type_id": 13, "voice_text": "春天！ 污秽爆表的季节！ 好臭～！ 诶？ ……蓬莱人已经被玷污了，所以不用在意地上的污秽？话是这样没错！", "emotion": "6"}
+{"id": 801814, "unit_id": 8018, "voice_type_id": 14, "voice_text": "夏天！ 污秽超超超超爆表的季节～！ 好臭～！ 但感觉会上瘾诶ー。这个季节真棒。我超喜欢夏天。", "emotion": "3"}
+{"id": 801815, "unit_id": 8018, "voice_type_id": 15, "voice_text": "秋天！ 和帝都最没有缘分的季节～！ 濒死的，一股腐臭味的季节。 好臭～！ 呼～，红薯好好吃。吧唧吧唧。", "emotion": "7"}
+{"id": 801816, "unit_id": 8018, "voice_type_id": 16, "voice_text": "冬天一点都不臭。可能是气温太低了，所以闻不出来。而且鼻子好痒……阿嚏！ 什么？ 我竟然会感冒！？我可是天才诶！", "emotion": "8"}
+{"id": 801817, "unit_id": 8018, "voice_type_id": 17, "voice_text": "你在学习吗？ 我来教你！", "emotion": "3"}
+{"id": 801818, "unit_id": 8018, "voice_type_id": 18, "voice_text": "学习辛苦了。学会量子力学了吗？", "emotion": "1"}
+{"id": 801819, "unit_id": 8018, "voice_type_id": 19, "voice_text": "是传书诶。这个封条我没见过！", "emotion": "2"}
+{"id": 801820, "unit_id": 8018, "voice_type_id": 20, "voice_text": "观测到了数据中不存在的弹幕。多元宇宙果然广阔。", "emotion": "5"}
+{"id": 801821, "unit_id": 8018, "voice_type_id": 21, "voice_text": "有人回来了。欢迎回来，姐姐们！", "emotion": "3"}
+{"id": 801822, "unit_id": 8018, "voice_type_id": 22, "voice_text": "你是在说辉夜吗？ 那孩子是特别的存在～。", "emotion": "5"}
+{"id": 801823, "unit_id": 8018, "voice_type_id": 23, "voice_text": "你也是特别的存在。虽然不是一个意思吧！", "emotion": "7"}
+{"id": 801824, "unit_id": 8018, "voice_type_id": 24, "voice_text": "在我的膝盖上沉睡的期间，你会沉浸在梦乡中。没错，这就是你的……乖孩子乖孩子。", "emotion": "6"}
+{"id": 801825, "unit_id": 8018, "voice_type_id": 25, "voice_text": "我要永远玩耍。我们一起玩吧！", "emotion": ""}
+{"id": 801826, "unit_id": 8018, "voice_type_id": 26, "voice_text": "抵抗就消灭！", "emotion": ""}
+{"id": 801827, "unit_id": 8018, "voice_type_id": 27, "voice_text": "看来得送到惩罚室呢！", "emotion": ""}
+{"id": 801828, "unit_id": 8018, "voice_type_id": 28, "voice_text": "夜晚还长得很！ 我们继续玩吧～！", "emotion": ""}
+{"id": 801829, "unit_id": 8018, "voice_type_id": 29, "voice_text": "哎呀", "emotion": ""}
+{"id": 801830, "unit_id": 8018, "voice_type_id": 30, "voice_text": "好蠢", "emotion": ""}
+{"id": 801831, "unit_id": 8018, "voice_type_id": 31, "voice_text": "根本不行诶～！", "emotion": ""}
+{"id": 801832, "unit_id": 8018, "voice_type_id": 32, "voice_text": "嗯嗯嗯", "emotion": ""}
+{"id": 801833, "unit_id": 8018, "voice_type_id": 33, "voice_text": "你在做什么", "emotion": ""}
+{"id": 801834, "unit_id": 8018, "voice_type_id": 34, "voice_text": "多学习学习！", "emotion": ""}
+{"id": 801835, "unit_id": 8018, "voice_type_id": 35, "voice_text": "该吃药了！", "emotion": ""}
+{"id": 801836, "unit_id": 8018, "voice_type_id": 36, "voice_text": "痛不痛？", "emotion": ""}
+{"id": 801837, "unit_id": 8018, "voice_type_id": 37, "voice_text": "射穿吧！", "emotion": ""}
+{"id": 801838, "unit_id": 8018, "voice_type_id": 38, "voice_text": "动手吧！", "emotion": ""}
+{"id": 801839, "unit_id": 8018, "voice_type_id": 39, "voice_text": "看起来好有趣！", "emotion": ""}
+{"id": 801840, "unit_id": 8018, "voice_type_id": 40, "voice_text": "你不愿意吃我的药！？", "emotion": ""}
+{"id": 801841, "unit_id": 8018, "voice_type_id": 41, "voice_text": "药师也需要休息", "emotion": ""}
+{"id": 801842, "unit_id": 8018, "voice_type_id": 42, "voice_text": "该复诊了～", "emotion": ""}
+{"id": 801843, "unit_id": 8018, "voice_type_id": 43, "voice_text": "疼痛啊，飞走吧～！", "emotion": ""}
+{"id": 801844, "unit_id": 8018, "voice_type_id": 44, "voice_text": "该吃药喽～！", "emotion": ""}
+{"id": 801845, "unit_id": 8018, "voice_type_id": 45, "voice_text": "娜露酱这个绰号是不是很可爱？　\n什么？　听起来像地藏？", "emotion": ""}
+{"id": 801846, "unit_id": 8018, "voice_type_id": 46, "voice_text": "但我和站在终端的道祖神　\n也没有什么区别～！", "emotion": ""}
+{"id": 801847, "unit_id": 8018, "voice_type_id": 47, "voice_text": "神经「神经黑客」", "emotion": ""}
+{"id": 801848, "unit_id": 8018, "voice_type_id": 48, "voice_text": "虽然结果而言差不多　\n但我们并非克隆人", "emotion": ""}
+{"id": 801849, "unit_id": 8018, "voice_type_id": 49, "voice_text": "集结并连接异世界的我　\n这就是我们……SeniorSisterS！", "emotion": ""}
+{"id": 801850, "unit_id": 8018, "voice_type_id": 50, "voice_text": "内服「蓬莱溶液溢出」", "emotion": ""}
+{"id": 801851, "unit_id": 8018, "voice_type_id": 51, "voice_text": "抑制名为世界地位的\n排斥反应", "emotion": ""}
+{"id": 801852, "unit_id": 8018, "voice_type_id": 52, "voice_text": "这就是我诞生的理由！　\n我是整个系列的妈妈！", "emotion": ""}
+{"id": 801853, "unit_id": 8018, "voice_type_id": 53, "voice_text": "「娜露终结者」", "emotion": ""}
+{"id": 801854, "unit_id": 8018, "voice_type_id": 54, "voice_text": "啊呜", "emotion": ""}
+{"id": 801855, "unit_id": 8018, "voice_type_id": 55, "voice_text": "别这样！", "emotion": ""}
+{"id": 801856, "unit_id": 8018, "voice_type_id": 56, "voice_text": "我没事！", "emotion": ""}
+{"id": 801857, "unit_id": 8018, "voice_type_id": 57, "voice_text": "嗯？嗯嗯嗯？", "emotion": ""}
+{"id": 801858, "unit_id": 8018, "voice_type_id": 58, "voice_text": "得救了！", "emotion": ""}
+{"id": 801859, "unit_id": 8018, "voice_type_id": 59, "voice_text": "不能打倒我～！", "emotion": ""}
+{"id": 801860, "unit_id": 8018, "voice_type_id": 60, "voice_text": "东方归言录", "emotion": ""}
+{"id": 801861, "unit_id": 8018, "voice_type_id": 61, "voice_text": "好的！", "emotion": ""}
+{"id": 801862, "unit_id": 8018, "voice_type_id": 62, "voice_text": "那就算了！", "emotion": ""}
+{"id": 801863, "unit_id": 8018, "voice_type_id": 63, "voice_text": "非常感谢！", "emotion": ""}
+{"id": 801864, "unit_id": 8018, "voice_type_id": 64, "voice_text": "该学习了！", "emotion": ""}
+{"id": 801865, "unit_id": 8018, "voice_type_id": 65, "voice_text": "我还没玩够……呼……呼……。", "emotion": ""}
 {"id": 803201, "unit_id": 8032, "voice_type_id": 1, "voice_text": "流星的轨迹引导我来到此地。魔法少女爱丽丝·玛格特罗伊德闪亮登场！……什么？ 魔法少女不是这种感觉吗？ 我参考了给人偶们穿上的衣服，所以以为魔法少女尽是些这样的可爱装备。不合适的话我就把衣服换了吧。……这样的魔法少女也不是不行？ 太好了～！ 那么这就告诉我有什么魔物退治的委托吧？", "emotion": ""}
 {"id": 803202, "unit_id": 8032, "voice_type_id": 2, "voice_text": "如果是没有魔物的世界的话，我能做的工作就不多了。", "emotion": "2"}
 {"id": 803203, "unit_id": 8032, "voice_type_id": 3, "voice_text": "这个世界没有魔物吗。……我该怎么办呢。", "emotion": "9"}
@@ -20863,12 +20863,12 @@
 {"id": 809963, "unit_id": 8099, "voice_type_id": 63, "voice_text": "谢谢", "emotion": ""}
 {"id": 809964, "unit_id": 8099, "voice_type_id": 64, "voice_text": "赚妖怪们的生活费可一点都不轻松。", "emotion": ""}
 {"id": 809965, "unit_id": 8099, "voice_type_id": 65, "voice_text": "鬼当然很轻松。毕竟想说什么就能说什么。但执行政务时受苦的可是我们。", "emotion": ""}
-{"id": 1000301, "unit_id": 10003, "voice_type_id": 1, "voice_text": "呼，大麦茶好好喝！ 咲夜—？ 芙兰—？ 差不多该回到海边了――什么！？ 要被冲走了～！ ……咦？ 这里是？ 不是吧，我最爱的拖鞋少了一只……呜呜！ 呜哇！？ 这次又是怎么了！ 什么啊，大家都在啊。让我白担心一场――原来是地精吗！ 怎么不是咲夜或者芙兰！ 还有混在地精里的人类，你是谁！？ 如果你是坏孩子的话，我会拍你屁股！ 我？ 我是蕾米莉亚·斯卡蕾特！", "emotion": ""}
+{"id": 1000301, "unit_id": 10003, "voice_type_id": 1, "voice_text": "呼，大麦茶好好喝！ 咲夜—？ 芙兰—？ 差不多该回到海边了――什么！？ 要被冲走了～！ ……咦？ 这里是？ 不是吧，我最爱的拖鞋少了一只……呜呜！ 呜哇！？ 这次又是怎么了！ 什么啊，大家都在啊。让我白担心一场――原来是地精吗！ 怎么不是咲夜或者芙兰！ 还有混在地精里的人类，你是谁！？ 如果你是坏孩子的话，我会拍你屁股！ 我？ 我是蕾米莉亚·斯卡雷特！", "emotion": ""}
 {"id": 1000302, "unit_id": 10003, "voice_type_id": 2, "voice_text": "我好像认识她……异世界的我。", "emotion": "2"}
 {"id": 1000303, "unit_id": 10003, "voice_type_id": 3, "voice_text": "诶？ 真正的红魔馆馆主？ 芙兰真正的……姐姐？ 她就是……？", "emotion": "5"}
 {"id": 1000304, "unit_id": 10003, "voice_type_id": 4, "voice_text": "我该以怎样的表情去见……芙兰真正的姐姐……。", "emotion": "6"}
 {"id": 1000305, "unit_id": 10003, "voice_type_id": 5, "voice_text": "她不会从我手中抢回去？ 她是这么说的吗？ ……好，我知道了。这是对我最合适的惩罚。……替我谢谢她。", "emotion": "6"}
-{"id": 1000306, "unit_id": 10003, "voice_type_id": 6, "voice_text": "我是红魔馆馆主，蕾米莉亚·斯卡蕾特。我不会向任何人求饶。现在的我需要伙伴。但有朝一日……我一定会把伙伴们还给她。我发誓。", "emotion": "7"}
+{"id": 1000306, "unit_id": 10003, "voice_type_id": 6, "voice_text": "我是红魔馆馆主，蕾米莉亚·斯卡雷特。我不会向任何人求饶。现在的我需要伙伴。但有朝一日……我一定会把伙伴们还给她。我发誓。", "emotion": "7"}
 {"id": 1000307, "unit_id": 10003, "voice_type_id": 7, "voice_text": "有人夺走了我的命运。被夺走命运的结果是……力量和记忆，以及现在的我不记得的重要事物也一起被夺走了。我一定有原本的伙伴。……如果她也愿意帮忙的话，我一定能取回命运。我一定，会取回命运。", "emotion": "4"}
 {"id": 1000308, "unit_id": 10003, "voice_type_id": 8, "voice_text": "命运的碎片……真的在这个世界吗？", "emotion": ""}
 {"id": 1000309, "unit_id": 10003, "voice_type_id": 9, "voice_text": "我们去寻找被夺走的命运碎片吧。地精靠不住，所以你来撑伞。你好好拿着。我翅膀的先端烤焦了！", "emotion": "8"}
@@ -20915,7 +20915,7 @@
 {"id": 1000350, "unit_id": 10003, "voice_type_id": 50, "voice_text": "夜符「代替品是地精置乱」", "emotion": ""}
 {"id": 1000351, "unit_id": 10003, "voice_type_id": 51, "voice_text": "虽说她以前是吸血鬼猎人　\n但咲夜不是坏人", "emotion": ""}
 {"id": 1000352, "unit_id": 10003, "voice_type_id": 52, "voice_text": "芙兰　我们能不能所有人一起　\n成为一家人呢", "emotion": ""}
-{"id": 1000353, "unit_id": 10003, "voice_type_id": 53, "voice_text": "「斯卡蕾特会社」", "emotion": ""}
+{"id": 1000353, "unit_id": 10003, "voice_type_id": 53, "voice_text": "「斯卡雷特会社」", "emotion": ""}
 {"id": 1000354, "unit_id": 10003, "voice_type_id": 54, "voice_text": "呜", "emotion": ""}
 {"id": 1000355, "unit_id": 10003, "voice_type_id": 55, "voice_text": "呜—！", "emotion": ""}
 {"id": 1000356, "unit_id": 10003, "voice_type_id": 56, "voice_text": "好弱—！", "emotion": ""}
@@ -20928,7 +20928,7 @@
 {"id": 1000363, "unit_id": 10003, "voice_type_id": 63, "voice_text": "谢谢！", "emotion": ""}
 {"id": 1000364, "unit_id": 10003, "voice_type_id": 64, "voice_text": "咲夜说“大麦茶的话孩子也能喝”。", "emotion": ""}
 {"id": 1000365, "unit_id": 10003, "voice_type_id": 65, "voice_text": "帕琪和美铃和小恶魔的泳装看着都很成熟……不公平。", "emotion": ""}
-{"id": 1000401, "unit_id": 10004, "voice_type_id": 1, "voice_text": "小小姐姐大人～？ 你把鞋忘了哦—？ ――我看不到你诶。试用期的吸血鬼猎人女仆也不知道去哪了，这下看来真要出事了。没办法，我就通过破坏命运来穿越异界吧。蕾米莉亚亲卫队队长芙兰朵露·斯卡蕾特将亲自出动。高贵女仆队，小心冲击波！ ……运气不错，看来是成功了。我问你，你有没有看到又小又可爱的小小姐姐大人？", "emotion": ""}
+{"id": 1000401, "unit_id": 10004, "voice_type_id": 1, "voice_text": "小小姐姐大人～？ 你把鞋忘了哦—？ ――我看不到你诶。试用期的吸血鬼猎人女仆也不知道去哪了，这下看来真要出事了。没办法，我就通过破坏命运来穿越异界吧。蕾米莉亚亲卫队队长芙兰朵露·斯卡雷特将亲自出动。高贵女仆队，小心冲击波！ ……运气不错，看来是成功了。我问你，你有没有看到又小又可爱的小小姐姐大人？", "emotion": ""}
 {"id": 1000402, "unit_id": 10004, "voice_type_id": 2, "voice_text": "姐，姐姐大人！？ 不是的……小小姐姐大人是……你，你误会了！", "emotion": "4"}
 {"id": 1000403, "unit_id": 10004, "voice_type_id": 3, "voice_text": "她是……我真正的姐姐。至少是无比接近我真正的姐姐的，可能性的一种。", "emotion": "9"}
 {"id": 1000404, "unit_id": 10004, "voice_type_id": 4, "voice_text": "姐……姐姐大人。没想到能在这个世界见到你。我……我该怎么办……。", "emotion": "8"}
@@ -20979,8 +20979,8 @@
 {"id": 1000449, "unit_id": 10004, "voice_type_id": 49, "voice_text": "可爱的小小姐姐大人　\n好想就这么把你搂坏", "emotion": ""}
 {"id": 1000450, "unit_id": 10004, "voice_type_id": 50, "voice_text": "「破坏粉碎者」", "emotion": ""}
 {"id": 1000451, "unit_id": 10004, "voice_type_id": 51, "voice_text": "家人游戏也是弹幕游戏的一环　\n就算是游戏　我也会全力以赴", "emotion": ""}
-{"id": 1000452, "unit_id": 10004, "voice_type_id": 52, "voice_text": "亲卫队队长芙兰朵露　即将出击　\n一切都是为了虚伪的家人　为了斯卡蕾特家", "emotion": ""}
-{"id": 1000453, "unit_id": 10004, "voice_type_id": 53, "voice_text": "「献给幼小公女的斯卡蕾特服务」", "emotion": ""}
+{"id": 1000452, "unit_id": 10004, "voice_type_id": 52, "voice_text": "亲卫队队长芙兰朵露　即将出击　\n一切都是为了虚伪的家人　为了斯卡雷特家", "emotion": ""}
+{"id": 1000453, "unit_id": 10004, "voice_type_id": 53, "voice_text": "「献给幼小公女的斯卡雷特服务」", "emotion": ""}
 {"id": 1000454, "unit_id": 10004, "voice_type_id": 54, "voice_text": "啊呜", "emotion": ""}
 {"id": 1000455, "unit_id": 10004, "voice_type_id": 55, "voice_text": "有两下子", "emotion": ""}
 {"id": 1000456, "unit_id": 10004, "voice_type_id": 56, "voice_text": "就这点本事？", "emotion": ""}

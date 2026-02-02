@@ -1113,3 +1113,10 @@
 {"id": 1113, "gacha_point_id": 5250, "need_point": 400, "object_type": 9, "object_id": 6037, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
 {"id": 1114, "gacha_point_id": 5250, "need_point": 50, "object_type": 10, "object_id": 418, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
 {"id": 1115, "gacha_point_id": 5260, "need_point": 350, "object_type": 9, "object_id": 12008, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1116, "gacha_point_id": 5270, "need_point": 400, "object_type": 9, "object_id": 10003, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1117, "gacha_point_id": 5270, "need_point": 50, "object_type": 10, "object_id": 589, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1118, "gacha_point_id": 5280, "need_point": 350, "object_type": 9, "object_id": 6093, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1119, "gacha_point_id": 5290, "need_point": 400, "object_type": 9, "object_id": 10004, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1120, "gacha_point_id": 5290, "need_point": 50, "object_type": 10, "object_id": 590, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1121, "gacha_point_id": 5300, "need_point": 350, "object_type": 9, "object_id": 11103, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
+{"id": 1122, "gacha_point_id": 5310, "need_point": 350, "object_type": 9, "object_id": 4091, "object_value": 1, "is_pickup_only": 0, "exchange_limit_count": 0, "start_at": "", "end_at": ""}
