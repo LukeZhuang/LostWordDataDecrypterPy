@@ -478,6 +478,12 @@
 {"id": 1053002, "votive_picture_id": 1053, "object_type": 10, "object_id": 638, "start_at": "", "end_at": "", "display_order": 302}
 {"id": 1054001, "votive_picture_id": 1054, "object_type": 10, "object_id": 420, "start_at": "", "end_at": "", "display_order": 301}
 {"id": 1054002, "votive_picture_id": 1054, "object_type": 10, "object_id": 430, "start_at": "", "end_at": "", "display_order": 300}
+{"id": 1060001, "votive_picture_id": 1060, "object_type": 10, "object_id": 294, "start_at": "", "end_at": "", "display_order": 300}
+{"id": 1060004, "votive_picture_id": 1060, "object_type": 10, "object_id": 402, "start_at": "", "end_at": "", "display_order": 201}
+{"id": 1071001, "votive_picture_id": 1071, "object_type": 10, "object_id": 509, "start_at": "", "end_at": "", "display_order": 300}
+{"id": 1071002, "votive_picture_id": 1071, "object_type": 10, "object_id": 402, "start_at": "", "end_at": "", "display_order": 301}
+{"id": 1071003, "votive_picture_id": 1071, "object_type": 10, "object_id": 510, "start_at": "", "end_at": "", "display_order": 201}
+{"id": 1071004, "votive_picture_id": 1071, "object_type": 10, "object_id": 622, "start_at": "", "end_at": "", "display_order": 202}
 {"id": 1901001, "votive_picture_id": 1901, "object_type": 9, "object_id": 2002, "start_at": "", "end_at": "", "display_order": 1}
 {"id": 1901002, "votive_picture_id": 1901, "object_type": 9, "object_id": 2003, "start_at": "", "end_at": "", "display_order": 2}
 {"id": 1901003, "votive_picture_id": 1901, "object_type": 9, "object_id": 2005, "start_at": "", "end_at": "", "display_order": 3}

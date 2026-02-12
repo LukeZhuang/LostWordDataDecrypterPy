@@ -41,3 +41,8 @@
 {"id": 1041, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20260113_1.png", "start_at": "2026-01-13 02:00:00", "end_at": "2026-01-27 01:59:59"}
 {"id": 1042, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20260127_1.png", "start_at": "2026-01-27 02:00:00", "end_at": "2026-02-10 01:59:59"}
 {"id": 1043, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20260203_1.png", "start_at": "2026-02-03 02:00:00", "end_at": "2026-02-17 01:59:59"}
+{"id": 1044, "display_name": "推荐", "display_order": 30, "banner_image": "feature_20260220_1.png", "start_at": "2026-02-20 00:00:00", "end_at": "2026-03-21 23:59:59"}
+{"id": 1045, "display_name": "推荐", "display_order": 5, "banner_image": "feature_20260210_1.png", "start_at": "2026-02-10 02:00:00", "end_at": "2026-02-24 01:59:59"}
+{"id": 1046, "display_name": "推荐", "display_order": 3, "banner_image": "feature_20260217_1.png", "start_at": "2026-02-17 02:00:00", "end_at": "2026-03-03 01:59:59"}
+{"id": 1047, "display_name": "推荐", "display_order": 4, "banner_image": "feature_20260224_1.png", "start_at": "2026-02-24 02:00:00", "end_at": "2026-03-10 01:59:59"}
+{"id": 1048, "display_name": "推荐", "display_order": 1, "banner_image": "feature_20260217_2.png", "start_at": "2026-02-17 02:00:00", "end_at": "2026-03-17 01:59:59"}

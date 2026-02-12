@@ -122,6 +122,7 @@
 {"id": 10900, "type": 5, "name": "跨年旅行 2024→2025", "event_id": 10900, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 10950, "type": 5, "name": "新年灵梦 体验关卡", "event_id": 10950, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 10960, "type": 5, "name": "新年魔理沙 体验关卡", "event_id": 10960, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 1}
+{"id": 11040, "type": 5, "name": "新年参拜替身活动", "event_id": 11040, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 0}
 {"id": 11120, "type": 5, "name": "复刻「混沌·配方 ～妖精的宵暗 添加了怪腕～」", "event_id": 11120, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 11170, "type": 5, "name": "「新？红魔馆 逆反女仆聘用面试」", "event_id": 11170, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 11270, "type": 5, "name": "复刻「绝对灵度！冰之鬼灾难进行曲」", "event_id": 11270, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
@@ -129,6 +130,7 @@
 {"id": 11420, "type": 5, "name": "复刻「艄公与船幽灵无休止的争论 兔耳先？还是蛋先？」", "event_id": 11420, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 11450, "type": 5, "name": "大联合 对手姐妹们", "event_id": 11450, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 11530, "type": 5, "name": "复刻「平行世界！ ～新次元并行录」", "event_id": 11530, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
+{"id": 11570, "type": 5, "name": "交错世界！ ～新交错次元录", "event_id": 11570, "chapter_id": 0, "display_order": 22, "is_completed_hidden": 0}
 {"id": 11590, "type": 5, "name": "4周年倒计时任务活动", "event_id": 11590, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
 {"id": 11680, "type": 5, "name": "4周年庆任务活动", "event_id": 11680, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
 {"id": 11700, "type": 5, "name": "花园赫卡 体验关卡", "event_id": 11700, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
@@ -147,10 +149,16 @@
 {"id": 12070, "type": 5, "name": "十六夜咲夜(L10.1)体验探索", "event_id": 12070, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
 {"id": 12080, "type": 5, "name": "魂魄妖梦(L10.1)体验探索", "event_id": 12080, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 12120, "type": 5, "name": "米斯蒂娅·萝蕾拉(C3)体验探索", "event_id": 12120, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
+{"id": 12190, "type": 5, "name": "水行的试炼", "event_id": 12190, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 0}
 {"id": 12230, "type": 5, "name": "复刻「再见 哆来咪乐园」", "event_id": 12230, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 12290, "type": 5, "name": "蕾米莉亚·斯卡雷特（Ce9）体验探索", "event_id": 12290, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 0}
 {"id": 12320, "type": 5, "name": "泳装幼蕾米课题活动", "event_id": 12320, "chapter_id": 0, "display_order": 30, "is_completed_hidden": 0}
 {"id": 12350, "type": 5, "name": "芙兰朵露·斯卡雷特（Ce1）体验探索", "event_id": 12350, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 0}
 {"id": 12360, "type": 5, "name": "泳装猎人芙兰课题活动", "event_id": 12360, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
+{"id": 12400, "type": 5, "name": "铃仙·优昙华院·因幡（C3∫）课题活动", "event_id": 12400, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
 {"id": 12410, "type": 5, "name": "「LostWord LIVE 2025」纪念活动", "event_id": 12410, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
 {"id": 12420, "type": 5, "name": "复刻「延绵不绝的狼烟是汤花的飘香」", "event_id": 12420, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 12440, "type": 5, "name": "探女（C3∫）课题活动", "event_id": 12440, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
+{"id": 12480, "type": 5, "name": "若鹭姬（C3）课题活动", "event_id": 12480, "chapter_id": 0, "display_order": 32, "is_completed_hidden": 0}
+{"id": 12550, "type": 5, "name": "油库里1周年纪念活动", "event_id": 12550, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
+{"id": 12620, "type": 5, "name": "复刻 去寻找阿姆斯特朗！", "event_id": 12620, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}

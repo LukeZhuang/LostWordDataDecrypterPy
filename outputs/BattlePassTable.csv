@@ -13,3 +13,4 @@ id,name,icon_image_path,banner_image_path,start_at,end_at,reward_group_id,exp_gr
 1012,战斗PASS,(empty),battle_pass_240930.png,2025-11-22 00:00:00,2025-12-21 23:59:59,0,1001,0,0,1904
 1013,战斗PASS,(empty),battle_pass_240930.png,2025-12-22 00:00:00,2026-01-21 13:59:59,0,1001,0,0,1905
 1014,战斗PASS,(empty),battle_pass_240930.png,2026-01-21 14:00:00,2026-02-19 23:59:59,0,1001,0,0,1906
+1015,战斗PASS,(empty),battle_pass_240930.png,2026-02-20 00:00:00,2026-03-21 23:59:59,0,1001,0,0,1907
