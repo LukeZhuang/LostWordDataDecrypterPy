@@ -193,6 +193,8 @@
 {"id": 2086001, "chapter_id": 2086, "mode": 1, "title": "特殊章节 博丽神社学院冒险谭 蕾米定向越野赛", "sub_title": "", "number": 1, "costume_id": 100507, "unit_speech_group_id": 815, "open_type": 1}
 {"id": 2087000, "chapter_id": 2087, "mode": 0, "title": "畅快！犯规解决代理人", "sub_title": "", "number": 1, "costume_id": 108502, "unit_speech_group_id": 333, "open_type": 0}
 {"id": 2087001, "chapter_id": 2087, "mode": 1, "title": "特殊章节 畅快！犯规解决代理人", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 334, "open_type": 0}
+{"id": 2088000, "chapter_id": 2088, "mode": 0, "title": "淑女的社交场", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2088001, "chapter_id": 2088, "mode": 1, "title": "特殊章节 淑女的社交场", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
 {"id": 2089000, "chapter_id": 2089, "mode": 0, "title": "野兽梦幻沙龙 欢迎来到！", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 864, "open_type": 0}
 {"id": 2089001, "chapter_id": 2089, "mode": 1, "title": "特殊章节 野兽梦幻沙龙 欢迎来到！", "sub_title": "", "number": 1, "costume_id": 107203, "unit_speech_group_id": 865, "open_type": 0}
 {"id": 2090000, "chapter_id": 2090, "mode": 0, "title": "「[幻想乡派送传]帮帮忙支援者们」", "sub_title": "", "number": 1, "costume_id": 104003, "unit_speech_group_id": 348, "open_type": 0}
@@ -327,6 +329,8 @@
 {"id": 2194000, "chapter_id": 2194, "mode": 0, "title": "日白残无体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2195000, "chapter_id": 2195, "mode": 0, "title": "柑橘是败北的苦涩", "sub_title": "", "number": 1, "costume_id": 105105, "unit_speech_group_id": 1252, "open_type": 0}
 {"id": 2195001, "chapter_id": 2195, "mode": 1, "title": "特殊章节 柑橘是败北的苦涩", "sub_title": "", "number": 1, "costume_id": 302401, "unit_speech_group_id": 1253, "open_type": 1}
+{"id": 2196000, "chapter_id": 2196, "mode": 0, "title": "(not)Re:inCarnation ～为你献上弹幕的花束～", "sub_title": "", "number": 1, "costume_id": 808501, "unit_speech_group_id": 1516, "open_type": 0}
+{"id": 2196001, "chapter_id": 2196, "mode": 1, "title": "特殊章节 (not)Re:inCarnation ～为你献上弹幕的花束～", "sub_title": "", "number": 1, "costume_id": 1005701, "unit_speech_group_id": 1517, "open_type": 1}
 {"id": 2197000, "chapter_id": 2197, "mode": 0, "title": "雾雨魔理沙体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2198000, "chapter_id": 2198, "mode": 0, "title": "纯狐体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2199000, "chapter_id": 2199, "mode": 0, "title": "星精的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
@@ -338,15 +342,24 @@
 {"id": 2204000, "chapter_id": 2204, "mode": 0, "title": "十六夜咲夜体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2205000, "chapter_id": 2205, "mode": 0, "title": "魂魄妖梦体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2206000, "chapter_id": 2206, "mode": 0, "title": "米斯蒂娅·萝蕾拉体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2222000, "chapter_id": 2222, "mode": 0, "title": "在哆来咪乐园注入愿望", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 964, "open_type": 0}
+{"id": 2222001, "chapter_id": 2222, "mode": 1, "title": "特殊章节 在哆来咪乐园注入愿望", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 965, "open_type": 1}
 {"id": 2223000, "chapter_id": 2223, "mode": 0, "title": "水行的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2224000, "chapter_id": 2224, "mode": 0, "title": "再见 哆来咪乐园", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 1296, "open_type": 0}
 {"id": 2224001, "chapter_id": 2224, "mode": 1, "title": "特殊章节 再见 哆来咪乐园", "sub_title": "", "number": 1, "costume_id": 108404, "unit_speech_group_id": 1297, "open_type": 1}
+{"id": 2225000, "chapter_id": 2225, "mode": 0, "title": "回来了 哆来咪乐园", "sub_title": "", "number": 1, "costume_id": 1000401, "unit_speech_group_id": 1560, "open_type": 0}
+{"id": 2225001, "chapter_id": 2225, "mode": 1, "title": "特殊章节 回来了 哆来咪乐园", "sub_title": "", "number": 1, "costume_id": 1503701, "unit_speech_group_id": 1561, "open_type": 1}
 {"id": 2226000, "chapter_id": 2226, "mode": 0, "title": "蕾米莉亚·斯卡雷特（Ce9）体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2227000, "chapter_id": 2227, "mode": 0, "title": "芙兰朵露·斯卡雷特（Ce1）体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2229000, "chapter_id": 2229, "mode": 0, "title": "延绵不绝的狼烟是汤花的飘香", "sub_title": "", "number": 1, "costume_id": 305401, "unit_speech_group_id": 1318, "open_type": 0}
 {"id": 2229001, "chapter_id": 2229, "mode": 1, "title": "特殊章节 延绵不绝的狼烟是汤花的飘香", "sub_title": "", "number": 1, "costume_id": 110104, "unit_speech_group_id": 1319, "open_type": 1}
+{"id": 2231000, "chapter_id": 2231, "mode": 0, "title": "琪露诺体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2233000, "chapter_id": 2233, "mode": 0, "title": "去寻找阿姆斯特朗！", "sub_title": "", "number": 1, "costume_id": 202501, "unit_speech_group_id": 1340, "open_type": 0}
 {"id": 2233001, "chapter_id": 2233, "mode": 1, "title": "特殊章节 去寻找阿姆斯特朗！", "sub_title": "", "number": 1, "costume_id": 105704, "unit_speech_group_id": 1341, "open_type": 1}
+{"id": 2238000, "chapter_id": 2238, "mode": 0, "title": "第1回　新·月都万象展！", "sub_title": "", "number": 1, "costume_id": 102506, "unit_speech_group_id": 1362, "open_type": 0}
+{"id": 2238001, "chapter_id": 2238, "mode": 1, "title": "特殊章节 第1回　新·月都万象展！", "sub_title": "", "number": 1, "costume_id": 1103201, "unit_speech_group_id": 1363, "open_type": 1}
+{"id": 2240000, "chapter_id": 2240, "mode": 0, "title": "体验探索 古明地觉(L0o)", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2243000, "chapter_id": 2243, "mode": 0, "title": "高难度挑战", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
@@ -376,6 +389,7 @@
 {"id": 3004101, "chapter_id": 3004, "mode": 1, "title": "特殊章节1 记号LR?「东京散步 莲子篇」", "sub_title": "去调查下隧道吧……一个人去。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1285, "open_type": 1}
 {"id": 3004102, "chapter_id": 3004, "mode": 1, "title": "特殊章节2 记号LM?「东京散步 梅莉篇」", "sub_title": "去调查下隧道吧……两个人去。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1306, "open_type": 1}
 {"id": 3004103, "chapter_id": 3004, "mode": 1, "title": "特殊章节2 记号LM?「东京散步 梅莉篇补」", "sub_title": "隧道调查结束了。", "number": 3, "costume_id": 0, "unit_speech_group_id": 1307, "open_type": 1}
+{"id": 3005001, "chapter_id": 3005, "mode": 0, "title": "记号L?v2·第1节", "sub_title": "在读心的能力面前，没有一片圣域。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1638, "open_type": 0}
 {"id": 5003000, "chapter_id": 5003, "mode": 0, "title": "望乡的红色巨星", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
 {"id": 7001000, "chapter_id": 7001, "mode": 0, "title": "八云的野望", "sub_title": "", "number": 3, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
 {"id": 7001001, "chapter_id": 7001, "mode": 1, "title": "特殊章节 八云的野望", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
@@ -408,3 +422,4 @@
 {"id": 9001003, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，魔法☆调换☆木偶剧", "sub_title": "魔法☆调换☆木偶剧", "number": 3, "costume_id": 5000401, "unit_speech_group_id": 1416, "open_type": 0}
 {"id": 9001004, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，暖暖的风", "sub_title": "暖暖的风", "number": 4, "costume_id": 5003201, "unit_speech_group_id": 1504, "open_type": 0}
 {"id": 9001005, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，实现的愿望 未实现的愿望", "sub_title": "实现的愿望 未实现的愿望", "number": 5, "costume_id": 5003701, "unit_speech_group_id": 1592, "open_type": 0}
+{"id": 9001006, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，可怕的", "sub_title": "可怕的", "number": 6, "costume_id": 5000301, "unit_speech_group_id": 1636, "open_type": 0}

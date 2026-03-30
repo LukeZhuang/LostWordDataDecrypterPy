@@ -141,6 +141,8 @@ def refine_unpacked_dict(
             refined_dict[key] = named_content
         else:
             return False, unpacked_dict
+    if len(refined_dict) > 0 and isinstance(list(refined_dict.keys())[0], int):
+        refined_dict = {k: v for k, v in sorted(refined_dict.items())}
     return True, refined_dict
 
 

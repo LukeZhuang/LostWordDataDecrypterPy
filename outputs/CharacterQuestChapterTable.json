@@ -132,6 +132,7 @@
 {"id": 202301, "target_name": "铃仙", "target_unit_id": 2023, "priority": 117, "costume_id": 202301, "unit_speech_group_id": 1148}
 {"id": 203001, "target_name": "琪露诺", "target_unit_id": 2030, "priority": 157, "costume_id": 203001, "unit_speech_group_id": 1387}
 {"id": 203101, "target_name": "大妖精", "target_unit_id": 2031, "priority": 158, "costume_id": 203101, "unit_speech_group_id": 1388}
+{"id": 203301, "target_name": "桑尼米尔克", "target_unit_id": 2033, "priority": 187, "costume_id": 203301, "unit_speech_group_id": 1543}
 {"id": 203601, "target_name": "梅蒂欣·梅兰可莉", "target_unit_id": 2036, "priority": 160, "costume_id": 203601, "unit_speech_group_id": 1409}
 {"id": 203801, "target_name": "八坂神奈子", "target_unit_id": 2038, "priority": 182, "costume_id": 203801, "unit_speech_group_id": 1520}
 {"id": 203901, "target_name": "洩矢诹访子", "target_unit_id": 2039, "priority": 183, "costume_id": 203901, "unit_speech_group_id": 1521}
@@ -163,7 +164,10 @@
 {"id": 303701, "target_name": "东风谷早苗", "target_unit_id": 3037, "priority": 84, "costume_id": 303701, "unit_speech_group_id": 826}
 {"id": 400101, "target_name": "博丽灵梦", "target_unit_id": 4001, "priority": 151, "costume_id": 400101, "unit_speech_group_id": 1345}
 {"id": 400201, "target_name": "雾雨魔理沙", "target_unit_id": 4002, "priority": 152, "costume_id": 400201, "unit_speech_group_id": 1346}
+{"id": 400301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 4003, "priority": 186, "costume_id": 400301, "unit_speech_group_id": 1542}
+{"id": 400401, "target_name": "芙兰朵露·斯卡雷特", "target_unit_id": 4004, "priority": 185, "costume_id": 400401, "unit_speech_group_id": 1541}
 {"id": 400501, "target_name": "十六夜咲夜", "target_unit_id": 4005, "priority": 165, "costume_id": 400501, "unit_speech_group_id": 1431}
+{"id": 400901, "target_name": "八云紫", "target_unit_id": 4009, "priority": 189, "costume_id": 400901, "unit_speech_group_id": 1563}
 {"id": 401101, "target_name": "魂魄妖梦", "target_unit_id": 4011, "priority": 167, "costume_id": 401101, "unit_speech_group_id": 1433}
 {"id": 401501, "target_name": "铃仙·优昙华院·因幡", "target_unit_id": 4015, "priority": 174, "costume_id": 401501, "unit_speech_group_id": 1477}
 {"id": 403201, "target_name": "爱丽丝·玛格特罗伊德", "target_unit_id": 4032, "priority": 161, "costume_id": 403201, "unit_speech_group_id": 1410}
@@ -172,9 +176,13 @@
 {"id": 505201, "target_name": "火焰猫燐", "target_unit_id": 5052, "priority": 132, "costume_id": 505201, "unit_speech_group_id": 1234}
 {"id": 505301, "target_name": "灵乌路空", "target_unit_id": 5053, "priority": 133, "costume_id": 505301, "unit_speech_group_id": 1235}
 {"id": 505601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 5056, "priority": 144, "costume_id": 505601, "unit_speech_group_id": 1301}
+{"id": 600501, "target_name": "十六夜咲夜", "target_unit_id": 6005, "priority": 188, "costume_id": 600501, "unit_speech_group_id": 1544}
+{"id": 605601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 6056, "priority": 190, "costume_id": 605601, "unit_speech_group_id": 1564}
 {"id": 606201, "target_name": "露娜萨·普莉兹姆利巴", "target_unit_id": 6062, "priority": 169, "costume_id": 606201, "unit_speech_group_id": 1453}
 {"id": 606301, "target_name": "梅露兰·普莉兹姆利巴", "target_unit_id": 6063, "priority": 170, "costume_id": 606301, "unit_speech_group_id": 1454}
 {"id": 606401, "target_name": "莉莉卡·普莉兹姆利巴", "target_unit_id": 6064, "priority": 171, "costume_id": 606401, "unit_speech_group_id": 1455}
 {"id": 611201, "target_name": "庭渡久侘歌", "target_unit_id": 6112, "priority": 164, "costume_id": 611201, "unit_speech_group_id": 1413}
 {"id": 704201, "target_name": "因幡帝", "target_unit_id": 7042, "priority": 176, "costume_id": 704201, "unit_speech_group_id": 1479}
+{"id": 1900101, "target_name": "博丽灵梦", "target_unit_id": 19001, "priority": 191, "costume_id": 1900101, "unit_speech_group_id": 1565}
+{"id": 1900201, "target_name": "雾雨魔理沙", "target_unit_id": 19002, "priority": 192, "costume_id": 1900201, "unit_speech_group_id": 1566}
 {"id": 1903701, "target_name": "东风谷早苗", "target_unit_id": 19037, "priority": 179, "costume_id": 1903701, "unit_speech_group_id": 1499}

@@ -29,6 +29,7 @@
 {"id": 7000, "type": 5, "name": "复刻 胶囊中的幻想乡", "event_id": 7000, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7080, "type": 5, "name": "博丽神社学院冒险谭 蕾米定向越野赛", "event_id": 7080, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7220, "type": 5, "name": "畅快！犯规解决代理人", "event_id": 7220, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
+{"id": 7250, "type": 5, "name": "复刻 淑女的社交场", "event_id": 7250, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 7300, "type": 5, "name": "野兽梦幻沙龙 欢迎来到！", "event_id": 7300, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7400, "type": 5, "name": "复刻 帮帮忙支援者们", "event_id": 7400, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7500, "type": 5, "name": "旧地狱暖洋洋温泉纪行", "event_id": 7500, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
@@ -140,6 +141,7 @@
 {"id": 11800, "type": 5, "name": "复刻「柑橘是败北的苦涩」", "event_id": 11800, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 11820, "type": 5, "name": "花园残无 体验关卡", "event_id": 11820, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
 {"id": 11840, "type": 5, "name": "星精的试炼", "event_id": 11840, "chapter_id": 0, "display_order": 17, "is_completed_hidden": 1}
+{"id": 11850, "type": 5, "name": "(not)Re:inCarnation ～为你献上弹幕的花束～", "event_id": 11850, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 11880, "type": 5, "name": "星降魔理沙 体验关卡", "event_id": 11880, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 11940, "type": 5, "name": "贵方纯狐 体验关卡", "event_id": 11940, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 12000, "type": 5, "name": "复刻LOST&FOUND 2024～旋律跨越境界", "event_id": 12000, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
@@ -149,8 +151,10 @@
 {"id": 12070, "type": 5, "name": "十六夜咲夜(L10.1)体验探索", "event_id": 12070, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
 {"id": 12080, "type": 5, "name": "魂魄妖梦(L10.1)体验探索", "event_id": 12080, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 12120, "type": 5, "name": "米斯蒂娅·萝蕾拉(C3)体验探索", "event_id": 12120, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
+{"id": 12160, "type": 5, "name": "复刻 在哆来咪乐园注入愿望", "event_id": 12160, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
 {"id": 12190, "type": 5, "name": "水行的试炼", "event_id": 12190, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 0}
 {"id": 12230, "type": 5, "name": "复刻「再见 哆来咪乐园」", "event_id": 12230, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 12270, "type": 5, "name": "回来了 哆来咪乐园", "event_id": 12270, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 12290, "type": 5, "name": "蕾米莉亚·斯卡雷特（Ce9）体验探索", "event_id": 12290, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 0}
 {"id": 12320, "type": 5, "name": "泳装幼蕾米课题活动", "event_id": 12320, "chapter_id": 0, "display_order": 30, "is_completed_hidden": 0}
 {"id": 12350, "type": 5, "name": "芙兰朵露·斯卡雷特（Ce1）体验探索", "event_id": 12350, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 0}
@@ -160,5 +164,10 @@
 {"id": 12420, "type": 5, "name": "复刻「延绵不绝的狼烟是汤花的飘香」", "event_id": 12420, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 12440, "type": 5, "name": "探女（C3∫）课题活动", "event_id": 12440, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
 {"id": 12480, "type": 5, "name": "若鹭姬（C3）课题活动", "event_id": 12480, "chapter_id": 0, "display_order": 32, "is_completed_hidden": 0}
+{"id": 12540, "type": 5, "name": "泳装琪露诺体验探索", "event_id": 12540, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
 {"id": 12550, "type": 5, "name": "油库里1周年纪念活动", "event_id": 12550, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
+{"id": 12560, "type": 5, "name": "琪露诺（C3）课题活动", "event_id": 12560, "chapter_id": 0, "display_order": 32, "is_completed_hidden": 0}
 {"id": 12620, "type": 5, "name": "复刻 去寻找阿姆斯特朗！", "event_id": 12620, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 12790, "type": 5, "name": "复刻「第1回　新·月都万象展！」", "event_id": 12790, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 12820, "type": 5, "name": "4.5周年庆任务活动", "event_id": 12820, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12900, "type": 5, "name": "体验探索 古明地觉(L0o)", "event_id": 12900, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
