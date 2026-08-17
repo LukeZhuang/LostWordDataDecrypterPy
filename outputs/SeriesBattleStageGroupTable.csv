@@ -15,12 +15,15 @@ id,normal_stage_master_id,hard_stage_master_id,lunatic_stage_master_id,backgroun
 80141,80141,80142,80143,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,(empty),(empty),0,0,0
 80151,80151,80152,80153,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,(empty),(empty),0,0,0
 80161,80161,80162,80163,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave3.asset,永远战线排名 春季,二〇二六,1,0,0
-80171,80171,80172,80173,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
-80181,80181,80182,80183,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
-80191,80191,80192,80193,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
-80201,80201,80202,80203,11740101,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,白秋戦,二〇二五,1,0,0
+80171,80171,80172,80173,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永远战线 提前举办,永远战线,0,0,0
+80181,80181,80182,80183,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永远战线 提前举办,永远战线,0,0,0
+80191,80191,80192,80193,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永远战线 提前举办,永远战线,0,0,0
+80201,80201,80202,80203,11740101,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,白秋战,二〇二六,1,0,0
 80211,80211,80212,80213,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,1,0,0
 80221,80221,80222,80223,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave2.asset,玄冬戦,二〇二六,1,0,0
+80241,80241,80242,80243,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave2.asset,早春戦,二〇二六,1,0,0
+80261,80261,80262,80263,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,1,0,0
+80301,80301,80302,80303,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,青春戦,二〇二六,1,0,0
 99901,99901,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,2ステージ,テスト,2,0,0
 99902,99902,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,4ステージ,テスト,3,0,0
 99903,99903,0,0,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave3.asset,Daily/Wave1.asset,Daily/Wave2.asset,5ステージ,テスト,4,0,0

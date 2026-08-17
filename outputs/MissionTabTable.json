@@ -24,6 +24,7 @@
 {"id": 6450, "type": 5, "name": "复刻 女仆们的巧克力地狱", "event_id": 6450, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 6530, "type": 5, "name": "叛逆的微小幻想曲", "event_id": 6530, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 6650, "type": 5, "name": "复刻 大冲突！消灾大奖赛", "event_id": 6650, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
+{"id": 6690, "type": 5, "name": "复刻 雏的助威传说", "event_id": 6690, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 6800, "type": 5, "name": "复刻 烂漫！拜托了 修行锻炼", "event_id": 6800, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 6880, "type": 5, "name": "三途河中发现了传说中的魔克拉姆边贝！！", "event_id": 6880, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7000, "type": 5, "name": "复刻 胶囊中的幻想乡", "event_id": 7000, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
@@ -32,11 +33,14 @@
 {"id": 7250, "type": 5, "name": "复刻 淑女的社交场", "event_id": 7250, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 7300, "type": 5, "name": "野兽梦幻沙龙 欢迎来到！", "event_id": 7300, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7400, "type": 5, "name": "复刻 帮帮忙支援者们", "event_id": 7400, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
+{"id": 7460, "type": 5, "name": "复刻 奏响！普莉兹姆行进乐队", "event_id": 7400, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 7500, "type": 5, "name": "旧地狱暖洋洋温泉纪行", "event_id": 7500, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7600, "type": 5, "name": "复刻 黑衣的摄影师", "event_id": 7600, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
+{"id": 7650, "type": 5, "name": "复刻 幻想乡中的死者", "event_id": 7650, "chapter_id": 0, "display_order": 21, "is_completed_hidden": 0}
 {"id": 7700, "type": 5, "name": "在哆来咪乐园注入愿望", "event_id": 7700, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7750, "type": 5, "name": "主线第4章第3篇特殊章节追加纪念活动", "event_id": 7750, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 1}
 {"id": 7760, "type": 5, "name": "VS复灵支援活动", "event_id": 7760, "chapter_id": 0, "display_order": 10, "is_completed_hidden": 1}
+{"id": 7800, "type": 5, "name": "复刻 细腕乐队结成记", "event_id": 7800, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7840, "type": 5, "name": "复刻「弹幕小歌剧 Rocking VOICE！！」", "event_id": 7840, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7900, "type": 5, "name": "呐喊", "event_id": 7900, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7950, "type": 5, "name": "「白玉擂台 周周新」支援活动任务", "event_id": 7950, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
@@ -153,21 +157,52 @@
 {"id": 12120, "type": 5, "name": "米斯蒂娅·萝蕾拉(C3)体验探索", "event_id": 12120, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 1}
 {"id": 12160, "type": 5, "name": "复刻 在哆来咪乐园注入愿望", "event_id": 12160, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
 {"id": 12190, "type": 5, "name": "水行的试炼", "event_id": 12190, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 0}
+{"id": 12200, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12200, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12201, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12201, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12202, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12202, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12203, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12203, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12204, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12204, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12205, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12205, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12206, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12206, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12207, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12207, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12208, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12208, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12209, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12209, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12210, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12210, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12211, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12211, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12212, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12212, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12213, "type": 5, "name": "泳装祝词每日战斗", "event_id": 12213, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
 {"id": 12230, "type": 5, "name": "复刻「再见 哆来咪乐园」", "event_id": 12230, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 12250, "type": 5, "name": "夏日活动任务", "event_id": 12250, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
 {"id": 12270, "type": 5, "name": "回来了 哆来咪乐园", "event_id": 12270, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 12290, "type": 5, "name": "蕾米莉亚·斯卡雷特（Ce9）体验探索", "event_id": 12290, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 0}
 {"id": 12320, "type": 5, "name": "泳装幼蕾米课题活动", "event_id": 12320, "chapter_id": 0, "display_order": 30, "is_completed_hidden": 0}
 {"id": 12350, "type": 5, "name": "芙兰朵露·斯卡雷特（Ce1）体验探索", "event_id": 12350, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 0}
 {"id": 12360, "type": 5, "name": "泳装猎人芙兰课题活动", "event_id": 12360, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
+{"id": 12380, "type": 5, "name": "复刻 三宿中有纠纷！？旧地狱暖洋洋温泉纪行", "event_id": 12380, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
 {"id": 12400, "type": 5, "name": "铃仙·优昙华院·因幡（C3∫）课题活动", "event_id": 12400, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
 {"id": 12410, "type": 5, "name": "「LostWord LIVE 2025」纪念活动", "event_id": 12410, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
 {"id": 12420, "type": 5, "name": "复刻「延绵不绝的狼烟是汤花的飘香」", "event_id": 12420, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 12440, "type": 5, "name": "探女（C3∫）课题活动", "event_id": 12440, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
+{"id": 12450, "type": 5, "name": "旧地狱温泉旅馆 探寻秘汤乡之谜", "event_id": 12450, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 12480, "type": 5, "name": "若鹭姬（C3）课题活动", "event_id": 12480, "chapter_id": 0, "display_order": 32, "is_completed_hidden": 0}
 {"id": 12540, "type": 5, "name": "泳装琪露诺体验探索", "event_id": 12540, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
 {"id": 12550, "type": 5, "name": "油库里1周年纪念活动", "event_id": 12550, "chapter_id": 0, "display_order": 31, "is_completed_hidden": 0}
 {"id": 12560, "type": 5, "name": "琪露诺（C3）课题活动", "event_id": 12560, "chapter_id": 0, "display_order": 32, "is_completed_hidden": 0}
+{"id": 12580, "type": 5, "name": "复刻 代号：怪盗 ～ Five Tails", "event_id": 12580, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
 {"id": 12620, "type": 5, "name": "复刻 去寻找阿姆斯特朗！", "event_id": 12620, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 12650, "type": 5, "name": "反派来袭", "event_id": 12650, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
+{"id": 12680, "type": 5, "name": "体验探索 古明地恋（C8《）", "event_id": 12680, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 12740, "type": 5, "name": "复刻 麦饭Ｑ　THE·GOLDEN", "event_id": 12740, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
+{"id": 12760, "type": 5, "name": "体验探索 秦心（C8《）", "event_id": 12760, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
 {"id": 12790, "type": 5, "name": "复刻「第1回　新·月都万象展！」", "event_id": 12790, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 12820, "type": 5, "name": "4.5周年庆任务活动", "event_id": 12820, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 12830, "type": 5, "name": "大家一起制作！ 新·月都万象展", "event_id": 12830, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 12900, "type": 5, "name": "体验探索 古明地觉(L0o)", "event_id": 12900, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 12950, "type": 5, "name": "复刻「新释怪物话 毛茸茸的表演者！」", "event_id": 12950, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
+{"id": 12990, "type": 5, "name": "复刻 雪之花与诅咒的饰品", "event_id": 12990, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 13040, "type": 5, "name": "雪之花与爱与罪", "event_id": 13040, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
+{"id": 13120, "type": 5, "name": "体验探索 蓬莱山辉夜（C5=）", "event_id": 13120, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 13190, "type": 5, "name": "复刻 跨年旅行 2024→2025", "event_id": 13190, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 13380, "type": 5, "name": "体验探索 古明地觉(Cs2#)", "event_id": 13380, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 13420, "type": 5, "name": "体验探索 铃仙·优昙华院·因幡（Cb3#）", "event_id": 13420, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 0}
+{"id": 13520, "type": 5, "name": "体验探索 菅牧典（C3~）", "event_id": 13520, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 0}
