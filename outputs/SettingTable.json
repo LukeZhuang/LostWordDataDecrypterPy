@@ -3,6 +3,7 @@
 {"key": "ALREADY_READ_MAX", "value": "30", "description": "伝書既読最大件数"}
 {"key": "ANNIVERSARY_PRESENT_EVENT_ID", "value": "2740", "description": "一周年記念イベントのイベントID"}
 {"key": "ANNIVERSARY_PRESENT_LOGIN_COUNT", "value": "30", "description": "応募条件に必要なログイン数"}
+{"key": "APPROVAL_PENDING_COUNT_MAX", "value": "100", "description": "フレンド申請承認待ち"}
 {"key": "ARENA_DAILY_DAY_COUNT_START_AT", "value": "2021-07-30 00:00:00", "description": "アリーナ日次報酬カウント開始日時"}
 {"key": "AUTO_REPLAY_BASE_TIME", "value": "60", "description": "おまかせモードの最低必要時間"}
 {"key": "AUTO_REPLAY_CONSUME_PHANTASM_POINT_CORRECT", "value": "1.2", "description": "おまかせモードの霊P消費補正"}
@@ -50,6 +51,7 @@
 {"key": "FIGURE_PRESENT_EVENT_ID", "value": "1050", "description": "手办赠礼活动ID"}
 {"key": "FIGURE_PRESENT_LOGIN_COUNT", "value": "30", "description": "登录日数"}
 {"key": "FREE_ITEM_START_AT", "value": "2021-06-23 00:00:00", "description": "無料アイテム開始日時"}
+{"key": "FRIEND_COUNT_MAX", "value": "100", "description": "フレンド枠上限"}
 {"key": "GET_COMIC_PAGE_USED_POINT", "value": "10", "description": "マンガ1ページあたりの消費ポイント"}
 {"key": "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_1", "value": "6", "description": "赛钱交换队列更新时刻１　6"}
 {"key": "GOLD_EXCHANGE_SHOP_UPDATE_HOUR_2", "value": "14", "description": "赛钱交换队列更新时刻２　14"}
@@ -77,7 +79,7 @@
 {"key": "LOST_WORD_LIVE_LINK", "value": "0", "description": ""}
 {"key": "MAIL_MAX", "value": "1000", "description": "最大信箱数"}
 {"key": "MAJOR_PALYER_ID_BAN_LIST", "value": "[9239147903,4238062813,9231122324,4231238387,6769563653,6762981284,9237283786,9238502413,4428201177,6763059673]", "description": "MAJOR服玩家战斗履历禁止上榜名单"}
-{"key": "MAP_BUFF_GROUP_ID", "value": "1002", "description": "現シーズンのマップバフグループ"}
+{"key": "MAP_BUFF_GROUP_ID", "value": "1003", "description": "現シーズンのマップバフグループ"}
 {"key": "MAX_REROLL", "value": "3", "description": "守矢秘境における最大引き直し回数"}
 {"key": "MINI_GAME_RELEASE_EPISODE_ID", "value": "100900205", "description": "ミニゲーム解放エピソードID"}
 {"key": "MISSION_REWARD_MAIL_GRACE", "value": "30", "description": "课题报酬信箱送付时有效期限"}
@@ -90,6 +92,7 @@
 {"key": "NAME_LENGTH", "value": "10", "description": "名字文字数"}
 {"key": "ORB_MAX", "value": "999999", "description": "最大神珠数"}
 {"key": "OTHER_PALYER_ID_BAN_LIST", "value": "[6765899622,4231449286]", "description": "OTHER服玩家战斗履历禁止上榜名单"}
+{"key": "PA_RESET_FREE_FLAG", "value": "0", "description": "全体的に運命効果リセットを無料にさせるフラグ"}
 {"key": "PHANTASM_POINT_BUY_BASE", "value": "500", "description": "灵点回复量为初期值500 玩家等级×3"}
 {"key": "PHANTASM_POINT_BUY_CALC_VALUE", "value": "3", "description": "灵点回复量为初期值500 玩家等级×3"}
 {"key": "PHANTASM_POINT_MAX", "value": "999999", "description": "最大灵点数"}
@@ -123,6 +126,7 @@
 {"key": "REINCARNATION_RARE", "value": "5", "description": "転生可能レアリティ"}
 {"key": "REINCARNATION_SKILL_LEVEL", "value": "10", "description": "転生可能スキルレベル"}
 {"key": "REINCARNATION_TRUST", "value": "9901", "description": "転生探索解放信頼度"}
+{"key": "REQUEST_COUNT_MAX", "value": "200", "description": "フレンド申請上限"}
 {"key": "RETRY_GACHA_MAIL_GRACE", "value": "30", "description": "引きなおしおいのりの伝書受け取り期限"}
 {"key": "RHYTHM_GAME_PHANTASM_POINT_FORMULA1", "value": "500", "description": "リズムゲーム付与霊P計算値1"}
 {"key": "RHYTHM_GAME_PHANTASM_POINT_FORMULA2", "value": "1", "description": "リズムゲーム付与霊P計算値2"}

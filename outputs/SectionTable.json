@@ -217,6 +217,8 @@
 {"id": 2098001, "chapter_id": 2098, "mode": 1, "title": "特殊章节 「弹幕小歌剧 Rocking VOICE！！」", "sub_title": "", "number": 1, "costume_id": 109603, "unit_speech_group_id": 390, "open_type": 0}
 {"id": 2099000, "chapter_id": 2099, "mode": 0, "title": "呐喊", "sub_title": "", "number": 1, "costume_id": 106504, "unit_speech_group_id": 1052, "open_type": 0}
 {"id": 2099001, "chapter_id": 2099, "mode": 1, "title": "特殊章节 呐喊", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1053, "open_type": 0}
+{"id": 2100000, "chapter_id": 2100, "mode": 0, "title": "义贼怪盗公主·女苑", "sub_title": "", "number": 1, "costume_id": 111102, "unit_speech_group_id": 183, "open_type": 0}
+{"id": 2100001, "chapter_id": 2100, "mode": 1, "title": "特殊章节 义贼怪盗公主·女苑", "sub_title": "", "number": 1, "costume_id": 105602, "unit_speech_group_id": 184, "open_type": 0}
 {"id": 2101000, "chapter_id": 2101, "mode": 0, "title": "「[命莲寺侦探组]幽现的狙击手」", "sub_title": "", "number": 1, "costume_id": 110401, "unit_speech_group_id": 412, "open_type": 0}
 {"id": 2101001, "chapter_id": 2101, "mode": 1, "title": "特殊章节 「[命莲寺侦探组]幽现的狙击手」", "sub_title": "", "number": 1, "costume_id": 103202, "unit_speech_group_id": 413, "open_type": 0}
 {"id": 2102000, "chapter_id": 2102, "mode": 0, "title": "「代号：怪盗 ～ Five Tails」", "sub_title": "", "number": 1, "costume_id": 101401, "unit_speech_group_id": 1074, "open_type": 0}
@@ -238,6 +240,8 @@
 {"id": 2114001, "chapter_id": 2114, "mode": 1, "title": "特殊章节 一年又一年弹幕家族", "sub_title": "", "number": 1, "costume_id": 100504, "unit_speech_group_id": 615, "open_type": 1}
 {"id": 2116000, "chapter_id": 2116, "mode": 0, "title": "「一年又一年 弹幕破碎者」", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 1142, "open_type": 0}
 {"id": 2116001, "chapter_id": 2116, "mode": 1, "title": "特殊章节 「一年又一年 弹幕破碎者」", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 1143, "open_type": 1}
+{"id": 2117000, "chapter_id": 2117, "mode": 0, "title": "女仆们的巧克力地狱", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 251, "open_type": 0}
+{"id": 2117001, "chapter_id": 2117, "mode": 1, "title": "特殊章节 女仆们的巧克力地狱", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 252, "open_type": 0}
 {"id": 2118000, "chapter_id": 2118, "mode": 0, "title": "叛逆的微小幻想曲", "sub_title": "", "number": 1, "costume_id": 100801, "unit_speech_group_id": 664, "open_type": 0}
 {"id": 2118001, "chapter_id": 2118, "mode": 1, "title": "特殊章节 叛逆的微小幻想曲", "sub_title": "", "number": 1, "costume_id": 105302, "unit_speech_group_id": 252, "open_type": 0}
 {"id": 2119000, "chapter_id": 2119, "mode": 0, "title": "混沌·配方 ～妖精的宵暗 添加了怪腕～", "sub_title": "", "number": 1, "costume_id": 103104, "unit_speech_group_id": 1164, "open_type": 0}
@@ -403,14 +407,27 @@
 {"id": 2244000, "chapter_id": 2244, "mode": 0, "title": "雪之花与爱与罪", "sub_title": "", "number": 1, "costume_id": 608401, "unit_speech_group_id": 1648, "open_type": 0}
 {"id": 2244001, "chapter_id": 2244, "mode": 1, "title": "特殊章节 雪之花与爱与罪", "sub_title": "", "number": 1, "costume_id": 1601101, "unit_speech_group_id": 1649, "open_type": 1}
 {"id": 2245000, "chapter_id": 2245, "mode": 0, "title": "体验探索 蓬莱山辉夜（C5=）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2246000, "chapter_id": 2246, "mode": 0, "title": "「一年又一年 弹幕破碎者」", "sub_title": "", "number": 1, "costume_id": 108504, "unit_speech_group_id": 1142, "open_type": 0}
+{"id": 2246001, "chapter_id": 2246, "mode": 1, "title": "特殊章节 「一年又一年 弹幕破碎者」", "sub_title": "", "number": 1, "costume_id": 108705, "unit_speech_group_id": 1143, "open_type": 1}
 {"id": 2247000, "chapter_id": 2247, "mode": 0, "title": "复刻 水行的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2248000, "chapter_id": 2248, "mode": 0, "title": "「跨年旅行 2024→2025」", "sub_title": "", "number": 1, "costume_id": 113001, "unit_speech_group_id": 1406, "open_type": 0}
 {"id": 2248001, "chapter_id": 2248, "mode": 1, "title": "特殊章节 「跨年旅行 2024→2025」", "sub_title": "", "number": 1, "costume_id": 1104801, "unit_speech_group_id": 1407, "open_type": 1}
 {"id": 2249000, "chapter_id": 2249, "mode": 0, "title": "复刻 火行的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2250000, "chapter_id": 2250, "mode": 0, "title": "2025/2026 年末与年始的境界", "sub_title": "", "number": 1, "costume_id": 510201, "unit_speech_group_id": 1670, "open_type": 0}
+{"id": 2250001, "chapter_id": 2250, "mode": 1, "title": "特殊章节 2025/2026 年末与年始的境界", "sub_title": "", "number": 1, "costume_id": 1905101, "unit_speech_group_id": 1671, "open_type": 1}
 {"id": 2251000, "chapter_id": 2251, "mode": 0, "title": "复刻 星精的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2253000, "chapter_id": 2253, "mode": 0, "title": "体验探索 古明地觉(Cs2#)", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2255000, "chapter_id": 2255, "mode": 0, "title": "体验探索 铃仙·优昙华院·因幡（Cb3#）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2256000, "chapter_id": 2256, "mode": 0, "title": "红茶馆 极乐净土 欢迎来到！？", "sub_title": "", "number": 1, "costume_id": 1003901, "unit_speech_group_id": 1692, "open_type": 0}
+{"id": 2256001, "chapter_id": 2256, "mode": 1, "title": "特殊章节 红茶馆 极乐净土 欢迎来到！？", "sub_title": "", "number": 1, "costume_id": 212101, "unit_speech_group_id": 1693, "open_type": 1}
 {"id": 2257000, "chapter_id": 2257, "mode": 0, "title": "体验探索 菅牧典（C3~）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2259000, "chapter_id": 2259, "mode": 0, "title": "日精的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2260000, "chapter_id": 2260, "mode": 0, "title": "体验探索 宫古芳香（C3~）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2263000, "chapter_id": 2263, "mode": 0, "title": "体验探索 河城荷取（C3≧）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2266000, "chapter_id": 2266, "mode": 0, "title": "体验探索 键山雏（C3≧）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2274000, "chapter_id": 2274, "mode": 0, "title": "纪念探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2283000, "chapter_id": 2283, "mode": 0, "title": "体验探索 绵月丰姬（C3》）绵月依姬（C3》）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2284000, "chapter_id": 2284, "mode": 0, "title": "体验探索 古明地恋（L0o）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
@@ -442,6 +459,7 @@
 {"id": 3004103, "chapter_id": 3004, "mode": 1, "title": "特殊章节2 记号LM?「东京散步 梅莉篇补」", "sub_title": "隧道调查结束了。", "number": 3, "costume_id": 0, "unit_speech_group_id": 1307, "open_type": 1}
 {"id": 3005001, "chapter_id": 3005, "mode": 0, "title": "记号L?v2·第1节", "sub_title": "在读心的能力面前，没有一片圣域。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1638, "open_type": 0}
 {"id": 5003000, "chapter_id": 5003, "mode": 0, "title": "望乡的红色巨星", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 6501000, "chapter_id": 6501, "mode": 0, "title": "TOKYO LASTWARD 1", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 1769, "open_type": 0}
 {"id": 7001000, "chapter_id": 7001, "mode": 0, "title": "八云的野望", "sub_title": "", "number": 3, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
 {"id": 7001001, "chapter_id": 7001, "mode": 1, "title": "特殊章节 八云的野望", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
 {"id": 7002000, "chapter_id": 7002, "mode": 0, "title": "超八云的野望", "sub_title": "", "number": 4, "costume_id": 201001, "unit_speech_group_id": 126, "open_type": 0}
@@ -472,6 +490,7 @@
 {"id": 8018000, "chapter_id": 8018, "mode": 0, "title": "永远战线 提前举办", "sub_title": "永远战线", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 8019000, "chapter_id": 8019, "mode": 0, "title": "永远战线 提前举办", "sub_title": "永远战线", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 8021000, "chapter_id": 8021, "mode": 0, "title": "瑞花、春待、宿雪篇", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8026000, "chapter_id": 8026, "mode": 0, "title": "永远战线 梦想与流星的再演篇", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 9001001, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，油库里", "sub_title": "油库里与油库里与，油库里", "number": 1, "costume_id": 5000201, "unit_speech_group_id": 1329, "open_type": 0}
 {"id": 9001002, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，雾与雾", "sub_title": "雾与雾", "number": 2, "costume_id": 5003001, "unit_speech_group_id": 1372, "open_type": 0}
 {"id": 9001003, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，魔法☆调换☆木偶剧", "sub_title": "魔法☆调换☆木偶剧", "number": 3, "costume_id": 5000401, "unit_speech_group_id": 1416, "open_type": 0}
@@ -479,3 +498,4 @@
 {"id": 9001005, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，实现的愿望 未实现的愿望", "sub_title": "实现的愿望 未实现的愿望", "number": 5, "costume_id": 5003701, "unit_speech_group_id": 1592, "open_type": 0}
 {"id": 9001006, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，可怕的", "sub_title": "可怕的", "number": 6, "costume_id": 5000301, "unit_speech_group_id": 1636, "open_type": 0}
 {"id": 9001007, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，去找找带去冥间的留念", "sub_title": "去找找带去冥间的留念", "number": 7, "costume_id": 5001101, "unit_speech_group_id": 1689, "open_type": 0}
+{"id": 9001008, "chapter_id": 9001, "mode": 0, "title": "油库里与油库里与，灾难之壶", "sub_title": "灾难之壶", "number": 8, "costume_id": 5001001, "unit_speech_group_id": 1768, "open_type": 0}

@@ -44,6 +44,7 @@
 {"id": 7840, "type": 5, "name": "复刻「弹幕小歌剧 Rocking VOICE！！」", "event_id": 7840, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7900, "type": 5, "name": "呐喊", "event_id": 7900, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 7950, "type": 5, "name": "「白玉擂台 周周新」支援活动任务", "event_id": 7950, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
+{"id": 8000, "type": 5, "name": "复刻 义贼怪盗公主·女苑", "event_id": 8000, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8040, "type": 5, "name": "命莲寺侦探组 幽现的狙击手", "event_id": 8040, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8070, "type": 5, "name": "代号：怪盗 ～ Five Tails", "event_id": 8070, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8130, "type": 5, "name": "「白玉擂台 日日新」支援活动任务", "event_id": 8130, "chapter_id": 0, "display_order": 10, "is_completed_hidden": 1}
@@ -68,6 +69,7 @@
 {"id": 8770, "type": 5, "name": "泳装幽幽子（C3）体验探索", "event_id": 8770, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
 {"id": 8780, "type": 5, "name": "泳装妖梦（C3）体验探索", "event_id": 8780, "chapter_id": 0, "display_order": 17, "is_completed_hidden": 1}
 {"id": 8790, "type": 5, "name": "少女转生支援活动", "event_id": 8790, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
+{"id": 8850, "type": 5, "name": "复刻 女仆们的巧克力地狱", "event_id": 8850, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8890, "type": 5, "name": "复刻 叛逆的微小幻想曲", "event_id": 8890, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8950, "type": 5, "name": "混沌·配方 ～妖精的宵暗 添加了怪腕～", "event_id": 8950, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8980, "type": 5, "name": "泳装赤蛮奇（C3）体验探索", "event_id": 8980, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 1}
@@ -202,7 +204,19 @@
 {"id": 12990, "type": 5, "name": "复刻 雪之花与诅咒的饰品", "event_id": 12990, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
 {"id": 13040, "type": 5, "name": "雪之花与爱与罪", "event_id": 13040, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 13120, "type": 5, "name": "体验探索 蓬莱山辉夜（C5=）", "event_id": 13120, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 13140, "type": 5, "name": "复刻「一年又一年 弹幕破碎者」", "event_id": 13140, "chapter_id": 0, "display_order": 28, "is_completed_hidden": 0}
 {"id": 13190, "type": 5, "name": "复刻 跨年旅行 2024→2025", "event_id": 13190, "chapter_id": 0, "display_order": 26, "is_completed_hidden": 0}
+{"id": 13230, "type": 5, "name": "2025/2026 年末与年始的境界", "event_id": 13230, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 13380, "type": 5, "name": "体验探索 古明地觉(Cs2#)", "event_id": 13380, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
 {"id": 13420, "type": 5, "name": "体验探索 铃仙·优昙华院·因幡（Cb3#）", "event_id": 13420, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 0}
+{"id": 13450, "type": 5, "name": "红茶馆 极乐净土 欢迎来到！？", "event_id": 13450, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 13520, "type": 5, "name": "体验探索 菅牧典（C3~）", "event_id": 13520, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 0}
+{"id": 13550, "type": 5, "name": "日精的试炼", "event_id": 13550, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 0}
+{"id": 13560, "type": 5, "name": "体验探索 宫古芳香（C3~）", "event_id": 13560, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 13660, "type": 5, "name": "体验探索 河城荷取（C3≧）", "event_id": 13660, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 13740, "type": 5, "name": "体验探索 键山雏（C3≧）", "event_id": 13740, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
+{"id": 13790, "type": 5, "name": "春之友人活动", "event_id": 13790, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 13960, "type": 5, "name": "5周年庆倒计时任务活动", "event_id": 13960, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 13990, "type": 5, "name": "体验探索丰姬依姬", "event_id": 13990, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 0}
+{"id": 14060, "type": 5, "name": "5周年庆任务活动", "event_id": 14060, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
+{"id": 14100, "type": 5, "name": "体验探索古明地恋(L0o)", "event_id": 14100, "chapter_id": 0, "display_order": 14, "is_completed_hidden": 0}

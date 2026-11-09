@@ -826,6 +826,8 @@ NOT_RECEIVE_MESSAGE_MULTIPLE,拥有无法获得比这更多的东西,(empty),(em
 NOT_RECEIVE_MESSAGE_SEND_MAIL,无法接受的报酬通过邮箱发放了,(empty),(empty),(empty)
 NOT_RECEIVE_MESSAGE_SINGLE,无法获得更多东西了,(empty),(empty),(empty)
 NO_ACCOUNT_DIALOG_TEXT,该玩家的ID不存在。,(empty),(empty),(empty)
+PERK_CONDITION_LABEL_1,(empty),(empty),(empty),(empty)
+PERK_CONDITION_LABEL_2,X-Change 时,During X-Change,(empty),(empty)
 PICTURE_CHARACTERISTIC_EFFECT_TEXT_1,装备了的符卡的子弹威力提升（{0}）,(empty),(empty),(empty)
 PICTURE_CHARACTERISTIC_EFFECT_TEXT_2,装备了的符卡的子弹威力提升（{0}）,(empty),(empty),(empty)
 PICTURE_CHARACTERISTIC_EFFECT_TEXT_3,装备了的符卡，灵力回收效率提升,(empty),(empty),(empty)

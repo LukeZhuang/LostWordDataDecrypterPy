@@ -825,6 +825,8 @@
 {"text_key": "NOT_RECEIVE_MESSAGE_SEND_MAIL", "japanese_value": "无法接受的报酬通过邮箱发放了", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "NOT_RECEIVE_MESSAGE_SINGLE", "japanese_value": "无法获得更多东西了", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "NO_ACCOUNT_DIALOG_TEXT", "japanese_value": "该玩家的ID不存在。", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "PERK_CONDITION_LABEL_1", "japanese_value": "", "english_value": "", "chinese_value": "", "french_value": ""}
+{"text_key": "PERK_CONDITION_LABEL_2", "japanese_value": "X-Change 时", "english_value": "During X-Change", "chinese_value": "", "french_value": ""}
 {"text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_1", "japanese_value": "装备了的符卡的子弹威力提升（{0}）", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_2", "japanese_value": "装备了的符卡的子弹威力提升（{0}）", "english_value": "", "chinese_value": "", "french_value": ""}
 {"text_key": "PICTURE_CHARACTERISTIC_EFFECT_TEXT_3", "japanese_value": "装备了的符卡，灵力回收效率提升", "english_value": "", "chinese_value": "", "french_value": ""}
