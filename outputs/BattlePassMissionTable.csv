@@ -1,4 +1,4 @@
-id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,reward_group2_id,reward_group3_id,reward_group4_id,display_order,param,battle_pass_id,chapter_id,reward_battle_pass_exp,start_at,end_at
+id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,reward_group2_id,reward_group3_id,reward_group4_id,display_order,param,start_at,end_at,battle_pass_id,chapter_id,reward_battle_pass_exp
 1001,1,登录游戏,0,1,0,1,10400005,0,0,0,1,(empty),(empty),(empty),0,0,10
 1002,1,完成3次战斗胜利,0,7,0,3,600005,0,0,0,2,(empty),(empty),(empty),0,0,20
 1003,1,通关1次每日探索,0,8,0,1,600002,200020,10400005,0,3,(empty),(empty),(empty),0,0,20
@@ -278,3 +278,15 @@ id,type,name,event_id,complete_type,complete_id,complete_value,reward_group1_id,
 1277,3,挑战50次VS复灵,0,56,0,50,0,0,0,0,18,(empty),(empty),(empty),1022,0,250
 1278,3,挑战100次VS复灵,0,56,0,100,0,0,0,0,19,(empty),(empty),(empty),1022,0,500
 1279,3,连续登入20天,0,1,0,20,0,0,0,0,20,(empty),(empty),(empty),1022,0,100
+1280,3,完成1次战斗胜利,0,7,0,1,600015,200020,0,0,1,(empty),(empty),(empty),1023,0,110
+1281,3,挑战1次红魔塔,2290,35,0,1,0,0,0,0,10,(empty),(empty),(empty),1023,0,100
+1282,3,挑战5次红魔塔,2290,35,0,5,0,0,0,0,11,(empty),(empty),(empty),1023,0,150
+1283,3,挑战10次红魔塔,2290,35,0,10,0,0,0,0,12,(empty),(empty),(empty),1023,0,250
+1284,3,进行10次灵梦的祓除大作战,0,63,0,10,0,0,0,0,13,(empty),(empty),(empty),1023,0,100
+1285,3,挑战3次白玉擂台（周周新）,0,55,0,3,0,0,0,0,14,(empty),(empty),(empty),1023,0,100
+1286,3,进行30次祈愿,0,18,0,30,0,0,0,0,15,(empty),(empty),(empty),1023,0,250
+1287,3,完成300次活动探索关卡的胜利,0,54,0,300,0,0,0,0,16,(empty),(empty),(empty),1023,0,150
+1288,3,完成500次活动探索关卡的胜利,0,54,0,500,0,0,0,0,17,(empty),(empty),(empty),1023,0,300
+1289,3,挑战50次VS复灵,0,56,0,50,0,0,0,0,18,(empty),(empty),(empty),1023,0,250
+1290,3,挑战100次VS复灵,0,56,0,100,0,0,0,0,19,(empty),(empty),(empty),1023,0,500
+1291,3,连续登入20天,0,1,0,20,0,0,0,0,20,(empty),(empty),(empty),1023,0,100

@@ -56,6 +56,7 @@
 {"id": 8340, "type": 5, "name": "体验探索任务", "event_id": 8340, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 1}
 {"id": 8341, "type": 5, "name": "体验探索任务", "event_id": 8341, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 1}
 {"id": 8350, "type": 5, "name": "2.5th VS复灵支援 第1弹", "event_id": 8350, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
+{"id": 8380, "type": 5, "name": "复刻 食欲旺盛！大锅料理的三女店主", "event_id": 8380, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
 {"id": 8390, "type": 5, "name": "2.5th VS复灵支援 第2弹", "event_id": 8390, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 1}
 {"id": 8400, "type": 5, "name": "灵梦的祓除大作战支援活动 第1弹", "event_id": 8400, "chapter_id": 0, "display_order": 13, "is_completed_hidden": 1}
 {"id": 8440, "type": 5, "name": "复刻 乐园的健康烹饪 ～添加祈祷与心愿～", "event_id": 8440, "chapter_id": 0, "display_order": 20, "is_completed_hidden": 0}
@@ -213,6 +214,8 @@
 {"id": 13520, "type": 5, "name": "体验探索 菅牧典（C3~）", "event_id": 13520, "chapter_id": 0, "display_order": 16, "is_completed_hidden": 0}
 {"id": 13550, "type": 5, "name": "日精的试炼", "event_id": 13550, "chapter_id": 0, "display_order": 23, "is_completed_hidden": 0}
 {"id": 13560, "type": 5, "name": "体验探索 宫古芳香（C3~）", "event_id": 13560, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
+{"id": 13590, "type": 5, "name": "少女转生支援活动", "event_id": 13590, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}
+{"id": 13600, "type": 5, "name": "战斗吧！超弹幕生命体 应援传说", "event_id": 13600, "chapter_id": 0, "display_order": 27, "is_completed_hidden": 0}
 {"id": 13660, "type": 5, "name": "体验探索 河城荷取（C3≧）", "event_id": 13660, "chapter_id": 0, "display_order": 15, "is_completed_hidden": 0}
 {"id": 13740, "type": 5, "name": "体验探索 键山雏（C3≧）", "event_id": 13740, "chapter_id": 0, "display_order": 12, "is_completed_hidden": 0}
 {"id": 13790, "type": 5, "name": "春之友人活动", "event_id": 13790, "chapter_id": 0, "display_order": 11, "is_completed_hidden": 0}

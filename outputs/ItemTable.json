@@ -166,8 +166,8 @@
 {"id": 795, "name": "史诗祈愿特别祝词-河城荷取", "description": "有效期至2026年09月29日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1095}
 {"id": 796, "name": "史诗祈愿特别祝词-键山雏", "description": "有效期至2026年10月06日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1096}
 {"id": 797, "name": "史诗祈愿特别祝词-绵月丰姬", "description": "有效期至2026年10月15日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1097}
-{"id": 798, "name": "泳装特殊祝词-赤蛮奇", "description": "有效期至2024年08月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1098}
-{"id": 799, "name": "泳装特殊祝词-比那名居天子", "description": "有效期至2024年09月17日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1099}
+{"id": 798, "name": "史诗祈愿特别祝词-绵月依姬", "description": "有效期至2026年10月27日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1098}
+{"id": 799, "name": "史诗祈愿特别祝词-骊驹早鬼", "description": "有效期至2026年11月10日 23:59:59。特定卡池中可进行特别祈愿的祝词。", "rare": 3, "type": 7, "effect_type": 0, "display_order": 1099}
 {"id": 801, "name": "缘环", "description": "连接着少女们拥有的多样可能性，并选取其中之一的道具。", "rare": 5, "type": 8, "effect_type": 1, "display_order": 50}
 {"id": 802, "name": "无名命运镜", "description": "蕴藏着能增强少女们命运力量的奇妙的镜子。可以作为已记名命运镜使用。", "rare": 5, "type": 12, "effect_type": 0, "display_order": 80}
 {"id": 900, "name": "无名转生镜", "description": "无主的转生镜。可以作为已记名转生镜使用。", "rare": 5, "type": 8, "effect_type": 0, "display_order": 85}
@@ -450,11 +450,11 @@
 {"id": 100043, "name": "复灵祭绘马α种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 220}
 {"id": 100044, "name": "复灵祭绘马β种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 221}
 {"id": 100045, "name": "复灵祭绘马γ种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 222}
-{"id": 100046, "name": "5thアニバーサリー超フェス祭絵馬6", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 185}
-{"id": 100047, "name": "5thアニバーサリー超フェス祭絵馬7", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 186}
-{"id": 100048, "name": "5thアニバーサリー超フェス祭絵馬8", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 187}
-{"id": 100049, "name": "5thアニバーサリー超フェス祭絵馬9", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 188}
-{"id": 100050, "name": "5thアニバーサリー超フェス祭絵馬10", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 189}
+{"id": 100046, "name": "A系列祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 185}
+{"id": 100047, "name": "超FES祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 186}
+{"id": 100048, "name": "Relic系列祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 187}
+{"id": 100049, "name": "Epic系列祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 188}
+{"id": 100050, "name": "EXFES系列祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 189}
 {"id": 100051, "name": "5thアニバーサリー超フェス祭絵馬11", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 190}
 {"id": 100052, "name": "复灵祭绘马δ种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 223}
 {"id": 100053, "name": "复灵祭绘马α种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 220}
@@ -504,12 +504,12 @@
 {"id": 100097, "name": "生魂祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 143}
 {"id": 100098, "name": "复灵祭绘马α种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 220}
 {"id": 100099, "name": "复灵祭绘马β种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 221}
-{"id": 100100, "name": "複霊祭絵馬γ種", "description": "絵札を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 222}
+{"id": 100100, "name": "复灵祭绘马γ种", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 222}
 {"id": 100101, "name": "複霊祭絵馬δ種", "description": "絵札を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 223}
 {"id": 100102, "name": "スタートダッシュ限定超フェス祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 110}
 {"id": 100103, "name": "生魂祭绘马", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 111}
-{"id": 100104, "name": "白フェス祭絵馬(八坂神奈子(L0g))", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 122}
-{"id": 100105, "name": "白フェス祭絵馬(洩矢諏訪子(L0g))", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 123}
+{"id": 100104, "name": "白FES祭绘马（八坂神奈子(L0g)）", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 122}
+{"id": 100105, "name": "白FES祭绘马（洩矢诹访子(L0g)）", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 123}
 {"id": 100106, "name": "白フェス祭絵馬(古明地さとり(L0o))", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 124}
 {"id": 100107, "name": "白FES祭绘马（古明地恋(L0o)）", "description": "可以选择对象并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 125}
 {"id": 100108, "name": "5周年庆祭绘马碎片", "description": "集齐100个就可以选择对象并与其结缘的，神奇的绘马碎片。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 200}
@@ -523,7 +523,7 @@
 {"id": 100116, "name": "纪念弹幕绘卷祭绘马", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 147}
 {"id": 100117, "name": "複霊祭絵馬α種", "description": "絵札を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 220}
 {"id": 100118, "name": "複霊祭絵馬β種", "description": "絵札を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 221}
-{"id": 100121, "name": "チャレンジ祭絵馬", "description": "絵札を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 150}
+{"id": 100121, "name": "挑战祭绘马", "description": "可以选择绘卷并与其结缘的，神奇的绘马。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 150}
 {"id": 100122, "name": "レリック祭絵馬", "description": "相手を選んで縁を結べる、不思議な絵馬。", "rare": 3, "type": 11, "effect_type": 0, "display_order": 300}
 {"id": 100901, "name": "超FES角色收藏祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 201}
 {"id": 100902, "name": "人替角色收藏祭绘马", "description": "可以选择对象并与其结缘的，神奇的绘马。与你一起踏上旅途的会是谁呢？", "rare": 3, "type": 11, "effect_type": 0, "display_order": 202}

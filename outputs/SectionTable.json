@@ -229,6 +229,8 @@
 {"id": 2105001, "chapter_id": 2105, "mode": 1, "title": "特殊章节 麦饭Ｑ THE·GOLDEN", "sub_title": "", "number": 1, "costume_id": 112203, "unit_speech_group_id": 1097, "open_type": 0}
 {"id": 2106000, "chapter_id": 2106, "mode": 0, "title": "宇佐见莲子体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2107000, "chapter_id": 2107, "mode": 0, "title": "玛艾露贝莉·赫恩体验探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2108000, "chapter_id": 2108, "mode": 0, "title": "食欲旺盛！ 大锅料理的三女店主", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2108001, "chapter_id": 2108, "mode": 1, "title": "特殊章节 食欲旺盛！ 大锅料理的三女店主", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
 {"id": 2109000, "chapter_id": 2109, "mode": 0, "title": "乐园的健康烹饪 ～添加祈祷与心愿～", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
 {"id": 2109001, "chapter_id": 2109, "mode": 1, "title": "特殊章节 乐园的健康烹饪 ～添加祈祷与心愿～", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 565, "open_type": 0}
 {"id": 2110000, "chapter_id": 2110, "mode": 0, "title": "「新释怪物话 毛茸茸的表演者！」", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1120, "open_type": 0}
@@ -423,11 +425,16 @@
 {"id": 2257000, "chapter_id": 2257, "mode": 0, "title": "体验探索 菅牧典（C3~）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2259000, "chapter_id": 2259, "mode": 0, "title": "日精的试炼", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2260000, "chapter_id": 2260, "mode": 0, "title": "体验探索 宫古芳香（C3~）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2262000, "chapter_id": 2262, "mode": 0, "title": "战斗吧！超弹幕生命体 应援传说", "sub_title": "", "number": 1, "costume_id": 609501, "unit_speech_group_id": 1714, "open_type": 0}
+{"id": 2262001, "chapter_id": 2262, "mode": 1, "title": "特殊章节 战斗吧！超弹幕生命体 应援传说", "sub_title": "", "number": 1, "costume_id": 708401, "unit_speech_group_id": 1715, "open_type": 1}
 {"id": 2263000, "chapter_id": 2263, "mode": 0, "title": "体验探索 河城荷取（C3≧）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2264000, "chapter_id": 2264, "mode": 0, "title": "特别转生镜探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2266000, "chapter_id": 2266, "mode": 0, "title": "体验探索 键山雏（C3≧）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2274000, "chapter_id": 2274, "mode": 0, "title": "纪念探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2282000, "chapter_id": 2282, "mode": 0, "title": "高难度挑战", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2283000, "chapter_id": 2283, "mode": 0, "title": "体验探索 绵月丰姬（C3》）绵月依姬（C3》）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 2284000, "chapter_id": 2284, "mode": 0, "title": "体验探索 古明地恋（L0o）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2287000, "chapter_id": 2287, "mode": 0, "title": "高难度挑战：恋", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
 {"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "第1节　一个人的茶会？", "sub_title": "我频繁地做梦。那真的是梦吗？", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
 {"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "第2节　宁静的地方", "sub_title": "秘封俱乐部，总觉得让人很羡慕。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
 {"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "第3节　你喜欢的日常", "sub_title": "观察幻的话，会让人感觉些许疲劳。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}

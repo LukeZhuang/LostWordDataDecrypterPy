@@ -1,0 +1,4 @@
+id,event_id,gauge_type,clear_value,initial_value,icon_path,target_name,start_at,end_at,icon_reveal_episode_id
+223901,12830,2,0,4000000,Units/9310/01/UI/Sprite/command_face.png,打倒付丧神,2026-06-30 02:00:00,2026-07-06 23:59:59,223900004
+223902,12830,2,0,9000000,Units/17004/01/UI/Sprite/command_face.png,打倒芙兰朵露,2026-07-07 00:00:00,2026-07-13 23:59:59,223900012
+223903,12830,2,0,15000000,Units/13040/01/UI/Sprite/command_face.png,打倒荷取,2026-07-14 00:00:00,2026-07-20 23:59:59,223900020

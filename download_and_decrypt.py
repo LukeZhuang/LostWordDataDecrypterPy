@@ -25,20 +25,26 @@ IV_LENGTH = 16
 
 
 def read_class_fields() -> dict[str, list[str]]:
-    class_fields_file = os.path.join(".", "class_fields.txt")
+    """Load generated fields, then apply the maintained schema overrides."""
     class_contents = {}
-    if os.path.exists(class_fields_file):
-        cff = open(class_fields_file)
-        table_name = None
-        for line in cff:
-            cur_line = line.strip()
-            if cur_line.endswith("Table"):
-                assert table_name is None
-                table_name = cur_line
-            else:
-                assert table_name is not None
-                class_contents[table_name] = cur_line.split("|")
-                table_name = None
+    for filename in ("class_fields.txt", "hardcoded_class_fields.txt"):
+        class_fields_file = os.path.join(".", filename)
+        if not os.path.exists(class_fields_file):
+            continue
+        with open(class_fields_file, encoding="utf-8") as cff:
+            table_name = None
+            for line in cff:
+                cur_line = line.strip()
+                if not cur_line:
+                    continue
+                if cur_line.endswith("Table"):
+                    assert table_name is None
+                    table_name = cur_line
+                else:
+                    assert table_name is not None
+                    class_contents[table_name] = cur_line.split("|")
+                    table_name = None
+            assert table_name is None
     return class_contents
 
 

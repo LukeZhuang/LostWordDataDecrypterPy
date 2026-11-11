@@ -223,8 +223,8 @@
 {"id": 223, "name": "反派", "description": "-", "alias_name": "对反派特别有效。"}
 {"id": 224, "name": "？？？", "description": "？？？", "alias_name": "？？？"}
 {"id": 225, "name": "幻想机", "description": "-", "alias_name": "对幻想机持有者特别有效。"}
-{"id": 226, "name": "フレームアーカイブ", "description": "-", "alias_name": "フレームアーカイブを所持する者に効く。"}
-{"id": 227, "name": "化石", "description": "-", "alias_name": "化石に縁がある者に効く。"}
-{"id": 228, "name": "重複存在", "description": "", "alias_name": "重複存在に効く。"}
-{"id": 229, "name": "未定存在", "description": "-", "alias_name": "未定存在に効く。"}
-{"id": 230, "name": "聖域", "description": "-", "alias_name": "聖域に住む者に効く。"}
+{"id": 226, "name": "骨架档案", "description": "-", "alias_name": "对骨架档案持有者特别有效。"}
+{"id": 227, "name": "化石", "description": "-", "alias_name": "对与化石有缘者特别有效。"}
+{"id": 228, "name": "重复存在", "description": "", "alias_name": "对重复存在特别有效。"}
+{"id": 229, "name": "未定存在", "description": "-", "alias_name": "对未定存在特别有效。"}
+{"id": 230, "name": "圣域", "description": "-", "alias_name": "对圣域住民特别有效。"}

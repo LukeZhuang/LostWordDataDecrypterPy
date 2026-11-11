@@ -80,7 +80,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 8120,8120,1,イベント,Event_bg_8120_1,(empty),2
 8160,8160,1,剧情活动,Event_bg_8160_1,(empty),3
 8200,8200,1,剧情活动,Event_bg_8200_1,(empty),2
-8380,8380,1,イベント,Event_bg_8380_1,(empty),2
+8380,8380,1,剧情活动,Event_bg_8380_1,(empty),2
 8440,8440,1,剧情活动,Event_bg_8440_1,(empty),3
 8500,8500,1,剧情活动,Event_bg_8500_1,(empty),2
 8600,8600,1,イベント,Event_bg_8600_1,(empty),2
@@ -157,7 +157,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 13450,13450,1,剧情活动,Event_bg_13450_1,(empty),7
 13530,13530,1,イベント,Event_bg_13530_1,(empty),11
 13570,13570,1,イベント,Event_bg_13570_1,(empty),3
-13600,13600,1,イベント,Event_bg_13600_1,(empty),7
+13600,13600,1,剧情活动,Event_bg_13600_1,(empty),7
 13720,13720,1,イベント,Event_bg_13720_1,(empty),11
 13770,13770,1,イベント,Event_bg_13770_1,(empty),3
 13800,13800,1,イベント,Event_bg_13800_1,(empty),7
@@ -557,6 +557,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 8310,8310,2,登录签到,Event_LoginBonus_bg_8310,(empty),23
 8320,8320,2,ログインボーナス,Event_LoginBonus_bg_8320,(empty),42
 8330,8330,2,ログインボーナス,Event_LoginBonus_bg_8330,(empty),900
+8381,8381,2,登录奖励,Event_LoginBonus_bg_3411,(empty),3
 8441,8441,2,登录奖励,Event_LoginBonus_bg_2751,(empty),3
 8501,8501,2,登录奖励,Event_LoginBonus_bg_8501,(empty),3
 8504,8504,2,登录奖励,Event_LoginBonus_bg_8504,(empty),3
@@ -714,7 +715,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 13191,13191,2,登录奖励,Event_LoginBonus_bg_10901,(empty),3
 13231,13231,2,登录奖励,Event_LoginBonus_bg_13231,(empty),10
 13234,13234,2,登录奖励,Event_LoginBonus_bg_13234,(empty),10
-13280,13280,2,ログインボーナス,Event_LoginBonus_bg_13280,(empty),23
+13280,13280,2,登录奖励,Event_LoginBonus_bg_13280,(empty),23
 13300,13300,2,ログインボーナス,Event_LoginBonus_bg_13300,(empty),25
 13330,13330,2,登录奖励,Event_LoginBonus_bg_13330,(empty),40
 13340,13340,2,ログインボーナス,Event_LoginBonus_bg_13340,(empty),25
@@ -722,8 +723,8 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 13451,13451,2,登录奖励,Event_LoginBonus_bg_13451,(empty),8
 13454,13454,2,登录奖励,Event_LoginBonus_bg_13454,(empty),8
 13500,13500,2,ログインボーナス,Event_LoginBonus_bg_13500,(empty),23
-13601,13601,2,ログインボーナス,Event_LoginBonus_bg_13601,(empty),8
-13604,13604,2,ログインボーナス,Event_LoginBonus_bg_13604,(empty),8
+13601,13601,2,登录奖励,Event_LoginBonus_bg_13601,(empty),8
+13604,13604,2,登录奖励,Event_LoginBonus_bg_13604,(empty),8
 13650,13650,2,ログインボーナス,Event_LoginBonus_bg_13650,(empty),23
 13680,13680,2,登录奖励,Event_LoginBonus_bg_13680,(empty),40
 13690,13690,2,ログインボーナス,Event_LoginBonus_bg_13350,(empty),43
@@ -733,7 +734,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 14001,14001,2,ログインボーナス,Event_LoginBonus_bg_14001,(empty),8
 14004,14004,2,ログインボーナス,Event_LoginBonus_bg_14004,(empty),8
 14040,14040,2,ログインボーナス,Event_LoginBonus_bg_14040,(empty),24
-14080,14080,2,ログインボーナス,Event_LoginBonus_bg_14080,(empty),41
+14080,14080,2,登录奖励,Event_LoginBonus_bg_14080,(empty),41
 14090,14090,2,ログインボーナス,Event_LoginBonus_bg_13350,(empty),43
 14120,14120,2,ログインボーナス,Event_LoginBonus_bg_14120,(empty),23
 14331,14331,2,ログインボーナス,Event_LoginBonus_bg_14331,(empty),8
@@ -819,7 +820,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 8122,8120,3,ふくびき,Event_bg_8120_2,(empty),9
 8162,8160,3,幸运抽奖,Event_bg_8160_2,(empty),9
 8202,8200,3,幸运抽奖,Event_bg_8200_2,(empty),9
-8382,8380,3,ふくびき,Event_bg_8380_2,(empty),9
+8382,8380,3,幸运抽奖,Event_bg_8380_2,(empty),9
 8442,8440,3,幸运抽奖,Event_bg_8440_2,(empty),9
 8502,8500,3,幸运抽奖,Event_bg_8500_2,(empty),9
 8602,8600,3,ふくびき,Event_bg_8600_2,(empty),9
@@ -896,7 +897,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 13452,13450,3,幸运抽奖,Event_bg_13450_2,(empty),15
 13532,13530,3,ふくびき,Event_bg_13530_2,(empty),13
 13572,13570,3,ふくびき,Event_bg_13570_2,(empty),13
-13602,13600,3,ふくびき,Event_bg_13600_2,(empty),15
+13602,13600,3,幸运抽奖,Event_bg_13600_2,(empty),15
 13722,13720,3,ふくびき,Event_bg_13720_2,(empty),13
 13772,13770,3,ふくびき,Event_bg_13770_2,(empty),13
 13802,13800,3,ふくびき,Event_bg_13800_2,(empty),15
@@ -986,7 +987,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 8123,8120,4,累計ポイント,Event_bg_8120_3,(empty),10
 8163,8160,4,累计点数,Event_bg_8160_3,(empty),10
 8203,8200,4,累计点数,Event_bg_8200_3,(empty),10
-8383,8380,4,累計ポイント,Event_bg_8380_3,(empty),10
+8383,8380,4,累计点数,Event_bg_8380_3,(empty),10
 8443,8440,4,累计点数,Event_bg_8440_3,(empty),10
 8503,8500,4,累计点数,Event_bg_8500_3,(empty),10
 8603,8600,4,累計ポイント,Event_bg_8600_3,(empty),10
@@ -1063,7 +1064,7 @@ id,event_id,event_type,button_name,banner_image,front_image,display_order
 13453,13450,4,累计点数,Event_bg_13450_3,(empty),16
 13533,13530,4,累計ポイント,Event_bg_13530_3,(empty),14
 13573,13570,4,累計ポイント,Event_bg_13570_3,(empty),14
-13603,13600,4,累計ポイント,Event_bg_13600_3,(empty),16
+13603,13600,4,累计点数,Event_bg_13600_3,(empty),16
 13723,13720,4,累計ポイント,Event_bg_13720_3,(empty),14
 13773,13770,4,累計ポイント,Event_bg_13770_3,(empty),14
 13803,13800,4,累計ポイント,Event_bg_13800_3,(empty),16

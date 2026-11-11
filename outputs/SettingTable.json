@@ -90,6 +90,7 @@
 {"key": "MOTIVATION_UPPER_LIMIT_FOR_UNIT_EXP_ONUS", "value": "0", "description": "战斗结束时、单位拥有者干劲的下限值"}
 {"key": "MULTIPLE_SPIRITS_WEEKLY_RELEASE_EPISODE_ID", "value": "100200506", "description": "複霊週次の解放クエストフラグ"}
 {"key": "NAME_LENGTH", "value": "10", "description": "名字文字数"}
+{"key": "NO_LOGIN_TIME", "value": "2026-11-03 14:00:00", "description": "停止注册时间"}
 {"key": "ORB_MAX", "value": "999999", "description": "最大神珠数"}
 {"key": "OTHER_PALYER_ID_BAN_LIST", "value": "[6765899622,4231449286]", "description": "OTHER服玩家战斗履历禁止上榜名单"}
 {"key": "PA_RESET_FREE_FLAG", "value": "0", "description": "全体的に運命効果リセットを無料にさせるフラグ"}

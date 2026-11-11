@@ -192,10 +192,14 @@
 {"id": 405001, "target_name": "古明地觉", "target_unit_id": 4050, "priority": 202, "costume_id": 405001, "unit_speech_group_id": 1612}
 {"id": 405101, "target_name": "古明地恋", "target_unit_id": 4051, "priority": 204, "costume_id": 405101, "unit_speech_group_id": 1630}
 {"id": 500301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 5003, "priority": 180, "costume_id": 500301, "unit_speech_group_id": 1500}
+{"id": 500401, "target_name": "芙兰朵露·斯卡雷特", "target_unit_id": 5004, "priority": 214, "costume_id": 500401, "unit_speech_group_id": 1676}
+{"id": 501101, "target_name": "魂魄妖梦", "target_unit_id": 5011, "priority": 213, "costume_id": 501101, "unit_speech_group_id": 1675}
 {"id": 505001, "target_name": "古明地觉", "target_unit_id": 5050, "priority": 203, "costume_id": 505001, "unit_speech_group_id": 1629}
 {"id": 505201, "target_name": "火焰猫燐", "target_unit_id": 5052, "priority": 132, "costume_id": 505201, "unit_speech_group_id": 1234}
 {"id": 505301, "target_name": "灵乌路空", "target_unit_id": 5053, "priority": 133, "costume_id": 505301, "unit_speech_group_id": 1235}
 {"id": 505601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 5056, "priority": 144, "costume_id": 505601, "unit_speech_group_id": 1301}
+{"id": 600301, "target_name": "蕾米莉亚·斯卡雷特", "target_unit_id": 6003, "priority": 211, "costume_id": 600301, "unit_speech_group_id": 1673}
+{"id": 600401, "target_name": "芙兰朵露·斯卡雷特", "target_unit_id": 6004, "priority": 212, "costume_id": 600401, "unit_speech_group_id": 1674}
 {"id": 600501, "target_name": "十六夜咲夜", "target_unit_id": 6005, "priority": 188, "costume_id": 600501, "unit_speech_group_id": 1544}
 {"id": 602401, "target_name": "圣白莲", "target_unit_id": 6024, "priority": 209, "costume_id": 602401, "unit_speech_group_id": 1651}
 {"id": 605601, "target_name": "赫卡提亚·拉碧斯拉祖利", "target_unit_id": 6056, "priority": 190, "costume_id": 605601, "unit_speech_group_id": 1564}
