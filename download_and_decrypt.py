@@ -24,11 +24,14 @@ KEY_LENGTH = 16
 IV_LENGTH = 16
 
 
-def read_class_fields() -> dict[str, list[str]]:
+def read_class_fields(
+    base_dir: str = ".",
+    filenames: tuple[str, ...] = ("class_fields.txt", "hardcoded_class_fields.txt"),
+) -> dict[str, list[str]]:
     """Load generated fields, then apply the maintained schema overrides."""
     class_contents = {}
-    for filename in ("class_fields.txt", "hardcoded_class_fields.txt"):
-        class_fields_file = os.path.join(".", filename)
+    for filename in filenames:
+        class_fields_file = os.path.join(base_dir, filename)
         if not os.path.exists(class_fields_file):
             continue
         with open(class_fields_file, encoding="utf-8") as cff:
@@ -177,67 +180,72 @@ def dict_to_csv(
     fo.close()
 
 
-ver = sys.argv[1]
-download_url_prefix = get_download_url_prefix(ver)
-downloads_dir = os.path.join(".", "downloads")
-outputs_dir = os.path.join(".", "outputs")
+def main():
+    ver = sys.argv[1]
+    download_url_prefix = get_download_url_prefix(ver)
+    downloads_dir = os.path.join(".", "downloads")
+    outputs_dir = os.path.join(".", "outputs")
 
-manifest_file_path = os.path.join(
-    downloads_dir, f"manifest_ch_v{ver}.json".format(ver=ver)
-)
-class_contents = read_class_fields()
-if not os.path.exists(manifest_file_path):
-    print("downloading manifest:")
-    try:
-        manifest_url = download_url_prefix + "manifest.json"
-        output = wget.download(manifest_url, manifest_file_path)
-    except Exception:
-        print("download manifest failed, exiting")
-        sys.exit(1)
-
-manifest_file = open(manifest_file_path)
-data = json.load(manifest_file)
-asset_infos = data["AssetInfos"]
-for asset_info in asset_infos:
-    file_name = asset_info["Name"]
-    asset_paths = asset_info["AssetPaths"]
-    if "Master.bytes" not in "".join(asset_paths):
-        continue
-    assert len(asset_paths) == 1
-    reg = re.findall(r"Assets/East/Master/(.*)Master.bytes", asset_paths[0])
-    assert len(reg) == 1
-    table_name = reg[0] + "Table"
-    print("Processing " + table_name)
-    file_path = os.path.join(downloads_dir, file_name)
-    if not os.path.exists(file_path):
-        file_url = download_url_prefix + file_name
+    manifest_file_path = os.path.join(
+        downloads_dir, f"manifest_ch_v{ver}.json".format(ver=ver)
+    )
+    class_contents = read_class_fields()
+    if not os.path.exists(manifest_file_path):
+        print("downloading manifest:")
         try:
-            output = wget.download(file_url, file_path, bar=None)
+            manifest_url = download_url_prefix + "manifest.json"
+            output = wget.download(manifest_url, manifest_file_path)
         except Exception:
-            print("download " + table_name + " failed")
+            print("download manifest failed, exiting")
+            sys.exit(1)
+
+    manifest_file = open(manifest_file_path)
+    data = json.load(manifest_file)
+    asset_infos = data["AssetInfos"]
+    for asset_info in asset_infos:
+        file_name = asset_info["Name"]
+        asset_paths = asset_info["AssetPaths"]
+        if "Master.bytes" not in "".join(asset_paths):
             continue
-    src_file = open(file_path, "rb")
-    src_bytes = src_file.read()
-    src_file.close()
-    os.remove(file_path)
-    #decrypted_bytes = decrypt(src_bytes, table_name)
-    decrypted_bytes = new_decrypt(src_bytes, table_name)
-    unpacked_dict = unpack(decrypted_bytes, table_name)
-    refined, unpacked_dict = refine_unpacked_dict(
-        table_name, unpacked_dict, class_contents
-    )
-    output_file = os.path.join(
-        outputs_dir, table_name + ("" if refined else ".anonymous") + ".json"
-    )
-    fo = open(output_file, "w")
-    for key, content in unpacked_dict.items():
-        content_json = json.dumps(
-            content,
-            ensure_ascii=False,
+        assert len(asset_paths) == 1
+        reg = re.findall(r"Assets/East/Master/(.*)Master.bytes", asset_paths[0])
+        assert len(reg) == 1
+        table_name = reg[0] + "Table"
+        print("Processing " + table_name)
+        file_path = os.path.join(downloads_dir, file_name)
+        if not os.path.exists(file_path):
+            file_url = download_url_prefix + file_name
+            try:
+                output = wget.download(file_url, file_path, bar=None)
+            except Exception:
+                print("download " + table_name + " failed")
+                continue
+        src_file = open(file_path, "rb")
+        src_bytes = src_file.read()
+        src_file.close()
+        os.remove(file_path)
+        #decrypted_bytes = decrypt(src_bytes, table_name)
+        decrypted_bytes = new_decrypt(src_bytes, table_name)
+        unpacked_dict = unpack(decrypted_bytes, table_name)
+        refined, unpacked_dict = refine_unpacked_dict(
+            table_name, unpacked_dict, class_contents
         )
-        fo.write(content_json + "\n")
-    fo.close()
-    # only produce csv file if we have accurate json
-    if refined:
-        csv_output_path = os.path.join(outputs_dir, table_name + ".csv")
-        dict_to_csv(csv_output_path, table_name, class_contents, unpacked_dict)
+        output_file = os.path.join(
+            outputs_dir, table_name + ("" if refined else ".anonymous") + ".json"
+        )
+        fo = open(output_file, "w")
+        for key, content in unpacked_dict.items():
+            content_json = json.dumps(
+                content,
+                ensure_ascii=False,
+            )
+            fo.write(content_json + "\n")
+        fo.close()
+        # only produce csv file if we have accurate json
+        if refined:
+            csv_output_path = os.path.join(outputs_dir, table_name + ".csv")
+            dict_to_csv(csv_output_path, table_name, class_contents, unpacked_dict)
+
+
+if __name__ == "__main__":
+    main()
