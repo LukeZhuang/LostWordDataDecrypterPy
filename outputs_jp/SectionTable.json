@@ -1,0 +1,605 @@
+{"id": 1001001, "chapter_id": 1001, "mode": 0, "title": "第1節　いつものお茶会？", "sub_title": "迷い込んだ場所は『幻想郷』。私は……誰？", "number": 1, "costume_id": 100201, "unit_speech_group_id": 16, "open_type": 0}
+{"id": 1001002, "chapter_id": 1001, "mode": 0, "title": "第2節　紅魔館にて", "sub_title": "封結晶探しに紅魔館へ。すんなりいくかな？", "number": 2, "costume_id": 100901, "unit_speech_group_id": 17, "open_type": 1}
+{"id": 1001003, "chapter_id": 1001, "mode": 0, "title": "第3節　白玉楼にて", "sub_title": "次は白玉楼へ。そこで待ち受けているのは？", "number": 3, "costume_id": 100301, "unit_speech_group_id": 18, "open_type": 1}
+{"id": 1001004, "chapter_id": 1001, "mode": 0, "title": "第4節　永遠亭にて", "sub_title": "永遠亭へ向かう一行。次は上手くいくかな？", "number": 4, "costume_id": 101001, "unit_speech_group_id": 19, "open_type": 1}
+{"id": 1001005, "chapter_id": 1001, "mode": 0, "title": "第5節　終幕", "sub_title": "無事に一段落。でも、これからどうしたら？", "number": 5, "costume_id": 101901, "unit_speech_group_id": 20, "open_type": 1}
+{"id": 1002001, "chapter_id": 1002, "mode": 0, "title": "第1節　すべてが幻想になる", "sub_title": "神社で迎えた朝。霊夢と掃除を始めると？", "number": 1, "costume_id": 103701, "unit_speech_group_id": 22, "open_type": 1}
+{"id": 1002002, "chapter_id": 1002, "mode": 0, "title": "第2節　絶海島の不思議", "sub_title": "赤い封結晶のせいで訪れたのは、謎の島！？", "number": 2, "costume_id": 100202, "unit_speech_group_id": 23, "open_type": 1}
+{"id": 1002003, "chapter_id": 1002, "mode": 0, "title": "第3節　こごえるしま", "sub_title": "水を確保するため、一行は島の探索を開始！", "number": 3, "costume_id": 106902, "unit_speech_group_id": 24, "open_type": 1}
+{"id": 1002004, "chapter_id": 1002, "mode": 0, "title": "第4節　妖怪の如き忌むもの", "sub_title": "失われた言葉とは。島の最後の住民、現る！", "number": 4, "costume_id": 102502, "unit_speech_group_id": 25, "open_type": 1}
+{"id": 1002005, "chapter_id": 1002, "mode": 0, "title": "第5節　そして誰も……？", "sub_title": "奔走する一行。ロストワード異変、解決か？", "number": 5, "costume_id": 100902, "unit_speech_group_id": 26, "open_type": 1}
+{"id": 1002101, "chapter_id": 1002, "mode": 1, "title": "EX1　ふたりきりの宇宙戦争", "sub_title": "朦朧とする意識の中、目を覚ますと……？", "number": 1, "costume_id": 101501, "unit_speech_group_id": 47, "open_type": 1}
+{"id": 1002102, "chapter_id": 1002, "mode": 1, "title": "EX2　異変時空の片隅で　第1編", "sub_title": "世界の果て(ワールドエンド)で起きた異変。", "number": 2, "costume_id": 104101, "unit_speech_group_id": 296, "open_type": 1}
+{"id": 1002103, "chapter_id": 1002, "mode": 1, "title": "EX2　異変時空の片隅で　完結編", "sub_title": "心に刻まれる痛みを、どう乗り越えるのか。", "number": 3, "costume_id": 104101, "unit_speech_group_id": 308, "open_type": 1}
+{"id": 1003001, "chapter_id": 1003, "mode": 0, "title": "第1節　うしろのしょうめん", "sub_title": "博麗神社で迎える朝。そこへ一部の新聞が！", "number": 1, "costume_id": 100201, "unit_speech_group_id": 38, "open_type": 1}
+{"id": 1003002, "chapter_id": 1003, "mode": 0, "title": "第2節　ダンタリオンの眷属", "sub_title": "再び現れた赤い封結晶。吸い込まれた先は？", "number": 2, "costume_id": 100401, "unit_speech_group_id": 39, "open_type": 1}
+{"id": 1003003, "chapter_id": 1003, "mode": 0, "title": "第3節　居候さんは動かない", "sub_title": "図書館でさまよう一行。パチュリーはどこ？", "number": 3, "costume_id": 100801, "unit_speech_group_id": 40, "open_type": 1}
+{"id": 1003004, "chapter_id": 1003, "mode": 0, "title": "第4節　メイド・イン・サービス", "sub_title": "図書館エリアを抜けて着いたのは……森！？", "number": 4, "costume_id": 100601, "unit_speech_group_id": 41, "open_type": 1}
+{"id": 1004001, "chapter_id": 1004, "mode": 0, "title": "第5節　眠れる龍", "sub_title": "昇降機で上層へ。そこで待っていたのは？", "number": 1, "costume_id": 100501, "unit_speech_group_id": 54, "open_type": 1}
+{"id": 1004002, "chapter_id": 1004, "mode": 0, "title": "第6節　名もなき紅夢の魔女", "sub_title": "ついに現れた紅夢の魔女。しかしその姿は？", "number": 2, "costume_id": 100701, "unit_speech_group_id": 55, "open_type": 1}
+{"id": 1004003, "chapter_id": 1004, "mode": 0, "title": "第7節　異世界巫女、帰還する", "sub_title": "爆発四散した月。霊夢たちの運命や如何に！", "number": 3, "costume_id": 100201, "unit_speech_group_id": 56, "open_type": 1}
+{"id": 1004101, "chapter_id": 1004, "mode": 1, "title": "EX1　紅魔塔ガイ伝　第1編", "sub_title": "紅魔塔の外って、こうなってたんだなあ。", "number": 1, "costume_id": 803201, "unit_speech_group_id": 926, "open_type": 1}
+{"id": 1004102, "chapter_id": 1004, "mode": 1, "title": "EX1　紅魔塔ガイ伝　完結編", "sub_title": "星の宿命に導かれて、一行は紅魔塔を登る。", "number": 2, "costume_id": 602401, "unit_speech_group_id": 1084, "open_type": 1}
+{"id": 1005001, "chapter_id": 1005, "mode": 0, "title": "第1節　炊香会議", "sub_title": "夜な夜な開かれる宴会にやってきた人物は？", "number": 1, "costume_id": 101101, "unit_speech_group_id": 90, "open_type": 1}
+{"id": 1005002, "chapter_id": 1005, "mode": 0, "title": "第2節　死舞台", "sub_title": "咲き乱れる桜の群。迷い込んだのは白玉楼？", "number": 2, "costume_id": 102501, "unit_speech_group_id": 91, "open_type": 1}
+{"id": 1005003, "chapter_id": 1005, "mode": 0, "title": "第3節　いざ死合う刻", "sub_title": "不気味な『刻』が響き一同は擂台へ上がる。", "number": 3, "costume_id": 106901, "unit_speech_group_id": 92, "open_type": 1}
+{"id": 1006001, "chapter_id": 1006, "mode": 0, "title": "第4節  来訪者、再び", "sub_title": "新たに現れた仕合相手。再び探索が始まる。", "number": 1, "costume_id": 103001, "unit_speech_group_id": 140, "open_type": 1}
+{"id": 1006002, "chapter_id": 1006, "mode": 0, "title": "第5節　扉の守護者", "sub_title": "地底湖から先へ行く、その意外な方法とは。", "number": 2, "costume_id": 103101, "unit_speech_group_id": 141, "open_type": 1}
+{"id": 1006003, "chapter_id": 1006, "mode": 0, "title": "第6節　妖怪は暗中に在り", "sub_title": "謎は謎を呼び、全ては闇から闇へ葬られる。", "number": 3, "costume_id": 101201, "unit_speech_group_id": 142, "open_type": 1}
+{"id": 1007001, "chapter_id": 1007, "mode": 0, "title": "第7節　天竺浪人", "sub_title": "内心を揺らす黒い妖夢は、その口を開く。", "number": 1, "costume_id": 103301, "unit_speech_group_id": 200, "open_type": 1}
+{"id": 1007002, "chapter_id": 1007, "mode": 0, "title": "第8節　隠、そして幽鬼", "sub_title": "ついに扉を開く隠岐奈。その先にあるのは？", "number": 2, "costume_id": 106201, "unit_speech_group_id": 201, "open_type": 1}
+{"id": 1007003, "chapter_id": 1007, "mode": 0, "title": "第9節　ヒトノカタ", "sub_title": "妖怪の山の麓、衝突する人形師と死霊術師。", "number": 3, "costume_id": 106301, "unit_speech_group_id": 202, "open_type": 1}
+{"id": 1007004, "chapter_id": 1007, "mode": 0, "title": "第10節　究極の神霊", "sub_title": "偽の冬の人間の里にて、混戦する賢者たち。", "number": 4, "costume_id": 106401, "unit_speech_group_id": 203, "open_type": 1}
+{"id": 1007005, "chapter_id": 1007, "mode": 0, "title": "第11節　桜の木の下", "sub_title": "神子の能力で明かされる『過去の記憶』。", "number": 5, "costume_id": 105801, "unit_speech_group_id": 204, "open_type": 1}
+{"id": 1008001, "chapter_id": 1008, "mode": 0, "title": "第12節　三尸の虫", "sub_title": "次に向かうべき場所は……まさかの！？", "number": 1, "costume_id": 101001, "unit_speech_group_id": 237, "open_type": 1}
+{"id": 1008002, "chapter_id": 1008, "mode": 0, "title": "第13節　気臓肺龍/辛悲", "sub_title": "幽々子の体内へと進入。そこに居たのは？", "number": 2, "costume_id": 107001, "unit_speech_group_id": 238, "open_type": 1}
+{"id": 1008003, "chapter_id": 1008, "mode": 0, "title": "第14節　魂臓肝龍/酸怒", "sub_title": "臓物の化身から放たれた心霊が再生される。", "number": 3, "costume_id": 107101, "unit_speech_group_id": 239, "open_type": 1}
+{"id": 1008004, "chapter_id": 1008, "mode": 0, "title": "第15節　営臓脾龍/甘思", "sub_title": "二つ目の心霊を回収。蘇るいにしえの記憶。", "number": 4, "costume_id": 101401, "unit_speech_group_id": 240, "open_type": 1}
+{"id": 1008005, "chapter_id": 1008, "mode": 0, "title": "第16節　精臓腎龍/鹹恐", "sub_title": "さらに心霊を回収する。これは誰の記憶？", "number": 5, "costume_id": 101301, "unit_speech_group_id": 241, "open_type": 1}
+{"id": 1008006, "chapter_id": 1008, "mode": 0, "title": "第17節　神臓心龍/苦喜", "sub_title": "最後の臓物へ向かう一方。何があるのか？", "number": 6, "costume_id": 102501, "unit_speech_group_id": 242, "open_type": 1}
+{"id": 1008007, "chapter_id": 1008, "mode": 0, "title": "第18節　花下心中", "sub_title": "心包から心へ進む。しかし、意外な者が！", "number": 7, "costume_id": 106901, "unit_speech_group_id": 243, "open_type": 1}
+{"id": 1008008, "chapter_id": 1008, "mode": 0, "title": "最終節　散華", "sub_title": "願はくは　花の下にて……", "number": 8, "costume_id": 100301, "unit_speech_group_id": 244, "open_type": 1}
+{"id": 1009001, "chapter_id": 1009, "mode": 0, "title": "第1節　夢で逢えたなら", "sub_title": "夢もまた現実ならば、貴方は後悔しますか？", "number": 1, "costume_id": 112001, "unit_speech_group_id": 341, "open_type": 1}
+{"id": 1009002, "chapter_id": 1009, "mode": 0, "title": "第2節　妖怪変化の暗世", "sub_title": "言ってしまえばよかった。仲間を、信じて。", "number": 2, "costume_id": 104301, "unit_speech_group_id": 342, "open_type": 1}
+{"id": 1010001, "chapter_id": 1010, "mode": 0, "title": "第3節　田から山へ", "sub_title": "田の神は山へ登って、山の神となるのだ。", "number": 1, "costume_id": 105401, "unit_speech_group_id": 358, "open_type": 1}
+{"id": 1010002, "chapter_id": 1010, "mode": 0, "title": "第4節　アンダーツーリズム", "sub_title": "地の底に潜むのは、嫌われ者と埋葬者。", "number": 2, "costume_id": 108901, "unit_speech_group_id": 359, "open_type": 1}
+{"id": 1010003, "chapter_id": 1010, "mode": 0, "title": "第5節　ウワサの真相は", "sub_title": "言葉は偽りをまとう。想いは届かない。", "number": 3, "costume_id": 100901, "unit_speech_group_id": 360, "open_type": 1}
+{"id": 1011001, "chapter_id": 1011, "mode": 0, "title": "第1節　南洋幻想", "sub_title": "そこは生命の故郷、異界の境、幻の最果て。", "number": 1, "costume_id": 1903701, "unit_speech_group_id": 399, "open_type": 1}
+{"id": 1011002, "chapter_id": 1011, "mode": 0, "title": "第2節　永夜前夜", "sub_title": "異郷の海辺で出会うは、異邦人と、異邦人。", "number": 2, "costume_id": 1900101, "unit_speech_group_id": 400, "open_type": 1}
+{"id": 1012001, "chapter_id": 1012, "mode": 0, "title": "第3節　汎異世界解釈", "sub_title": "小さな八雲紫を探す、新たな旅が始まる。", "number": 1, "costume_id": 1900201, "unit_speech_group_id": 628, "open_type": 1}
+{"id": 1012002, "chapter_id": 1012, "mode": 0, "title": "第4節　早すぎた結末", "sub_title": "出会いは別れであり、別れは出会いである。", "number": 2, "costume_id": 405101, "unit_speech_group_id": 629, "open_type": 1}
+{"id": 1013001, "chapter_id": 1013, "mode": 0, "title": "第5節　コンティニュー", "sub_title": "川を遡るのは困難だが、流されるのは容易だ。", "number": 1, "costume_id": 605601, "unit_speech_group_id": 828, "open_type": 1}
+{"id": 1013101, "chapter_id": 1013, "mode": 1, "title": "EX1　1/8ヶ島にて　小傘回\t\t\t\t", "sub_title": "小傘ちゃん、がんばります！", "number": 1, "costume_id": 207601, "unit_speech_group_id": 978, "open_type": 0}
+{"id": 1013102, "chapter_id": 1013, "mode": 1, "title": "EX2　2/8ヶ島にて　魔理沙(？)回", "sub_title": "あ、貴方は……！ どうしてここに！？", "number": 2, "costume_id": 1300201, "unit_speech_group_id": 1133, "open_type": 0}
+{"id": 1013103, "chapter_id": 1013, "mode": 1, "title": "EX3　3/8ヶ島にて　幽冥回", "sub_title": "スシ、スシスシ？ スシスッシー！ スシィ。", "number": 3, "costume_id": 501001, "unit_speech_group_id": 1152, "open_type": 0}
+{"id": 1013104, "chapter_id": 1013, "mode": 1, "title": "EX4　1/8ヶ島にて　赤蛮奇回", "sub_title": "たしかに、野球で勝負するとは言っていない。", "number": 4, "costume_id": 207901, "unit_speech_group_id": 1177, "open_type": 0}
+{"id": 1013105, "chapter_id": 1013, "mode": 1, "title": "EX5　4/8ヶ島にて　天子回", "sub_title": "やっぱりこの世は運否天賦なんでしょうか。", "number": 5, "costume_id": 208901, "unit_speech_group_id": 1196, "open_type": 1}
+{"id": 1013106, "chapter_id": 1013, "mode": 1, "title": "EX6　3/8ヶ島にて　紫苑回", "sub_title": "天人様に恩返しするには、どうしたら……？", "number": 6, "costume_id": 206601, "unit_speech_group_id": 1218, "open_type": 1}
+{"id": 1014001, "chapter_id": 1014, "mode": 0, "title": "第6節　インフラレッドの心", "sub_title": "帝都の生活は満ち足りている。即ち、幸福。", "number": 1, "costume_id": 600301, "unit_speech_group_id": 878, "open_type": 1}
+{"id": 1014002, "chapter_id": 1014, "mode": 0, "title": "第7節　本当の怪獣", "sub_title": "己の心の中に棲む怪獣を飼い慣らすことだ。", "number": 2, "costume_id": 600401, "unit_speech_group_id": 879, "open_type": 1}
+{"id": 1015001, "chapter_id": 1015, "mode": 0, "title": "第8節　衛星都市", "sub_title": "帝都を動かす膨大なエネルギーはどこから？", "number": 1, "costume_id": 203601, "unit_speech_group_id": 1175, "open_type": 1}
+{"id": 1015002, "chapter_id": 1015, "mode": 0, "title": "第9節　温泉郷へようこそ", "sub_title": "ゲートを抜けるとそこは『ゆの国』だった。", "number": 2, "costume_id": 208401, "unit_speech_group_id": 1176, "open_type": 1}
+{"id": 1016001, "chapter_id": 1016, "mode": 0, "title": "第10節　両手一杯のイデオロギー", "sub_title": "各社各様に見えて、超統一的変化は起きる。", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1527, "open_type": 1}
+{"id": 1017001, "chapter_id": 1017, "mode": 0, "title": "第11節　求めていたモノ", "sub_title": "訪れたマレビトは掟を崩す。望まずとも。", "number": 1, "costume_id": 202201, "unit_speech_group_id": 1571, "open_type": 1}
+{"id": 1018001, "chapter_id": 1018, "mode": 0, "title": "第12節　酒呑童子の野望", "sub_title": "野望、その先に――。", "number": 1, "costume_id": 204801, "unit_speech_group_id": 1573, "open_type": 1}
+{"id": 2001000, "chapter_id": 2001, "mode": 0, "title": "半人半霊の一日メイド", "sub_title": " ", "number": 1, "costume_id": 100201, "unit_speech_group_id": 2, "open_type": 0}
+{"id": 2002000, "chapter_id": 2002, "mode": 0, "title": "玉兎VS河童！大サバゲー祭り", "sub_title": " ", "number": 1, "costume_id": 104001, "unit_speech_group_id": 36, "open_type": 0}
+{"id": 2003000, "chapter_id": 2003, "mode": 0, "title": "本居小鈴の事件簿", "sub_title": " ", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
+{"id": 2004000, "chapter_id": 2004, "mode": 0, "title": "幻想郷妹コンテスト七番勝負！", "sub_title": " ", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
+{"id": 2004100, "chapter_id": 2004, "mode": 1, "title": "EX 幻想郷妹コンテスト七番勝負！", "sub_title": " ", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 1}
+{"id": 2005000, "chapter_id": 2005, "mode": 0, "title": "幻想小料理屋 ねむの木", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 2005100, "chapter_id": 2005, "mode": 1, "title": "EX 幻想小料理屋 ねむの木", "sub_title": " ", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 1}
+{"id": 2008000, "chapter_id": 2008, "mode": 0, "title": "トリック・オア・バレット", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 2008100, "chapter_id": 2008, "mode": 1, "title": "EX トリック・オア・バレット", "sub_title": " ", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 1}
+{"id": 2009000, "chapter_id": 2009, "mode": 0, "title": "妖精たちの晴れ着でエクストリーム詣り", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 76, "open_type": 0}
+{"id": 2009100, "chapter_id": 2009, "mode": 1, "title": "EX 妖精たちの晴れ着でエクストリーム詣り", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 77, "open_type": 0}
+{"id": 2010000, "chapter_id": 2010, "mode": 0, "title": "ゆく年くる年弾幕レイダース", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 76, "open_type": 0}
+{"id": 2011000, "chapter_id": 2011, "mode": 0, "title": "衛星からのおとし弾", "sub_title": "", "number": 1, "costume_id": 101601, "unit_speech_group_id": 85, "open_type": 0}
+{"id": 2012000, "chapter_id": 2010, "mode": 1, "title": "EX ゆく年くる年弾幕レイダース", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 77, "open_type": 0}
+{"id": 2013000, "chapter_id": 2013, "mode": 0, "title": "鬼とメイドとチョコレート", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2013001, "chapter_id": 2013, "mode": 1, "title": "鬼とメイドとチョコレート EX", "sub_title": "", "number": 1, "costume_id": 104903, "unit_speech_group_id": 100, "open_type": 1}
+{"id": 2014000, "chapter_id": 2014, "mode": 0, "title": "ザ・ミリオネアトラベラー", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2015000, "chapter_id": 2015, "mode": 0, "title": "雛のチアリング・サーガ", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2015001, "chapter_id": 2015, "mode": 1, "title": "雛のチアリング・サーガ", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2016000, "chapter_id": 2016, "mode": 0, "title": "課題イベント2", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2017000, "chapter_id": 2017, "mode": 0, "title": "春の剣まつり", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2017001, "chapter_id": 2017, "mode": 1, "title": "[白玉楼]春の剣まつり EX", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2018000, "chapter_id": 2018, "mode": 0, "title": "「桃姫伝説 助太刀御免！」", "sub_title": "", "number": 1, "costume_id": 102301, "unit_speech_group_id": 112, "open_type": 0}
+{"id": 2019000, "chapter_id": 2019, "mode": 0, "title": "八雲の野望", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2019001, "chapter_id": 2019, "mode": 1, "title": "八雲の野望EX", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
+{"id": 2020000, "chapter_id": 2020, "mode": 0, "title": "ふらり無意識 恋し旅", "sub_title": "", "number": 1, "costume_id": 102301, "unit_speech_group_id": 119, "open_type": 0}
+{"id": 2021001, "chapter_id": 2021, "mode": 0, "title": "超八雲の野望", "sub_title": "", "number": 1, "costume_id": 201001, "unit_speech_group_id": 126, "open_type": 0}
+{"id": 2022000, "chapter_id": 2022, "mode": 0, "title": "淑女の社交場", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2022001, "chapter_id": 2022, "mode": 1, "title": "淑女の社交場 EX", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2023000, "chapter_id": 2023, "mode": 0, "title": "「ジャーニー・トゥ・ザ・スイーツ～白蓮と愉快な仲間たち〜」", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 15, "open_type": 0}
+{"id": 2024000, "chapter_id": 2024, "mode": 0, "title": "プリズムマーチ！", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2024001, "chapter_id": 2024, "mode": 1, "title": "プリズムマーチ！ EX", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 1}
+{"id": 2025000, "chapter_id": 2027, "mode": 0, "title": "幻想郷オブ・ザ・デッド", "sub_title": "", "number": 1, "costume_id": 108602, "unit_speech_group_id": 149, "open_type": 0}
+{"id": 2025001, "chapter_id": 2027, "mode": 1, "title": "幻想郷オブ・ザ・デッド EX", "sub_title": "", "number": 1, "costume_id": 100305, "unit_speech_group_id": 150, "open_type": 1}
+{"id": 2026000, "chapter_id": 2026, "mode": 0, "title": "弾幕ロワイアル", "sub_title": "", "number": 1, "costume_id": 101801, "unit_speech_group_id": 146, "open_type": 0}
+{"id": 2028000, "chapter_id": 2028, "mode": 0, "title": "吠えろ！ あうん～幻想郷のガーディアン・ドッグ～", "sub_title": "", "number": 1, "costume_id": 106901, "unit_speech_group_id": 169, "open_type": 0}
+{"id": 2029000, "chapter_id": 2029, "mode": 0, "title": "細腕バンド結成記", "sub_title": "", "number": 1, "costume_id": 106702, "unit_speech_group_id": 173, "open_type": 0}
+{"id": 2029001, "chapter_id": 2029, "mode": 1, "title": "細腕バンド結成記 EX", "sub_title": "", "number": 1, "costume_id": 106702, "unit_speech_group_id": 173, "open_type": 0}
+{"id": 2030000, "chapter_id": 2030, "mode": 0, "title": "幻想小料理屋 ねむの木", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 2030001, "chapter_id": 2030, "mode": 1, "title": "幻想小料理屋 ねむの木 EX", "sub_title": "", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 1}
+{"id": 2031000, "chapter_id": 2031, "mode": 0, "title": "「義賊怪盗プリンセス・ジョオン」", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 1, "open_type": 0}
+{"id": 2031001, "chapter_id": 2031, "mode": 1, "title": "「義賊怪盗プリンセス・ジョオン」EX", "sub_title": "", "number": 1, "costume_id": 105602, "unit_speech_group_id": 184, "open_type": 0}
+{"id": 2032000, "chapter_id": 2032, "mode": 0, "title": "トリック・オア・バレット", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 72, "open_type": 0}
+{"id": 2032001, "chapter_id": 2032, "mode": 1, "title": "トリック・オア・バレット・EX", "sub_title": "", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 1}
+{"id": 2033000, "chapter_id": 2033, "mode": 0, "title": "草の根妖怪スクランブルZ", "sub_title": "", "number": 1, "costume_id": 107902, "unit_speech_group_id": 191, "open_type": 0}
+{"id": 2033001, "chapter_id": 2033, "mode": 1, "title": "草の根妖怪スクランブルZ EX", "sub_title": "", "number": 1, "costume_id": 102601, "unit_speech_group_id": 192, "open_type": 1}
+{"id": 2034000, "chapter_id": 2034, "mode": 0, "title": "紅夢の魔女おためしバトル", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 2035000, "chapter_id": 2035, "mode": 0, "title": "妖精たちの晴れ着でエクストリーム詣り", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 76, "open_type": 0}
+{"id": 2035100, "chapter_id": 2035, "mode": 1, "title": "EX 妖精たちの晴れ着でエクストリーム詣り", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 77, "open_type": 0}
+{"id": 2036000, "chapter_id": 2036, "mode": 0, "title": "八雲の野望", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2036001, "chapter_id": 2036, "mode": 1, "title": "八雲の野望EX", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
+{"id": 2037000, "chapter_id": 2037, "mode": 0, "title": "食べ盛り！ 大鍋の三女将", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2037001, "chapter_id": 2037, "mode": 1, "title": "食べ盛り！ 大鍋の三女将EX", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2038001, "chapter_id": 2038, "mode": 0, "title": "超八雲の野望", "sub_title": "", "number": 1, "costume_id": 201001, "unit_speech_group_id": 126, "open_type": 0}
+{"id": 2039000, "chapter_id": 2039, "mode": 0, "title": "ゆく年くる年弾幕レイダース", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 76, "open_type": 0}
+{"id": 2039001, "chapter_id": 2039, "mode": 1, "title": "EX ゆく年くる年弾幕レイダース", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 77, "open_type": 0}
+{"id": 2040000, "chapter_id": 2040, "mode": 0, "title": "［ゆく年くる年］弾幕アドベンチャー", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 227, "open_type": 0}
+{"id": 2040001, "chapter_id": 2040, "mode": 1, "title": "［ゆく年くる年］弾幕アドベンチャー EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 228, "open_type": 1}
+{"id": 2041000, "chapter_id": 2041, "mode": 0, "title": "鬼とメイドとチョコレート", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2041001, "chapter_id": 2041, "mode": 1, "title": "鬼とメイドとチョコレート EX", "sub_title": "", "number": 1, "costume_id": 104903, "unit_speech_group_id": 100, "open_type": 1}
+{"id": 2042000, "chapter_id": 2042, "mode": 0, "title": "メイドたちのチョコレート地獄", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 251, "open_type": 0}
+{"id": 2042001, "chapter_id": 2042, "mode": 1, "title": "メイドたちのチョコレート地獄 EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 252, "open_type": 0}
+{"id": 2043000, "chapter_id": 2043, "mode": 0, "title": "雛のチアリング・サーガ", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2043001, "chapter_id": 2043, "mode": 1, "title": "雛のチアリング・サーガ EX", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2044000, "chapter_id": 2044, "mode": 0, "title": "「大激突！厄よけグランプリ」", "sub_title": "", "number": 1, "costume_id": 106602, "unit_speech_group_id": 277, "open_type": 0}
+{"id": 2044001, "chapter_id": 2044, "mode": 1, "title": "「大激突！厄よけグランプリ」EX", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 47, "open_type": 0}
+{"id": 2045000, "chapter_id": 2045, "mode": 0, "title": "春の剣まつり", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2045001, "chapter_id": 2045, "mode": 1, "title": "春の剣まつりEX", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2046000, "chapter_id": 2046, "mode": 0, "title": "「爛漫！ おねがいワークアウト」", "sub_title": "", "number": 1, "costume_id": 101003, "unit_speech_group_id": 289, "open_type": 0}
+{"id": 2046001, "chapter_id": 2046, "mode": 1, "title": "「爛漫！ おねがいワークアウト」EX", "sub_title": "", "number": 1, "costume_id": 110801, "unit_speech_group_id": 290, "open_type": 0}
+{"id": 2047000, "chapter_id": 2047, "mode": 0, "title": "半人半霊の一日メイド", "sub_title": "", "number": 1, "costume_id": 100201, "unit_speech_group_id": 2, "open_type": 0}
+{"id": 2048000, "chapter_id": 2048, "mode": 0, "title": "「カプセルの中の幻想郷」", "sub_title": "", "number": 1, "costume_id": 105901, "unit_speech_group_id": 302, "open_type": 0}
+{"id": 2048001, "chapter_id": 2048, "mode": 1, "title": "「カプセルの中の幻想郷」EX", "sub_title": "", "number": 1, "costume_id": 105501, "unit_speech_group_id": 303, "open_type": 0}
+{"id": 2049000, "chapter_id": 2049, "mode": 0, "title": "VS複霊「霧雨魔理沙(A6)」", "sub_title": "", "number": 1, "costume_id": 100201, "unit_speech_group_id": 2, "open_type": 0}
+{"id": 2050000, "chapter_id": 2050, "mode": 0, "title": "淑女の社交場", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2050001, "chapter_id": 2050, "mode": 1, "title": "淑女の社交場EX", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2051000, "chapter_id": 2051, "mode": 0, "title": "「すっきり！ 反則解決エージェンシー」", "sub_title": "", "number": 1, "costume_id": 108502, "unit_speech_group_id": 333, "open_type": 0}
+{"id": 2051001, "chapter_id": 2051, "mode": 1, "title": "「すっきり！ 反則解決エージェンシー」EX", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 334, "open_type": 0}
+{"id": 2052000, "chapter_id": 2052, "mode": 0, "title": "VS複霊「レミリア・スカーレット(E9)」", "sub_title": "", "number": 1, "costume_id": 200301, "unit_speech_group_id": 340, "open_type": 0}
+{"id": 2053000, "chapter_id": 2053, "mode": 0, "title": "玉兎VS河童！大サバゲー祭り", "sub_title": " ", "number": 1, "costume_id": 104001, "unit_speech_group_id": 36, "open_type": 0}
+{"id": 2054000, "chapter_id": 2054, "mode": 0, "title": "「[幻想郷出前伝]おたすけサポーターズ」", "sub_title": "", "number": 1, "costume_id": 104003, "unit_speech_group_id": 348, "open_type": 0}
+{"id": 2054001, "chapter_id": 2054, "mode": 1, "title": "「[幻想郷出前伝]おたすけサポーターズ」EX", "sub_title": "", "number": 1, "costume_id": 111803, "unit_speech_group_id": 349, "open_type": 0}
+{"id": 2055000, "chapter_id": 2055, "mode": 0, "title": "VS複霊「レミリア・スカーレット(L1)」", "sub_title": "", "number": 1, "costume_id": 100501, "unit_speech_group_id": 2, "open_type": 0}
+{"id": 2056000, "chapter_id": 2056, "mode": 0, "title": "本居小鈴の事件簿", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
+{"id": 2057000, "chapter_id": 2057, "mode": 0, "title": "「[ヨヤミヲカケル]黒衣のフォトグラファー」", "sub_title": "", "number": 1, "costume_id": 104405, "unit_speech_group_id": 366, "open_type": 0}
+{"id": 2057001, "chapter_id": 2057, "mode": 1, "title": "「[ヨヤミヲカケル]黒衣のフォトグラファー」EX", "sub_title": "", "number": 1, "costume_id": 100901, "unit_speech_group_id": 367, "open_type": 0}
+{"id": 2058000, "chapter_id": 2058, "mode": 0, "title": "VS複霊「博麗霊夢(L1)」", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 2, "open_type": 0}
+{"id": 2059000, "chapter_id": 2059, "mode": 0, "title": "幻想郷妹コンテスト七番勝負！", "sub_title": "", "number": 1, "costume_id": 102001, "unit_speech_group_id": 57, "open_type": 1}
+{"id": 2059100, "chapter_id": 2059, "mode": 1, "title": "EX 幻想郷妹コンテスト七番勝負！", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 1}
+{"id": 2060000, "chapter_id": 2060, "mode": 0, "title": "細腕バンド結成記", "sub_title": "", "number": 1, "costume_id": 106702, "unit_speech_group_id": 173, "open_type": 0}
+{"id": 2060001, "chapter_id": 2060, "mode": 1, "title": "細腕バンド結成記 EX", "sub_title": "", "number": 1, "costume_id": 106702, "unit_speech_group_id": 173, "open_type": 0}
+{"id": 2061000, "chapter_id": 2061, "mode": 0, "title": "[弾幕オペレッタ]Rocking VOICE！！", "sub_title": "", "number": 1, "costume_id": 109704, "unit_speech_group_id": 389, "open_type": 0}
+{"id": 2061001, "chapter_id": 2061, "mode": 1, "title": "[弾幕オペレッタ]Rocking VOICE！！EX", "sub_title": "", "number": 1, "costume_id": 109603, "unit_speech_group_id": 390, "open_type": 0}
+{"id": 2062000, "chapter_id": 2062, "mode": 0, "title": "VS複霊「八雲紫(C3)」", "sub_title": "", "number": 1, "costume_id": 400901, "unit_speech_group_id": 403, "open_type": 0}
+{"id": 2063000, "chapter_id": 2063, "mode": 0, "title": "奏でろ！ プリズムマーチ！", "sub_title": "", "number": 1, "costume_id": 106202, "unit_speech_group_id": 135, "open_type": 0}
+{"id": 2063001, "chapter_id": 2063, "mode": 1, "title": "奏でろ！ プリズムマーチ！EX", "sub_title": "", "number": 1, "costume_id": 100401, "unit_speech_group_id": 136, "open_type": 0}
+{"id": 2064000, "chapter_id": 2064, "mode": 0, "title": "義賊怪盗プリンセス・ジョオン", "sub_title": "", "number": 1, "costume_id": 111102, "unit_speech_group_id": 183, "open_type": 0}
+{"id": 2064001, "chapter_id": 2064, "mode": 1, "title": "義賊怪盗プリンセス・ジョオンEX", "sub_title": "", "number": 1, "costume_id": 105602, "unit_speech_group_id": 184, "open_type": 0}
+{"id": 2065000, "chapter_id": 2065, "mode": 0, "title": "「[命蓮寺探偵組]幽現ノ狙撃手」", "sub_title": "", "number": 1, "costume_id": 110401, "unit_speech_group_id": 412, "open_type": 0}
+{"id": 2065001, "chapter_id": 2065, "mode": 1, "title": "「[命蓮寺探偵組]幽現ノ狙撃手」EX", "sub_title": "", "number": 1, "costume_id": 103202, "unit_speech_group_id": 413, "open_type": 0}
+{"id": 2066001, "chapter_id": 2066, "mode": 0, "title": "VS複霊「古明地さとり (S2)」", "sub_title": "", "number": 1, "costume_id": 205001, "unit_speech_group_id": 419, "open_type": 0}
+{"id": 2067000, "chapter_id": 2067, "mode": 0, "title": "草の根妖怪スクランブルZ", "sub_title": "", "number": 1, "costume_id": 107902, "unit_speech_group_id": 191, "open_type": 0}
+{"id": 2067001, "chapter_id": 2067, "mode": 1, "title": "草の根妖怪スクランブルZ EX", "sub_title": "", "number": 1, "costume_id": 102601, "unit_speech_group_id": 192, "open_type": 1}
+{"id": 2068000, "chapter_id": 2068, "mode": 0, "title": "食べ盛り！ 大鍋の三女将", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2068001, "chapter_id": 2068, "mode": 1, "title": "食べ盛り！ 大鍋の三女将EX", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2069000, "chapter_id": 2069, "mode": 0, "title": "[聖徳王伝歴]蘇る甘味十二怪", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
+{"id": 2069001, "chapter_id": 2069, "mode": 1, "title": "[聖徳王伝歴]蘇る甘味十二怪EX", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 0}
+{"id": 2070000, "chapter_id": 2070, "mode": 0, "title": "VS複霊「ヘカーティア・ラピスラズリ(C3)」", "sub_title": "", "number": 1, "costume_id": 605601, "unit_speech_group_id": 519, "open_type": 0}
+{"id": 2071000, "chapter_id": 2071, "mode": 0, "title": "ゆく年くる年弾幕レイダース", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 76, "open_type": 0}
+{"id": 2071001, "chapter_id": 2071, "mode": 1, "title": "EX ゆく年くる年弾幕レイダース", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 77, "open_type": 0}
+{"id": 2072000, "chapter_id": 2072, "mode": 0, "title": "楽園のすこやかクッキング ～祈りと願いを添えて～", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
+{"id": 2072001, "chapter_id": 2072, "mode": 1, "title": "楽園のすこやかクッキング EX", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 565, "open_type": 0}
+{"id": 2073000, "chapter_id": 2073, "mode": 0, "title": "VS複霊「古明地こいし(F1)", "sub_title": "", "number": 1, "costume_id": 205101, "unit_speech_group_id": 569, "open_type": 0}
+{"id": 2074000, "chapter_id": 2074, "mode": 0, "title": "［ゆく年くる年］弾幕アドベンチャー", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 227, "open_type": 0}
+{"id": 2074001, "chapter_id": 2074, "mode": 1, "title": "［ゆく年くる年］弾幕アドベンチャー EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 228, "open_type": 1}
+{"id": 2075000, "chapter_id": 2075, "mode": 0, "title": "[ゆく年くる年]弾幕ファミリア", "sub_title": "", "number": 1, "costume_id": 112303, "unit_speech_group_id": 614, "open_type": 0}
+{"id": 2075001, "chapter_id": 2075, "mode": 1, "title": "[ゆく年くる年]弾幕ファミリアEX", "sub_title": "", "number": 1, "costume_id": 100504, "unit_speech_group_id": 615, "open_type": 1}
+{"id": 2076000, "chapter_id": 2076, "mode": 0, "title": "VS複霊「博麗霊夢(C3)", "sub_title": "", "number": 1, "costume_id": 1900101, "unit_speech_group_id": 619, "open_type": 0}
+{"id": 2077000, "chapter_id": 2077, "mode": 0, "title": "メイドたちのチョコレート地獄", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 251, "open_type": 0}
+{"id": 2077001, "chapter_id": 2077, "mode": 1, "title": "メイドたちのチョコレート地獄 EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 252, "open_type": 0}
+{"id": 2078000, "chapter_id": 2078, "mode": 0, "title": "鬼とメイドとチョコレート", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2078001, "chapter_id": 2078, "mode": 1, "title": "鬼とメイドとチョコレート EX", "sub_title": "", "number": 1, "costume_id": 104903, "unit_speech_group_id": 100, "open_type": 1}
+{"id": 2079000, "chapter_id": 2079, "mode": 0, "title": "叛逆のミクロファンタジア", "sub_title": "", "number": 1, "costume_id": 100801, "unit_speech_group_id": 664, "open_type": 0}
+{"id": 2079001, "chapter_id": 2079, "mode": 1, "title": "叛逆のミクロファンタジアEX", "sub_title": "", "number": 1, "costume_id": 105302, "unit_speech_group_id": 252, "open_type": 0}
+{"id": 2080000, "chapter_id": 2080, "mode": 0, "title": "「大激突！厄よけグランプリ」", "sub_title": "", "number": 1, "costume_id": 106602, "unit_speech_group_id": 277, "open_type": 0}
+{"id": 2080001, "chapter_id": 2080, "mode": 1, "title": "「大激突！厄よけグランプリ」EX", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 47, "open_type": 1}
+{"id": 2081000, "chapter_id": 2081, "mode": 0, "title": "雛のチアリング・サーガ", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2081001, "chapter_id": 2081, "mode": 1, "title": "雛のチアリング・サーガ EX", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2082000, "chapter_id": 2082, "mode": 0, "title": "啓蟄の秘神遊戯(ヒメガミアソビ)", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 714, "open_type": 0}
+{"id": 2082001, "chapter_id": 2082, "mode": 1, "title": "啓蟄の秘神遊戯(ヒメガミアソビ)EX", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 0}
+{"id": 2083000, "chapter_id": 2083, "mode": 0, "title": "「爛漫！ おねがいワークアウト」", "sub_title": "", "number": 1, "costume_id": 101003, "unit_speech_group_id": 289, "open_type": 0}
+{"id": 2083001, "chapter_id": 2083, "mode": 1, "title": "「爛漫！ おねがいワークアウト」EX", "sub_title": "", "number": 1, "costume_id": 110801, "unit_speech_group_id": 290, "open_type": 1}
+{"id": 2084000, "chapter_id": 2084, "mode": 0, "title": "三途の河に伝説のモケーレムベンベを見た！！", "sub_title": "", "number": 1, "costume_id": 100701, "unit_speech_group_id": 764, "open_type": 0}
+{"id": 2084001, "chapter_id": 2084, "mode": 1, "title": "三途の河に伝説のモケーレムベンベを見た！！EX", "sub_title": "", "number": 1, "costume_id": 100704, "unit_speech_group_id": 765, "open_type": 0}
+{"id": 2085000, "chapter_id": 2085, "mode": 0, "title": "「カプセルの中の幻想郷」", "sub_title": "", "number": 1, "costume_id": 105901, "unit_speech_group_id": 302, "open_type": 0}
+{"id": 2085001, "chapter_id": 2085, "mode": 1, "title": "「カプセルの中の幻想郷」EX", "sub_title": "", "number": 1, "costume_id": 105501, "unit_speech_group_id": 303, "open_type": 0}
+{"id": 2086000, "chapter_id": 2086, "mode": 0, "title": "[博麗神社学院冒険譚]レミリエンテーリング", "sub_title": "", "number": 1, "costume_id": 101107, "unit_speech_group_id": 814, "open_type": 0}
+{"id": 2086001, "chapter_id": 2086, "mode": 1, "title": "[博麗神社学院冒険譚]レミリエンテーリングEX", "sub_title": "", "number": 1, "costume_id": 100507, "unit_speech_group_id": 815, "open_type": 1}
+{"id": 2087000, "chapter_id": 2087, "mode": 0, "title": "「すっきり！ 反則解決エージェンシー」", "sub_title": "", "number": 1, "costume_id": 108502, "unit_speech_group_id": 333, "open_type": 0}
+{"id": 2087001, "chapter_id": 2087, "mode": 1, "title": "「すっきり！ 反則解決エージェンシー」EX", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 334, "open_type": 0}
+{"id": 2088000, "chapter_id": 2088, "mode": 0, "title": "淑女の社交場", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2088001, "chapter_id": 2088, "mode": 1, "title": "淑女の社交場 EX", "sub_title": "", "number": 1, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 2089000, "chapter_id": 2089, "mode": 0, "title": "ビーストドリームサロンへようこそ！", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 864, "open_type": 0}
+{"id": 2089001, "chapter_id": 2089, "mode": 1, "title": "ビーストドリームサロンへようこそ！EX", "sub_title": "", "number": 1, "costume_id": 107203, "unit_speech_group_id": 865, "open_type": 0}
+{"id": 2090000, "chapter_id": 2090, "mode": 0, "title": "「[幻想郷出前伝]おたすけサポーターズ」", "sub_title": "", "number": 1, "costume_id": 104003, "unit_speech_group_id": 348, "open_type": 0}
+{"id": 2090001, "chapter_id": 2090, "mode": 1, "title": "「[幻想郷出前伝]おたすけサポーターズ」EX", "sub_title": "", "number": 1, "costume_id": 111803, "unit_speech_group_id": 349, "open_type": 0}
+{"id": 2091000, "chapter_id": 2091, "mode": 0, "title": "奏でろ！ プリズムマーチ！", "sub_title": "", "number": 1, "costume_id": 106202, "unit_speech_group_id": 135, "open_type": 0}
+{"id": 2091001, "chapter_id": 2091, "mode": 1, "title": "奏でろ！ プリズムマーチ！EX", "sub_title": "", "number": 1, "costume_id": 100401, "unit_speech_group_id": 136, "open_type": 0}
+{"id": 2092000, "chapter_id": 2092, "mode": 0, "title": "[三泊トラブル付き！？]旧地獄ぽっかぽっか温泉紀行", "sub_title": "", "number": 1, "costume_id": 100308, "unit_speech_group_id": 914, "open_type": 0}
+{"id": 2092001, "chapter_id": 2092, "mode": 1, "title": "[三泊トラブル付き！？]旧地獄ぽっかぽか温泉紀行EX", "sub_title": "", "number": 1, "costume_id": 103801, "unit_speech_group_id": 915, "open_type": 0}
+{"id": 2093000, "chapter_id": 2093, "mode": 0, "title": "「[ヨヤミヲカケル]黒衣のフォトグラファー」", "sub_title": "", "number": 1, "costume_id": 104405, "unit_speech_group_id": 366, "open_type": 0}
+{"id": 2093001, "chapter_id": 2093, "mode": 1, "title": "「[ヨヤミヲカケル]黒衣のフォトグラファー」EX", "sub_title": "", "number": 1, "costume_id": 100901, "unit_speech_group_id": 367, "open_type": 0}
+{"id": 2094000, "chapter_id": 2094, "mode": 0, "title": "幻想郷オブ・ザ・デッド", "sub_title": "", "number": 1, "costume_id": 108602, "unit_speech_group_id": 149, "open_type": 0}
+{"id": 2094001, "chapter_id": 2094, "mode": 1, "title": "幻想郷オブ・ザ・デッド EX", "sub_title": "", "number": 1, "costume_id": 100305, "unit_speech_group_id": 150, "open_type": 0}
+{"id": 2095000, "chapter_id": 2095, "mode": 0, "title": "ドレミーランドに願いを込めて", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 964, "open_type": 0}
+{"id": 2095001, "chapter_id": 2095, "mode": 1, "title": "ドレミーランドに願いを込めて EX", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 965, "open_type": 0}
+{"id": 2097000, "chapter_id": 2097, "mode": 0, "title": "細腕バンド結成記", "sub_title": "", "number": 1, "costume_id": 106702, "unit_speech_group_id": 173, "open_type": 0}
+{"id": 2097001, "chapter_id": 2097, "mode": 1, "title": "細腕バンド結成記 EX", "sub_title": "", "number": 1, "costume_id": 106702, "unit_speech_group_id": 173, "open_type": 0}
+{"id": 2098000, "chapter_id": 2098, "mode": 0, "title": "[弾幕オペレッタ]Rocking VOICE！！", "sub_title": "", "number": 1, "costume_id": 109704, "unit_speech_group_id": 389, "open_type": 0}
+{"id": 2098001, "chapter_id": 2098, "mode": 1, "title": "[弾幕オペレッタ]Rocking VOICE！！EX", "sub_title": "", "number": 1, "costume_id": 109603, "unit_speech_group_id": 390, "open_type": 0}
+{"id": 2099000, "chapter_id": 2099, "mode": 0, "title": "シャウト", "sub_title": "", "number": 1, "costume_id": 106504, "unit_speech_group_id": 1052, "open_type": 0}
+{"id": 2099001, "chapter_id": 2099, "mode": 1, "title": "シャウト EX", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1053, "open_type": 0}
+{"id": 2100000, "chapter_id": 2100, "mode": 0, "title": "義賊怪盗プリンセス・ジョオン", "sub_title": "", "number": 1, "costume_id": 111102, "unit_speech_group_id": 183, "open_type": 0}
+{"id": 2100001, "chapter_id": 2100, "mode": 1, "title": "義賊怪盗プリンセス・ジョオンEX", "sub_title": "", "number": 1, "costume_id": 105602, "unit_speech_group_id": 184, "open_type": 0}
+{"id": 2101000, "chapter_id": 2101, "mode": 0, "title": "「[命蓮寺探偵組]幽現ノ狙撃手」", "sub_title": "", "number": 1, "costume_id": 110401, "unit_speech_group_id": 412, "open_type": 0}
+{"id": 2101001, "chapter_id": 2101, "mode": 1, "title": "「[命蓮寺探偵組]幽現ノ狙撃手」EX", "sub_title": "", "number": 1, "costume_id": 103202, "unit_speech_group_id": 413, "open_type": 0}
+{"id": 2102000, "chapter_id": 2102, "mode": 0, "title": "「コードネーム：ピカラ　～ Five Tails」", "sub_title": "", "number": 1, "costume_id": 101401, "unit_speech_group_id": 1074, "open_type": 0}
+{"id": 2102001, "chapter_id": 2102, "mode": 1, "title": "「コードネーム：ピカラ　～ Five Tails」EX", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1075, "open_type": 0}
+{"id": 2103000, "chapter_id": 2103, "mode": 0, "title": "トリック・オア・バレット", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 72, "open_type": 0}
+{"id": 2103001, "chapter_id": 2103, "mode": 1, "title": "トリック・オア・バレット・EX", "sub_title": "", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 0}
+{"id": 2104000, "chapter_id": 2104, "mode": 0, "title": "[聖徳王伝歴]蘇る甘味十二怪", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
+{"id": 2104001, "chapter_id": 2104, "mode": 1, "title": "[聖徳王伝歴]蘇る甘味十二怪EX", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 0}
+{"id": 2105000, "chapter_id": 2105, "mode": 0, "title": "むぎめしＱ　ザ・ゴールデン", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 1096, "open_type": 0}
+{"id": 2105001, "chapter_id": 2105, "mode": 1, "title": "むぎめしＱ　ザ・ゴールデンEX", "sub_title": "", "number": 1, "costume_id": 112203, "unit_speech_group_id": 1097, "open_type": 0}
+{"id": 2106000, "chapter_id": 2106, "mode": 0, "title": "宇佐見蓮子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2107000, "chapter_id": 2107, "mode": 0, "title": "マエリベリー・ハーン体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2108000, "chapter_id": 2108, "mode": 0, "title": "食べ盛り！ 大鍋の三女将", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2108001, "chapter_id": 2108, "mode": 1, "title": "食べ盛り！ 大鍋の三女将EX", "sub_title": "", "number": 1, "costume_id": 109702, "unit_speech_group_id": 213, "open_type": 0}
+{"id": 2109000, "chapter_id": 2109, "mode": 0, "title": "楽園のすこやかクッキング ～祈りと願いを添えて～", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
+{"id": 2109001, "chapter_id": 2109, "mode": 1, "title": "楽園のすこやかクッキング ～祈りと願いを添えて～EX", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 565, "open_type": 0}
+{"id": 2110000, "chapter_id": 2110, "mode": 0, "title": "[新釈化物噺]もふもふパフォーマー！", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1120, "open_type": 0}
+{"id": 2110001, "chapter_id": 2110, "mode": 1, "title": "[新釈化物噺]もふもふパフォーマー！EX", "sub_title": "", "number": 1, "costume_id": 101304, "unit_speech_group_id": 1121, "open_type": 0}
+{"id": 2111000, "chapter_id": 2111, "mode": 0, "title": "霧雨魔理沙体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2112000, "chapter_id": 2112, "mode": 0, "title": "西行寺幽々子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2113000, "chapter_id": 2113, "mode": 0, "title": "魂魄妖夢体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2114000, "chapter_id": 2114, "mode": 0, "title": "[ゆく年くる年]弾幕ファミリア", "sub_title": "", "number": 1, "costume_id": 112303, "unit_speech_group_id": 614, "open_type": 0}
+{"id": 2114001, "chapter_id": 2114, "mode": 1, "title": "[ゆく年くる年]弾幕ファミリアEX", "sub_title": "", "number": 1, "costume_id": 100504, "unit_speech_group_id": 615, "open_type": 1}
+{"id": 2115000, "chapter_id": 2115, "mode": 0, "title": "［ゆく年くる年］弾幕アドベンチャー", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 227, "open_type": 0}
+{"id": 2115001, "chapter_id": 2115, "mode": 1, "title": "［ゆく年くる年］弾幕アドベンチャー EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 228, "open_type": 1}
+{"id": 2116000, "chapter_id": 2116, "mode": 0, "title": "[ゆく年くる年]弾幕ブレイカー", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 1142, "open_type": 0}
+{"id": 2116001, "chapter_id": 2116, "mode": 1, "title": "[ゆく年くる年]弾幕ブレイカー EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 1143, "open_type": 1}
+{"id": 2117000, "chapter_id": 2117, "mode": 0, "title": "メイドたちのチョコレート地獄", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 251, "open_type": 0}
+{"id": 2117001, "chapter_id": 2117, "mode": 1, "title": "メイドたちのチョコレート地獄 EX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 252, "open_type": 0}
+{"id": 2118000, "chapter_id": 2118, "mode": 0, "title": "叛逆のミクロファンタジア", "sub_title": "", "number": 1, "costume_id": 100801, "unit_speech_group_id": 664, "open_type": 0}
+{"id": 2118001, "chapter_id": 2118, "mode": 1, "title": "叛逆のミクロファンタジアEX", "sub_title": "", "number": 1, "costume_id": 105302, "unit_speech_group_id": 252, "open_type": 0}
+{"id": 2119000, "chapter_id": 2119, "mode": 0, "title": "カオス・ルセット　～妖精の宵闇仕立て 怪腕を添えて～", "sub_title": "", "number": 1, "costume_id": 103104, "unit_speech_group_id": 1164, "open_type": 0}
+{"id": 2119001, "chapter_id": 2119, "mode": 1, "title": "カオス・ルセット　～妖精の宵闇仕立て 怪腕を添えて～ EX", "sub_title": "", "number": 1, "costume_id": 112502, "unit_speech_group_id": 1165, "open_type": 1}
+{"id": 2120000, "chapter_id": 2120, "mode": 0, "title": "赤蛮奇体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2121000, "chapter_id": 2121, "mode": 0, "title": "「大激突！厄よけグランプリ」", "sub_title": "", "number": 1, "costume_id": 106602, "unit_speech_group_id": 277, "open_type": 0}
+{"id": 2121001, "chapter_id": 2121, "mode": 1, "title": "「大激突！厄よけグランプリ」EX", "sub_title": "", "number": 1, "costume_id": 100101, "unit_speech_group_id": 47, "open_type": 1}
+{"id": 2122000, "chapter_id": 2122, "mode": 0, "title": "啓蟄の秘神遊戯(ヒメガミアソビ)", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 714, "open_type": 0}
+{"id": 2122001, "chapter_id": 2122, "mode": 1, "title": "啓蟄の秘神遊戯(ヒメガミアソビ)EX", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 1}
+{"id": 2123000, "chapter_id": 2123, "mode": 0, "title": "絶対霊度！こおり鬼カラミティマーチ", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 1186, "open_type": 0}
+{"id": 2123001, "chapter_id": 2123, "mode": 1, "title": "絶対霊度！こおり鬼カラミティマーチ EX", "sub_title": "", "number": 1, "costume_id": 110304, "unit_speech_group_id": 1187, "open_type": 1}
+{"id": 2124000, "chapter_id": 2124, "mode": 0, "title": "比那名居天子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2125000, "chapter_id": 2125, "mode": 0, "title": "春の剣まつり", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 0}
+{"id": 2125001, "chapter_id": 2125, "mode": 1, "title": "春の剣まつりEX", "sub_title": "", "number": 1, "costume_id": 101102, "unit_speech_group_id": 99, "open_type": 1}
+{"id": 2126000, "chapter_id": 2126, "mode": 0, "title": "「爛漫！ おねがいワークアウト」", "sub_title": "", "number": 1, "costume_id": 101003, "unit_speech_group_id": 289, "open_type": 0}
+{"id": 2126001, "chapter_id": 2126, "mode": 1, "title": "「爛漫！ おねがいワークアウト」EX", "sub_title": "", "number": 1, "costume_id": 110801, "unit_speech_group_id": 290, "open_type": 1}
+{"id": 2127000, "chapter_id": 2127, "mode": 0, "title": "渡し守と舟幽霊の水掛け論　ウサミミが先か？タマゴが先か？", "sub_title": "", "number": 1, "costume_id": 100406, "unit_speech_group_id": 1208, "open_type": 0}
+{"id": 2127001, "chapter_id": 2127, "mode": 1, "title": "渡し守と舟幽霊の水掛け論　ウサミミが先か？タマゴが先か？EX", "sub_title": "", "number": 1, "costume_id": 107504, "unit_speech_group_id": 1209, "open_type": 1}
+{"id": 2128000, "chapter_id": 2128, "mode": 0, "title": "依神紫苑体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2129000, "chapter_id": 2129, "mode": 0, "title": "三途の河に伝説のモケーレムベンベを見た!!", "sub_title": "", "number": 1, "costume_id": 100701, "unit_speech_group_id": 764, "open_type": 0}
+{"id": 2129001, "chapter_id": 2129, "mode": 1, "title": "三途の河に伝説のモケーレムベンベを見た!!EX", "sub_title": "", "number": 1, "costume_id": 100704, "unit_speech_group_id": 765, "open_type": 0}
+{"id": 2130000, "chapter_id": 2130, "mode": 0, "title": "[博麗神社学院冒険譚]レミリエンテーリング", "sub_title": "", "number": 1, "costume_id": 101107, "unit_speech_group_id": 814, "open_type": 0}
+{"id": 2130001, "chapter_id": 2130, "mode": 1, "title": "[博麗神社学院冒険譚]レミリエンテーリングEX", "sub_title": "", "number": 1, "costume_id": 100507, "unit_speech_group_id": 815, "open_type": 0}
+{"id": 2131000, "chapter_id": 2131, "mode": 0, "title": "ぱらでめ！ 〜 新並行次元録", "sub_title": "", "number": 1, "costume_id": 200901, "unit_speech_group_id": 1230, "open_type": 0}
+{"id": 2131001, "chapter_id": 2131, "mode": 1, "title": "ぱらでめ！ 〜 新並行次元録 EX", "sub_title": "", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1231, "open_type": 1}
+{"id": 2132000, "chapter_id": 2132, "mode": 0, "title": "東風谷早苗体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2133000, "chapter_id": 2133, "mode": 0, "title": "フランドール・スカーレット体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2134000, "chapter_id": 2134, "mode": 0, "title": "古明地こいし体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2135000, "chapter_id": 2135, "mode": 0, "title": "ビーストドリームサロンへようこそ！", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 864, "open_type": 0}
+{"id": 2135001, "chapter_id": 2135, "mode": 1, "title": "ビーストドリームサロンへようこそ！EX", "sub_title": "", "number": 1, "costume_id": 107203, "unit_speech_group_id": 865, "open_type": 0}
+{"id": 2136000, "chapter_id": 2136, "mode": 0, "title": "高難度チャレンジ", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2137000, "chapter_id": 2137, "mode": 0, "title": "「シトラスは敗北の苦み」", "sub_title": "", "number": 1, "costume_id": 200901, "unit_speech_group_id": 1230, "open_type": 0}
+{"id": 2137001, "chapter_id": 2137, "mode": 1, "title": "シトラスは敗北の苦み EX", "sub_title": "", "number": 1, "costume_id": 302401, "unit_speech_group_id": 1253, "open_type": 1}
+{"id": 2138000, "chapter_id": 2138, "mode": 0, "title": "聖白蓮体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2139000, "chapter_id": 2139, "mode": 0, "title": "シャウト", "sub_title": "", "number": 1, "costume_id": 106504, "unit_speech_group_id": 1052, "open_type": 0}
+{"id": 2139001, "chapter_id": 2139, "mode": 1, "title": "シャウト EX", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1053, "open_type": 0}
+{"id": 2140000, "chapter_id": 2140, "mode": 0, "title": "LOST&FOUND 2024　〜 旋律は境界(ボーダー)を越えて", "sub_title": "", "number": 1, "costume_id": 508701, "unit_speech_group_id": 1274, "open_type": 0}
+{"id": 2140001, "chapter_id": 2140, "mode": 1, "title": "LOST&FOUND 2024　〜 旋律は境界(ボーダー)を越えて EX", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1275, "open_type": 1}
+{"id": 2141000, "chapter_id": 2141, "mode": 0, "title": "博麗霊夢体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2142000, "chapter_id": 2142, "mode": 0, "title": "霧雨魔理沙体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2143000, "chapter_id": 2143, "mode": 0, "title": "宇佐見蓮子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2144000, "chapter_id": 2144, "mode": 0, "title": "ドレミーランドに願いを込めて", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 964, "open_type": 0}
+{"id": 2144001, "chapter_id": 2144, "mode": 1, "title": "ドレミーランドに願いを込めて EX", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 965, "open_type": 0}
+{"id": 2145000, "chapter_id": 2145, "mode": 0, "title": "さらばドレミーランド", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 1296, "open_type": 0}
+{"id": 2145001, "chapter_id": 2145, "mode": 1, "title": "さらばドレミーランド EX", "sub_title": "", "number": 1, "costume_id": 108404, "unit_speech_group_id": 1297, "open_type": 0}
+{"id": 2146000, "chapter_id": 2146, "mode": 0, "title": "依神女苑体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2148000, "chapter_id": 2148, "mode": 0, "title": "マエリベリー・ハーン体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2149000, "chapter_id": 2149, "mode": 0, "title": "[三泊トラブル付き！？]旧地獄ぽっかぽっか温泉紀行", "sub_title": "", "number": 1, "costume_id": 100308, "unit_speech_group_id": 914, "open_type": 0}
+{"id": 2149001, "chapter_id": 2149, "mode": 1, "title": "[三泊トラブル付き！？]旧地獄ぽっかぽっか温泉紀行 EX", "sub_title": "", "number": 1, "costume_id": 103801, "unit_speech_group_id": 915, "open_type": 1}
+{"id": 2150000, "chapter_id": 2150, "mode": 0, "title": "絶えぬ狼煙は湯花のかほり", "sub_title": "", "number": 1, "costume_id": 305401, "unit_speech_group_id": 1318, "open_type": 0}
+{"id": 2150001, "chapter_id": 2150, "mode": 1, "title": "絶えぬ狼煙は湯花のかほり EX", "sub_title": "", "number": 1, "costume_id": 110104, "unit_speech_group_id": 1319, "open_type": 1}
+{"id": 2151000, "chapter_id": 2151, "mode": 0, "title": "小野塚小町体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2152000, "chapter_id": 2152, "mode": 0, "title": "「コードネーム：ピカラ　～ Five Tails」", "sub_title": "", "number": 1, "costume_id": 101401, "unit_speech_group_id": 1074, "open_type": 0}
+{"id": 2152001, "chapter_id": 2152, "mode": 1, "title": "「コードネーム：ピカラ　～ Five Tails」EX", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1075, "open_type": 1}
+{"id": 2153000, "chapter_id": 2153, "mode": 0, "title": "アームストロングを探せ！", "sub_title": "", "number": 1, "costume_id": 202501, "unit_speech_group_id": 1340, "open_type": 0}
+{"id": 2153001, "chapter_id": 2153, "mode": 1, "title": "アームストロングを探せ！EX", "sub_title": "", "number": 1, "costume_id": 105704, "unit_speech_group_id": 1341, "open_type": 1}
+{"id": 2154000, "chapter_id": 2154, "mode": 0, "title": "秦こころ体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2155000, "chapter_id": 2155, "mode": 0, "title": "茨木華扇体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2156000, "chapter_id": 2156, "mode": 0, "title": "むぎめしＱ　ザ・ゴールデン", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 1096, "open_type": 0}
+{"id": 2156001, "chapter_id": 2156, "mode": 1, "title": "むぎめしＱ　ザ・ゴールデンEX", "sub_title": "", "number": 1, "costume_id": 112203, "unit_speech_group_id": 1097, "open_type": 0}
+{"id": 2157000, "chapter_id": 2157, "mode": 0, "title": "第1回　新・月都万象展！", "sub_title": "", "number": 1, "costume_id": 102506, "unit_speech_group_id": 1362, "open_type": 0}
+{"id": 2157001, "chapter_id": 2157, "mode": 1, "title": "第1回　新・月都万象展！EX", "sub_title": "", "number": 1, "costume_id": 1103201, "unit_speech_group_id": 1363, "open_type": 1}
+{"id": 2158000, "chapter_id": 2158, "mode": 0, "title": "高難度チャレンジ", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2159000, "chapter_id": 2159, "mode": 0, "title": "アリス・マーガトロイド体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2160000, "chapter_id": 2160, "mode": 0, "title": "射命丸文体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2161000, "chapter_id": 2161, "mode": 0, "title": "八坂神奈子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2162000, "chapter_id": 2162, "mode": 0, "title": "楽園のすこやかクッキング ～祈りと願いを添えて～", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 514, "open_type": 0}
+{"id": 2162001, "chapter_id": 2162, "mode": 1, "title": "楽園のすこやかクッキング ～祈りと願いを添えて～EX", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 565, "open_type": 0}
+{"id": 2163000, "chapter_id": 2163, "mode": 0, "title": "高難度チャレンジ", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2164000, "chapter_id": 2164, "mode": 0, "title": "[新釈化物噺]もふもふパフォーマー！", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1120, "open_type": 0}
+{"id": 2164001, "chapter_id": 2164, "mode": 1, "title": "[新釈化物噺]もふもふパフォーマー！EX", "sub_title": "", "number": 1, "costume_id": 101304, "unit_speech_group_id": 1121, "open_type": 0}
+{"id": 2165000, "chapter_id": 2165, "mode": 0, "title": "雪の花と呪いのチャーム", "sub_title": "", "number": 1, "costume_id": 105604, "unit_speech_group_id": 1384, "open_type": 0}
+{"id": 2165001, "chapter_id": 2165, "mode": 1, "title": "雪の花と呪いのチャームEX", "sub_title": "", "number": 1, "costume_id": 601201, "unit_speech_group_id": 1385, "open_type": 1}
+{"id": 2166000, "chapter_id": 2166, "mode": 0, "title": "藤原妹紅体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2167000, "chapter_id": 2167, "mode": 0, "title": "［ゆく年くる年］弾幕アドベンチャー", "sub_title": "", "number": 1, "costume_id": 102302, "unit_speech_group_id": 227, "open_type": 0}
+{"id": 2167001, "chapter_id": 2167, "mode": 1, "title": "［ゆく年くる年］弾幕アドベンチャーEX", "sub_title": "", "number": 1, "costume_id": 101004, "unit_speech_group_id": 228, "open_type": 1}
+{"id": 2168000, "chapter_id": 2168, "mode": 0, "title": "復刻「[ゆく年くる年]弾幕ブレイカー」短縮版", "sub_title": "", "number": 1, "costume_id": 108504, "unit_speech_group_id": 1142, "open_type": 0}
+{"id": 2168001, "chapter_id": 2168, "mode": 1, "title": "復刻「[ゆく年くる年]弾幕ブレイカー」短縮版EX", "sub_title": "", "number": 1, "costume_id": 108705, "unit_speech_group_id": 1143, "open_type": 1}
+{"id": 2169000, "chapter_id": 2169, "mode": 0, "title": "「年越しヴォヤージュ2024→2025」", "sub_title": "", "number": 1, "costume_id": 113001, "unit_speech_group_id": 1406, "open_type": 0}
+{"id": 2169001, "chapter_id": 2169, "mode": 1, "title": "「年越しヴォヤージュ2024→2025」EX", "sub_title": "", "number": 1, "costume_id": 1104801, "unit_speech_group_id": 1407, "open_type": 1}
+{"id": 2170000, "chapter_id": 2170, "mode": 0, "title": "博麗霊夢体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2171000, "chapter_id": 2171, "mode": 0, "title": "霧雨魔理沙体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2172000, "chapter_id": 2172, "mode": 0, "title": "叛逆のミクロファンタジア", "sub_title": "", "number": 1, "costume_id": 100801, "unit_speech_group_id": 664, "open_type": 0}
+{"id": 2172001, "chapter_id": 2172, "mode": 1, "title": "叛逆のミクロファンタジアEX", "sub_title": "", "number": 1, "costume_id": 105302, "unit_speech_group_id": 252, "open_type": 0}
+{"id": 2173000, "chapter_id": 2173, "mode": 0, "title": "カオス・ルセット　～妖精の宵闇仕立て 怪腕を添えて～", "sub_title": "", "number": 1, "costume_id": 103104, "unit_speech_group_id": 1164, "open_type": 0}
+{"id": 2173001, "chapter_id": 2173, "mode": 1, "title": "カオス・ルセット　～妖精の宵闇仕立て 怪腕を添えて～ EX", "sub_title": "", "number": 1, "costume_id": 112502, "unit_speech_group_id": 1165, "open_type": 1}
+{"id": 2174000, "chapter_id": 2174, "mode": 0, "title": "[新？紅魔館]あべこべメイド採用面接", "sub_title": "", "number": 1, "costume_id": 1400601, "unit_speech_group_id": 1428, "open_type": 0}
+{"id": 2174001, "chapter_id": 2174, "mode": 1, "title": "[新？紅魔館]あべこべメイド採用面接EX", "sub_title": "", "number": 1, "costume_id": 1600401, "unit_speech_group_id": 1429, "open_type": 1}
+{"id": 2175000, "chapter_id": 2175, "mode": 0, "title": "十六夜咲夜体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2176000, "chapter_id": 2176, "mode": 0, "title": "衛星からのおとし弾", "sub_title": "", "number": 1, "costume_id": 101601, "unit_speech_group_id": 85, "open_type": 0}
+{"id": 2177000, "chapter_id": 2177, "mode": 0, "title": "啓蟄の秘神遊戯(ヒメガミアソビ)", "sub_title": "", "number": 1, "costume_id": 111001, "unit_speech_group_id": 714, "open_type": 0}
+{"id": 2177001, "chapter_id": 2177, "mode": 1, "title": "啓蟄の秘神遊戯(ヒメガミアソビ)EX", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 515, "open_type": 1}
+{"id": 2178000, "chapter_id": 2178, "mode": 0, "title": "絶対霊度！こおり鬼カラミティマーチ", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 1186, "open_type": 0}
+{"id": 2178001, "chapter_id": 2178, "mode": 1, "title": "絶対霊度！こおり鬼カラミティマーチ EX", "sub_title": "", "number": 1, "costume_id": 110304, "unit_speech_group_id": 1187, "open_type": 1}
+{"id": 2179000, "chapter_id": 2179, "mode": 0, "title": "イベント58「帰ってきたチアリング・サーガ」", "sub_title": "", "number": 1, "costume_id": 103701, "unit_speech_group_id": 1450, "open_type": 0}
+{"id": 2179001, "chapter_id": 2179, "mode": 1, "title": "帰ってきたチアリング・サーガ EX", "sub_title": "", "number": 1, "costume_id": 609301, "unit_speech_group_id": 1451, "open_type": 1}
+{"id": 2180000, "chapter_id": 2180, "mode": 0, "title": "東風谷早苗体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2181000, "chapter_id": 2181, "mode": 0, "title": "三途の河に伝説のモケーレムベンベを見た！！", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2181001, "chapter_id": 2181, "mode": 1, "title": "三途の河に伝説のモケーレムベンベを見た！！ EX", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 1}
+{"id": 2182000, "chapter_id": 2182, "mode": 0, "title": "渡し守と舟幽霊の水掛け論　ウサミミが先か？タマゴが先か？", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2182001, "chapter_id": 2182, "mode": 1, "title": "渡し守と舟幽霊の水掛け論　ウサミミが先か？タマゴが先か？ EX", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 1}
+{"id": 2183000, "chapter_id": 2183, "mode": 0, "title": "大共闘ライバルシスターズ", "sub_title": "", "number": 1, "costume_id": 109105, "unit_speech_group_id": 1472, "open_type": 0}
+{"id": 2183001, "chapter_id": 2183, "mode": 1, "title": "大共闘ライバルシスターズ EX", "sub_title": "", "number": 1, "costume_id": 1104001, "unit_speech_group_id": 1473, "open_type": 1}
+{"id": 2184000, "chapter_id": 2184, "mode": 0, "title": "[博麗神社学院冒険譚]レミリエンテーリング", "sub_title": "", "number": 1, "costume_id": 101107, "unit_speech_group_id": 814, "open_type": 0}
+{"id": 2184001, "chapter_id": 2184, "mode": 1, "title": "[博麗神社学院冒険譚]レミリエンテーリング EX", "sub_title": "", "number": 1, "costume_id": 100507, "unit_speech_group_id": 815, "open_type": 1}
+{"id": 2185000, "chapter_id": 2185, "mode": 0, "title": "ぱらでめ！ 〜 新並行次元録", "sub_title": "", "number": 1, "costume_id": 200901, "unit_speech_group_id": 1230, "open_type": 0}
+{"id": 2185001, "chapter_id": 2185, "mode": 1, "title": "ぱらでめ！ 〜 新並行次元録 EX", "sub_title": "", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1231, "open_type": 1}
+{"id": 2186000, "chapter_id": 2186, "mode": 0, "title": "高難度チャレンジ", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2187000, "chapter_id": 2187, "mode": 0, "title": "くろでめ！ 〜 新交差次元録Crossed Dimension", "sub_title": "", "number": 1, "costume_id": 805501, "unit_speech_group_id": 1494, "open_type": 0}
+{"id": 2187001, "chapter_id": 2187, "mode": 1, "title": "くろでめ！ 〜 新交差次元録Crossed Dimension EX", "sub_title": "", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1231, "open_type": 1}
+{"id": 2188000, "chapter_id": 2188, "mode": 0, "title": "高難度チャレンジ EX", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 1}
+{"id": 2189000, "chapter_id": 2189, "mode": 0, "title": "ヘカーティア・ラピスラズリ体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2190000, "chapter_id": 2190, "mode": 0, "title": "豊聡耳神子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2191000, "chapter_id": 2191, "mode": 0, "title": "洩矢諏訪子体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2192000, "chapter_id": 2192, "mode": 0, "title": "復刻「ビーストドリームサロンへようこそ！」短縮版", "sub_title": "", "number": 1, "costume_id": 103706, "unit_speech_group_id": 864, "open_type": 0}
+{"id": 2192001, "chapter_id": 2192, "mode": 1, "title": "復刻「ビーストドリームサロンへようこそ！」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 107203, "unit_speech_group_id": 865, "open_type": 1}
+{"id": 2193000, "chapter_id": 2193, "mode": 0, "title": "四季映姫・ヤマザナドゥ体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2194000, "chapter_id": 2194, "mode": 0, "title": "日白残無体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2195000, "chapter_id": 2195, "mode": 0, "title": "復刻「シトラスは敗北の苦み」短縮版", "sub_title": "", "number": 1, "costume_id": 105105, "unit_speech_group_id": 1252, "open_type": 0}
+{"id": 2195001, "chapter_id": 2195, "mode": 1, "title": "復刻「シトラスは敗北の苦み」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 302401, "unit_speech_group_id": 1253, "open_type": 1}
+{"id": 2196000, "chapter_id": 2196, "mode": 0, "title": "(not)Re:inCarnation 〜君にバラッジの花束を〜", "sub_title": "", "number": 1, "costume_id": 808501, "unit_speech_group_id": 1516, "open_type": 0}
+{"id": 2196001, "chapter_id": 2196, "mode": 1, "title": "(not)Re:inCarnation 〜君にバラッジの花束を〜 EX", "sub_title": "", "number": 1, "costume_id": 1005701, "unit_speech_group_id": 1517, "open_type": 1}
+{"id": 2197000, "chapter_id": 2197, "mode": 0, "title": "霧雨魔理沙体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2198000, "chapter_id": 2198, "mode": 0, "title": "純狐体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2199000, "chapter_id": 2199, "mode": 0, "title": "星精の試練", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2200000, "chapter_id": 2200, "mode": 0, "title": "復刻「シャウト」短縮版", "sub_title": "", "number": 1, "costume_id": 106504, "unit_speech_group_id": 1052, "open_type": 0}
+{"id": 2200001, "chapter_id": 2200, "mode": 1, "title": "復刻「シャウト」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 102404, "unit_speech_group_id": 1053, "open_type": 1}
+{"id": 2201000, "chapter_id": 2201, "mode": 0, "title": "復刻「LOST&FOUND 2024　〜 旋律は境界(ボーダー)を越えて」短縮版", "sub_title": "", "number": 1, "costume_id": 508701, "unit_speech_group_id": 1274, "open_type": 0}
+{"id": 2201001, "chapter_id": 2201, "mode": 1, "title": "復刻「LOST&FOUND 2024　〜 旋律は境界(ボーダー)を越えて」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 2500101, "unit_speech_group_id": 1275, "open_type": 1}
+{"id": 2202000, "chapter_id": 2202, "mode": 0, "title": "火行の試練", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2203000, "chapter_id": 2203, "mode": 0, "title": "LOST&FOUND 2025", "sub_title": "", "number": 1, "costume_id": 2100501, "unit_speech_group_id": 1538, "open_type": 0}
+{"id": 2203001, "chapter_id": 2203, "mode": 1, "title": "LOST&FOUND 2025 EX", "sub_title": "", "number": 1, "costume_id": 2800101, "unit_speech_group_id": 1539, "open_type": 1}
+{"id": 2204000, "chapter_id": 2204, "mode": 0, "title": "十六夜咲夜体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2205000, "chapter_id": 2205, "mode": 0, "title": "魂魄妖夢体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2206000, "chapter_id": 2206, "mode": 0, "title": "ミスティア・ローレライ体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2207000, "chapter_id": 2207, "mode": 0, "title": "ビーチブートキャンプ 1日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2208000, "chapter_id": 2208, "mode": 0, "title": "ビーチブートキャンプ 2日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2209000, "chapter_id": 2209, "mode": 0, "title": "ビーチブートキャンプ 3日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2210000, "chapter_id": 2210, "mode": 0, "title": "ビーチブートキャンプ 4日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2211000, "chapter_id": 2211, "mode": 0, "title": "ビーチブートキャンプ 5日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2212000, "chapter_id": 2212, "mode": 0, "title": "ビーチブートキャンプ 6日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2213000, "chapter_id": 2213, "mode": 0, "title": "ビーチブートキャンプ 7日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2214000, "chapter_id": 2214, "mode": 0, "title": "ビーチブートキャンプ 8日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2215000, "chapter_id": 2215, "mode": 0, "title": "ビーチブートキャンプ 9日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2216000, "chapter_id": 2216, "mode": 0, "title": "ビーチブートキャンプ 10日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2217000, "chapter_id": 2217, "mode": 0, "title": "ビーチブートキャンプ 11日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2218000, "chapter_id": 2218, "mode": 0, "title": "ビーチブートキャンプ 12日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2219000, "chapter_id": 2219, "mode": 0, "title": "ビーチブートキャンプ 13日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2220000, "chapter_id": 2220, "mode": 0, "title": "ビーチブートキャンプ 14日目", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2222000, "chapter_id": 2222, "mode": 0, "title": "復刻「ドレミーランドに願いを込めて」短縮版", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 964, "open_type": 0}
+{"id": 2222001, "chapter_id": 2222, "mode": 1, "title": "復刻「ドレミーランドに願いを込めて」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 965, "open_type": 1}
+{"id": 2223000, "chapter_id": 2223, "mode": 0, "title": "水行の試練", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2224000, "chapter_id": 2224, "mode": 0, "title": "復刻「さらばドレミーランド」短縮版", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 1296, "open_type": 0}
+{"id": 2224001, "chapter_id": 2224, "mode": 1, "title": "復刻「さらばドレミーランド」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 108404, "unit_speech_group_id": 1297, "open_type": 1}
+{"id": 2225000, "chapter_id": 2225, "mode": 0, "title": "帰ってきたドレミーランド", "sub_title": "", "number": 1, "costume_id": 1000401, "unit_speech_group_id": 1560, "open_type": 0}
+{"id": 2225001, "chapter_id": 2225, "mode": 1, "title": "帰ってきたドレミーランド EX", "sub_title": "", "number": 1, "costume_id": 1503701, "unit_speech_group_id": 1561, "open_type": 1}
+{"id": 2226000, "chapter_id": 2226, "mode": 0, "title": "レミリア・スカーレット体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2227000, "chapter_id": 2227, "mode": 0, "title": "フランドール・スカーレット体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2228000, "chapter_id": 2228, "mode": 0, "title": "復刻「[三泊トラブル付き！？]旧地獄ぽっかぽっか温泉紀行」短縮版", "sub_title": "", "number": 1, "costume_id": 100308, "unit_speech_group_id": 914, "open_type": 0}
+{"id": 2228001, "chapter_id": 2228, "mode": 1, "title": "復刻「[三泊トラブル付き！？]旧地獄ぽっかぽっか温泉紀行」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 103801, "unit_speech_group_id": 915, "open_type": 1}
+{"id": 2229000, "chapter_id": 2229, "mode": 0, "title": "復刻「絶えぬ狼煙は湯花のかほり」短縮版", "sub_title": "", "number": 1, "costume_id": 305401, "unit_speech_group_id": 1318, "open_type": 0}
+{"id": 2229001, "chapter_id": 2229, "mode": 1, "title": "復刻「絶えぬ狼煙は湯花のかほり」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 110104, "unit_speech_group_id": 1319, "open_type": 1}
+{"id": 2230000, "chapter_id": 2230, "mode": 0, "title": "[旧地獄温泉宿]秘湯郷の謎を追え", "sub_title": "", "number": 1, "costume_id": 707302, "unit_speech_group_id": 1582, "open_type": 0}
+{"id": 2230001, "chapter_id": 2230, "mode": 1, "title": "[旧地獄温泉宿]秘湯郷の謎を追えEX", "sub_title": "", "number": 1, "costume_id": 110005, "unit_speech_group_id": 1583, "open_type": 1}
+{"id": 2231000, "chapter_id": 2231, "mode": 0, "title": "チルノ体験探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2232000, "chapter_id": 2232, "mode": 0, "title": "復刻「コードネーム：ピカラ　～ Five Tails」短縮版", "sub_title": "", "number": 1, "costume_id": 101401, "unit_speech_group_id": 1074, "open_type": 0}
+{"id": 2232001, "chapter_id": 2232, "mode": 1, "title": "復刻「コードネーム：ピカラ　～ Five Tails」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1075, "open_type": 1}
+{"id": 2233000, "chapter_id": 2233, "mode": 0, "title": "復刻「アームストロングを探せ！」短縮版", "sub_title": "", "number": 1, "costume_id": 202501, "unit_speech_group_id": 1340, "open_type": 0}
+{"id": 2233001, "chapter_id": 2233, "mode": 1, "title": "復刻「アームストロングを探せ！」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 105704, "unit_speech_group_id": 1341, "open_type": 1}
+{"id": 2234000, "chapter_id": 2234, "mode": 0, "title": "ヴィラン襲来", "sub_title": "", "number": 1, "costume_id": 509401, "unit_speech_group_id": 1604, "open_type": 0}
+{"id": 2234001, "chapter_id": 2234, "mode": 1, "title": "ヴィラン襲来 EX", "sub_title": "", "number": 1, "costume_id": 2000301, "unit_speech_group_id": 1605, "open_type": 1}
+{"id": 2235000, "chapter_id": 2235, "mode": 0, "title": "体験探索 古明地こいし（C8≪）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2236000, "chapter_id": 2236, "mode": 0, "title": "復刻「むぎめしＱ　ザ・ゴールデン」短縮版", "sub_title": "", "number": 1, "costume_id": 112101, "unit_speech_group_id": 1096, "open_type": 0}
+{"id": 2236001, "chapter_id": 2236, "mode": 1, "title": "復刻「むぎめしＱ　ザ・ゴールデン」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 112203, "unit_speech_group_id": 1097, "open_type": 1}
+{"id": 2237000, "chapter_id": 2237, "mode": 0, "title": "体験探索 秦こころ（C8≪）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2238000, "chapter_id": 2238, "mode": 0, "title": "復刻「第1回　新・月都万象展！」短縮版", "sub_title": "", "number": 1, "costume_id": 102506, "unit_speech_group_id": 1362, "open_type": 0}
+{"id": 2238001, "chapter_id": 2238, "mode": 1, "title": "復刻「第1回　新・月都万象展！」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 1103201, "unit_speech_group_id": 1363, "open_type": 1}
+{"id": 2239000, "chapter_id": 2239, "mode": 0, "title": "[みんなでつくる！]新・月都万象展", "sub_title": "", "number": 1, "costume_id": 1700401, "unit_speech_group_id": 1626, "open_type": 0}
+{"id": 2239001, "chapter_id": 2239, "mode": 1, "title": "[みんなでつくる！]新・月都万象展 EX", "sub_title": "", "number": 1, "costume_id": 1603701, "unit_speech_group_id": 1627, "open_type": 1}
+{"id": 2240000, "chapter_id": 2240, "mode": 0, "title": "体験探索 古明地さとり(L0o)", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2241000, "chapter_id": 2241, "mode": 0, "title": "復刻「[新釈化物噺]もふもふパフォーマー！」短縮版", "sub_title": "", "number": 1, "costume_id": 101301, "unit_speech_group_id": 1120, "open_type": 0}
+{"id": 2241001, "chapter_id": 2241, "mode": 1, "title": "復刻「[新釈化物噺]もふもふパフォーマー！」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 101304, "unit_speech_group_id": 1121, "open_type": 1}
+{"id": 2242000, "chapter_id": 2242, "mode": 0, "title": "雪の花と呪いのチャーム", "sub_title": "", "number": 1, "costume_id": 105604, "unit_speech_group_id": 1384, "open_type": 0}
+{"id": 2242001, "chapter_id": 2242, "mode": 1, "title": "雪の花と呪いのチャーム EX", "sub_title": "", "number": 1, "costume_id": 601201, "unit_speech_group_id": 1385, "open_type": 1}
+{"id": 2243000, "chapter_id": 2243, "mode": 0, "title": "高難度チャレンジ", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2244000, "chapter_id": 2244, "mode": 0, "title": "「雪の花と愛と罪」", "sub_title": "", "number": 1, "costume_id": 608401, "unit_speech_group_id": 1648, "open_type": 0}
+{"id": 2244001, "chapter_id": 2244, "mode": 1, "title": "「雪の花と愛と罪」 EX", "sub_title": "", "number": 1, "costume_id": 1601101, "unit_speech_group_id": 1649, "open_type": 1}
+{"id": 2245000, "chapter_id": 2245, "mode": 0, "title": "体験探索 蓬莱山輝夜（C5=）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2246000, "chapter_id": 2246, "mode": 0, "title": "復刻「[ゆく年くる年]弾幕ブレイカー」短縮版", "sub_title": "", "number": 1, "costume_id": 108504, "unit_speech_group_id": 1142, "open_type": 0}
+{"id": 2246001, "chapter_id": 2246, "mode": 1, "title": "復刻「[ゆく年くる年]弾幕ブレイカー」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 108705, "unit_speech_group_id": 1143, "open_type": 1}
+{"id": 2247000, "chapter_id": 2247, "mode": 0, "title": "復刻：水行の試練（属性EX）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2248000, "chapter_id": 2248, "mode": 0, "title": "復刻「年越しヴォヤージュ2024→2025」短縮版", "sub_title": "", "number": 1, "costume_id": 113001, "unit_speech_group_id": 1406, "open_type": 0}
+{"id": 2248001, "chapter_id": 2248, "mode": 1, "title": "復刻「年越しヴォヤージュ2024→2025」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 1104801, "unit_speech_group_id": 1407, "open_type": 1}
+{"id": 2249000, "chapter_id": 2249, "mode": 0, "title": "復刻：火行の試練（属性EX）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2250000, "chapter_id": 2250, "mode": 0, "title": "2025/2026 年末と年始の境界", "sub_title": "", "number": 1, "costume_id": 510201, "unit_speech_group_id": 1670, "open_type": 0}
+{"id": 2250001, "chapter_id": 2250, "mode": 1, "title": "2025/2026 年末と年始の境界 EX", "sub_title": "", "number": 1, "costume_id": 1905101, "unit_speech_group_id": 1671, "open_type": 1}
+{"id": 2251000, "chapter_id": 2251, "mode": 0, "title": "復刻：星精の試練（属性EX）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2252000, "chapter_id": 2252, "mode": 0, "title": "カオス・ルセット ～妖精の宵闇仕立て 怪腕を添えて～", "sub_title": "", "number": 1, "costume_id": 103104, "unit_speech_group_id": 1164, "open_type": 0}
+{"id": 2252001, "chapter_id": 2252, "mode": 1, "title": "カオス・ルセット ～妖精の宵闇仕立て 怪腕を添えて～ EX", "sub_title": "", "number": 1, "costume_id": 112502, "unit_speech_group_id": 1165, "open_type": 1}
+{"id": 2253000, "chapter_id": 2253, "mode": 0, "title": "体験探索 古明地さとり（Cs2#）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2254000, "chapter_id": 2254, "mode": 0, "title": "[新？紅魔館]あべこべメイド採用面接", "sub_title": "", "number": 1, "costume_id": 1400601, "unit_speech_group_id": 1428, "open_type": 0}
+{"id": 2254001, "chapter_id": 2254, "mode": 1, "title": "[新？紅魔館]あべこべメイド採用面接EX", "sub_title": "", "number": 1, "costume_id": 1600401, "unit_speech_group_id": 1429, "open_type": 1}
+{"id": 2255000, "chapter_id": 2255, "mode": 0, "title": "体験探索 鈴仙・優曇華院・イナバ（Cb3#）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2256000, "chapter_id": 2256, "mode": 0, "title": "紅茶館 えりゅしおんへようこそ！？", "sub_title": "", "number": 1, "costume_id": 1003901, "unit_speech_group_id": 1692, "open_type": 0}
+{"id": 2256001, "chapter_id": 2256, "mode": 1, "title": "紅茶館 えりゅしおんへようこそ！？EX", "sub_title": "", "number": 1, "costume_id": 212101, "unit_speech_group_id": 1693, "open_type": 1}
+{"id": 2257000, "chapter_id": 2257, "mode": 0, "title": "体験探索 下賤上等フォクシーメイド 菅牧典（C3~）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2258000, "chapter_id": 2258, "mode": 0, "title": "復刻「絶対霊度！こおり鬼カラミティマーチ」短縮版", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 1186, "open_type": 0}
+{"id": 2258001, "chapter_id": 2258, "mode": 1, "title": "復刻「絶対霊度！こおり鬼カラミティマーチ」短縮版", "sub_title": "", "number": 1, "costume_id": 110304, "unit_speech_group_id": 1187, "open_type": 1}
+{"id": 2259000, "chapter_id": 2259, "mode": 0, "title": "日精の試練", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2260000, "chapter_id": 2260, "mode": 0, "title": "体験探索 宮古芳香（C3~）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2261000, "chapter_id": 2261, "mode": 0, "title": "復刻「帰ってきたチアリング・サーガ」短縮版", "sub_title": "", "number": 1, "costume_id": 103701, "unit_speech_group_id": 1450, "open_type": 0}
+{"id": 2261001, "chapter_id": 2261, "mode": 1, "title": "復刻「帰ってきたチアリング・サーガ」短縮版", "sub_title": "", "number": 1, "costume_id": 609301, "unit_speech_group_id": 1451, "open_type": 1}
+{"id": 2262000, "chapter_id": 2262, "mode": 0, "title": "戦え！ 超弾幕生命体チアリングサーガ", "sub_title": "", "number": 1, "costume_id": 609501, "unit_speech_group_id": 1714, "open_type": 0}
+{"id": 2262001, "chapter_id": 2262, "mode": 1, "title": "戦え！ 超弾幕生命体チアリングサーガEX", "sub_title": "", "number": 1, "costume_id": 708401, "unit_speech_group_id": 1715, "open_type": 1}
+{"id": 2263000, "chapter_id": 2263, "mode": 0, "title": "体験探索 にとり（C3≧）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2264000, "chapter_id": 2264, "mode": 0, "title": "特別転生鏡探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2265000, "chapter_id": 2265, "mode": 0, "title": "復刻「渡し守と舟幽霊の水掛け論　ウサミミが先か？タマゴが先か？」短縮版", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2265001, "chapter_id": 2265, "mode": 1, "title": "復刻「渡し守と舟幽霊の水掛け論　ウサミミが先か？タマゴが先か？」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 1}
+{"id": 2266000, "chapter_id": 2266, "mode": 0, "title": "体験探索 鍵山雛（C3≧）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2267000, "chapter_id": 2267, "mode": 0, "title": "復刻「大共闘ライバルシスターズ」短縮版", "sub_title": "", "number": 1, "costume_id": 109105, "unit_speech_group_id": 1472, "open_type": 0}
+{"id": 2267001, "chapter_id": 2267, "mode": 1, "title": "復刻「大共闘ライバルシスターズ」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 1104001, "unit_speech_group_id": 1473, "open_type": 1}
+{"id": 2268000, "chapter_id": 2268, "mode": 0, "title": "大混戦リヴァイブシスターズ", "sub_title": "", "number": 1, "costume_id": 1303702, "unit_speech_group_id": 1736, "open_type": 0}
+{"id": 2268001, "chapter_id": 2268, "mode": 1, "title": "大混戦リヴァイブシスターズEX", "sub_title": "", "number": 1, "costume_id": 1204801, "unit_speech_group_id": 1737, "open_type": 1}
+{"id": 2269000, "chapter_id": 2269, "mode": 0, "title": "ぱらでめ！ ～ 新並行次元録", "sub_title": "", "number": 1, "costume_id": 200901, "unit_speech_group_id": 1230, "open_type": 0}
+{"id": 2269001, "chapter_id": 2269, "mode": 1, "title": "ぱらでめ！ ～ 新並行次元録 EX", "sub_title": "", "number": 1, "costume_id": 203701, "unit_speech_group_id": 1231, "open_type": 1}
+{"id": 2271000, "chapter_id": 2271, "mode": 0, "title": "にうでめ！ 〜 新学期夢幻録 New Dimension", "sub_title": "", "number": 1, "costume_id": 1200901, "unit_speech_group_id": 1758, "open_type": 0}
+{"id": 2271001, "chapter_id": 2271, "mode": 1, "title": "にうでめ！ 〜 新学期夢幻録 New DimensionEX", "sub_title": "", "number": 1, "costume_id": 500501, "unit_speech_group_id": 1759, "open_type": 1}
+{"id": 2272000, "chapter_id": 2272, "mode": 0, "title": "LOST&FOUND 2026", "sub_title": "", "number": 1, "costume_id": 1400901, "unit_speech_group_id": 1780, "open_type": 0}
+{"id": 2272001, "chapter_id": 2272, "mode": 1, "title": "LOST&FOUND 2026EX", "sub_title": "", "number": 1, "costume_id": 801001, "unit_speech_group_id": 1, "open_type": 1}
+{"id": 2273000, "chapter_id": 2273, "mode": 0, "title": "愛と友情のMチーム", "sub_title": "", "number": 1, "costume_id": 805101, "unit_speech_group_id": 1802, "open_type": 0}
+{"id": 2273001, "chapter_id": 2273, "mode": 1, "title": "愛と友情のMチーム EX", "sub_title": "", "number": 1, "costume_id": 807301, "unit_speech_group_id": 1803, "open_type": 1}
+{"id": 2274000, "chapter_id": 2274, "mode": 0, "title": "メモリアル探索", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2281000, "chapter_id": 2281, "mode": 0, "title": "復刻「くろでめ！ 〜 新交差次元録」短縮版", "sub_title": "", "number": 1, "costume_id": 805501, "unit_speech_group_id": 1494, "open_type": 0}
+{"id": 2281001, "chapter_id": 2281, "mode": 1, "title": "復刻「くろでめ！ 〜 新交差次元録」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 1100901, "unit_speech_group_id": 1495, "open_type": 1}
+{"id": 2282000, "chapter_id": 2282, "mode": 0, "title": "高難度チャレンジ", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2283000, "chapter_id": 2283, "mode": 0, "title": "体験探索 綿月豊姫（C3≫）綿月依姫（C3≫）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2284000, "chapter_id": 2284, "mode": 0, "title": "体験探索 古明地こいし（L0o）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2285000, "chapter_id": 2285, "mode": 0, "title": "復刻「シトラスは敗北の苦み」短縮版", "sub_title": "", "number": 1, "costume_id": 105105, "unit_speech_group_id": 1252, "open_type": 0}
+{"id": 2285001, "chapter_id": 2285, "mode": 1, "title": "復刻「シトラスは敗北の苦み」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 302401, "unit_speech_group_id": 1253, "open_type": 1}
+{"id": 2286000, "chapter_id": 2286, "mode": 0, "title": "復刻「(not)Re:inCarnation 〜君にバラッジの花束を〜」短縮版", "sub_title": "", "number": 1, "costume_id": 808501, "unit_speech_group_id": 1516, "open_type": 0}
+{"id": 2286001, "chapter_id": 2286, "mode": 1, "title": "復刻「(not)Re:inCarnation 〜君にバラッジの花束を〜」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 1005701, "unit_speech_group_id": 1517, "open_type": 1}
+{"id": 2287000, "chapter_id": 2287, "mode": 0, "title": "高難度チャレンジ：こいし", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2288000, "chapter_id": 2288, "mode": 0, "title": "体験探索 レミリア（L10.1）フランドール（L10.1）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2289000, "chapter_id": 2289, "mode": 0, "title": "復刻「LOST&FOUND2024　〜旋律は境界(ボーダー)を越えて」短縮版", "sub_title": "", "number": 1, "costume_id": 508701, "unit_speech_group_id": 1274, "open_type": 0}
+{"id": 2289001, "chapter_id": 2289, "mode": 1, "title": "復刻「LOST&FOUND2024　〜旋律は境界(ボーダー)を越えて」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 2500101, "unit_speech_group_id": 1275, "open_type": 1}
+{"id": 2290000, "chapter_id": 2290, "mode": 0, "title": "LOST&FOUND 2025", "sub_title": "", "number": 1, "costume_id": 2100501, "unit_speech_group_id": 1538, "open_type": 0}
+{"id": 2290001, "chapter_id": 2290, "mode": 1, "title": "LOST&FOUND 2025 EX", "sub_title": "", "number": 1, "costume_id": 2800101, "unit_speech_group_id": 1539, "open_type": 1}
+{"id": 2291000, "chapter_id": 2291, "mode": 0, "title": "体験探索 ルーミア（A6æ）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2292000, "chapter_id": 2292, "mode": 0, "title": "復刻「さらばドレミーランド」短縮版", "sub_title": "", "number": 1, "costume_id": 108003, "unit_speech_group_id": 1296, "open_type": 0}
+{"id": 2292001, "chapter_id": 2292, "mode": 1, "title": "復刻「さらばドレミーランド」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 108404, "unit_speech_group_id": 1297, "open_type": 1}
+{"id": 2293000, "chapter_id": 2293, "mode": 0, "title": "復刻「帰ってきたドレミーランド」短縮版", "sub_title": "", "number": 1, "costume_id": 1000401, "unit_speech_group_id": 1560, "open_type": 0}
+{"id": 2293001, "chapter_id": 2293, "mode": 1, "title": "復刻「帰ってきたドレミーランド」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 1503701, "unit_speech_group_id": 1561, "open_type": 1}
+{"id": 2294000, "chapter_id": 2294, "mode": 0, "title": "やりすぎドレミーランド", "sub_title": "", "number": 1, "costume_id": 1200101, "unit_speech_group_id": 1824, "open_type": 0}
+{"id": 2294001, "chapter_id": 2294, "mode": 1, "title": "やりすぎドレミーランド EX", "sub_title": "", "number": 1, "costume_id": 1703701, "unit_speech_group_id": 1825, "open_type": 1}
+{"id": 2295000, "chapter_id": 2295, "mode": 0, "title": "体験探索 博麗霊夢（Cf1）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2296000, "chapter_id": 2296, "mode": 0, "title": "夏のラジオ体操", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2297000, "chapter_id": 2297, "mode": 0, "title": "体験探索 東風谷早苗（Cf1）", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2298000, "chapter_id": 2298, "mode": 0, "title": "復刻「絶えぬ狼煙は湯花のかほり」短縮版", "sub_title": "", "number": 1, "costume_id": 305401, "unit_speech_group_id": 1318, "open_type": 0}
+{"id": 2298001, "chapter_id": 2298, "mode": 1, "title": "復刻「絶えぬ狼煙は湯花のかほり」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 110104, "unit_speech_group_id": 1319, "open_type": 1}
+{"id": 2299000, "chapter_id": 2299, "mode": 0, "title": "木行の試練", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 2300000, "chapter_id": 2300, "mode": 0, "title": "復刻「[旧地獄温泉宿]秘湯郷の謎を追え」短縮版", "sub_title": "", "number": 1, "costume_id": 707302, "unit_speech_group_id": 1582, "open_type": 0}
+{"id": 2300001, "chapter_id": 2300, "mode": 1, "title": "復刻「[旧地獄温泉宿]秘湯郷の謎を追え」短縮版 EX", "sub_title": "", "number": 1, "costume_id": 110005, "unit_speech_group_id": 1583, "open_type": 1}
+{"id": 3001001, "chapter_id": 3001, "mode": 0, "title": "1節　ひとりのお茶会？", "sub_title": "私は頻繁に夢を見る。本当に、夢なのかな。", "number": 1, "costume_id": 100101, "unit_speech_group_id": 161, "open_type": 0}
+{"id": 3001002, "chapter_id": 3001, "mode": 0, "title": "2節　安らぎの場所", "sub_title": "秘封倶楽部って、何だか羨ましい感じ。", "number": 2, "costume_id": 100101, "unit_speech_group_id": 162, "open_type": 1}
+{"id": 3001003, "chapter_id": 3001, "mode": 0, "title": "3節　貴方の好きな日常", "sub_title": "幻を視ると、少し疲れる気がする。", "number": 3, "costume_id": 100101, "unit_speech_group_id": 163, "open_type": 1}
+{"id": 3001004, "chapter_id": 3001, "mode": 0, "title": "4節　大切な戒め", "sub_title": "戦いには目的がある。目的無き戦いなんて。", "number": 4, "costume_id": 100101, "unit_speech_group_id": 164, "open_type": 1}
+{"id": 3001005, "chapter_id": 3001, "mode": 0, "title": "5節　失われた言葉", "sub_title": "ゲームは、道具を用いる占術の零落した姿。", "number": 5, "costume_id": 100101, "unit_speech_group_id": 165, "open_type": 1}
+{"id": 3001006, "chapter_id": 3001, "mode": 0, "title": "6節　キープ・ア・シークレット", "sub_title": "そして、誰もが忘れる。", "number": 6, "costume_id": 100101, "unit_speech_group_id": 166, "open_type": 1}
+{"id": 3001101, "chapter_id": 3001, "mode": 1, "title": "EX1　記号Bm3「怪獣都市　第1編」", "sub_title": "『怪獣』の跋扈する謎の都市にて。", "number": 1, "costume_id": 0, "unit_speech_group_id": 221, "open_type": 1}
+{"id": 3001102, "chapter_id": 3001, "mode": 1, "title": "EX1　記号Bm3「怪獣都市　完結編」", "sub_title": "崇拝される『蕃神』、その信仰の意図とは。", "number": 2, "costume_id": 0, "unit_speech_group_id": 283, "open_type": 1}
+{"id": 3002001, "chapter_id": 3002, "mode": 0, "title": "記号E9・第1節　桃の香る地", "sub_title": "桃源郷。願いある者には決して至れぬ仙境。", "number": 1, "costume_id": 0, "unit_speech_group_id": 259, "open_type": 1}
+{"id": 3002002, "chapter_id": 3002, "mode": 0, "title": "記号E9・第2節　紅か白か", "sub_title": "紅が血を表すならば、白は何を表すのか。", "number": 2, "costume_id": 0, "unit_speech_group_id": 260, "open_type": 1}
+{"id": 3002003, "chapter_id": 3002, "mode": 0, "title": "記号E9・第3節　不完全な桜花", "sub_title": "完全な生物は存在しない。進化しないので。", "number": 3, "costume_id": 0, "unit_speech_group_id": 261, "open_type": 1}
+{"id": 3002004, "chapter_id": 3002, "mode": 0, "title": "記号E9・第4節　架空租界", "sub_title": "場所としてはそこにあれど「法」は異なる。", "number": 4, "costume_id": 0, "unit_speech_group_id": 262, "open_type": 1}
+{"id": 3002005, "chapter_id": 3002, "mode": 0, "title": "記号E9・第5節　怪異と奇妙", "sub_title": "怪奇が怪奇であるに、そのまま受け入れよ。", "number": 5, "costume_id": 0, "unit_speech_group_id": 263, "open_type": 1}
+{"id": 3002006, "chapter_id": 3002, "mode": 0, "title": "記号E9・第6節　其は得体知れず", "sub_title": "理解の外にも真理は存在する。まず認めよ。", "number": 6, "costume_id": 0, "unit_speech_group_id": 264, "open_type": 1}
+{"id": 3002007, "chapter_id": 3002, "mode": 0, "title": "記号E9・第7節　夢想円形広場", "sub_title": "生きるためには、仕方がないことだった。", "number": 7, "costume_id": 0, "unit_speech_group_id": 265, "open_type": 1}
+{"id": 3002008, "chapter_id": 3002, "mode": 0, "title": "記号E9・第8節　森に降る雨は霖", "sub_title": "森に降り注ぐ雨は、地に着く頃に霧となる。", "number": 8, "costume_id": 0, "unit_speech_group_id": 266, "open_type": 1}
+{"id": 3002009, "chapter_id": 3002, "mode": 0, "title": "記号E9・第9節　恋の毒薬", "sub_title": "他人の精神を操るのは、そんなに楽しいか？", "number": 9, "costume_id": 0, "unit_speech_group_id": 267, "open_type": 1}
+{"id": 3002010, "chapter_id": 3002, "mode": 0, "title": "記号E9・第10節　再び肉を受ける日", "sub_title": "霊は肉に縛られる。概念は言葉に縛られる。", "number": 10, "costume_id": 0, "unit_speech_group_id": 268, "open_type": 1}
+{"id": 3002011, "chapter_id": 3002, "mode": 0, "title": "記号E9・第11節　知られざる招待者", "sub_title": "いつまでも　正体不明じゃ　いられない", "number": 11, "costume_id": 0, "unit_speech_group_id": 269, "open_type": 1}
+{"id": 3002012, "chapter_id": 3002, "mode": 0, "title": "記号E9・第12節　幻を想う", "sub_title": "幻想の扉は閉ざされる。すべては夢の物語。", "number": 12, "costume_id": 0, "unit_speech_group_id": 270, "open_type": 1}
+{"id": 3002013, "chapter_id": 3002, "mode": 0, "title": "記号E9・第13節　新世界", "sub_title": "自分を信用できるのは、起きている間だけ。", "number": 13, "costume_id": 0, "unit_speech_group_id": 271, "open_type": 1}
+{"id": 3003001, "chapter_id": 3003, "mode": 0, "title": "記号L?・第1節", "sub_title": "謎の地下列車。その行き着いた先は……？", "number": 1, "costume_id": 0, "unit_speech_group_id": 1104, "open_type": 0}
+{"id": 3003002, "chapter_id": 3003, "mode": 0, "title": "記号L?・第2節", "sub_title": "つい先程まで忘れていた、忘れがたい旧友。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1105, "open_type": 0}
+{"id": 3003003, "chapter_id": 3003, "mode": 0, "title": "記号L?・第3節", "sub_title": "最終区にて、結界消失事件の真相を追う。", "number": 3, "costume_id": 0, "unit_speech_group_id": 1107, "open_type": 0}
+{"id": 3004001, "chapter_id": 3004, "mode": 0, "title": "記号L?・第4節", "sub_title": "非の打ち所がない人格者、奇跡の天使様。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1131, "open_type": 0}
+{"id": 3004002, "chapter_id": 3004, "mode": 0, "title": "記号L?・第5節", "sub_title": "その奇跡は能力か、それとも。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1132, "open_type": 0}
+{"id": 3004101, "chapter_id": 3004, "mode": 1, "title": "EX1 記号LR?「東京散歩　蓮子編」", "sub_title": "トンネルを調べに行こう……ひとりで。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1285, "open_type": 1}
+{"id": 3004102, "chapter_id": 3004, "mode": 1, "title": "EX2 記号LM?「東京散歩　メリー編」", "sub_title": "トンネルを調べに行こう……ふたりで。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1306, "open_type": 1}
+{"id": 3004103, "chapter_id": 3004, "mode": 1, "title": "EX2 記号LM?「東京散歩　メリー編補」", "sub_title": "トンネルを調べ終わりました。", "number": 3, "costume_id": 0, "unit_speech_group_id": 1307, "open_type": 1}
+{"id": 3005001, "chapter_id": 3005, "mode": 0, "title": "記号L?v2・第1節", "sub_title": "心を読む能力の前に、一切の聖域は無い。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1638, "open_type": 0}
+{"id": 3006001, "chapter_id": 3006, "mode": 0, "title": "記号L?v2・第2節", "sub_title": "誰からも好かれる者は、誰からも嫌われる。", "number": 1, "costume_id": 0, "unit_speech_group_id": 1791, "open_type": 0}
+{"id": 3006002, "chapter_id": 3006, "mode": 0, "title": "記号L?v2・第3節", "sub_title": "誰からも嫌われる者は、誰からも好かれる。", "number": 2, "costume_id": 0, "unit_speech_group_id": 1792, "open_type": 0}
+{"id": 5001000, "chapter_id": 5001, "mode": 0, "title": "小悪魔チャレンジ", "sub_title": "", "number": 1, "costume_id": 100801, "unit_speech_group_id": 1, "open_type": 0}
+{"id": 5002000, "chapter_id": 5002, "mode": 0, "title": "八橋チャレンジ", "sub_title": "", "number": 1, "costume_id": 106801, "unit_speech_group_id": 1, "open_type": 0}
+{"id": 5003000, "chapter_id": 5003, "mode": 0, "title": "紅夢の魔女おためしバトル", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 6001000, "chapter_id": 6001, "mode": 0, "title": "絵札旅稿", "sub_title": "", "number": 1, "costume_id": 104402, "unit_speech_group_id": 284, "open_type": 0}
+{"id": 6002000, "chapter_id": 6002, "mode": 0, "title": "絵札旅稿2", "sub_title": "", "number": 1, "costume_id": 104501, "unit_speech_group_id": 1245, "open_type": 0}
+{"id": 6003000, "chapter_id": 6003, "mode": 0, "title": "絵札旅稿3", "sub_title": "", "number": 1, "costume_id": 104101, "unit_speech_group_id": 1505, "open_type": 0}
+{"id": 6004000, "chapter_id": 6004, "mode": 0, "title": "絵札旅稿4", "sub_title": "", "number": 1, "costume_id": 102601, "unit_speech_group_id": 1770, "open_type": 0}
+{"id": 6501000, "chapter_id": 6501, "mode": 0, "title": "TOKYO LASTWARD 1", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 1769, "open_type": 0}
+{"id": 7001000, "chapter_id": 7001, "mode": 0, "title": "八雲の野望", "sub_title": "", "number": 3, "costume_id": 101903, "unit_speech_group_id": 115, "open_type": 0}
+{"id": 7001001, "chapter_id": 7001, "mode": 1, "title": "八雲の野望EX", "sub_title": "", "number": 1, "costume_id": 107202, "unit_speech_group_id": 116, "open_type": 1}
+{"id": 7002000, "chapter_id": 7002, "mode": 0, "title": "超八雲の野望", "sub_title": "", "number": 4, "costume_id": 201001, "unit_speech_group_id": 126, "open_type": 0}
+{"id": 7003000, "chapter_id": 7003, "mode": 0, "title": "紅夢の魔女おためしバトル", "sub_title": "", "number": 5, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 7004000, "chapter_id": 7004, "mode": 0, "title": "半人半霊の一日メイド", "sub_title": "", "number": 1, "costume_id": 100501, "unit_speech_group_id": 31, "open_type": 0}
+{"id": 7005000, "chapter_id": 7005, "mode": 0, "title": "玉兎VS河童！大サバゲー祭り", "sub_title": "", "number": 1, "costume_id": 104001, "unit_speech_group_id": 36, "open_type": 0}
+{"id": 7006000, "chapter_id": 7006, "mode": 0, "title": "本居小鈴の事件簿", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
+{"id": 7007000, "chapter_id": 7007, "mode": 0, "title": "幻想郷妹コンテスト七番勝負！", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 0}
+{"id": 7007100, "chapter_id": 7007, "mode": 1, "title": "EX 幻想郷妹コンテスト七番勝負！", "sub_title": "", "number": 1, "costume_id": 102901, "unit_speech_group_id": 43, "open_type": 1}
+{"id": 7008000, "chapter_id": 7008, "mode": 0, "title": "幻想小料理屋 ねむの木", "sub_title": "", "number": 1, "costume_id": 102401, "unit_speech_group_id": 63, "open_type": 0}
+{"id": 7008001, "chapter_id": 7008, "mode": 1, "title": "幻想小料理屋 ねむの木 EX", "sub_title": "", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 1}
+{"id": 7009000, "chapter_id": 7009, "mode": 0, "title": "トリック・オア・バレット", "sub_title": "", "number": 1, "costume_id": 105401, "unit_speech_group_id": 72, "open_type": 0}
+{"id": 7009001, "chapter_id": 7009, "mode": 1, "title": "トリック・オア・バレット EX", "sub_title": "", "number": 1, "costume_id": 104801, "unit_speech_group_id": 64, "open_type": 1}
+{"id": 7010000, "chapter_id": 7010, "mode": 0, "title": "妖精たちの晴れ着でエクストリーム詣り", "sub_title": "", "number": 1, "costume_id": 104201, "unit_speech_group_id": 76, "open_type": 0}
+{"id": 7010001, "chapter_id": 7010, "mode": 1, "title": "妖精たちの晴れ着でエクストリーム詣り EX", "sub_title": "", "number": 1, "costume_id": 108001, "unit_speech_group_id": 77, "open_type": 1}
+{"id": 7011000, "chapter_id": 7011, "mode": 0, "title": "TOKYO LASTWARD 1", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 1769, "open_type": 0}
+{"id": 8002000, "chapter_id": 8002, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8003000, "chapter_id": 8003, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8004000, "chapter_id": 8004, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8005000, "chapter_id": 8005, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8006000, "chapter_id": 8006, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8008000, "chapter_id": 8008, "mode": 0, "title": "蒼海、白雲、初茜編", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8009000, "chapter_id": 8009, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8010000, "chapter_id": 8010, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8011000, "chapter_id": 8011, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8014000, "chapter_id": 8014, "mode": 0, "title": "永遠戦線 夢想と流星の再演編", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8015000, "chapter_id": 8015, "mode": 0, "title": "蒼海、白雲、初茜編", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8017000, "chapter_id": 8017, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "永遠戦線", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8018000, "chapter_id": 8018, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "永遠戦線", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8019000, "chapter_id": 8019, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "永遠戦線", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8021000, "chapter_id": 8021, "mode": 0, "title": "瑞花、春待、宿雪編", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8023000, "chapter_id": 8023, "mode": 0, "title": "永遠戦線ランキング 玄冬戦 予行演習", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8025000, "chapter_id": 8025, "mode": 0, "title": "永遠戦線ランキング 早春戦 予行演習", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8026000, "chapter_id": 8026, "mode": 0, "title": "夢想と流星の再演編", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8031000, "chapter_id": 8031, "mode": 0, "title": "涼月、野分、穂含編", "sub_title": "", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8032000, "chapter_id": 8032, "mode": 0, "title": "永遠戦線 早期開催", "sub_title": "永遠戦線", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8033000, "chapter_id": 8033, "mode": 0, "title": "瑞花、春待、宿雪編", "sub_title": "永遠戦線", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 8035000, "chapter_id": 8035, "mode": 0, "title": "蒼海、白雲、初茜編", "sub_title": "永遠戦線", "number": 1, "costume_id": 0, "unit_speech_group_id": 0, "open_type": 0}
+{"id": 9001001, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、ゆっくりと", "sub_title": "ゆっくりとゆっくりと、ゆっくりと", "number": 1, "costume_id": 5000201, "unit_speech_group_id": 1329, "open_type": 0}
+{"id": 9001002, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、霧と霧", "sub_title": "霧と霧", "number": 2, "costume_id": 5003001, "unit_speech_group_id": 1372, "open_type": 0}
+{"id": 9001003, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、マジカル☆チェンジリング☆パペットショウ", "sub_title": "マジカル☆チェンジリング☆パペットショウ", "number": 3, "costume_id": 5000401, "unit_speech_group_id": 1416, "open_type": 0}
+{"id": 9001004, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、あたたかい風", "sub_title": "あたたかい風", "number": 4, "costume_id": 5003201, "unit_speech_group_id": 1504, "open_type": 0}
+{"id": 9001005, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、叶えた願い叶わぬ願い", "sub_title": "叶えた願い叶わぬ願い", "number": 5, "costume_id": 5003701, "unit_speech_group_id": 1592, "open_type": 0}
+{"id": 9001006, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、こわいの", "sub_title": "こわいの", "number": 6, "costume_id": 5000301, "unit_speech_group_id": 1636, "open_type": 0}
+{"id": 9001007, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、冥土の土産を探してやろう", "sub_title": "冥土の土産を探してやろう", "number": 7, "costume_id": 5001101, "unit_speech_group_id": 1689, "open_type": 0}
+{"id": 9001008, "chapter_id": 9001, "mode": 0, "title": "ゆっくりとゆっくりと、災難な壺", "sub_title": "災難な壺", "number": 8, "costume_id": 5001001, "unit_speech_group_id": 1768, "open_type": 0}

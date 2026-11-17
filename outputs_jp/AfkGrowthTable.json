@@ -1,0 +1,60 @@
+{"id": 1000, "name": "初期", "content_type": 1, "release_condition": 0, "stage": 0, "reward_type": 1, "reward_value": 10800}
+{"id": 1001, "name": "序章 はじまりの幻想郷 第5節 終幕をクリア", "content_type": 1, "release_condition": 100100501, "stage": 1, "reward_type": 1, "reward_value": 13200}
+{"id": 1002, "name": "第1章 幻想孤島 第5節 そして誰も……？　第3話をクリア", "content_type": 1, "release_condition": 100200506, "stage": 2, "reward_type": 1, "reward_value": 15600}
+{"id": 1003, "name": "第2章 紅魔塔（前編） 第4節 メイド・イン・サービス　第5話をクリア", "content_type": 1, "release_condition": 100300413, "stage": 3, "reward_type": 1, "reward_value": 18000}
+{"id": 1004, "name": "第2章 紅魔塔（後編） 第7節 異世界巫女、帰還する 第2話をクリア", "content_type": 1, "release_condition": 100400302, "stage": 4, "reward_type": 1, "reward_value": 20400}
+{"id": 1005, "name": "第3章 白玉擂台（第1編）第3節 いざ死合う刻 第6話をクリア", "content_type": 1, "release_condition": 100500129, "stage": 5, "reward_type": 1, "reward_value": 22800}
+{"id": 1006, "name": "第3章 白玉擂台（第2編）第6節 妖怪は暗中に在り 5話をクリア", "content_type": 1, "release_condition": 100600305, "stage": 6, "reward_type": 1, "reward_value": 25200}
+{"id": 1007, "name": "第3章 白玉擂台（第3編）第11節 桜の木の下　第4話をクリア", "content_type": 1, "release_condition": 100700504, "stage": 7, "reward_type": 1, "reward_value": 27600}
+{"id": 1008, "name": "第3章 白玉擂台（完結編）最終節 散華をクリア", "content_type": 1, "release_condition": 100800801, "stage": 8, "reward_type": 1, "reward_value": 28800}
+{"id": 1009, "name": "第4章 永遠戦線（第1編）第2節 永夜前夜　第4話をクリア", "content_type": 1, "release_condition": 101100204, "stage": 9, "reward_type": 1, "reward_value": 30000}
+{"id": 1010, "name": "第4章 永遠戦線（第2編）第4節 早すぎた結末 第7話をクリア", "content_type": 1, "release_condition": 101200207, "stage": 10, "reward_type": 1, "reward_value": 31200}
+{"id": 1011, "name": "第4章 永遠戦線（第3編）第5節 コンティニュー 第8話をクリア", "content_type": 1, "release_condition": 101300108, "stage": 11, "reward_type": 1, "reward_value": 32400}
+{"id": 1012, "name": "第4章 永遠戦線（第4編）第7節 本当の怪獣 第3話をクリア", "content_type": 1, "release_condition": 101400203, "stage": 12, "reward_type": 1, "reward_value": 33600}
+{"id": 1013, "name": "第4章 永遠戦線（第5編）第9節 温泉郷へようこそ 第2話をクリア", "content_type": 1, "release_condition": 101500105, "stage": 13, "reward_type": 1, "reward_value": 34800}
+{"id": 1014, "name": "第4章 永遠戦線（第6編）第10節 両手一杯のイデオロギー 第4話をクリア", "content_type": 1, "release_condition": 101600104, "stage": 14, "reward_type": 1, "reward_value": 36000}
+{"id": 2000, "name": "初期", "content_type": 2, "release_condition": 0, "stage": 0, "reward_type": 2, "reward_value": 2592000}
+{"id": 2001, "name": "仲間を30種集める", "content_type": 2, "release_condition": 30, "stage": 1, "reward_type": 2, "reward_value": 2419200}
+{"id": 2002, "name": "仲間を60種集める", "content_type": 2, "release_condition": 60, "stage": 2, "reward_type": 2, "reward_value": 2246400}
+{"id": 2003, "name": "仲間を90種集める", "content_type": 2, "release_condition": 90, "stage": 3, "reward_type": 2, "reward_value": 2073600}
+{"id": 2004, "name": "仲間を120種集める", "content_type": 2, "release_condition": 120, "stage": 4, "reward_type": 2, "reward_value": 1900800}
+{"id": 2005, "name": "仲間を150種集める", "content_type": 2, "release_condition": 150, "stage": 5, "reward_type": 2, "reward_value": 1728000}
+{"id": 2006, "name": "仲間を180種集める", "content_type": 2, "release_condition": 180, "stage": 6, "reward_type": 2, "reward_value": 1555200}
+{"id": 2007, "name": "仲間を210種集める", "content_type": 2, "release_condition": 210, "stage": 7, "reward_type": 2, "reward_value": 1382400}
+{"id": 2008, "name": "仲間を240種集める", "content_type": 2, "release_condition": 240, "stage": 8, "reward_type": 2, "reward_value": 1296000}
+{"id": 2009, "name": "仲間を270種集める", "content_type": 2, "release_condition": 270, "stage": 9, "reward_type": 2, "reward_value": 1209600}
+{"id": 2010, "name": "仲間を300種集める", "content_type": 2, "release_condition": 300, "stage": 10, "reward_type": 2, "reward_value": 1123200}
+{"id": 3000, "name": "初期", "content_type": 3, "release_condition": 0, "stage": 0, "reward_type": 3, "reward_value": 7776000}
+{"id": 3001, "name": "絵札を50種集める", "content_type": 3, "release_condition": 50, "stage": 1, "reward_type": 3, "reward_value": 6912000}
+{"id": 3002, "name": "絵札を100種集める", "content_type": 3, "release_condition": 100, "stage": 2, "reward_type": 3, "reward_value": 6048000}
+{"id": 3003, "name": "絵札を150種集める", "content_type": 3, "release_condition": 150, "stage": 3, "reward_type": 3, "reward_value": 5184000}
+{"id": 3004, "name": "絵札を200種集める", "content_type": 3, "release_condition": 200, "stage": 4, "reward_type": 3, "reward_value": 4752000}
+{"id": 3005, "name": "絵札を250種集める", "content_type": 3, "release_condition": 250, "stage": 5, "reward_type": 3, "reward_value": 4320000}
+{"id": 3006, "name": "絵札を300種集める", "content_type": 3, "release_condition": 300, "stage": 6, "reward_type": 3, "reward_value": 3888000}
+{"id": 3007, "name": "絵札を350種集める", "content_type": 3, "release_condition": 350, "stage": 7, "reward_type": 3, "reward_value": 3456000}
+{"id": 3008, "name": "絵札を400種集める", "content_type": 3, "release_condition": 400, "stage": 8, "reward_type": 3, "reward_value": 3024000}
+{"id": 3009, "name": "絵札を450種集める", "content_type": 3, "release_condition": 450, "stage": 9, "reward_type": 3, "reward_value": 2592000}
+{"id": 4000, "name": "初期", "content_type": 4, "release_condition": 0, "stage": 0, "reward_type": 4, "reward_value": 54000}
+{"id": 4001, "name": "紅魔塔 50階踏破", "content_type": 4, "release_condition": 50, "stage": 1, "reward_type": 4, "reward_value": 52200}
+{"id": 4002, "name": "紅魔塔 100階踏破", "content_type": 4, "release_condition": 100, "stage": 2, "reward_type": 4, "reward_value": 50400}
+{"id": 4003, "name": "紅魔塔 150階踏破", "content_type": 4, "release_condition": 150, "stage": 3, "reward_type": 4, "reward_value": 48600}
+{"id": 4004, "name": "紅魔塔 200階踏破", "content_type": 4, "release_condition": 200, "stage": 4, "reward_type": 4, "reward_value": 46800}
+{"id": 4005, "name": "紅魔塔 250階踏破", "content_type": 4, "release_condition": 250, "stage": 5, "reward_type": 4, "reward_value": 45000}
+{"id": 4006, "name": "紅魔塔 300階踏破", "content_type": 4, "release_condition": 300, "stage": 6, "reward_type": 4, "reward_value": 43200}
+{"id": 4007, "name": "紅魔塔 350階踏破", "content_type": 4, "release_condition": 350, "stage": 7, "reward_type": 4, "reward_value": 41400}
+{"id": 4008, "name": "紅魔塔 400階踏破", "content_type": 4, "release_condition": 400, "stage": 8, "reward_type": 4, "reward_value": 39600}
+{"id": 4009, "name": "紅魔塔 450階踏破", "content_type": 4, "release_condition": 450, "stage": 9, "reward_type": 4, "reward_value": 37800}
+{"id": 4010, "name": "紅魔塔 500階踏破", "content_type": 4, "release_condition": 500, "stage": 10, "reward_type": 4, "reward_value": 36000}
+{"id": 5000, "name": "ユニット初期", "content_type": 5, "release_condition": 0, "stage": 0, "reward_type": 5, "reward_value": 2}
+{"id": 5001, "name": "絵札初期", "content_type": 5, "release_condition": 0, "stage": 0, "reward_type": 6, "reward_value": 2}
+{"id": 5002, "name": "プレイヤーLv.30", "content_type": 5, "release_condition": 30, "stage": 1, "reward_type": 5, "reward_value": 3}
+{"id": 5003, "name": "プレイヤーLv.60", "content_type": 5, "release_condition": 60, "stage": 2, "reward_type": 6, "reward_value": 3}
+{"id": 5004, "name": "プレイヤーLv.90", "content_type": 5, "release_condition": 90, "stage": 3, "reward_type": 5, "reward_value": 4}
+{"id": 5005, "name": "プレイヤーLv.120", "content_type": 5, "release_condition": 120, "stage": 4, "reward_type": 6, "reward_value": 4}
+{"id": 5006, "name": "プレイヤーLv.160", "content_type": 5, "release_condition": 160, "stage": 5, "reward_type": 5, "reward_value": 5}
+{"id": 5007, "name": "プレイヤーLv.200", "content_type": 5, "release_condition": 200, "stage": 6, "reward_type": 6, "reward_value": 5}
+{"id": 6000, "name": "初期", "content_type": 6, "release_condition": 0, "stage": 0, "reward_type": 7, "reward_value": 3000}
+{"id": 6001, "name": "記号B3・6節 キープ・ア・シークレットをクリア", "content_type": 6, "release_condition": 300100601, "stage": 1, "reward_type": 7, "reward_value": 2700}
+{"id": 6002, "name": "記号E9・第13節 新世界をクリア", "content_type": 6, "release_condition": 300201301, "stage": 2, "reward_type": 7, "reward_value": 2400}
+{"id": 6003, "name": "記号L?・第3節　ティーブレイクをクリア", "content_type": 6, "release_condition": 300300304, "stage": 3, "reward_type": 7, "reward_value": 2100}
+{"id": 6004, "name": "記号L?・第5節　ペーパー・イジェクションをクリア", "content_type": 6, "release_condition": 300300505, "stage": 4, "reward_type": 7, "reward_value": 1800}

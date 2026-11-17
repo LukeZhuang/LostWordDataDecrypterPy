@@ -1,0 +1,6 @@
+id,type,appear_limit,open_dispatch_group_id,open_complete_count,open_start_hour,open_end_hour,close_complete_count,display_order,description
+1,0,0,0,0,0,0,10,100,毎日優先(10回まで達成可能)
+2,0,0,1,10,0,0,0,100,毎日(毎日優先を10回達成後)
+3,0,1,0,0,0,0,0,10,毎日長時間
+4,1,3,0,0,0,0,0,10,緊急
+5,1,3,0,0,-2,3,0,10,緊急夜間

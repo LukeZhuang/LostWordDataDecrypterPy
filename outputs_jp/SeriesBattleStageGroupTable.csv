@@ -1,0 +1,33 @@
+id,normal_stage_master_id,hard_stage_master_id,lunatic_stage_master_id,background_departure,comic_filepath_1,comic_filepath_2,comic_filepath_3,comic_filepath_4,comic_filepath_5,title,sub_title,display_order,open_type,open_param
+80021,80021,80022,80023,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,0,0,0,0,0,0,0
+80031,80031,80032,80033,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80041,80041,80042,80043,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80051,80051,80052,80053,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80061,80061,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80062,80062,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0
+80071,80071,80072,80073,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,白秋戦,二〇二四,1,0,(empty)
+80081,80081,80082,80083,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80091,80091,80092,80093,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80101,80101,80102,80103,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80111,80111,80112,80113,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,0,0,0,0
+80121,80121,80122,80123,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave3.asset,玄冬戦,二〇二五,1,0,(empty)
+80131,80131,80132,80133,11740101,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave2.asset,青春戦,二〇二五,1,0,0
+80141,80141,80142,80143,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,(empty),(empty),0,0,0
+80151,80151,80152,80153,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,(empty),(empty),0,0,0
+80161,80161,80162,80163,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave3.asset,朱夏戦,二〇二五,1,0,0
+80171,80171,80172,80173,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
+80181,80181,80182,80183,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
+80191,80191,80192,80193,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
+80201,80201,80202,80203,11740101,Daily/Wave2.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,白秋戦,二〇二五,1,0,0
+80211,80211,80212,80213,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,1,0,0
+80221,80221,80222,80223,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave2.asset,玄冬戦,二〇二六,1,0,0
+80241,80241,80242,80243,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,Daily/Wave2.asset,早春戦,二〇二六,1,0,0
+80261,80261,80262,80263,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,1,0,0
+80301,80301,80302,80303,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave1.asset,青春戦,二〇二六,1,0,0
+80311,80311,80312,80313,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,1,0,0
+80321,80321,80322,80323,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 早期開催,永遠戦線,0,0,0
+80331,80331,80332,80333,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,0,0,0
+80351,80351,80352,80353,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,0,永遠戦線 リミテッド,永遠戦線,0,0,0
+99901,99901,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,0,0,0,2ステージ,テスト,2,0,0
+99902,99902,0,0,11740101,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,Daily/Wave1.asset,0,4ステージ,テスト,3,0,0
+99903,99903,0,0,11740101,Daily/Wave1.asset,Daily/Wave2.asset,Daily/Wave3.asset,Daily/Wave1.asset,Daily/Wave2.asset,5ステージ,テスト,4,0,0

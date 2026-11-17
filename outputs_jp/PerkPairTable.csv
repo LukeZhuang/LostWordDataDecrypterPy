@@ -1,0 +1,3 @@
+id,perk_id,from_unit_id,to_unit_id,has_hidden_boost
+7073001,7073,8073,7073,1
+8073001,8073,7073,8073,1

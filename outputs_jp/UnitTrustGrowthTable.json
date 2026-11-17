@@ -1,0 +1,5 @@
+{"id": 1, "trust_rank": 0, "trust_upper_limit": 4900, "growth_rate": 0.0, "description": "【信頼度：まあまあ】\n{0}との関係は、「互いの名を知っている」程度だ。"}
+{"id": 2, "trust_rank": 1, "trust_upper_limit": 6400, "growth_rate": 0.0, "description": "【信頼度：しりあい】\n{0}との関係は、「互いに仲間と呼びあえる」程度だ。"}
+{"id": 3, "trust_rank": 2, "trust_upper_limit": 7900, "growth_rate": 3.0332999229431152, "description": "【信頼度：ともだち】\n{0}との関係は、「何かとけっこう気が合う」程度だ。"}
+{"id": 4, "trust_rank": 3, "trust_upper_limit": 9900, "growth_rate": 6.066699981689453, "description": "【信頼度：なかよし】\n{0}との関係は、「完全に意気投合する」程度だ。"}
+{"id": 5, "trust_rank": 4, "trust_upper_limit": 10000, "growth_rate": 9.100000381469727, "description": "【信頼度：しんゆう】\n{0}との関係は、「周囲からも阿吽の呼吸といわれる」程度だ。"}

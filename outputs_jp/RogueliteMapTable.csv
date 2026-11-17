@@ -1,0 +1,5 @@
+id,title,bronze_drop_group_id,silver_drop_group_id,gold_drop_group_id,battle_background,area_background,bgm
+1,始発駅,10003,10002,10001,12500101,RogueLiteBG,1012
+2,駅間,10003,10002,10001,12370101,RogueLiteBG,1012
+3,駅内,10003,10002,10001,12370101,RogueLiteBG,1012
+4,荒野,10003,10002,10001,12050101,RogueLite_Area_bg_12050101,1012

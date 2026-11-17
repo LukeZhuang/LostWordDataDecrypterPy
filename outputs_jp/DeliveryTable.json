@@ -1,0 +1,2 @@
+{"id": 1001, "name": "にとりの宅配便", "valid_days": 30, "price_id": 70, "banner_image": "shop_delivery_01.png", "display_order": 1, "start_at": "2019-05-07 08:00:00", "end_at": "2022-10-05 13:59:59"}
+{"id": 1002, "name": "にとりの宅配便", "valid_days": 30, "price_id": 170, "banner_image": "shop_delivery_01.png", "display_order": 1, "start_at": "2022-10-05 14:10:00", "end_at": "2030-12-31 23:59:59"}

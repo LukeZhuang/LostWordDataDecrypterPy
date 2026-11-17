@@ -1,0 +1,151 @@
+id,characteristic_name,characteristic_description,characteristic_type,characteristic_effect_type,characteristic_effect_subtype,characteristic_rate,characteristic_effect_value,characteristic_icon_filename
+1001011,妖怪退治の専門家,攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを30%<color=#0066FF>ダウン</color> [発生率100%],3,14,5,100,30,characteristic_icon_56
+1002011,負けん気,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率40%],4,1,1,40,1,characteristic_icon_1
+1002012,根性,体力25%以下で攻撃された時、<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率35%],3,11,5,35,100,characteristic_icon_39
+1002013,魔道具クラフター,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率30%],2,5,0,30,10,characteristic_icon_31
+1002211,負けん気,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率60%],4,1,1,60,1,characteristic_icon_1
+1002213,魔道具クラフター,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率45%],2,5,0,45,10,characteristic_icon_31
+1003011,カリスマ,Wave開始時、相手単体の<color=#CCAA00>陰防</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率50%],1,2,4,50,1,characteristic_icon_16
+1003012,高貴な血,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%],4,1,3,70,1,characteristic_icon_3
+1003013,吸血鬼体質,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.75<color=#00CC66>上昇</color>  [発生率30%],2,5,0,30,15,characteristic_icon_31
+1004011,破壊衝動,Wave開始時、相手単体の<color=#CCAA00>CRI防御</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率70%],1,2,9,70,1,characteristic_icon_21
+1004012,悪魔の妹,攻撃された後、自身の<color=#CCAA00>CRI攻撃</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,8,50,1,characteristic_icon_8
+1004013,魔法少女体質,攻撃された後、自身の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率40%],4,1,10,40,1,characteristic_icon_10
+1005011,メイド学習術,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率55%],4,1,5,55,1,characteristic_icon_5
+1005012,仕事の下準備,Wave開始時、相手単体の<color=#CCAA00>命中</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率50%],1,2,6,50,1,characteristic_icon_18
+1005013,クイック休憩,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color>  [発生率50%],2,5,0,50,7,characteristic_icon_31
+1005211,メイド学習術,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率65%],4,1,5,65,1,characteristic_icon_5
+1005311,メイド学習術,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,5,75,1,characteristic_icon_5
+1006011,反応魔法[耐魔],攻撃された後、自身の<color=#CCAA00>陰防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,4,50,1,characteristic_icon_4
+1006012,反応魔法[抗魔],攻撃された時、<color=#CCAA00>魔法使い</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,3,100,35,characteristic_icon_56
+1006013,永続魔法[解呪],ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率60%],2,10,0,60,1,characteristic_icon_33
+1008011,大図書館の司書,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,5,75,1,characteristic_icon_5
+1008012,魔界の風,Wave開始時、相手単体に結界異常「<color=#CCAA00>暗闇</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率75%],1,6,5,75,1,characteristic_icon_29
+1008013,魔界の稲妻,Wave開始時、相手単体の<color=#CCAA00>陰防</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率75%],1,2,4,75,1,characteristic_icon_16
+1010011,亡霊体質,攻撃された時、<color=#CCAA00>肉弾</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,12,3,100,35,characteristic_icon_40
+1010012,冥界管理者,攻撃された時、<color=#CCAA00>霊的存在</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,8,100,35,characteristic_icon_56
+1010013,生死の境界,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,1,50,1,characteristic_icon_1
+1011011,剣士の直感,攻撃された時、<color=#CCAA00>斬撃</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%],3,12,4,100,25,characteristic_icon_40
+1011012,白楼剣の気,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率40%],4,1,1,40,1,characteristic_icon_1
+1011013,楼観剣の気,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率40%],4,1,3,40,1,characteristic_icon_3
+1011211,剣士の直感,攻撃された時、<color=#CCAA00>斬撃</color>から受けるダメージを30%<color=#0066FF>ダウン</color> [発生率100%],3,12,4,100,30,characteristic_icon_40
+1012011,暖気ガード,攻撃された時、<color=#CCAA00>冷気</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,83,100,35,characteristic_icon_56
+1012012,解放ムード,ターン開始時、自身の<color=#CCAA00>結界異常</color>を1枚<color=#00CC66>回復</color>  [発生率80%],2,9,0,80,1,characteristic_icon_34
+1012013,あふれる生命,ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率40%],2,3,0,40,15,characteristic_icon_30
+1013011,九字護身法,攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを30%<color=#0066FF>ダウン</color> [発生率100%],3,14,5,100,30,characteristic_icon_56
+1013012,賢者の式,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,1,75,1,characteristic_icon_1
+1013013,妖狐の直感,攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,6,50,1,characteristic_icon_6
+1014011,化猫エンジン,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,5,80,1,characteristic_icon_5
+1014012,高速砂かけ,Wave開始時、相手単体の<color=#CCAA00>速力</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率80%],1,2,5,80,1,characteristic_icon_17
+1014013,[P]アイテム拾い,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.75<color=#00CC66>上昇</color>  [発生率30%],2,5,0,30,15,characteristic_icon_31
+1015011,感応妨害,Wave開始時、相手単体の<color=#CCAA00>回避</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率50%],1,2,7,50,1,characteristic_icon_19
+1015012,認識迷彩,攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率80%],4,2,12,80,1,characteristic_icon_24
+1015013,知覚妨害,Wave開始時、相手単体の<color=#CCAA00>命中</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率50%],1,2,6,50,1,characteristic_icon_18
+1016011,事象の確定,攻撃された後、自身の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,10,50,1,characteristic_icon_10
+1016012,量子解析,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%],4,1,3,70,1,characteristic_icon_3
+1016013,不確定な玉手箱,攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%],4,1,6,70,1,characteristic_icon_6
+1017011,月の使者の流儀,攻撃された時、<color=#CCAA00>人間</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率100%],3,14,1,100,40,characteristic_icon_56
+1017012,天照の加護,攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率100%],3,14,5,100,40,characteristic_icon_56
+1017013,神霊憑依,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率70%],2,5,0,70,10,characteristic_icon_31
+1018011,万能薬師,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率60%],2,10,0,60,1,characteristic_icon_33
+1018012,知者の学習,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,3,80,1,characteristic_icon_3
+1018013,不完全な満月,ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率50%],2,4,0,50,1,characteristic_icon_32
+1018211,万能薬師,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率70%],2,10,0,70,1,characteristic_icon_33
+1018311,万能薬師,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率80%],2,10,0,80,1,characteristic_icon_33
+1018411,万能薬師,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率90%],2,10,0,90,1,characteristic_icon_33
+1018511,万能薬師,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率100%],2,10,0,100,1,characteristic_icon_33
+1019011,月の常備薬,ターン開始時、自身の<color=#CCAA00>体力</color>を30%<color=#00CC66>回復</color> [発生率30%],2,3,0,30,30,characteristic_icon_30
+1019012,直観の回廊,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.25<color=#00CC66>上昇</color>  [発生率70%],2,5,0,70,5,characteristic_icon_31
+1019013,論理の回廊,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率90%],4,1,1,90,1,characteristic_icon_1
+1020011,リベンジャー,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,1,75,1,characteristic_icon_1
+1020012,不意の延焼,Wave開始時、相手単体に結界異常「<color=#CCAA00>燃焼</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率75%],1,6,1,75,1,characteristic_icon_25
+1020013,不死鳥体質,ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率40%],2,3,0,40,15,characteristic_icon_30
+1020213,不死鳥体質,ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率60%],2,3,0,60,15,characteristic_icon_30
+1020313,不死鳥体質,ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率80%],2,3,0,80,15,characteristic_icon_30
+1020413,不死鳥体質,ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率100%],2,3,0,100,15,characteristic_icon_30
+1021011,危険察知,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,5,75,1,characteristic_icon_5
+1021012,2式発煙筒,Wave開始時、相手単体に結界異常「<color=#CCAA00>暗闇</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率50%],1,6,5,50,1,characteristic_icon_29
+1021013,4式撹乱幕,Wave開始時、相手単体の<color=#CCAA00>CRI攻撃</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率75%],1,2,8,75,1,characteristic_icon_20
+1023011,月の防衛術,攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%],3,14,5,100,25,characteristic_icon_56
+1023012,訓練の成果,攻撃された時、<color=#CCAA00>通常弾</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%],3,12,1,100,25,characteristic_icon_40
+1025012,存思法,攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,6,80,1,characteristic_icon_6
+1025013,茨華仙の威圧,Wave開始時、相手単体の<color=#CCAA00>回避</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率80%],1,2,7,80,1,characteristic_icon_19
+1030011,ラピッドフリーズ,Wave開始時、相手単体に結界異常「<color=#CCAA00>凍結</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率50%],1,6,2,50,1,characteristic_icon_26
+1030012,フラッシュフロスト,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,3,50,1,characteristic_icon_3
+1030013,冷たい熱血,攻撃された後、自身の<color=#CCAA00>CRI攻撃</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,8,50,1,characteristic_icon_8
+1031011,イタズラマスター,攻撃された時、<color=#CCAA00>人間</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,1,100,35,characteristic_icon_56
+1031012,軽快な身こなし,攻撃された時、<color=#CCAA00>尖弾</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,12,10,100,35,characteristic_icon_40
+1031013,花隠れ,攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],4,2,12,100,1,characteristic_icon_24
+1032011,デコイドール,攻撃された時、<color=#CCAA00>妖精</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,7,100,35,characteristic_icon_56
+1032012,妨害人形,攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],4,2,12,100,1,characteristic_icon_24
+1033011,レーザーの屈折,攻撃された時、<color=#CCAA00>レーザー弾</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率100%],3,12,2,100,40,characteristic_icon_40
+1033012,光弾の屈折,攻撃された時、<color=#CCAA00>光弾</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率100%],3,12,9,100,40,characteristic_icon_40
+1033013,とんずらマスター,Wave開始時、相手単体の<color=#CCAA00>命中</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],1,2,6,100,1,characteristic_icon_18
+1036011,ラピッドベノム,Wave開始時、相手単体に結界異常「<color=#CCAA00>毒霧</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率100%],1,6,4,100,1,characteristic_icon_28
+1036012,霊魂耐性,攻撃された時、<color=#CCAA00>霊的存在</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率35%],3,14,8,35,100,characteristic_icon_56
+1036013,制御毒の強化,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率60%],4,1,3,60,1,characteristic_icon_3
+1037011,禊ぎマスター,ターン開始時、自身の<color=#CCAA00>結界異常</color>を1枚<color=#00CC66>回復</color>  [発生率70%],2,9,0,70,1,characteristic_icon_34
+1037012,お祓いマスター,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率50%],2,10,0,50,1,characteristic_icon_33
+1037013,二柱の加護,ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率30%],2,4,0,30,1,characteristic_icon_32
+1038012,蛙狩神事,ターン開始時、自身の<color=#CCAA00>体力</color>を20%<color=#00CC66>回復</color> [発生率50%],2,3,0,50,20,characteristic_icon_30
+1038013,力比べの神話,体力25%以下で攻撃された時、<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率30%],3,11,5,30,100,characteristic_icon_39
+1042011,とんずらマスター,攻撃された時、<color=#CCAA00>人間</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,1,100,35,characteristic_icon_56
+1042012,プリテンダー,攻撃された後、自身の<color=#CCAA00>陰防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%],4,1,4,70,1,characteristic_icon_4
+1042013,高草郡の主,ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率70%],2,3,0,70,15,characteristic_icon_30
+1044011,天狗太鼓,攻撃された時、<color=#CCAA00>ミサイル弾</color>から受けるダメージを45%<color=#0066FF>ダウン</color> [発生率100%],3,12,11,100,45,characteristic_icon_40
+1044012,天狗の揺さぶり,Wave開始時、相手単体の<color=#CCAA00>命中</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],1,2,6,100,1,characteristic_icon_18
+1044013,天狗火,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,1,50,1,characteristic_icon_1
+1046011,ウルフアイ,Wave開始時、相手単体の<color=#CCAA00>陰攻</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率80%],1,2,3,80,1,characteristic_icon_15
+1046012,ハウリング,攻撃された後、自身の<color=#CCAA00>陰防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,4,80,1,characteristic_icon_4
+1046013,全方位哨戒態勢,ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率50%],2,4,0,50,1,characteristic_icon_32
+1047011,御札返し,攻撃された時、<color=#CCAA00>御札弾</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率35%],3,12,8,35,100,characteristic_icon_40
+1047012,山の霊気,ターン開始時、自身の<color=#CCAA00>結界異常</color>を1枚<color=#00CC66>回復</color>  [発生率75%],2,9,0,75,1,characteristic_icon_34
+1047013,飽くなき追跡者,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率85%],4,1,3,85,1,characteristic_icon_3
+1050011,覚り,攻撃された後、自身の<color=#CCAA00>回避</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,7,75,1,characteristic_icon_7
+1050012,感情看破,攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率40%],3,11,3,40,100,characteristic_icon_37
+1050013,思考看破,攻撃された時、陽性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率40%],3,11,2,40,100,characteristic_icon_36
+1051011,条件反射,攻撃された後、自身の<color=#CCAA00>CRI攻撃</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%],4,1,8,70,1,characteristic_icon_8
+1051012,心頭滅却,攻撃された時、<color=#CCAA00>日属性</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%],3,13,1,100,25,characteristic_icon_48
+1051013,テンション上げ,ターン開始時、自身の<color=#CCAA00>霊力</color>を1.00<color=#00CC66>上昇</color>  [発生率25%],2,5,0,25,20,characteristic_icon_31
+1054011,サボりマスター,攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],4,2,12,100,1,characteristic_icon_24
+1054012,三途の渡し,攻撃された時、<color=#CCAA00>霊的存在</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,8,100,35,characteristic_icon_56
+1054013,重い腰,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%],4,1,3,100,1,characteristic_icon_3
+1055011,断罪マスター,攻撃された後、自身の<color=#CCAA00>陰防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,4,80,1,characteristic_icon_4
+1055012,無罪証明マスター,攻撃された後、自身の<color=#CCAA00>陽防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,2,80,1,characteristic_icon_2
+1055013,楽園の閻魔,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率80%],2,5,0,80,10,characteristic_icon_31
+1056011,異界の女神,攻撃された時、<color=#CCAA00>幻想郷に住む者</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,52,100,35,characteristic_icon_56
+1056012,地球の女神,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.25<color=#00CC66>上昇</color>  [発生率90%],2,5,0,90,5,characteristic_icon_31
+1056013,月の女神,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率80%],4,1,3,80,1,characteristic_icon_3
+1057011,還元,攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率35%],3,11,3,35,100,characteristic_icon_37
+1057012,真空崩壊,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率50%],2,5,0,50,10,characteristic_icon_31
+1057013,狂気ブースター,攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%],4,1,1,100,1,characteristic_icon_1
+1057211,還元,攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%],3,11,3,50,100,characteristic_icon_37
+1057212,真空崩壊,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.75<color=#00CC66>上昇</color>  [発生率50%],2,5,0,50,15,characteristic_icon_31
+1058011,地獄の生命力,攻撃された時、<color=#CCAA00>月の民</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,14,13,100,35,characteristic_icon_56
+1058012,負けず嫌い,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,3,75,1,characteristic_icon_3
+1058013,リトル・ハーレクイン,Wave開始時、相手単体の<color=#CCAA00>CRI回避</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],1,2,11,100,1,characteristic_icon_23
+1059011,トチノキの幹,攻撃された時、<color=#CCAA00>尖弾</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%],3,12,10,100,35,characteristic_icon_40
+1059012,ツタウルシの樹液,Wave開始時、相手単体に結界異常「<color=#CCAA00>毒霧</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率50%],1,6,4,50,1,characteristic_icon_28
+1059013,イロハモミジの葉,攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%],4,1,6,50,1,characteristic_icon_6
+1059212,ツタウルシの樹液,Wave開始時、相手単体に結界異常「<color=#CCAA00>毒霧</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率100%],1,6,4,100,1,characteristic_icon_28
+1061011,カラミティコレクター,Wave開始時、相手単体の<color=#CCAA00>命中</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],1,2,6,100,1,characteristic_icon_18
+1061012,あふれ出る厄,Wave開始時、相手単体の<color=#CCAA00>回避</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%],1,2,7,100,1,characteristic_icon_19
+1061013,サクリファイス,攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%],3,11,3,50,100,characteristic_icon_37
+1067011,目指せ最強の付喪神,攻撃された時、<color=#CCAA00>付喪神</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,14,23,100,50,characteristic_icon_56
+1067012,八多羅滅多羅,Wave開始時、相手単体の<color=#CCAA00>速力</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率80%],1,2,5,80,1,characteristic_icon_17
+1067013,逢坂の関,ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color>  [発生率100%],2,10,0,100,1,characteristic_icon_33
+1068011,付喪の楽,攻撃された時、<color=#CCAA00>付喪神</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,14,23,100,50,characteristic_icon_56
+1068012,わっほーい！,攻撃された時、<color=#CCAA00>主(あるじ)</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,14,57,100,50,characteristic_icon_56
+1068013,天真爛漫,ターン開始時、自身の<color=#CCAA00>結界異常</color>を1枚<color=#00CC66>回復</color>  [発生率100%],2,9,0,100,1,characteristic_icon_34
+1087011,マイバタラキ,攻撃された後、自身の<color=#CCAA00>回避</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,7,75,1,characteristic_icon_7
+1087012,イノリ,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.25<color=#00CC66>上昇</color>  [発生率75%],2,5,0,75,5,characteristic_icon_31
+1087013,ウチアイバタラキ,攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%],4,1,3,75,1,characteristic_icon_3
+2002011,凶星の禍,攻撃された時、<color=#CCAA00>異変解決に縁がある者</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,14,54,100,50,characteristic_icon_56
+2002012,宿星の加護,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.30<color=#00CC66>上昇</color>  [発生率100%],2,5,0,100,6,characteristic_icon_31
+2002013,星詠み,攻撃された後、自身の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%],4,1,10,100,1,characteristic_icon_10
+2010011,花怪,攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,14,5,100,50,characteristic_icon_56
+2010012,霊魂ブースター,攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%],4,1,5,100,1,characteristic_icon_5
+2010013,霊魂コレクター,ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color>  [発生率100%],2,5,0,100,7,characteristic_icon_31
+2011011,用心棒,攻撃された時、<color=#CCAA00>斬撃</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,12,4,100,50,characteristic_icon_40
+2011012,冥界の流浪人,攻撃された時、<color=#CCAA00>霊的存在</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%],3,14,8,100,50,characteristic_icon_56
+2011013,気迫,体力25%以下で攻撃された時、<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%],3,11,5,50,100,characteristic_icon_39
